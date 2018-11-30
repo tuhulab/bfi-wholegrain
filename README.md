@@ -1,6 +1,7 @@
 ## bfi-wholegrain
-Repository for Matlab codes of my master thesis - investigation of whole grain cereal intake biomarkers.
-Most of the codes and algorisms were produced by my supervisor GÃ¶zde GÃ¼rdeniz. I modified them and adapt to my master thesis.
+Repository for Matlab codes of my master thesis - investigation of biomarkers for whole grain cereal intake.
+
+Most of the codes and algorisms were produced by my supervisor Gözde Gürdeniz during her PhD and postdoc work in University of Copenhagen. I modified them and adapt to my master thesis.
 
 #Installing
-These codes were based on Matlab and a Matlab package (plstoolbox).
+These codes were based on Matlab and a Matlab package (pls toolbox). Pls toolbox is a commercial software developed based on Matlab. 
