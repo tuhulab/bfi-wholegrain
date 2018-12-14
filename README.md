@@ -1,12 +1,13 @@
-## bfi-wholegrain
-Repository for my master thesis - investigation of biomarkers for whole grain cereal intake.
+# bfi-wholegrain
+Repository for Tu's project and thesis of master study - 'Investigation of Biomarkers for Whole Grain Cereal Intake'.
 
-Most of the codes and algorisms were produced by my supervisor Gözde Gürdeniz during her PhD and postdoc work in University of Copenhagen. I modified them and adapt to my master thesis.
+Most of the codes and algorisms were produced by the supervisor Gözde Gürdeniz during her PhD and postdoc work in University of Copenhagen. Tu modified them and adapt to his master thesis.
 
-#Matlab
+## Matlab
 These codes were based on Matlab and a Matlab package (pls toolbox). Pls toolbox is a commercial software developed based on Matlab.
+###
 
-#presentation
-Presentation folder stores the presentation that was used in defence and presentation.
+## presentation
+Presentation folder stores the presentation (pdf+tex) that was used in defence.
 
-#report
+## report
