@@ -1,0 +1,140 @@
+\subsection{22nd, Jun, 2018}
+
+\begin{enumerate}
+    \item Meeting with Gözde (10:30 am, Gözde office)
+    \item Re-run data pre-process by MZmine (11 am - 3 pm, Tu office)
+        \begin{itemize}
+            \item All parameters were documented on Tu's notebook.
+            \item Pre-processed data was output as CSV format ('barleyPOS.csv' and 'barleyNEG.csv')
+        \end{itemize}
+    \item MZmine data pre-process considerations:
+        \begin{itemize}
+            \item RAW format data should be converted to CDF format. Although MZmine can recognize RAW format, unpredictable errors occured when data was not converted.
+            \item Positive mode and negative mode data should be processed separately. It also applies to chemometrics analysis. Because in different modes, there are different adducts, isotopic types and so on.
+            \item Internal standard, metabolite standard should not be included in data preprocess. This rule also applies to chemometrics analysis.
+        \end{itemize}
+    \item Convert data into Matlab - 1 (4 pm, Tu office)
+        \begin{itemize}
+            \item \textbf{Convert CSV file to XLSX file:} Create a new XLSX file. Click Data tab. From text/csv. Choose 'barleyPOS.csv'. Delete last empty column.
+            \item Run 'ArrangeDataPos.m' - 'Section 1-Read pre-processed data'
+
+\begin{lstlisting}
+%% Section 1-Read pre-processed data
+filename = 'barleyPOS.xlsx'; % processed data file
+SampleList = 'newsamplelist.xlsx'; % sample list label of the cdf files
+mode = 'pos'; %data mode
+dataform = '01.cdf'; %data format 
+peakInt = 'peak height'; %intensity of the of the peaks
+no_split_for_codes = 2; %split
+splitter = '_';
+code_names = {'Subject','Time'}; %Labels       
+\end{lstlisting}
+
+        \item 'Arrange\textunderscore Data \textunderscore MZmine2.m' had problems
+
+Difficult to understand:
+
+mzrt(:,1) = n(:,mz); 
+
+mzrt(:,2) = n(:,rt);
+
+25th, Jun, Monday
+\begin{enumerate}
+    \item Convert pre-processed data into Matlab - 2 (7 am, Tu office)
+    \begin{itemize}
+        \item 
+    \end{itemize}
+    
+    
+    
+\end{enumerate}
+        
+        
+        
+        \end{itemize}
+\end{enumerate}
+
+\subsection{1st, Aug, 2018}
+
+Script review and revise
+
+Because some odd data was observed in the previous analysis. The script was reviewed again to make sure all data (intensity) is correct and corresponded to the correct file name, m/z and retention time.
+
+Script file name: ArrangeDataPOSNEW.m
+
+\%\%Section 1-Define parameters of pre-processed data
+
+Positive mode and negative mode data was pre-processed separately by MZmine and stored in Microsoft Excel files ('barleyPOS.xlsx' and 'barleyNEG.xlsx'). 'barleyPOS.xlsx' consists of 2147 rows and 64 columns, while 'barleyNEG.xlsx' consists of 4116 rows and 64 columns.
+
+Both excel sheets have the same structure. First 3 columns consist basic information of features. The 1st column is row ID. The 2nd colum is m/z value and 3rd column is retention time. Then, the rest 61 columns are peak height of different samples in corresponded m/z and retention time. (a picture)
+The 61 samples consists of 4*14 (14 subjects' samples collected at 4 separate timepoint) plus 5 pooled samples.
+
+Script section 1 consists 8 user-defined parameters that are used to identify the data file: filename, SampleList, mode, dataform, peakInt, splitter, code\_name, blank.
+
+'filename' is the name of excel sheet data file, e.g. 'barleyPOS.xlsx'. 'SampleList' is the name of sample list that is copied from MassLynx. 'mode' defines the analysis was carried out in postive mode or negative mode. 'mode' can only be either 'pos' or 'neg'. dataform defines the suffix of the sample name. If it was imported from MZmine, it should be '01.cdf' in default. But it could vary.  'splitter' defines which splitter was used in the sample name. In default, 'splitter' should be '\_' if data was imported from MZmine. (NOT COMPLETE, because i can't describe splitter, code\_names and blank.)
+
+\%\%Section 2-Create the dataset from pre-processed data
+
+The function 'Arrange\_Data\_MZmine2' was applied in this section to convert xlsx data into MatLab as a dataset.
+
+First, the data excel sheet was loaded. Then, (m/z,RT), data and file name were separated stored by three variables. In the final dataset, each row represents one sample. Internsities were stored in different columns. m/z and RT were stored as column axisscale. 
+
+\subsection{4th, Sep, 2018}
+
+\begin{itemize}
+    \item Function 'Arrange\_Data\_MZmine' had weird errors (each data was wrongly considered as in a plate) for positive mode data after editing the sample list. Copy sample list directly from MassLynx again can avoid this problem.
+   
+    \item Summary of the work in July
+    
+    \begin{itemize}
+        \item Receive data : sample list, code list and raw data
+        \item Preprocess raw data by MZmine
+        \item Merge information by MatLab programming : Combine code list, sample list and preprocessed data (by this way, it becomes more efficient and automatic, however, it is not robust enough sometimes. Basic programming technique is required in this step)
+    \end{itemize}
+    
+    \item Next step:
+    
+    \begin{itemize}
+        \item The final goal of this research is to investigate the Intake Biomarker of Barley.
+        
+        Why do we have to investigate the intake biomarker of barley?
+        
+        Why do we have to quantify the barley intake?
+        
+        Why do we have to investigate the nutritional value of barley intake?
+        
+        Why do we have to investigate the explore the beneficial effects of barley?
+        
+        \item Recall the background of the research
+        
+        A cross-over nutritional study was implemented in order to investigate the biomarker of barley intake. Urine and blood samples were collected 4 times from subjects: before barley (BB) intervention, after barley (AB) intervention, before wheat (BW) intervention and after wheat (AW) intervention. If models based on LC/MS analysis can distinguish AW and AB, biomarkers could be revealed.  
+        
+        Next step's keypoint relies on how to distinguish these two groups (AW and AB).
+        
+    \end{itemize}
+
+\item Today's work
+    \begin{itemize}
+        \item Debug data arrangement code (both for POS and NEG)
+        \item Understand variable selection function
+        
+        Previously in Metabolomics course, the way we were taught to do PLSDA analysis is less efficient. 
+        Because variable reduction process involves a manual procedure, by which variables with a lower VIP value were excluded step by step.
+        
+        'versel\_test' is a function which can decide variables used in PLSDA.
+        
+        \item Rerun pre-process positive data
+    \end{itemize}
+    
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+

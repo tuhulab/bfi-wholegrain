@@ -1,0 +1,120 @@
+%%% Preamble
+\documentclass[paper=a4, fontsize=11pt]{article}
+
+
+
+% font
+\usepackage{palatino}
+%\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{siunitx}
+\usepackage{listings}
+\usepackage{gensymb}
+%\usepackage{tabu}
+%\usepackage{tabulary}
+%\usepackage{array}
+%\usepackage{geometry}
+\usepackage{pdflscape}
+\usepackage{float}
+\usepackage[backend=biber,style=nature,%sorting=ynt
+]{biblatex}
+%\addbibresource{barley1.bib}
+\addbibresource{barley.bib}
+
+
+%%% graph
+\usepackage{graphicx}
+\graphicspath{ {./images/}}
+\usepackage{wrapfig}
+\usepackage{lscape}
+
+
+%%% KU template
+%\usepackage[english, ku, large]{ku-frontpage}
+%\assignment{}
+%\subtitle{Project outside Course Scope, MSc}
+
+
+
+\usepackage[acronym]{glossaries}
+\makeglossaries
+
+
+\title{Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}
+\author{Tu Hu \thanks{supervisor: Gözde Gürdeniz}}
+\date{November 2018}
+
+\begin{document}
+
+\maketitle
+\begin{abstract}
+    \input{abstract.tex}
+\end{abstract}
+
+\clearpage
+\tableofcontents
+
+\newacronym{cvd}{CVD}{cardiovascular diseases}
+\newacronym{tc}{TC}{Total Cholesterol}
+\newacronym{ldlc}{LDL-C}{Low Density Lipoprotein Cholesterol}
+\newacronym{hdlc}{HDL-C}{High Density Lipoprotein Cholesterol}
+\newacronym{tg}{TG}{Triglycerides}
+\newacronym{crp}{CRP}{C-Reactive Protein}
+\newacronym{wbb}{WBB}{Whole Barley Bread}
+\newacronym{wwb}{WWB}{Whole Wheat Bread}
+\newacronym{bfis}{BFIs}{Biomarkers of Food Intake}
+\newacronym{lc/ms}{LC-MS}{Liquid Chromatography-Mass Spectrometry}
+\newacronym{gc/ms}{GC-MS}{Gas Chromatography-Mass Spectrometry}
+\newacronym{nmr}{NMR}{Nuclear Magnetic Resonance Spectroscopy}
+\newacronym{ms/ms}{MS/MS}{Tandem Mass Spectrometry}
+\newacronym{tims-pasef}{TIMS-PASEF}{Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentation}
+\newacronym{hmdb}{HMDB}{Human Metabolome Database}
+\newacronym{gnps}{GNPS}{Global Nature Products Social Molecular Networking}
+\newacronym{aw}{AW}{After Wheat}
+\newacronym{ab}{AB}{After Barley}
+\newacronym{bw}{BW}{Before Wheat}
+\newacronym{bb}{BB}{Before Barley}
+\newacronym{pca}{PCA}{Principle Component Analysis}
+\newacronym{plsda}{PLSDA}{Partial Least Squares Discriminant Analysis}
+\newacronym{pqn}{PQN}{Probabilistic Quotient Normalization}
+\newacronym{vip}{VIP}{variable importance in projection}
+\newpage
+\printglossary[type=\acronymtype]
+\clearpage
+\listoffigures
+\clearpage
+\section{Overview}
+    \input{overview.tex}
+
+
+
+\section{Background}
+\input{background.tex}
+
+\section{Introduction}
+\input{Introduction.tex}
+
+\section{Materials and Methods}
+\input{Materialmethod.tex}
+
+\section{Results}
+\input{results.tex}
+
+\section{Conclusions and Discussions}
+\input{conclusion_discussion.tex}
+\section{Perspectives}
+\input{perspectives.tex}
+\section{Acknowledgements}
+\input{acknowledgement.tex}
+
+\clearpage
+\section{Appendix}
+\input{appendix.tex}
+\clearpage
+\printbibliography[
+heading=bibintoc,
+title={References}
+]
+
+
+\end{document}

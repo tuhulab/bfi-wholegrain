@@ -1,0 +1,80 @@
+\subsection{Chemicals}
+80\% ethanol (CAS 64-17-5,96\%, diluted by MiliQ water), solvent A (miliQ water + 0.1\% formic acid), solvent B (0.1\% formic acid in 70\% acetonitrile and 30\% methanol)
+
+\subsection{Apparatus}
+Rotational vacuum concentrator (RVC 2-35, Martin Christ, Germany), 
+kitchen high speed blender, ultrasonic bath (Branson 3800), vortex mixer, centrifuge.
+
+Two sets of \acrfull{lc/ms} systems were used: 
+
+UPLC-QToF: An ultraperformance liquid chromatography (UPLC) system coupled to a quadrupole time-of-flight mass spectrometer (Premier QTOF, Waters Corporation, Manchester, UK) was used for urine sample analysis.
+
+UPLC-Vion QoF: An ultraperformance liquid chromatography (UPLC) system coupled to Vion IMS QTof Ion Mobility Quadrupole Time-of-flight Mass Spectrometry, Waters, USA)
+
+More details regarding \acrshort{lc/ms} analytical condition can be found elsewhere\cite{Jensen2016,Barri2012MetabolicCoverage.}
+
+\subsection{Whole Grain Barley}
+Whole grain barley cereal (1.5 kg, Aurion, Denmark) was purchased from Helsehuset, Gammel Kongevej 92, Frederiksberg.
+%Whole grain wheat flour (1 kg, Finax, Denmark) was purchased from Føtex, Frederiksberg.
+Whole grain barley was first grained by a high-speed kitchen blender and then filtered by a sieve (2 mm * 2 mm). Two fractions were achieved after sieve filtration. 
+
+The fraction that can pass through the sieve had smaller particle size (smaller than 2 mm). This fraction demonstrated light brown colour and majorly came from barley outer layer, i.e. bran part.
+
+The other fraction had bigger particle size. This fraction demonstrated white colour, but containing sparsely-distributed light brown particles. This fraction majorly came from inner barley, i.e. endosperm part. They were further smashed by a mortar and filtered by the sieve (2 mm * 2mm).
+
+\subsection{\acrshort{lc/ms} Analysis of Urine samples and Whole Grain Barley}
+%urine
+Urine samples were collected 24 hours after intake of test bread. Samples were diluted 10 times by MiliQ-water then stored in -80 \degree C until analysis. The metabolome was profiled by UPLC-QTof, together with internal standard, metabolomics standard and pooled samples. 
+%blood samples were drawn by a trained bio analyst from each participant at 4 different time points: at the beginning and at the end of each intervention period (visit 1–baseline, visit 2–week 3, visit 3– week5, visit 4– week–8)
+
+%extraction
+Whole grain barley powders were extracted by 80\% ethanol twice. The ratio (v/m) between ethanol and barley was 0.015, i.e. 15 mL per gram. Each extraction session lasted 30 min with the assistance of ultrasonic in room temperature. The supernatants were collected after 1st extraction session. Then, fresh ethanol solution were added to start 2nd extraction session. In the end of the extraction, supernatants from both sessions were combined in brown bottles. 2 mL supernatants from each bottle were further transferred to eppendorf tubes. Solvents in eppendorf tubes were evaporated by a rotational vacuum concentrator overnight.
+
+Outer layer and inner powders were treated separately. Both of them were extracted in triplicates. The extraction was conducted in a yellow light room. All glasswares and eppendorf tubes were brown or covered by aluminium foils to protect light sensitive extracts.
+
+%prepare for injection
+\SI{200}{\micro\liter} solvent A was used to reconstitute the extracts. Further they were diluted 10-fold to avoid ion suppression. The samples were centrifuged and the supernatants were transferred into vials for injection.
+
+\subsection{Data Preprocessing} 
+    % Data convertion
+    Raw data was first converted into '.cdf' format by DataBridge, an \acrshort{lc/ms} data file conversion program built-in MassLynx developed by Waters company.
+    
+    % MZmine step
+    Then, data was preprocessed by MZmine (v2.31) following the steps: peak detection, deisotoping, alignment and gap filling.
+    Positive mode and negative were separately processed because of different noise level and in-source reaction.
+    
+    % result
+    In the end, the detected features, including information of mass to charge ratio (m/z), retention time (rt) and intensities were output as '.csv' files for further investigation.
+    
+\subsection{Data Analysis and Variable Selections}
+Data analysis was performed in MATLAB R2018a (v9.4.0.813654). 
+Data was analyzed by \acrfull{pca}, \acrfull{plsda} and cross validation in PLS\_Toolbox (v8.6.2, Eigenvector Research Inc).
+
+Further, potential biomarkers were selected for identification, which will be described in later texts.
+
+%PCA
+    \acrshort{pca} analysis is a unsupervised multivariable statistical method. Multivariate analysis is most commonly used for exploratory analysis of metabolome profiling data \cite{Worley2013UtilitiesPlots.}. It was often considered as starting point to analyze metabolome profiling data \cite{Scalbert2014}. Becaues \acrshort{pca} can provide an objective assessment of the principal patterns in the data set (e.g. intake or non-intake)\cite{Scalbert2014}. \acrshort{pca} can also detect outliers to control the data quality\cite{gurdenizdata}.
+    
+    For both modes, \acrshort{pca} modeling used autoscale and \acrfull{pqn} as preprocessing methods.
+    
+%PLSDA modeling
+    \acrshort{plsda} is the most commonly used supervised multivariable analysis\cite{Scalbert2014}. 
+    \acrshort{plsda} was used to differentiate the barley and wheat intake.
+    
+    Variable were selected by repeatedly removing variables with selectivity ratio and \acrfull{vip} values lower than 1 until no further increase in the cross-validation classification errors could be observed.Final models with selected variables were evaluated using test set misclassification. The variables that were selected in at least 75\% of the models were recorded for further investigation.
+    
+%Variable selections
+    Potential barley intake biomarkers were selected from these variables based on the criterials:
+    \begin{itemize}
+
+        \item They should have low intensities in group \acrfull{bb}, \acrfull{bw}, \acrfull{aw}
+        \item They should have high intensities in intervention group \acrfull{ab}
+    \end{itemize}
+
+
+ 
+\subsection{\acrfull{ms/ms} Experiment and Identification}
+    %How do I know which peak is molecular ion?
+\acrfull{ms/ms} can select specific ions of interest and fragment them. \acrshort{ms/ms} is an important method in structure elucidation. \acrshort{ms/ms} was performed by Vion. Collision energy of 14 ev, 28 eV, 42 eV were used to achieve different extent of fragmentation. Database HMDB, m/z cloud and Chemspider were used. MS/MS spectrum was also input into SIRIUS (version 4.0.1, build 3) to predict the structure.
+
+    

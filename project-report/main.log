@@ -1,0 +1,1718 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  15 DEC 2018 13:17
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\palatino.sty
+"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+" ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
+y"
+Package: expl3 2018-10-19 L3 programming layer (loader) 
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code
+.tex"
+Package: expl3 2018-10-19 L3 programming layer (code)
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__kernel_prg_map_int=\count93
+\c_log_iow=\count94
+\l_iow_line_count_int=\count95
+\l__iow_line_target_int=\count96
+\l__iow_one_indent_int=\count97
+\l__iow_indent_int=\count98
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count99
+\l__intarray_loop_int=\count100
+\c__intarray_sp_dim=\dimen109
+\g__intarray_font_int=\count101
+\c__fp_leading_shift_int=\count102
+\c__fp_middle_shift_int=\count103
+\c__fp_trailing_shift_int=\count104
+\c__fp_big_leading_shift_int=\count105
+\c__fp_big_middle_shift_int=\count106
+\c__fp_big_trailing_shift_int=\count107
+\c__fp_Bigg_leading_shift_int=\count108
+\c__fp_Bigg_middle_shift_int=\count109
+\c__fp_Bigg_trailing_shift_int=\count110
+\c__kernel_randint_max_int=\count111
+\g__fp_array_int=\count112
+\l__fp_array_loop_int=\count113
+\l__sort_length_int=\count114
+\l__sort_min_int=\count115
+\l__sort_top_int=\count116
+\l__sort_max_int=\count117
+\l__sort_true_max_int=\count118
+\l__sort_block_int=\count119
+\l__sort_begin_int=\count120
+\l__sort_end_int=\count121
+\l__sort_A_int=\count122
+\l__sort_B_int=\count123
+\l__sort_C_int=\count124
+\l__tl_analysis_normal_int=\count125
+\l__tl_analysis_index_int=\count126
+\l__tl_analysis_nesting_int=\count127
+\l__tl_analysis_type_int=\count128
+\l__regex_internal_a_int=\count129
+\l__regex_internal_b_int=\count130
+\l__regex_internal_c_int=\count131
+\l__regex_balance_int=\count132
+\l__regex_group_level_int=\count133
+\l__regex_mode_int=\count134
+\c__regex_cs_in_class_mode_int=\count135
+\c__regex_cs_mode_int=\count136
+\l__regex_catcodes_int=\count137
+\l__regex_default_catcodes_int=\count138
+\c__regex_catcode_D_int=\count139
+\c__regex_catcode_S_int=\count140
+\c__regex_catcode_L_int=\count141
+\c__regex_catcode_O_int=\count142
+\c__regex_catcode_A_int=\count143
+\c__regex_all_catcodes_int=\count144
+\l__regex_show_lines_int=\count145
+\l__regex_min_state_int=\count146
+\l__regex_max_state_int=\count147
+\l__regex_left_state_int=\count148
+\l__regex_right_state_int=\count149
+\l__regex_capturing_group_int=\count150
+\l__regex_min_pos_int=\count151
+\l__regex_max_pos_int=\count152
+\l__regex_curr_pos_int=\count153
+\l__regex_start_pos_int=\count154
+\l__regex_success_pos_int=\count155
+\l__regex_curr_char_int=\count156
+\l__regex_curr_catcode_int=\count157
+\l__regex_last_char_int=\count158
+\l__regex_case_changed_char_int=\count159
+\l__regex_curr_state_int=\count160
+\l__regex_step_int=\count161
+\l__regex_min_active_int=\count162
+\l__regex_max_active_int=\count163
+\l__regex_replacement_csnames_int=\count164
+\l__regex_match_count_int=\count165
+\l__regex_min_submatch_int=\count166
+\l__regex_submatch_int=\count167
+\l__regex_zeroth_submatch_int=\count168
+\g__regex_trace_regex_int=\count169
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen110
+\l__box_bottom_dim=\dimen111
+\l__box_left_dim=\dimen112
+\l__box_right_dim=\dimen113
+\l__box_top_new_dim=\dimen114
+\l__box_bottom_new_dim=\dimen115
+\l__box_left_new_dim=\dimen116
+\l__box_right_new_dim=\dimen117
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen125
+\l__coffin_display_x_dim=\dimen126
+\l__coffin_display_y_dim=\dimen127
+\g__file_internal_ior=\read1
+\l__coffin_bounding_shift_dim=\dimen128
+\l__coffin_left_corner_dim=\dimen129
+\l__coffin_right_corner_dim=\dimen130
+\l__coffin_bottom_corner_dim=\dimen131
+\l__coffin_top_corner_dim=\dimen132
+\l__coffin_scaled_total_height_dim=\dimen133
+\l__coffin_scaled_width_dim=\dimen134
+\l__seq_internal_a_int=\count170
+\l__seq_internal_b_int=\count171
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.
+def"
+File: l3pdfmode.def 2018-10-19 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count172
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\x
+parse.sty"
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count173
+\g__xparse_grabber_int=\count174
+\l__xparse_m_args_int=\count175
+\l__xparse_mandatory_args_int=\count176
+\l__xparse_v_nesting_int=\count177
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen135
+)) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen136
+\ar@mcellbox=\box41
+\extrarowheight=\dimen137
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box42
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e
+\l3keys2e.sty"
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box43
+\l__siunitx_tmp_dim=\dimen138
+\l__siunitx_tmp_int=\count178
+\l__siunitx_number_mantissa_length_int=\count179
+\l__siunitx_number_uncert_length_int=\count180
+\l__siunitx_round_int=\count181
+\l__siunitx_process_decimal_int=\count182
+\l__siunitx_process_uncertainty_int=\count183
+\l__siunitx_process_fixed_int=\count184
+\l__siunitx_process_integer_min_int=\count185
+\l__siunitx_process_precision_int=\count186
+\l__siunitx_group_min_int=\count187
+\l__siunitx_angle_marker_box=\box44
+\l__siunitx_angle_unit_box=\box45
+\l__siunitx_angle_marker_dim=\dimen139
+\l__siunitx_angle_unit_dim=\dimen140
+\l__siunitx_unit_int=\count188
+\l__siunitx_unit_denominator_int=\count189
+\l__siunitx_unit_numerator_int=\count190
+\l__siunitx_unit_prefix_int=\count191
+\l__siunitx_unit_prefix_base_int=\count192
+\l__siunitx_unit_prefix_gram_int=\count193
+\l__siunitx_number_product_int=\count194
+\c__siunitx_one_fill_skip=\skip51
+\l__siunitx_table_unit_align_skip=\skip52
+\l__siunitx_table_exponent_dim=\dimen141
+\l__siunitx_table_integer_dim=\dimen142
+\l__siunitx_table_mantissa_dim=\dimen143
+\l__siunitx_table_marker_dim=\dimen144
+\l__siunitx_table_result_dim=\dimen145
+\l__siunitx_table_uncert_dim=\dimen146
+\l__siunitx_table_fill_pre_dim=\dimen147
+\l__siunitx_table_fill_post_dim=\dimen148
+\l__siunitx_table_fill_mid_dim=\dimen149
+\l__siunitx_table_pre_box=\box46
+\l__siunitx_table_post_box=\box47
+\l__siunitx_table_mantissa_box=\box48
+\l__siunitx_table_result_box=\box49
+\l__siunitx_table_number_align_skip=\skip53
+\l__siunitx_table_text_align_skip=\skip54
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translat
+or.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.s
+ty"
+\lst@mode=\count195
+\lst@gtempboxa=\box50
+\lst@token=\toks19
+\lst@length=\count196
+\lst@currlwidth=\dimen150
+\lst@column=\count197
+\lst@pos=\count198
+\lst@lostspace=\dimen151
+\lst@width=\dimen152
+\lst@newlines=\count199
+\lst@lineno=\count266
+\lst@maxwidth=\dimen153
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.st
+y"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count267
+\lst@skipnumbers=\count268
+\lst@framebox=\box51
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.c
+fg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.
+sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
+ty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
+ty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.s
+ty"
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.s
+ty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count271
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.sty
+"
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.t
+ex"
+\@xs@message=\write3
+\integerpart=\count272
+\decimalpart=\count273
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count274
+\c@listtotal=\count275
+\c@listcount=\count276
+\c@liststart=\count277
+\c@liststop=\count278
+\c@citecount=\count279
+\c@citetotal=\count280
+\c@multicitecount=\count281
+\c@multicitetotal=\count282
+\c@instcount=\count283
+\c@maxnames=\count284
+\c@minnames=\count285
+\c@maxitems=\count286
+\c@minitems=\count287
+\c@citecounter=\count288
+\c@savedcitecounter=\count289
+\c@uniquelist=\count290
+\c@uniquename=\count291
+\c@refsection=\count292
+\c@refsegment=\count293
+\c@maxextratitle=\count294
+\c@maxextratitleyear=\count295
+\c@maxextradate=\count296
+\c@maxextraalpha=\count297
+\c@abbrvpenalty=\count298
+\c@highnamepenalty=\count299
+\c@lownamepenalty=\count300
+\c@maxparens=\count301
+\c@parenlevel=\count302
+\blx@tempcnta=\count303
+\blx@tempcntb=\count304
+\blx@tempcntc=\count305
+\blx@maxsection=\count306
+\blx@maxsegment@0=\count307
+\blx@notetype=\count308
+\blx@parenlevel@text=\count309
+\blx@parenlevel@foot=\count310
+\blx@sectionciteorder@0=\count311
+\labelnumberwidth=\skip55
+\labelalphawidth=\skip56
+\biblabelsep=\skip57
+\bibitemsep=\skip58
+\bibnamesep=\skip59
+\bibinitsep=\skip60
+\bibparsep=\skip61
+\bibhang=\skip62
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count312
+\c@maxcomprange=\count313
+\c@mincompwidth=\count314
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+"
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'nature.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count315
+\c@savedafterword=\count316
+\c@annotator=\count317
+\c@savedannotator=\count318
+\c@author=\count319
+\c@savedauthor=\count320
+\c@bookauthor=\count321
+\c@savedbookauthor=\count322
+\c@commentator=\count323
+\c@savedcommentator=\count324
+\c@editor=\count325
+\c@savededitor=\count326
+\c@editora=\count327
+\c@savededitora=\count328
+\c@editorb=\count329
+\c@savededitorb=\count330
+\c@editorc=\count331
+\c@savededitorc=\count332
+\c@foreword=\count333
+\c@savedforeword=\count334
+\c@holder=\count335
+\c@savedholder=\count336
+\c@introduction=\count337
+\c@savedintroduction=\count338
+\c@namea=\count339
+\c@savednamea=\count340
+\c@nameb=\count341
+\c@savednameb=\count342
+\c@namec=\count343
+\c@savednamec=\count344
+\c@translator=\count345
+\c@savedtranslator=\count346
+\c@shortauthor=\count347
+\c@savedshortauthor=\count348
+\c@shorteditor=\count349
+\c@savedshorteditor=\count350
+\c@labelname=\count351
+\c@savedlabelname=\count352
+\c@institution=\count353
+\c@savedinstitution=\count354
+\c@lista=\count355
+\c@savedlista=\count356
+\c@listb=\count357
+\c@savedlistb=\count358
+\c@listc=\count359
+\c@savedlistc=\count360
+\c@listd=\count361
+\c@savedlistd=\count362
+\c@liste=\count363
+\c@savedliste=\count364
+\c@listf=\count365
+\c@savedlistf=\count366
+\c@location=\count367
+\c@savedlocation=\count368
+\c@organization=\count369
+\c@savedorganization=\count370
+\c@origlocation=\count371
+\c@savedoriglocation=\count372
+\c@origpublisher=\count373
+\c@savedorigpublisher=\count374
+\c@publisher=\count375
+\c@savedpublisher=\count376
+\c@language=\count377
+\c@savedlanguage=\count378
+\c@origlanguage=\count379
+\c@savedoriglanguage=\count380
+\c@pageref=\count381
+\c@savedpageref=\count382
+\shorthandwidth=\skip63
+\shortjournalwidth=\skip64
+\shortserieswidth=\skip65
+\shorttitlewidth=\skip66
+\shortauthorwidth=\skip67
+\shorteditorwidth=\skip68
+\locallabelnumberwidth=\skip69
+\locallabelalphawidth=\skip70
+\localshorthandwidth=\skip71
+\localshortjournalwidth=\skip72
+\localshortserieswidth=\skip73
+\localshorttitlewidth=\skip74
+\localshortauthorwidth=\skip75
+\localshorteditorwidth=\skip76
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compat
+.def"
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.d
+ef"
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count383
+\c@textcitetotal=\count384
+\c@textcitemaxnames=\count385
+\c@biburlnumpenalty=\count386
+\c@biburlucpenalty=\count387
+\c@biburllcpenalty=\count388
+\c@smartand=\count389
+)
+Package biblatex Info: Trying to load bibliography style 'nature'...
+Package biblatex Info: ... file 'nature.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-nature\nat
+ure.bbx"
+File: nature.bbx 2018/10/18 v1.3c biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeri
+c-comp.bbx"
+File: numeric-comp.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeri
+c.bbx"
+File: numeric.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\standa
+rd.bbx"
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count390
+\c@bbx:relatedtotal=\count391
+))))
+Package biblatex Info: Trying to load citation style 'nature'...
+Package biblatex Info: ... file 'nature.cbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-nature\nat
+ure.cbx"
+File: nature.cbx 2018/10/18 v1.3c biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numeri
+c-comp.cbx"
+File: numeric-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count392
+\c@cbx@tempcntb=\count393
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.c
+fg"
+File: biblatex.cfg 
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
+ty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+"
+\wrapoverhang=\dimen156
+\WF@size=\dimen157
+\c@WF@wrappedlines=\count394
+\WF@box=\box54
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\glo
+ssaries.sty"
+Package: glossaries 2018/07/23 v4.41 (NLCT)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.t
+ex"
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.
+tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count395
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.s
+ty"
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks25
+\@glsmrest=\toks26
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.s
+ty"
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-b
+ase.sty"
+Package: datatool-base 2018/04/16 v2.30 (NLCT)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip77
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count396
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count397
+\leftroot@=\count398
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count399
+\DOTSCASE@=\count400
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count401
+\c@MaxMatrixCols=\count402
+\dotsspace@=\muskip17
+\c@parentequation=\count403
+\dspbrk@lvl=\count404
+\tag@help=\toks27
+\row@=\count405
+\column@=\count406
+\maxfields@=\count407
+\andhelp@=\toks28
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks29
+\multlinegap=\skip78
+\multlinetaggap=\skip79
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.sty"
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count408
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-f
+p.sty"
+Package: datatool-fp 2018/04/16 v2.30 (NLCT)
+ ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count409
+) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count410
+\FP@xia=\count411
+\FP@xib=\count412
+\FP@xfa=\count413
+\FP@xfb=\count414
+\FP@rega=\count415
+\FP@regb=\count416
+\FP@regs=\count417
+\FP@times=\count418
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count419
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks31
+\@dtl@tmpcount=\count420
+\dtl@tmplength=\skip80
+\dtl@sortresult=\count421
+\@dtl@numgrpsepcount=\count422
+\@dtl@datatype=\count423
+\dtl@codeA=\count424
+\dtl@codeB=\count425
+\@dtl@foreach@level=\count426
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\glo
+ssaries-compatible-307.sty"
+Package: glossaries-compatible-307 2018/07/23 v4.41 (NLCT)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tracklang\tracklang
+.sty"
+Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tracklang\trackla
+ng.tex"))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries-english\
+glossaries-english.ldf"
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count427
+\@gls@tmpb=\toks32
+\gls@tmplen=\skip81
+\glskeylisttok=\toks33
+\glslabeltok=\toks34
+\glsshorttok=\toks35
+\glslongtok=\toks36
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
+lossary-hypernav.sty"
+Package: glossary-hypernav 2018/07/23 v4.41 (NLCT)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
+lossary-list.sty"
+Package: glossary-list 2018/07/23 v4.41 (NLCT)
+\glslistdottedwidth=\skip82
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
+lossary-long.sty"
+Package: glossary-long 2018/07/23 v4.41 (NLCT)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip83
+\LTright=\skip84
+\LTpre=\skip85
+\LTpost=\skip86
+\LTchunksize=\count428
+\LTcapwidth=\dimen166
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@cols=\count429
+\LT@rows=\count430
+\c@LT@tables=\count431
+\c@LT@chunks=\count432
+\LT@p@ftn=\toks37
+)
+\glsdescwidth=\skip87
+\glspagelistwidth=\skip88
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
+lossary-super.sty"
+Package: glossary-super 2018/07/23 v4.41 (NLCT)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\supertabular\supert
+abular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count433
+\ST@wd=\dimen167
+\ST@rightskip=\skip89
+\ST@leftskip=\skip90
+\ST@parfillskip=\skip91
+\ST@pageleft=\dimen168
+\ST@headht=\dimen169
+\ST@tailht=\dimen170
+\ST@pagesofar=\dimen171
+\ST@pboxht=\dimen172
+\ST@lineht=\dimen173
+\ST@stretchht=\dimen174
+\ST@prevht=\dimen175
+\ST@toadd=\dimen176
+\ST@dimen=\dimen177
+\ST@pbox=\box61
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
+lossary-tree.sty"
+Package: glossary-tree 2018/07/23 v4.41 (NLCT)
+\glstreeindent=\skip92
+))
+\glswrite=\write5
+\glo@main@file=\write6
+\openout6 = `main.glo'.
+
+Package glossaries Info: Writing glossary file main.glo on input line 40.
+\glo@acronym@file=\write7
+\openout7 = `main.acn'.
+
+Package glossaries Info: Writing glossary file main.acn on input line 40.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\englis
+h.lbx"
+File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+\@quotelevel=\count434
+\@quotereset=\count435
+
+
+LaTeX Warning: Unused global option(s):
+    [paper=a4,fontsize=11pt].
+
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 47.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translat
+or-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abb
+reviations.cfg"
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+\c@lstlisting=\count436
+LaTeX Info: Redefining \celsius on input line 47.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 47.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 47.
+Package gensymb Info: Using \Omega for \ohm on input line 47.
+
+Package gensymb Warning: Not defining \micro.
+
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count437
+\scratchdimen=\dimen178
+\scratchbox=\box62
+\nofMPsegments=\count438
+\nofMParguments=\count439
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count440
+\MPscratchDim=\dimen179
+\MPnumerator=\count441
+\makeMPintoPDFobject=\count442
+\everyMPtoPDFconversion=\toks39
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
+ase.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefine
+keys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+ (main.glsdefs)
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 49.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 50.
+
+(abstract.tex) [1
+
+\openout5 = `main.ist'.
+
+{C:/Users/tuhu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 55.
+ (main.toc
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 2.
+ [2
+
+])
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+\@gls@deffile=\write9
+\openout9 = `main.glsdefs'.
+
+ [3] (main.acr) [4] (main.lof)
+\tf@lof=\write10
+\openout10 = `main.lof'.
+
+ [5
+
+] (overview.tex)
+(background.tex
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+<./images/studes.png, id=21, 667.74469pt x 296.60812pt>
+File: ./images/studes.png Graphic file (type png)
+<use ./images/studes.png>
+Package pdftex.def Info: ./images/studes.png  used on input line 12.
+(pdftex.def)             Requested size: 333.87152pt x 148.3037pt.
+ [6
+
+ <./images/studes.png>]) (Introduction.tex [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Wierzbicka,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 three-day
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 weighed food
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 alkylresorcinol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Whole grain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 alkylresorcinol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 metabo-lites,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 ben-zox-azi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 noid deriva-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 tives,phenolic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 12 healthy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Garcia-Aloy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Self-reported
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 food fre-quency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 whole grain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 phytochemicals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 (ben-zox-azi-noids,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 alkyl-re-sor-ci-nol
+ []
+
+
+Overfull \hbox (5.32228pt too wide) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Magnusdottir,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 alkylresorcinol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 93 metabolic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 syn-drome
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 pa-tients in
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 Nordic coun-
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 whole grain and
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 fi-bre riched rye
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Self-reported
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 food fre-quency
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 mati rice, corn,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 316 over-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 weight and
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 obese par-tic-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Andersson,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 whole grain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 72 Swedish
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 nonfasting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 and fast-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 semi-quantitative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 food fre-quency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 360 post-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 menopausal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Self-reported
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 food fre-quency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 100 healthy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 Guyman,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 three-day food
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 record and food
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 fre-quency ques-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 3-(3,5-
+ []
+
+
+Overfull \hbox (4.49417pt too wide) in paragraph at lines 90--90
+\OT1/ppl/m/n/9 dihydroxyphenyl)-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 whole grain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+[]|\OT1/ppl/m/n/9 22 women
+ []
+
+[9]
+Overfull \hbox (0.2156pt too wide) in paragraph at lines 95--96
+\OT1/ppl/m/n/10 With the de-vel-op-ment of high-throughout an-a-lyt-i-cal tech-
+nolo-gies, 3 tech-niques
+ []
+
+[10]
+Overfull \hbox (4.3563pt too wide) in paragraph at lines 108--109
+\OT1/ppl/m/n/10 ment, data nor-mal-iza-tion and sig-nal cor-rec-tion fol-lowed 
+by the anal-y-sis through
+ []
+
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+[11]
+Overfull \hbox (8.11787pt too wide) in paragraph at lines 126--127
+[]\OT1/ppl/b/n/10 Deepening the un-der-stand-ing of bi-o-log-i-cal as-pect of m
+etabolism: \OT1/ppl/m/n/10 Marta[]
+ []
+
+
+Overfull \hbox (9.10533pt too wide) in paragraph at lines 136--138
+[]\OT1/ppl/m/n/10 An ex-ten-sive in-house database was built cov-er-ing all 'bi
+ologically-feasible'
+ []
+
+) (Materialmethod.tex [12]
+Overfull \hbox (11.72612pt too wide) in paragraph at lines 14--15
+[]\OT1/ppl/m/n/10 More de-tails re-gard-ing []LC-MS an-a-lyt-i-cal con-di-tion 
+can be found else-where[31,
+ []
+
+
+Overfull \hbox (4.27687pt too wide) in paragraph at lines 17--20
+\OT1/ppl/m/n/10 Whole grain bar-ley ce-real (1.5 kg, Au-rion, Den-mark) was pur
+-chased from Helse-
+ []
+
+
+Overfull \hbox (7.04636pt too wide) in paragraph at lines 17--20
+\OT1/ppl/m/n/10 huset, Gam-mel Kongevej 92, Fred-eriks-berg. Whole grain bar-le
+y was first grained
+ []
+
+
+Overfull \hbox (3.4961pt too wide) in paragraph at lines 21--22
+[]\OT1/ppl/m/n/10 The frac-tion that can pass through the sieve had smaller par
+-ti-cle size (smaller
+ []
+
+[13]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 36.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ppl.fd"
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Overfull \hbox (15.48633pt too wide) in paragraph at lines 56--57
+\OT1/ppl/m/n/10 pro-fil-ing data [33]. It was of-ten con-sid-ered as start-ing 
+point to an-a-lyze metabolome
+ []
+
+[14]
+Overfull \hbox (5.19357pt too wide) in paragraph at lines 76--76
+[][]\OT1/ppl/b/n/12 Tandem Mass Spec-trom-e-try ([]MS/MS) Ex-per-i-ment and Ide
+n-
+ []
+
+
+Overfull \hbox (9.99571pt too wide) in paragraph at lines 78--79
+\OT1/ppl/m/n/10 frag-ment them. []MS/MS is an im-por-tant method in struc-ture 
+elu-ci-da-tion. []MS/MS
+ []
+
+) (results.tex [15]
+<images/pca_score.png, id=60, 822.9144pt x 345.4506pt>
+File: images/pca_score.png Graphic file (type png)
+<use images/pca_score.png>
+Package pdftex.def Info: images/pca_score.png  used on input line 30.
+(pdftex.def)             Requested size: 353.84628pt x 148.54086pt.
+
+Overfull \hbox (8.84628pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+[16 <./images/pca_score.png>]
+<images/marker1.png, id=65, 873.0216pt x 348.8232pt>
+File: images/marker1.png Graphic file (type png)
+<use images/marker1.png>
+Package pdftex.def Info: images/marker1.png  used on input line 42.
+(pdftex.def)             Requested size: 314.28754pt x 125.57625pt.
+<images/barley_marker.png, id=66, 862.9038pt x 686.565pt>
+File: images/barley_marker.png Graphic file (type png)
+<use images/barley_marker.png>
+Package pdftex.def Info: images/barley_marker.png  used on input line 48.
+(pdftex.def)             Requested size: 310.64513pt x 247.16321pt.
+ [17 <./images/marker1.png> <./images/barley_marker.png>]
+<images/231p0870.pdf, id=72, 368.37625pt x 307.1475pt>
+File: images/231p0870.pdf Graphic file (type pdf)
+<use images/231p0870.pdf>
+Package pdftex.def Info: images/231p0870.pdf  used on input line 63.
+(pdftex.def)             Requested size: 184.18767pt x 153.57336pt.
+<images/216d9995.pdf, id=73, 729.72626pt x 521.95pt>
+File: images/216d9995.pdf Graphic file (type pdf)
+<use images/216d9995.pdf>
+Package pdftex.def Info: images/216d9995.pdf  used on input line 75.
+(pdftex.def)             Requested size: 335.67816pt x 240.0999pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18
+
+ <./images/231p0870.pdf>]
+Overfull \hbox (12.70651pt too wide) in paragraph at lines 83--84
+[]\OT1/ppl/m/n/10 4-hydroxybenzoic acid-4-O-sulphate and 3-hydroxybenzoic acid-
+3-O-sulphate
+ []
+
+
+Overfull \hbox (12.76563pt too wide) in paragraph at lines 85--86
+\OT1/ppl/m/n/10 iden-ti-fied as metabo-lite of polyphe-nols or phe-nols[36]. (5
+-ethyl-2-hydroxyphenyl)
+ []
+
+[19 <./images/216d9995.pdf>]
+<images/501517compare.pdf, id=119, 688.5725pt x 358.33875pt>
+File: images/501517compare.pdf Graphic file (type pdf)
+<use images/501517compare.pdf>
+Package pdftex.def Info: images/501517compare.pdf  used on input line 99.
+(pdftex.def)             Requested size: 344.2854pt x 179.16893pt.
+<images/gluco_frag.PNG, id=120, 762.59906pt x 149.05687pt>
+File: images/gluco_frag.PNG Graphic file (type png)
+<use images/gluco_frag.PNG>
+Package pdftex.def Info: images/gluco_frag.PNG  used on input line 107.
+(pdftex.def)             Requested size: 343.1664pt x 67.07497pt.
+
+Overfull \hbox (4.5961pt too wide) in paragraph at lines 114--116
+[]\OT1/ppl/m/n/10 Conjugation re-ac-tions with glu-curonic acid oc-cur in an-i-
+mals with glu-curono-
+ []
+
+[20 <./images/501517compare.pdf> <./images/gluco_frag.PNG>]
+<images/291pos(p1,p2).png, id=138, 608.2725pt x 497.4585pt>
+File: images/291pos(p1,p2).png Graphic file (type png)
+<use images/291pos(p1,p2).png>
+Package pdftex.def Info: images/291pos(p1,p2).png  used on input line 138.
+(pdftex.def)             Requested size: 255.47272pt x 208.93114pt.
+ [21]
+<images/ION291.pdf, id=142, 1008.76875pt x 545.03625pt>
+File: images/ION291.pdf Graphic file (type pdf)
+<use images/ION291.pdf>
+Package pdftex.def Info: images/ION291.pdf  used on input line 145.
+(pdftex.def)             Requested size: 383.3361pt x 207.11592pt.
+
+Overfull \hbox (38.3361pt too wide) in paragraph at lines 145--146
+ [][] 
+ []
+
+<images/Annotation-291.pdf, id=143, 715.67375pt x 360.34625pt>
+File: images/Annotation-291.pdf Graphic file (type pdf)
+<use images/Annotation-291.pdf>
+Package pdftex.def Info: images/Annotation-291.pdf  used on input line 151.
+(pdftex.def)             Requested size: 322.0502pt x 162.15431pt.
+[22 <./images/291pos(p1,p2).png> <./images/ION291.pdf>]
+Package epstopdf Info: Source file: <images/5sterols_combined.eps>
+(epstopdf)                    date: 2018-12-15 11:09:40
+(epstopdf)                    size: 421767 bytes
+(epstopdf)             Output file: <images/5sterols_combined-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2018-12-15 12:10:23
+(epstopdf)                    size: 119520 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/5sterols_combined-ep
+s-converted-to.pdf images/5sterols_combined.eps>
+(epstopdf)             \includegraphics on input line 160.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./images/5sterols_combined-eps-converted-to.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<images/5sterols_combined-eps-converted-to.pdf, id=161, 557.08125pt x 452.69125
+pt>
+File: images/5sterols_combined-eps-converted-to.pdf Graphic file (type pdf)
+<use images/5sterols_combined-eps-converted-to.pdf>
+Package pdftex.def Info: images/5sterols_combined-eps-converted-to.pdf  used on
+ input line 160.
+(pdftex.def)             Requested size: 278.53995pt x 226.34506pt.
+Package epstopdf Info: Source file: <images/possiblesterol.eps>
+(epstopdf)                    date: 2018-12-15 11:09:40
+(epstopdf)                    size: 106927 bytes
+(epstopdf)             Output file: <images/possiblesterol-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2018-12-15 12:10:24
+(epstopdf)                    size: 27235 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/possiblesterol-eps-c
+onverted-to.pdf images/possiblesterol.eps>
+(epstopdf)             \includegraphics on input line 170.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./images/possiblesterol-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/possiblesterol-eps-converted-to.pdf, id=162, 557.08125pt x 396.48125pt>
+
+File: images/possiblesterol-eps-converted-to.pdf Graphic file (type pdf)
+<use images/possiblesterol-eps-converted-to.pdf>
+Package pdftex.def Info: images/possiblesterol-eps-converted-to.pdf  used on in
+put line 170.
+(pdftex.def)             Requested size: 167.12566pt x 118.94528pt.
+) [23 <./images/Annotation-291.pdf> <./images/5sterols_combined-eps-converted-t
+o.pdf>] (conclusion_discussion.tex
+<images/idsummarybarley.PNG, id=183, 791.95876pt x 539.01375pt>
+File: images/idsummarybarley.PNG Graphic file (type png)
+<use images/idsummarybarley.PNG>
+Package pdftex.def Info: images/idsummarybarley.PNG  used on input line 7.
+(pdftex.def)             Requested size: 332.6204pt x 226.38422pt.
+ [24 <./images/possiblesterol-eps-converted-to.pdf> <./images/idsummarybarley.P
+NG>]) (perspectives.tex) (acknowledgement.tex [25]) [26] (appendix.tex
+<images/chromatogram_barley_1.png, id=197, 806.0514pt x 419.166pt>
+File: images/chromatogram_barley_1.png Graphic file (type png)
+<use images/chromatogram_barley_1.png>
+Package pdftex.def Info: images/chromatogram_barley_1.png  used on input line 4
+.
+(pdftex.def)             Requested size: 322.41484pt x 167.66342pt.
+ [27
+
+ <./images/chromatogram_barley_1.png>]
+<images/sterolmsms.jpg, id=202, 162.6075pt x 298.716pt>
+File: images/sterolmsms.jpg Graphic file (type jpg)
+<use images/sterolmsms.jpg>
+Package pdftex.def Info: images/sterolmsms.jpg  used on input line 14.
+(pdftex.def)             Requested size: 162.6071pt x 298.71526pt.
+) [28
+
+ <./images/sterolmsms.jpg>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 114.
+
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (3.54173pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Fardet, A. New hy-pothe-ses for the health-protective mech-a-
+nisms of whole-
+ []
+
+
+Overfull \hbox (3.54173pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Fardet, A. New hy-pothe-ses for the health-protective mech-a-
+nisms of whole-
+ []
+
+
+Overfull \hbox (2.86307pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Ibrugger, S. \OT1/ppl/m/it/10 et al. \OT1/ppl/m/n/10 Ex-tract
+ed oat and bar-ley beta-glucans do not af-fect choles-
+ []
+
+[29
+
+]
+Overfull \hbox (6.78625pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Magnusdottir, O. K. \OT1/ppl/m/it/10 et al. \OT1/ppl/m/n/10 W
+hole Grain Rye In-take, Re-flected by a Biomarker,
+ []
+
+
+Overfull \hbox (3.7266pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Landberg, R., Kamal-Eldin, A., An-der-s-son, A., Vessby, B. &
+ Aman, P. Alkyl-
+ []
+
+
+Overfull \hbox (11.97023pt too wide) in paragraph at lines 117--117
+\OT1/ppl/m/n/10 con-cen-tra-tion and in-take es-ti-mated from di-etary records.
+ \OT1/ppl/m/it/10 AMER-I-CAN JOUR-
+ []
+
+[30]
+Overfull \hbox (4.3729pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 Pratic[]o, G. \OT1/ppl/m/it/10 et al. \OT1/ppl/m/n/10 Guide-l
+ines for Biomarker of Food In-take Re-views (BFIRev):
+ []
+
+
+Overfull \hbox (0.78577pt too wide) in paragraph at lines 117--117
+\OT1/ppl/m/n/10 and filtration-based pro-tein pre-cip-i-ta-tion de-lin-eates si
+g-nif-i-cant dif-fer-ences
+ []
+
+
+Overfull \hbox (5.06606pt too wide) in paragraph at lines 117--117
+\OT1/ppl/m/n/10 croe-lu-tion solid-phase ex-trac-tion plate and liq-uid chromat
+ography-tandem
+ []
+
+
+Overfull \hbox (4.27118pt too wide) in paragraph at lines 117--117
+[]\OT1/ppl/m/n/10 DJOUMBOU FE-U-NANG, Y. \OT1/ppl/m/it/10 Chem-in-for-mat-ics T
+ools for En-abling Metabolomics
+ []
+
+[31] [32] (main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 28721 strings out of 492970
+ 555676 string characters out of 3127037
+ 973176 words of memory out of 3000000
+ 32215 multiletter control sequences out of 15000+200000
+ 556374 words of font info for 89 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,11n,63p,2319b,1303s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy6.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/tuhu/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/tuhu/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/tuhu/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/tu
+hu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Us
+ers/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb
+>
+Output written on main.pdf (32 pages, 1756849 bytes).
+PDF statistics:
+ 250 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+
