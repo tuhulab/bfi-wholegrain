@@ -35,6 +35,14 @@ mz <- mz1[[1]]
 ##extract groupinfo
 group1 <- matdata1$label[[10]]
 group <- group1[[1]]
+##extract intensities
+int <- matdata1$data
 
 data <- data.frame(filename,samplename,subject,timepoint,intervention)
 
+#n <- length(rt)
+n <- 3
+
+for(i in 1:n){
+ data<-data %>% mutate(i=int[,i])
+}
