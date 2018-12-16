@@ -42,7 +42,8 @@ data <- data.frame(filename,samplename,subject,timepoint,intervention)
 
 #n <- length(rt)
 n <- 3
+feature <- 1:3
 
 for(i in 1:n){
- data<-data %>% mutate(i=int[,i])
+ data<-data %>% mutate(feature[i]=int[,i])
 }
