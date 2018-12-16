@@ -20,3 +20,21 @@ samplename <- samplename1[[1]]
 ##extract subjectnumber
 subject1 <- matdata1$label[[13]]
 subject <- subject1[[1]]
+##extract timepoint
+timepoint1 <- matdata1$label[[17]]
+timepoint <- timepoint1[[1]]
+##extract intervention
+intervention1 <- matdata1$label[[21]]
+intervention <- intervention1[[1]]
+##extract rt
+rt1 <- matdata1$label[[2]]
+rt <- rt1[[1]]
+##extract mz
+mz1 <- matdata1$label[[6]]
+mz <- mz1[[1]]
+##extract groupinfo
+group1 <- matdata1$label[[10]]
+group <- group1[[1]]
+
+data <- data.frame(filename,samplename,subject,timepoint,intervention)
+
