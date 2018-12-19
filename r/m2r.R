@@ -40,10 +40,5 @@ int <- matdata1$data
 
 data <- data.frame(filename,samplename,subject,timepoint,intervention)
 
-#n <- length(rt)
-n <- 3
-feature <- 1:3
+n <- length(rt)
 
-for(i in 1:n){
- data<-data %>% mutate(feature[i]=int[,i])
-}

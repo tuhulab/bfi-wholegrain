@@ -1,5 +1,7 @@
 \BOOKMARK [1][-]{section.1}{Preface}{}% 1
 \BOOKMARK [1][-]{section.2}{Introduction}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Foodomics}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.1}{R, Tidy Format and Data Wrangling}{section.2}% 3
 \BOOKMARK [1][-]{section.3}{Materials and methods}{}% 4
-\BOOKMARK [2][-]{subsection.3.1}{Data-preprocessing}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Software}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Data-preprocessing}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Data conversion from MATLAB to R}{section.3}% 7

@@ -1,5 +1,7 @@
 \documentclass[]{article}
 \usepackage[english, science, titlepage]{ku-frontpage}
+\usepackage[acronym]{glossaries}
+\makeglossaries
 %opening
 \assignment{Master Thesis}
 \title{Investigation of Whole Grain Wheat Intake Biomarkers}
@@ -10,20 +12,21 @@
 
 \begin{document}
 \maketitle
-
 %% abstract
 %\begin{abstract}
 %\end{abstract}
 
 %% table of content
 \tableofcontents
-
+\newpage
+\input{abbreviation.tex}
+\printglossaries
 \newpage
 \section{Preface}
 
 
 \section{Introduction}
-\subsection{Foodomics}
+\input{intro.tex}
 
 \section{Materials and methods}
 \input{materials-methods.tex}
