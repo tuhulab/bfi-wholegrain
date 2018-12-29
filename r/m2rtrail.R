@@ -5,7 +5,7 @@ library(tidyverse)
 # read mat file
 ##indicate the mat file path
 path <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
-
+polarity <- 'pos'
 ##readMat function
 matdata <- readMat(path)
 matdata1 <- matdata[[1]] #[1] and [[1]] are different
@@ -49,3 +49,4 @@ rtdata <- t(rt) %>% data.frame() %>% gather(feature, rt, 1: nrow(rt))
 mzdata <- t(mz) %>% data.frame() %>% gather(feature, mz, 1: nrow(mz))
 
 datan2 <- left_join(datan1,rtdata,by='feature') %>% left_join(mzdata,by='feature')
+nrow(datan2)

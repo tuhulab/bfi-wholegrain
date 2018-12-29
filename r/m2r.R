@@ -1,4 +1,4 @@
-m2r <- function(path=...) {
+m2r <- function(path=...,polarity=...) {
   matdata <- readMat(path)
   matdata1 <- matdata[[1]] #[1] and [[1]] are different
   
