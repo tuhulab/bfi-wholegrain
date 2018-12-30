@@ -17,3 +17,10 @@ report/report\.synctex\.gz
 
 report/report\.toc
 *.CDF
+*.acr
+*.alg
+*.aux
+*.ist
+*.log
+*.out
+*.gz
