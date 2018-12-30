@@ -1,12 +1,17 @@
 library(tidyverse)
 library(R.matlab)
 
-barleypath <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
-barleypolarity <- 'positive'
-barley <- m2r(path=barleypath, polarity = barleypolarity)
+barleypospath <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
+barleynegpath <- 'C:\\Users\\tuhu\\projects\\barley\\NEGdata.mat'
+barleypospolarity <- 'positive'
+barleynegpolarity <- 'negative'
+barleypos <- m2r(path=barleypospath, polarity = barleypospolarity)
+barleyneg <- m2r(path=barleynegpath, polarity = barleynegpolarity)
 
-barley %>% filter(feature=='X1268') %>% ggplot(aes(x=intervention, y=intensity)) + 
+barleypos %>% filter(feature=='X1268') %>% ggplot(aes(x=intervention, y=intensity)) + 
   geom_point() +
   geom_boxplot()
 
-ion <- barley %>% filter(feature=='X1268')
+barleyneg %>% filter(feature=='X3001') %>% ggplot(aes(x=intervention, y=intensity)) + 
+  geom_point() +
+  geom_boxplot()
