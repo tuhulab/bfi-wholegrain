@@ -31,7 +31,15 @@ m2r <- function(path=...,polarity=...) {
   int <- matdata1$data
   
   ##shape new data
+
   data <- data.frame(filename,samplename,subject,timepoint,intervention)
+  pools <- data %>% filter(samplename =='pool  ')
+  nonpools <- data %>% filter(samplename != 'pool  ')
+  pools$subject <- 'pool'
+  pools$timepoint <- NA
+  pools$intervention <- 'pool'
+  data <- bind_rows(nonpools,pools)
+  
   intdata <- data.frame(int)
   datan <- bind_cols(data,intdata)
   datan1 <- datan %>% gather(feature,intensity,6:ncol(datan))
@@ -40,6 +48,6 @@ m2r <- function(path=...,polarity=...) {
   rtdata <- t(rt) %>% data.frame() %>% gather(feature, rt, 1: nrow(rt))
   mzdata <- t(mz) %>% data.frame() %>% gather(feature, mz, 1: nrow(mz))
   
-  datan2 <- left_join(datan1,rtdata,by='feature') %>% left_join(mzdata,by='feature')
+  datan2 <- left_join(datan1,rtdata,by='feature') %>% left_join(mzdata,by='feature') %>% mutate(polarity)
   return(datan2)
 }

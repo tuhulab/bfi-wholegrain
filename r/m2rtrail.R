@@ -5,7 +5,8 @@ library(tidyverse)
 # read mat file
 ##indicate the mat file path
 path <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
-polarity <- 'pos'
+polarity <- 'positive'
+
 ##readMat function
 matdata <- readMat(path)
 matdata1 <- matdata[[1]] #[1] and [[1]] are different
@@ -40,6 +41,14 @@ int <- matdata1$data
 
 ##shape new data
 data <- data.frame(filename,samplename,subject,timepoint,intervention)
+pools <- data %>% filter(samplename =='pool  ')
+nonpools <- data %>% filter(samplename != 'pool  ')
+pools$subject <- 'pool'
+pools$timepoint <- NA
+pools$intervention <- 'pool'
+data <- bind_rows(nonpools,pools)
+
+
 intdata <- data.frame(int)
 datan <- bind_cols(data,intdata)
 datan1 <- datan %>% gather(feature,intensity,6:ncol(datan))
@@ -47,6 +56,10 @@ datan1 <- datan %>% gather(feature,intensity,6:ncol(datan))
 ##write rt and mz
 rtdata <- t(rt) %>% data.frame() %>% gather(feature, rt, 1: nrow(rt))
 mzdata <- t(mz) %>% data.frame() %>% gather(feature, mz, 1: nrow(mz))
-
 datan2 <- left_join(datan1,rtdata,by='feature') %>% left_join(mzdata,by='feature')
-nrow(datan2)
+
+##add polarity info
+datan3 <- datan2 %>% mutate(polarity)
+
+##pool sample wrangling
+
