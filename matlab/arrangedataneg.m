@@ -1,7 +1,7 @@
 %% Section 1-Read pre-processed data
-filename = 'serumNEG.xlsx'; % pre-processed data
+filename = 'serumPOS.xlsx'; % pre-processed data
 SampleList = 'samplelist.xlsx'; % sample list label of the cdf files
-mode = 'neg'; %data mode
+mode = 'pos'; %data mode
 dataform = '01.cdf'; %data format 
 peakInt = 'peak height'; %intensity of the of the peaks
 %no_split_for_codes = 2; %split. seems useless??
