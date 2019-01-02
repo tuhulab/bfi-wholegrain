@@ -10,7 +10,7 @@ code_names = {'Subject','Time'}; %Labels
 blank = 'NEGbl.mat'
 %% Section 2-Create the dataset from pre-processed data
 [dataplPOS,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
-datapl
+
 %% Section 3-Group(barley or wheat intervention)
 % compare the info from sample list and Diet codes
 [n,t] = xlsread('DietCodes.xlsx'); % read the file with codes
