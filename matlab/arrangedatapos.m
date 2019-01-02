@@ -1,6 +1,6 @@
 %% Section 1-Read pre-processed data
 filename = 'serumPOS0.xlsx'; % pre-processed data
-SampleList = 'samplelist.xlsx'; % sample list label of the cdf files
+SampleList = 'serumsamplelist.xlsx'; % sample list label of the cdf files
 mode = 'pos'; %data mode
 dataform = '01.cdf'; %data format 
 peakInt = 'peak height'; %intensity of the of the peaks
@@ -71,8 +71,8 @@ dataplPOS.labelname{1,6} = 'Test_eat';
 
 %% clean the noise signals and apply percent rule
 sample = dataplPOS;
-a=load(blank);blank=a.data;clear a;
-[data_cleaned, varargout]= clean_data(sample,1,blank,{''},5,10,{'Time','Test_eat'},{0.7,15});
+load(blank);
+[data_cleaned, varargout]= clean_data(sample,1,POSbl,{''},5,10,{'Time','Test_eat'},{0.7,15});
 data_grouped= group_markers(data_cleaned,0.7,0.01);
 
 %%
