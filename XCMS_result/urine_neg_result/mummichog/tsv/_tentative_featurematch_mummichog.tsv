@@ -1,0 +1,92 @@
+m/z	id	match_form	mz_difference	name	pathway	feature_ID
+107.048950279118	N3-METHYLCYTOSINE	M-H2O-H[-]	8.985138799744163e-05	N3-methylcytosine	
+117.054586328054	ACETONE	M+CH3COO[-]	-0.0005734866460045396	acetone	ketogenesis$acetone degradation I (to methylglyoxal)
+117.054586328054	BUTANAL	M+HCOO[-]	-0.0005735508459849825	butanal	
+117.054586328054	CPD-665	M+CH3COO[-]	-0.0005734866460045396	propanal	
+117.054586328054	CPD-7000	M+HCOO[-]	-0.0005735508459849825	isobutanal	
+117.054586328054	GUANIDOACETIC_ACID	M-H[-]	0.00021127822400046625	guanidinoacetate	creatine biosynthesis
+119.033883303697	ACET	M+CH3COO[-]	-0.0005410689030043159	acetate	putrescine degradation III$melatonin degradation II$ethanol degradation IV$morphine biosynthesis$oxidative ethanol degradation III$heparan sulfate biosynthesis (late stages)$<i>N</i>-acetylglucosamine degradation I$ethanol degradation II$acetate conversion to acetyl-CoA
+119.033883303697	ACETOL	M+HCOO[-]	-0.0005411331030131805	acetol	methylglyoxal degradation III$acetone degradation I (to methylglyoxal)
+119.033883303697	CPD-358	M+HCOO[-]	-0.0005411331030131805	(R)-lactaldehyde	methylglyoxal degradation VI
+119.033883303697	LACTALD	M+HCOO[-]	-0.0005411331030131805	(<i>S</i>)-lactaldehyde	
+131.033864168871	METHYL-GLYOXAL	M+CH3COO[-]	-0.0005602037290088901	methylglyoxal	methylglyoxal degradation I$methylglyoxal degradation VI$acetone degradation I (to methylglyoxal)$methylglyoxal degradation III
+133.049550109292	ACETOL	M+CH3COO[-]	-0.0005243275080033527	acetol	methylglyoxal degradation III$acetone degradation I (to methylglyoxal)
+133.049550109292	BUTYRIC_ACID	M+HCOO[-]	-0.0005243917079837956	butanoate	
+133.049550109292	CPD-358	M+CH3COO[-]	-0.0005243275080033527	(R)-lactaldehyde	methylglyoxal degradation VI
+133.049550109292	LACTALD	M+CH3COO[-]	-0.0005243275080033527	(<i>S</i>)-lactaldehyde	
+144.065346240634	2-HYDROXY-2-METHYLPROPANENITRILE	M+CH3COO[-]	-0.0007126113659978728	acetone cyanohydrin	
+147.028626644916	2-OXOBUTANOATE	M+HCOO[-]	-0.0007124139840186672	2-oxobutanoate	cysteine biosynthesis/homocysteine degradation (trans-sulfuration)$threonine degradation
+147.028626644916	3-KETOBUTYRATE	M+HCOO[-]	-0.0007124139840186672	acetoacetate	ketogenesis$ketolysis$leucine degradation$acetone degradation I (to methylglyoxal)$tyrosine degradation
+147.028626644916	CH3-MALONATE-S-ALD	M+HCOO[-]	-0.0007124139840186672	(<i>S</i>)-methylmalonate-semialdehyde	valine degradation
+147.028626644916	CPD-12177	M+HCOO[-]	-0.0007124139840186672	(<i>R</i>)-methylmalonate-semialdehyde	
+147.028626644916	MALONATE-S-ALD	M+CH3COO[-]	-0.0007123497840098025	malonate semialdehyde	&beta;-alanine degradation
+147.028626644916	PYRUVATE	M+CH3COO[-]	-0.0007123497840098025	pyruvate	L-cysteine degradation II$alanine biosynthesis/degradation$gluconeogenesis$glycolysis$methylglyoxal degradation I$L-cysteine degradation I$7-(3-amino-3-carboxypropyl)-wyosine biosynthesis$4-hydroxyproline degradation$glutathione-mediated detoxification$glycine biosynthesis$L-serine degradation$methylglyoxal degradation VI$pyruvate decarboxylation to acetyl CoA$lactate fermentation (reoxidation of cytosolic NADH)
+147.028626644916	SUCC-S-ALD	M+HCOO[-]	-0.0007124139840186672	succinate semialdehyde	4-aminobutyrate degradation
+147.065213000968	BUTYRIC_ACID	M+CH3COO[-]	-0.0005115000320188301	butanoate	
+153.01827181588	CPD-385	M+HCOO[-]	-0.0005025567199936631	1,2-benzoquinone	
+165.039085299308	GLYCERATE	M+CH3COO[-]	-0.0008183816919995479	D-glycerate	
+165.039888887991	GLYCERATE	M+CH3COO[-]	-1.4793009000868551e-05	D-glycerate	
+168.028754991019	GLT	M+Na-2H[-]	0.00032510995899315276	L-glutamate	4-hydroxy-2-nonenal detoxification$serine biosynthesis (phosphorylated route)$lysine degradation II (pipecolate pathway)$L-cysteine degradation I$5-aminoimidazole ribonucleotide biosynthesis$glutathione biosynthesis$histidine degradation$&beta;-alanine degradation$glutamate biosynthesis/degradation$4-hydroxybenzoate biosynthesis$valine degradation$isoleucine degradation$L-dopa degradation$L-glutamine tRNA biosynthesis$UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II$guanosine ribonucleotides <i>de novo</i> biosynthesis$(S)-reticuline biosynthesis$lysine degradation I (saccharopine pathway)$4-hydroxyproline degradation$glutamate removal from folates$UTP and CTP dephosphorylation II$aspartate biosynthesis$alanine biosynthesis/degradation$UTP and CTP <i>de novo</i> biosynthesis$glutamine degradation/glutamate biosynthesis$ornithine <i>de novo </i> biosynthesis$folate polyglutamylation$malate-aspartate shuttle$proline degradation$UTP and CTP dephosphorylation I$NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde$glutathione-mediated detoxification$asparagine degradation$L-cysteine degradation II$proline biosynthesis$leucine degradation$tRNA charging$tyrosine degradation$asparagine biosynthesis$UMP biosynthesis$glutamine biosynthesis$4-aminobutyrate degradation
+168.028754991019	L-4-HYDROXYGLUTAMATE_SEMIALDEHYDE	M+Na-2H[-]	0.00032510995899315276	L-4-hydroxyglutamate semialdehyde	4-hydroxyproline degradation
+178.049645799649	INDOXYL	M+HCOO[-]	-0.0007630523510044895	indoxyl	
+181.035520070947	HYPOXANTHINE	M+HCOO[-]	-0.0006357003530013117	hypoxanthine	adenine and adenosine salvage III$adenosine nucleotides degradation$purine deoxyribonucleosides degradation$purine ribonucleosides degradation to ribose-1-phosphate
+182.044379603006	CPD-468	M+Na-2H[-]	0.00029965774598395	L-2-aminoadipate	lysine degradation I (saccharopine pathway)$lysine degradation II (pipecolate pathway)
+188.010365919744	CPD-782	M+Na-2H[-]	0.0006601080839914175	3,4-dihydroxyphenylacetate	dopamine degradation
+188.010365919744	DIHYDROXYPHENYLGLYCOLALDEHYDE	M+Na-2H[-]	0.0006601080839914175	3,4-dihydroxyphenylglycolaldehyde	noradrenaline and adrenaline degradation
+188.010365919744	HOMOGENTISATE	M+Na-2H[-]	0.0006601080839914175	homogentisate	tyrosine degradation
+189.039315351094	ITACONATE	M+CH3COO[-]	-0.0005883299060087666	itaconate	
+191.018276211747	2-KETOGLUTARATE	M+HCOO[-]	-0.0008920913529948393	2-oxoglutarate	serine biosynthesis (phosphorylated route)$lysine degradation II (pipecolate pathway)$L-cysteine degradation I$glutamate biosynthesis/degradation$TCA cycle$isoleucine degradation$L-dopa degradation$L-carnitine biosynthesis$valine degradation$<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation$(S)-reticuline biosynthesis$lysine degradation I (saccharopine pathway)$4-hydroxyproline degradation$aspartate biosynthesis$fatty acid &alpha;-oxidation$alanine biosynthesis/degradation$4-hydroxybenzoate biosynthesis$morphine biosynthesis$ornithine <i>de novo </i> biosynthesis$malate-aspartate shuttle$asparagine degradation$L-cysteine degradation II$2-oxoglutarate decarboxylation to succinyl-CoA$4-aminobutyrate degradation$tyrosine degradation$asparagine biosynthesis$&beta;-alanine degradation$leucine degradation
+191.018276211747	OXALACETIC_ACID	M+CH3COO[-]	-0.0008920271529859747	oxaloacetate	gluconeogenesis$malate-aspartate shuttle$asparagine biosynthesis$TCA cycle$aspartate biosynthesis$acetyl-CoA biosynthesis from citrate$asparagine degradation
+195.049525084521	BETA-D-XYLOSE	M+HCOO[-]	-0.0009433469789996707	&beta-D-xylopyranose	
+195.049525084521	CPD-10330	M+HCOO[-]	-0.0009433469789996707	&alpha-D-ribofuranose	
+195.049525084521	CPD-15818	M+HCOO[-]	-0.0009433469789996707	<i>aldehydo</i>-D-ribose	
+195.049525084521	CPD0-1108	M+HCOO[-]	-0.0009433469789996707	&beta-D-ribofuranose	
+195.049525084521	D-XYLULOSE	M+HCOO[-]	-0.0009433469789996707	D-xylulose	
+195.049525084521	L-XYLULOSE	M+HCOO[-]	-0.0009433469789996707	L-xylulose	D-glucuronate degradation
+195.050827035656	BETA-D-XYLOSE	M+HCOO[-]	0.00035860415599131557	&beta-D-xylopyranose	
+195.050827035656	CPD-10330	M+HCOO[-]	0.00035860415599131557	&alpha-D-ribofuranose	
+195.050827035656	CPD-15818	M+HCOO[-]	0.00035860415599131557	<i>aldehydo</i>-D-ribose	
+195.050827035656	CPD0-1108	M+HCOO[-]	0.00035860415599131557	&beta-D-ribofuranose	
+195.050827035656	D-XYLULOSE	M+HCOO[-]	0.00035860415599131557	D-xylulose	
+195.050827035656	GLUCONATE	M-H[-]	-0.0001992374739927527	D-gluconate	
+195.050827035656	L-GULONATE	M-H[-]	-0.0001992374739927527	L-gulonate	D-glucuronate degradation
+195.050827035656	L-XYLULOSE	M+HCOO[-]	0.00035860415599131557	L-xylulose	D-glucuronate degradation
+197.044333489184	34-DIHYDROXYPHENYLACETALDEHYDE	M+HCOO[-]	-0.0006556339160113112	3,4-dihydroxyphenylacetaldehyde	(S)-reticuline biosynthesis$dopamine degradation
+197.044333489184	CPD-110	M+CH3COO[-]	-0.0006555697160024465	salicylate	
+197.044333489184	CPD-11495	M+HCOO[-]	-0.0006556339160113112	2-hydroxyphenylacetate	
+197.044333489184	CPD-6442	M+HCOO[-]	-0.0006556339160113112	1-O-methylsalicylate	
+197.044333489184	CPD-7616	M+CH3COO[-]	-0.0006555697160024465	protocatechualdehyde	
+197.066916968287	L-ARABITOL	M+HCOO[-]	0.00079847258697896	L-arabitol	
+197.066916968287	XYLITOL	M+HCOO[-]	0.00079847258697896	xylitol	D-glucuronate degradation
+201.111903458657	CPD-10806	M+HCOO[-]	-0.0007712991429968952	4-hydroxy-2-nonenal	4-hydroxy-2-nonenal detoxification
+205.034078645599	2-KETOGLUTARATE	M+CH3COO[-]	-0.0007396575009863682	2-oxoglutarate	serine biosynthesis (phosphorylated route)$lysine degradation II (pipecolate pathway)$L-cysteine degradation I$glutamate biosynthesis/degradation$TCA cycle$isoleucine degradation$L-dopa degradation$L-carnitine biosynthesis$valine degradation$<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation$(S)-reticuline biosynthesis$lysine degradation I (saccharopine pathway)$4-hydroxyproline degradation$aspartate biosynthesis$fatty acid &alpha;-oxidation$alanine biosynthesis/degradation$4-hydroxybenzoate biosynthesis$morphine biosynthesis$ornithine <i>de novo </i> biosynthesis$malate-aspartate shuttle$asparagine degradation$L-cysteine degradation II$2-oxoglutarate decarboxylation to succinyl-CoA$4-aminobutyrate degradation$tyrosine degradation$asparagine biosynthesis$&beta;-alanine degradation$leucine degradation
+205.034078645599	2K-ADIPATE	M+HCOO[-]	-0.0007397217009952328	2-oxoadipate	2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA$lysine degradation I (saccharopine pathway)$lysine degradation II (pipecolate pathway)
+213.111641462709	CPD-7618	M+HCOO[-]	-0.0010332950909912597	geranate	
+213.111641462709	CPD-9976	M+HCOO[-]	-0.0010332950909912597	(6<i>E</i>)-8-oxogeraniol	
+213.111641462709	CPD-9977	M+HCOO[-]	-0.0010332950909912597	(6<i>E</i>)-8-hydroxygeranial	
+225.061501149678	ALPHA-D-GALACTOSE	M+HCOO[-]	0.0004680318780003745	&alpha-D-galactose	D-galactose degradation V (Leloir pathway)
+225.061501149678	ALPHA-GLUCOSE	M+HCOO[-]	0.0004680318780003745	&alpha-D-glucose	trehalose degradation$sucrose degradation
+225.061501149678	BETA-D-FRUCTOSE	M+HCOO[-]	0.0004680318780003745	&beta-D-fructofuranose	sucrose degradation
+225.061501149678	CPD-12601	M+HCOO[-]	0.0004680318780003745	&beta-D-mannose	
+225.061501149678	CPD-13559	M+HCOO[-]	0.0004680318780003745	&alpha-D-mannose	
+225.061501149678	CPD-15373	M+HCOO[-]	0.0004680318780003745	<i>aldehydo</i>-D-mannose	
+225.061501149678	CPD-15382	M+HCOO[-]	0.0004680318780003745	keto-D-fructose	sorbitol degradation I
+225.061501149678	CPD-15616	M+HCOO[-]	0.0004680318780003745	<i>keto</i>-L-sorbose	
+225.061501149678	GALACTOSE	M+HCOO[-]	0.0004680318780003745	&beta-D-galactose	lactose degradation III$D-galactose degradation V (Leloir pathway)
+225.061501149678	GLC	M+HCOO[-]	0.0004680318780003745	&beta-D-glucose	trehalose degradation$UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II$lactose degradation III$glycogenolysis$sucrose degradation
+225.061501149678	MYO-INOSITOL	M+HCOO[-]	0.0004680318780003745	<I>myo</I>-inositol	<i>myo</i>-inositol <i>de novo</i> biosynthesis$D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis$D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation$3-phosphoinositide biosynthesis
+225.086482816044	7-AMINOMETHYL-7-DEAZAGUANINE	M+HCOO[-]	0.00030284694398119427	preQ<sub>1</sub>	
+263.102484686352	CPD-12022	M-H[-]	-0.0012458592780149047	<i>N</i><sup>1</sup>-acetyl-<i>N</i><sup>2</sup>-formyl-5-methoxykynuramine	melatonin degradation III
+263.102484686352	N-ACETYL-SEROTONIN	M+HCOO[-]	-0.000688017647973993	<i>N</i>-acetyl-serotonin	melatonin degradation I$serotonin and melatonin biosynthesis
+264.988149813148	CPD-15318	M+Cl[-]	9.597324805099561e-05	&alpha-D-ribose 5-phosphate	
+264.988149813148	CPD-15895	M+Cl[-]	9.597324805099561e-05	<i>keto</i>-D-ribose 5-phosphate	
+264.988149813148	CPD-16551	M+Cl[-]	9.597324805099561e-05	&beta-D-ribose 5-phosphate	
+264.988149813148	RIBOSE-1P	M+Cl[-]	9.597324805099561e-05	&alpha-D-ribose-1-phosphate	adenine and adenosine salvage III$adenine and adenosine salvage I$purine ribonucleosides degradation to ribose-1-phosphate$guanosine nucleotides degradation$pyrimidine ribonucleosides degradation$guanine and guanosine salvage$adenosine nucleotides degradation$urate biosynthesis/inosine 5'-phosphate degradation
+264.988149813148	RIBULOSE-5P	M+Cl[-]	9.597324805099561e-05	D-ribulose 5-phosphate	pentose phosphate pathway (non-oxidative branch)$pentose phosphate pathway (oxidative branch)
+264.988149813148	XYLULOSE-5-PHOSPHATE	M+Cl[-]	9.597324805099561e-05	D-xylulose 5-phosphate	pentose phosphate pathway (non-oxidative branch)
+272.956862477306	RIBOSE-15-BISPHOSPHATE	M-2H2O-H[-]	-0.0001453042239631941	&alpha-D-ribose 1,5-bisphosphate	
+319.065231883926	CPD-13469	M+CH3COO[-]	-0.0015910895739921216	&alpha-D-glucosamine 6-phosphate	UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II$<i>N</i>-acetylglucosamine degradation I
+319.065231883926	D-GALACTOSAMINE-6-PHOSPHATE	M+CH3COO[-]	-0.0015910895739921216	D-galactosamine 6-phosphate	
+369.172760252107	BETA-HYDROXYANDROST-5-EN-17-ONE-3-SULFAT	M-H[-]	-0.0013580446229752852	3-&beta-hydroxyandrost-5-en-17-one 3-sulfate	
+431.192560365216	7-O-ACETYLSALUTARIDINOL	M+CH3COO[-]	-0.001832585084002858	7-<i>O</i>-acetylsalutaridinol	morphine biosynthesis
+512.267989428175	GLYCOLITHOCHOLATE-3-SULFATES	M-H[-]	-0.0007575352549338277	glycolithocholate-3-sulfate	

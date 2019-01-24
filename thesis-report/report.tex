@@ -1,6 +1,7 @@
 \documentclass[]{article}
 \usepackage[english, science, titlepage]{ku-frontpage}
 \usepackage[acronym]{glossaries}
+
 \makeglossaries
 %opening
 \assignment{Master Thesis}
@@ -9,13 +10,17 @@
 \subtitle{}
 \advisor{Supervisor: Gözde Gürdenz}
 \date{Jun, 2019}
+\usepackage[backend=biber,style=nature,%sorting=ynt
+]{biblatex}
+%\addbibresource{barley1.bib}
+\addbibresource{barley.bib}
+\usepackage{tabularx}
 
 \begin{document}
 \maketitle
 %% abstract
 %\begin{abstract}
 %\end{abstract}
-
 %% table of content
 \tableofcontents
 \newpage
@@ -47,10 +52,15 @@
 \newpage
 \section{Preface}
 
+%\input{barley.bib}
 
 \section{Introduction}
 \input{intro.tex}
 
 \section{Materials and methods}
 \input{materials-methods.tex}
+
+\section{Results}
+\input{result.tex}
+
 \end{document}

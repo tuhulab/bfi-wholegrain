@@ -1,0 +1,79 @@
+
+------------------------------------------------------------------------
+XCMSOnline  version  2.7.2
+XCMS        version  1.47.3
+CAMERA      version  1.34.0
+------------------------------------------------------------------------
+General parameters
+	 Polarity 	 negative 
+	 Retention time format 	 minutes 
+2. Feature detection
+	 method : centWave
+	 ppm 	 10 
+	 snthr 	 6 
+	 peakwidth 	 5 20 
+	 mzdiff 	 0.01 
+	 prefilter peaks 	 3 
+	 prefilter intensity 	 100 
+	 noise 	 100 
+	 Feature detection results :
+	05102016-089.mzML	 [urine_neg_ab]	   -->  277  Features. 
+	05102016-092.mzML	 [urine_neg_ab]	   -->  130  Features. 
+	05102016-093.mzML	 [urine_neg_ab]	   -->  140  Features. 
+	05102016-100.mzML	 [urine_neg_ab]	   -->  264  Features. 
+	05102016-108.mzML	 [urine_neg_ab]	   -->  166  Features. 
+	05102016-109.mzML	 [urine_neg_ab]	   -->  103  Features. 
+	05102016-121.mzML	 [urine_neg_ab]	   -->  185  Features. 
+	05102016-126.mzML	 [urine_neg_ab]	   -->  272  Features. 
+	05102016-127.mzML	 [urine_neg_ab]	   -->  161  Features. 
+	05102016-131.mzML	 [urine_neg_ab]	   -->  251  Features. 
+	05102016-132.mzML	 [urine_neg_ab]	   -->  242  Features. 
+	05102016-139.mzML	 [urine_neg_ab]	   -->  291  Features. 
+	05102016-141.mzML	 [urine_neg_ab]	   -->  208  Features. 
+	05102016-143.mzML	 [urine_neg_ab]	   -->  184  Features. 
+	05102016-087.mzML	 [urine_neg_aw]	   -->  184  Features. 
+	05102016-088.mzML	 [urine_neg_aw]	   -->  199  Features. 
+	05102016-096.mzML	 [urine_neg_aw]	   -->  201  Features. 
+	05102016-101.mzML	 [urine_neg_aw]	   -->  222  Features. 
+	05102016-102.mzML	 [urine_neg_aw]	   -->  140  Features. 
+	05102016-104.mzML	 [urine_neg_aw]	   -->  233  Features. 
+	05102016-110.mzML	 [urine_neg_aw]	   -->  147  Features. 
+	05102016-111.mzML	 [urine_neg_aw]	   -->  251  Features. 
+	05102016-113.mzML	 [urine_neg_aw]	   -->  270  Features. 
+	05102016-118.mzML	 [urine_neg_aw]	   -->  107  Features. 
+	05102016-129.mzML	 [urine_neg_aw]	   -->  216  Features. 
+	05102016-130.mzML	 [urine_neg_aw]	   -->  112  Features. 
+	05102016-137.mzML	 [urine_neg_aw]	   -->  204  Features. 
+	05102016-147.mzML	 [urine_neg_aw]	   -->  144  Features. 
+3. Retention time correction
+	 method : obiwarp
+	 profStep 	 1 
+4. Grouping
+	 method : density
+	 bw 	 5 
+	 mzwid 	 0.015 
+	 minfrac 	 0.5 
+	 minsamp 	 1 
+5. FillPeaks
+6. Diffreport 
+	 class1 	 urine_neg_ab 
+	 class2 	 urine_neg_aw 
+	 statistical test 	 Unpaired parametric t-test (Welch t-test, unequal variances) 
+	 statistics.threshold.pvalue 	 0.001 
+	 statistics.diffReport.value 	 into 
+7. Additional Plots & Statistics 
+	Running mummichog
+	Printing MDS plot
+	Printing static PCA and Select Scaling plot
+8. Annotation (isotopes & adducts)
+	 featureAnnotation.CAMERA.annotate 	 isotopes + adducts 
+	 featureAnnotation.CAMERA.mzabs 	 0.015 
+	 featureAnnotation.CAMERA.ppm  	 5 
+	 featureAnnotation.CAMERA.sigma 	 6 
+	 featureAnnotation.CAMERA.perfwhm 	 0.6 
+	 featureAnnotation.CAMERA.maxcharge 	 3 
+	 featureAnnotation.CAMERA.maxiso 	 5 
+	 featureAnnotation.CAMERA.intensity 	 into 
+9. Putative ID's (METLIN)
+	 identification.METLIN.ppm 	 10 
+	 identification.METLIN.adducts 	 M-H 

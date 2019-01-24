@@ -1,0 +1,101 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Ibrugger2013}{article}{}
+      \name{author}{9}{}{%
+        {{hash=a9d8c66682f7ed68b4907ccd3dfca3c5}{%
+           family={Ibrugger},
+           familyi={I\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5b9d74ecda42bd7c84012d9498cea335}{%
+           family={Kristensen},
+           familyi={K\bibinitperiod},
+           given={Mette},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf3126072a6412953162dbc732ed5d8e}{%
+           family={Poulsen},
+           familyi={P\bibinitperiod},
+           given={Malene\bibnamedelima Wibe},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=1e096be8c157b72e627c76a406febc79}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Mette\bibnamedelima Skau},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=af79c58cca8998c27945442a437b0080}{%
+           family={Ejsing},
+           familyi={E\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7299e323aa6afde6f88eb3b0d1ec4f78}{%
+           family={Jespersen},
+           familyi={J\bibinitperiod},
+           given={Birthe\bibnamedelima Moller},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3e667acfc0e431f8452290a5b7d3625f}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima Ove},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=2045dd809eccc6f53d271b10c22879bb}{%
+           family={Engelsen},
+           familyi={E\bibinitperiod},
+           given={Soren\bibnamedelima Balling},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ffdb7346c6c2e65cbf292810e2f9ee35}{%
+           family={Bugel},
+           familyi={B\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{bc6c274d62dec0c00cacc21d786ecb6a}
+      \strng{fullhash}{59e28a4fbc5a53f3494038443987e2a5}
+      \strng{bibnamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
+      \strng{authorbibnamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
+      \strng{authornamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
+      \strng{authorfullhash}{59e28a4fbc5a53f3494038443987e2a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{beta-Glucans are known to exhibit hypocholesterolemic effects. Increased intestinal viscosity is thought to be crucial for cholesterol lowering. It is suggested that concentration, molecular mass, and structure, including the ratio of (1--{>}3) to (1--{>}4) glucan bonds in the molecule, are of importance for beta-glucan functionality. This study investigated the effects of 3 different beta-glucan sources, incorporated into a beverage and yogurt, on blood lipids and fecal endpoints. Fourteen participants completed this randomized, crossover, single-blinded study with four 3-wk periods: control and 3.3 g/d oat, barley, and barley mutant beta-glucans of similar molecular mass. Before and after each period, fasting and postprandial blood samples were drawn and 3-d fecal samples were collected. Treatment did not affect changes in total, LDL, and HDL cholesterol compared with control; however, consumption of 3.3 g/d of oat beta-glucans for 3 wk resulted in greater decreases in total (-0.29 +/- 0.09 mmol/L, P {<} 0.01), LDL (-0.23 +/- 0.07 mmol/L, P {<} 0.01), and HDL (-0.05 +/- 0.03 mmol/L, P {<} 0.05) cholesterol compared with baseline. Changes in LDL in the beta-glucan treatments were not related to beta-glucan structure (cellotriosyl:cellotetraosyl). Decreases in fasting triacylglycerol were substantially greater after oat beta-glucan treatment compared with control (P = 0.03). Fecal dry and wet weight, stool frequency, fecal pH, and energy excretion were unaffected. The results do not fully support the hypocholesterolemic effects by differently structured oat and barley beta-glucans. However, substantial differences compared with baseline suggest a potential for oat beta-glucan, presumably due to its higher solubility and viscosity. This underlines the importance of elusive structural beta-glucan features for beneficial physiologic effects.}
+      \field{issn}{1541-6100 (Electronic)}
+      \field{journaltitle}{The Journal of nutrition}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Extracted oat and barley beta-glucans do not affect cholesterol metabolism in young healthy adults.}}
+      \field{volume}{143}
+      \field{year}{2013}
+      \field{pages}{1579\bibrangedash 1585}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3945/jn.112.173054
+      \endverb
+      \keyw{Adult,Anticholesteremic Agents,Avena,Cholesterol,Cholesterol,HDL,Cholesterol,LDL,Cross-Over Studies,Defecation,Diet,Feces,Female,Hordeum,Humans,Hydrogen-Ion Concentration,Male,Molecular Weight,Mutation,Single-Blind Method,Triglycerides,Young Adult,beta-Glucans,blood,chemistry,pharmacology}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

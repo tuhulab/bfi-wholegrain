@@ -1,4 +1,4 @@
-filename = 'serumPOSbl.xlsx'; % pre-processed data
+filename = 'serum_pos_bl.xlsx'; % pre-processed data
 SampleList = 'samplelist.xlsx'; % sample list label of the cdf files
 mode = 'pos'; %data mode
 dataform = '01.cdf'; %data format 

@@ -1,0 +1,79 @@
+
+------------------------------------------------------------------------
+XCMSOnline  version  2.7.2
+XCMS        version  1.47.3
+CAMERA      version  1.34.0
+------------------------------------------------------------------------
+General parameters
+	 Polarity 	 positive 
+	 Retention time format 	 minutes 
+2. Feature detection
+	 method : centWave
+	 ppm 	 10 
+	 snthr 	 6 
+	 peakwidth 	 5 20 
+	 mzdiff 	 0.01 
+	 prefilter peaks 	 3 
+	 prefilter intensity 	 100 
+	 noise 	 100 
+	 Feature detection results :
+	10102016-012.mzML	 [serum_pos_ab_zip]	   -->  187  Features. 
+	10102016-016.mzML	 [serum_pos_ab_zip]	   -->  170  Features. 
+	10102016-020.mzML	 [serum_pos_ab_zip]	   -->  174  Features. 
+	10102016-027.mzML	 [serum_pos_ab_zip]	   -->  162  Features. 
+	10102016-033.mzML	 [serum_pos_ab_zip]	   -->  162  Features. 
+	10102016-035.mzML	 [serum_pos_ab_zip]	   -->  154  Features. 
+	10102016-039.mzML	 [serum_pos_ab_zip]	   -->  170  Features. 
+	10102016-040.mzML	 [serum_pos_ab_zip]	   -->  158  Features. 
+	10102016-041.mzML	 [serum_pos_ab_zip]	   -->  154  Features. 
+	10102016-046.mzML	 [serum_pos_ab_zip]	   -->  178  Features. 
+	10102016-057.mzML	 [serum_pos_ab_zip]	   -->  174  Features. 
+	10102016-066.mzML	 [serum_pos_ab_zip]	   -->  174  Features. 
+	10102016-067.mzML	 [serum_pos_ab_zip]	   -->  165  Features. 
+	10102016-070.mzML	 [serum_pos_ab_zip]	   -->  164  Features. 
+	10102016-014.mzML	 [serum_pos_aw_zip]	   -->  179  Features. 
+	10102016-015.mzML	 [serum_pos_aw_zip]	   -->  178  Features. 
+	10102016-018.mzML	 [serum_pos_aw_zip]	   -->  167  Features. 
+	10102016-019.mzML	 [serum_pos_aw_zip]	   -->  174  Features. 
+	10102016-036.mzML	 [serum_pos_aw_zip]	   -->  164  Features. 
+	10102016-037.mzML	 [serum_pos_aw_zip]	   -->  164  Features. 
+	10102016-038.mzML	 [serum_pos_aw_zip]	   -->  169  Features. 
+	10102016-045.mzML	 [serum_pos_aw_zip]	   -->  165  Features. 
+	10102016-050.mzML	 [serum_pos_aw_zip]	   -->  172  Features. 
+	10102016-054.mzML	 [serum_pos_aw_zip]	   -->  166  Features. 
+	10102016-056.mzML	 [serum_pos_aw_zip]	   -->  159  Features. 
+	10102016-059.mzML	 [serum_pos_aw_zip]	   -->  178  Features. 
+	10102016-063.mzML	 [serum_pos_aw_zip]	   -->  172  Features. 
+	10102016-072.mzML	 [serum_pos_aw_zip]	   -->  156  Features. 
+3. Retention time correction
+	 method : obiwarp
+	 profStep 	 1 
+4. Grouping
+	 method : density
+	 bw 	 5 
+	 mzwid 	 0.015 
+	 minfrac 	 0.5 
+	 minsamp 	 1 
+5. FillPeaks
+6. Diffreport 
+	 class1 	 serum_pos_ab_zip 
+	 class2 	 serum_pos_aw_zip 
+	 statistical test 	 Unpaired parametric t-test (Welch t-test, unequal variances) 
+	 statistics.threshold.pvalue 	 0.001 
+	 statistics.diffReport.value 	 into 
+7. Additional Plots & Statistics 
+	Running mummichog
+	Printing MDS plot
+	Printing static PCA and Select Scaling plot
+8. Annotation (isotopes & adducts)
+	 featureAnnotation.CAMERA.annotate 	 isotopes + adducts 
+	 featureAnnotation.CAMERA.mzabs 	 0.015 
+	 featureAnnotation.CAMERA.ppm  	 5 
+	 featureAnnotation.CAMERA.sigma 	 6 
+	 featureAnnotation.CAMERA.perfwhm 	 0.6 
+	 featureAnnotation.CAMERA.maxcharge 	 3 
+	 featureAnnotation.CAMERA.maxiso 	 5 
+	 featureAnnotation.CAMERA.intensity 	 into 
+9. Putative ID's (METLIN)
+	 identification.METLIN.ppm 	 10 
+	 identification.METLIN.adducts 	 M+H, M+NH4, M+Na, M+K 

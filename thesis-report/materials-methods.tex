@@ -9,6 +9,8 @@ MassLynx was used to check mass spectra.
 
 DataBridge, an \acrshort{lc-ms} data file conversion program built-in MassLynx developed by Waters.
 
+XCMS Online
+
 
 \subsection{Data-preprocessing}
 Data-preprocessing consists x steps.
@@ -24,5 +26,10 @@ Positive mode and negative were separately processed because of different noise 
 % result
 In the end, the detected features, including information of mass to charge ratio (m/z), retention time (rt) and intensities were output as '.csv' files for further investigation.
 
-\subsection{Data conversion from MATLAB to R}
-'m2r.R'\footnote{codes were reposited on GitHub: https://github.com/tuhulab/bfi-wholegrain/blob/master/r/m2r.R} can convert a matlab dataset into R tidy form.
+%XCMS
+%\subsection{Data conversion from MATLAB to R}
+%'m2r.R'\footnote{codes were reposited on GitHub: https://github.com/tuhulab/bfi-wholegrain/blob/master/r/m2r.R} can convert a matlab dataset into R tidy form.
+
+\subsection{Statistics}
+\subsubsection{Paired t test}
+Paired-t test and unpaired-t test were conducted on XCMS Online (xcmsonline.scripps.edu).

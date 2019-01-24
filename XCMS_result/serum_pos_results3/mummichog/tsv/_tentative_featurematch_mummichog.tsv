@@ -1,0 +1,27 @@
+m/z	id	match_form	mz_difference	name	pathway	feature_ID
+72.0804578689183	PUTRESCINE	M-NH3+H[1+]	-0.00013859785168790495	putrescine	putrescine degradation III$spermidine biosynthesis$putrescine biosynthesis II$spermine and spermidine degradation I$putrescine biosynthesis I
+105.033779493814	4-HYDROXYBENZALDEHYDE	M-H2O+H[1+]	0.00032359024400818726	4-hydroxybenzaldehyde	
+118.086837477867	L-ORNITHINE	M-NH3+H[1+]	0.0005333070970010567	L-ornithine	creatine biosynthesis$putrescine biosynthesis I$ornithine <i>de novo </i> biosynthesis$urea cycle
+120.081155462891	NN-DIMETHYLANILINE-N-OXIDE	M-H2O+H[1+]	0.0004150157210034422	<i>N,N</i>-dimethylaniline-<i>N</i>-oxide	
+132.102249354578	LYS	M-NH3+H[1+]	0.0002951196079834517	L-lysine	tRNA charging$lysine degradation I (saccharopine pathway)$lysine degradation II (pipecolate pathway)
+166.086623750507	4-3-PYRIDYL-BUTANOATE	M+H[1+]	0.0003686812369778636	4-(3-pyridyl)-butanoate	nicotine degradation III$nicotine degradation IV
+166.086623750507	CPD-6122	M+K[1+]	0.00032379183699049463	1,5-diazabicyclononane	
+188.070834671252	CPD-12020	M-H2O+H[1+]	0.0002649798819902571	5-methoxyindole acetate	melatonin degradation II
+188.070834671252	CPD-2748	M+K[1+]	0.00018477678196404668	nornicotine	nicotine degradation IV
+188.070834671252	CPD-397	M+Na[1+]	-0.0007912164180368109	S-methyl-L-methionine	methionine salvage
+203.053081921394	ALPHA-D-GALACTOSE	M+Na[1+]	0.0004173368240003583	&alpha-D-galactose	D-galactose degradation V (Leloir pathway)
+203.053081921394	ALPHA-GLUCOSE	M+Na[1+]	0.0004173368240003583	&alpha-D-glucose	trehalose degradation$sucrose degradation
+203.053081921394	BETA-D-FRUCTOSE	M+Na[1+]	0.0004173368240003583	&beta-D-fructofuranose	sucrose degradation
+203.053081921394	CPD-12601	M+Na[1+]	0.0004173368240003583	&beta-D-mannose	
+203.053081921394	CPD-13559	M+Na[1+]	0.0004173368240003583	&alpha-D-mannose	
+203.053081921394	CPD-15373	M+Na[1+]	0.0004173368240003583	<i>aldehydo</i>-D-mannose	
+203.053081921394	CPD-15382	M+Na[1+]	0.0004173368240003583	keto-D-fructose	sorbitol degradation I
+203.053081921394	CPD-15616	M+Na[1+]	0.0004173368240003583	<i>keto</i>-L-sorbose	
+203.053081921394	GALACTOSE	M+Na[1+]	0.0004173368240003583	&beta-D-galactose	lactose degradation III$D-galactose degradation V (Leloir pathway)
+203.053081921394	GLC	M+Na[1+]	0.0004173368240003583	&beta-D-glucose	trehalose degradation$UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II$lactose degradation III$glycogenolysis$sucrose degradation
+203.053081921394	MYO-INOSITOL	M+Na[1+]	0.0004173368240003583	<I>myo</I>-inositol	<i>myo</i>-inositol <i>de novo</i> biosynthesis$D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis$D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation$3-phosphoinositide biosynthesis
+300.290070127749	OLEATE-CPD	M+NH3+H[1+]	0.00041332537898597366	oleate	oleate biosynthesis
+328.321769497888	CPD-14927	M+NH3+H[1+]	0.0008125671179755045	phytenate	phytol degradation
+583.255908051784	BILIVERDINE	M+H[1+]	0.0007967402139001933	biliverdin-IX-&alpha	heme degradation
+787.671250687288	CPD-9865	M-H2O+H[1+]	-0.0038578484820845915	2-methoxy-6-(<i>all-trans</i>-decaprenyl)phenol	ubiquinol-10 biosynthesis
+991.678525163924	CPD-11401	M+K[1+]	-0.003019138946001476	L-thyroxine acyl &beta-D-glucuronide	thyroid hormone metabolism II (via conjugation and/or degradation)

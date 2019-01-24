@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  28 DEC 2018 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  18 JAN 2019 15:51
 entering extended mode
 **./report.tex
 (report.tex
@@ -418,47 +418,361 @@ Package: glossary-tree 2018/07/23 v4.41 (NLCT)
 \glo@main@file=\write4
 \openout4 = `report.glo'.
 
-Package glossaries Info: Writing glossary file report.glo on input line 4.
+Package glossaries Info: Writing glossary file report.glo on input line 5.
 \glo@acronym@file=\write5
 \openout5 = `report.acn'.
 
-Package glossaries Info: Writing glossary file report.acn on input line 4.
- (report.aux)
+Package glossaries Info: Writing glossary file report.acn on input line 5.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.s
+ty"
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
+ds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
+.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
+sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkey
+s.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds
+.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count133
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.sty
+"
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.t
+ex"
+\@xs@message=\write6
+\integerpart=\count134
+\decimalpart=\count135
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count136
+\c@listtotal=\count137
+\c@listcount=\count138
+\c@liststart=\count139
+\c@liststop=\count140
+\c@citecount=\count141
+\c@citetotal=\count142
+\c@multicitecount=\count143
+\c@multicitetotal=\count144
+\c@instcount=\count145
+\c@maxnames=\count146
+\c@minnames=\count147
+\c@maxitems=\count148
+\c@minitems=\count149
+\c@citecounter=\count150
+\c@savedcitecounter=\count151
+\c@uniquelist=\count152
+\c@uniquename=\count153
+\c@refsection=\count154
+\c@refsegment=\count155
+\c@maxextratitle=\count156
+\c@maxextratitleyear=\count157
+\c@maxextradate=\count158
+\c@maxextraalpha=\count159
+\c@abbrvpenalty=\count160
+\c@highnamepenalty=\count161
+\c@lownamepenalty=\count162
+\c@maxparens=\count163
+\c@parenlevel=\count164
+\blx@tempcnta=\count165
+\blx@tempcntb=\count166
+\blx@tempcntc=\count167
+\blx@maxsection=\count168
+\blx@maxsegment@0=\count169
+\blx@notetype=\count170
+\blx@parenlevel@text=\count171
+\blx@parenlevel@foot=\count172
+\blx@sectionciteorder@0=\count173
+\labelnumberwidth=\skip59
+\labelalphawidth=\skip60
+\biblabelsep=\skip61
+\bibitemsep=\skip62
+\bibnamesep=\skip63
+\bibinitsep=\skip64
+\bibparsep=\skip65
+\bibhang=\skip66
+\blx@bcfin=\read1
+\blx@bcfout=\write7
+\c@mincomprange=\count174
+\c@maxcomprange=\count175
+\c@mincompwidth=\count176
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+"
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'nature.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count177
+\c@savedafterword=\count178
+\c@annotator=\count179
+\c@savedannotator=\count180
+\c@author=\count181
+\c@savedauthor=\count182
+\c@bookauthor=\count183
+\c@savedbookauthor=\count184
+\c@commentator=\count185
+\c@savedcommentator=\count186
+\c@editor=\count187
+\c@savededitor=\count188
+\c@editora=\count189
+\c@savededitora=\count190
+\c@editorb=\count191
+\c@savededitorb=\count192
+\c@editorc=\count193
+\c@savededitorc=\count194
+\c@foreword=\count195
+\c@savedforeword=\count196
+\c@holder=\count197
+\c@savedholder=\count198
+\c@introduction=\count199
+\c@savedintroduction=\count266
+\c@namea=\count267
+\c@savednamea=\count268
+\c@nameb=\count269
+\c@savednameb=\count270
+\c@namec=\count271
+\c@savednamec=\count272
+\c@translator=\count273
+\c@savedtranslator=\count274
+\c@shortauthor=\count275
+\c@savedshortauthor=\count276
+\c@shorteditor=\count277
+\c@savedshorteditor=\count278
+\c@labelname=\count279
+\c@savedlabelname=\count280
+\c@institution=\count281
+\c@savedinstitution=\count282
+\c@lista=\count283
+\c@savedlista=\count284
+\c@listb=\count285
+\c@savedlistb=\count286
+\c@listc=\count287
+\c@savedlistc=\count288
+\c@listd=\count289
+\c@savedlistd=\count290
+\c@liste=\count291
+\c@savedliste=\count292
+\c@listf=\count293
+\c@savedlistf=\count294
+\c@location=\count295
+\c@savedlocation=\count296
+\c@organization=\count297
+\c@savedorganization=\count298
+\c@origlocation=\count299
+\c@savedoriglocation=\count300
+\c@origpublisher=\count301
+\c@savedorigpublisher=\count302
+\c@publisher=\count303
+\c@savedpublisher=\count304
+\c@language=\count305
+\c@savedlanguage=\count306
+\c@origlanguage=\count307
+\c@savedoriglanguage=\count308
+\c@pageref=\count309
+\c@savedpageref=\count310
+\shorthandwidth=\skip67
+\shortjournalwidth=\skip68
+\shortserieswidth=\skip69
+\shorttitlewidth=\skip70
+\shortauthorwidth=\skip71
+\shorteditorwidth=\skip72
+\locallabelnumberwidth=\skip73
+\locallabelalphawidth=\skip74
+\localshorthandwidth=\skip75
+\localshortjournalwidth=\skip76
+\localshortserieswidth=\skip77
+\localshorttitlewidth=\skip78
+\localshortauthorwidth=\skip79
+\localshorteditorwidth=\skip80
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compat
+.def"
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.d
+ef"
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count311
+\c@textcitetotal=\count312
+\c@textcitemaxnames=\count313
+\c@biburlnumpenalty=\count314
+\c@biburlucpenalty=\count315
+\c@biburllcpenalty=\count316
+\c@smartand=\count317
+)
+Package biblatex Info: Trying to load bibliography style 'nature'...
+Package biblatex Info: ... file 'nature.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-nature\nat
+ure.bbx"
+File: nature.bbx 2018/10/18 v1.3c biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeri
+c-comp.bbx"
+File: numeric-comp.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeri
+c.bbx"
+File: numeric.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\standa
+rd.bbx"
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count318
+\c@bbx:relatedtotal=\count319
+))))
+Package biblatex Info: Trying to load citation style 'nature'...
+Package biblatex Info: ... file 'nature.cbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-nature\nat
+ure.cbx"
+File: nature.cbx 2018/10/18 v1.3c biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numeri
+c-comp.cbx"
+File: numeric-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count320
+\c@cbx@tempcntb=\count321
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.c
+fg"
+File: biblatex.cfg 
+))
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box33
+\extrarowheight=\dimen136
+\NC@list=\toks32
+\extratabsurround=\skip81
+\backup@length=\skip82
+\ar@cellbox=\box34
+)
+\TX@col@width=\dimen137
+\TX@old@table=\dimen138
+\TX@old@col=\dimen139
+\TX@target=\dimen140
+\TX@delta=\dimen141
+\TX@cols=\count322
+\TX@ftn=\toks33
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\englis
+h.lbx"
+File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count323
+\@quotereset=\count324
+(report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 19.
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-\AtBeginShipoutBox=\box33
+\AtBeginShipoutBox=\box35
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
 i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count133
-\scratchdimen=\dimen135
-\scratchbox=\box34
-\nofMPsegments=\count134
-\nofMParguments=\count135
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count136
-\MPscratchDim=\dimen136
-\MPnumerator=\count137
-\makeMPintoPDFobject=\count138
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count325
+\scratchdimen=\dimen142
+\scratchbox=\box36
+\nofMPsegments=\count326
+\nofMParguments=\count327
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count328
+\MPscratchDim=\dimen143
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
+\everyMPtoPDFconversion=\toks35
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
 ase.sty"
@@ -472,37 +786,6 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 keys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
-sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkey
-s.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds
-.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
-.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcm
-ds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
@@ -587,9 +870,9 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 y"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen137
-\Hy@linkcounter=\count139
-\Hy@pagecounter=\count140
+\@linkdim=\dimen144
+\Hy@linkcounter=\count331
+\Hy@pagecounter=\count332
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 "
@@ -597,7 +880,7 @@ File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count141
+\Hy@SavedSpaceFactor=\count333
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
 fg"
@@ -610,19 +893,16 @@ Package hyperref Info: Plain pages OFF on input line 4550.
 Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count142
- ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip11
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count334
+LaTeX Info: Redefining \nolinkurl on input line 5139.
 LaTeX Info: Redefining \url on input line 5141.
-\XeTeXLinkMargin=\dimen138
+\XeTeXLinkMargin=\dimen145
 Package auxhook Info: \AddLineBeginMainAux comes a little late,
 (auxhook)             because the main .aux file is already opened on input lin
 e 5522.
-\Fld@menulength=\count143
-\Field@Width=\dimen139
-\Fld@charsize=\dimen140
+\Fld@menulength=\count335
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
 Package hyperref Info: Hyper figures OFF on input line 6396.
 Package hyperref Info: Link nesting OFF on input line 6401.
 Package hyperref Info: Hyper index ON on input line 6404.
@@ -632,17 +912,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6421.
 Package hyperref Info: PDF/A mode OFF on input line 6426.
 LaTeX Info: Redefining \ref on input line 6466.
 LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count144
-\c@Item=\count145
-\c@Hfootnote=\count146
+\Hy@abspage=\count336
+\c@Item=\count337
+\c@Hfootnote=\count338
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
 f"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count147
-\c@bookmark@seq@number=\count148
+\Fld@listcount=\count339
+\c@bookmark@seq@number=\count340
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
 heck.sty"
@@ -650,9 +930,9 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip59
+\Hy@SectionHShift=\skip83
 )
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 19.
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
@@ -662,37 +942,47 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count149
+\c@section@level=\count341
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
  (report.out) (report.out)
-\@outlinefile=\write6
-\openout6 = `report.out'.
+\@outlinefile=\write8
+\openout8 = `report.out'.
 
  (report.glsdefs)
-<logos/science-logo.pdf, id=27, 597.50731pt x 845.0471pt>
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout7 = `report.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report.bbl' found.
+ (report.bbl)
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
+<logos/science-logo.pdf, id=55, 597.50731pt x 845.0471pt>
 File: logos/science-logo.pdf Graphic file (type pdf)
 <use logos/science-logo.pdf>
-Package pdftex.def Info: logos/science-logo.pdf  used on input line 18.
+Package pdftex.def Info: logos/science-logo.pdf  used on input line 25.
 (pdftex.def)             Requested size: 597.50584pt x 845.04504pt.
-<logos/science-english.pdf, id=29, 597.23125pt x 845.1575pt>
+<logos/science-english.pdf, id=57, 597.23125pt x 845.1575pt>
 File: logos/science-english.pdf Graphic file (type pdf)
 <use logos/science-english.pdf>
-Package pdftex.def Info: logos/science-english.pdf  used on input line 18.
+Package pdftex.def Info: logos/science-english.pdf  used on input line 25.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 25.
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 18.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
 
 
 LaTeX Font Warning: Font shape `OT1/phv/sb/n' undefined
-(Font)              using `OT1/phv/m/n' instead on input line 18.
+(Font)              using `OT1/phv/m/n' instead on input line 25.
 
 [1{C:/Users/tuhu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
@@ -700,53 +990,74 @@ LaTeX Font Warning: Font shape `OT1/phv/sb/n' undefined
 
  <./logos/science-logo.pdf> <./logos/science-english.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
  (report.toc
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
 )
-\tf@toc=\write7
-\openout7 = `report.toc'.
+\tf@toc=\write9
+\openout9 = `report.toc'.
 
  [2]
-\@gls@deffile=\write8
-\openout8 = `report.glsdefs'.
+\@gls@deffile=\write10
+\openout10 = `report.glsdefs'.
 
  (report.gls)
-(report.acr) [3] (intro.tex) (materials-methods.tex
+(report.acr) [3] (intro.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+
+
+LaTeX Warning: Citation '?' on page 4 undefined on input line 25.
+
+
+Overfull \hbox (8.95786pt too wide) in paragraph at lines 25--26
+[]\OT1/ptm/m/n/10 Five lev-els of con-fi-dence were pro-posed and ap-plied ex-t
+en-sively in xxx ar-eas of LC-MS based com-pound identification[[]]. 
+ []
+
+) (materials-methods.tex) (result.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
+ [4] [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  (report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 960DDF861240777A318F01F46AD451D7;356.
+(rerunfilecheck)             Checksum: 88794D93FAF5EFB231E15A3E5293296B;893.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                report
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 14016 strings out of 492970
- 231770 string characters out of 3127037
- 377813 words of memory out of 3000000
- 17611 multiletter control sequences out of 15000+200000
+ 20403 strings out of 492970
+ 353597 string characters out of 3127037
+ 848498 words of memory out of 3000000
+ 23924 multiletter control sequences out of 15000+200000
  25512 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,11n,39p,1989b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,11n,46p,1977b,1702s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
 a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic
 /uhvr8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 /times/utmr8a.pfb>
-Output written on report.pdf (4 pages, 218558 bytes).
+Output written on report.pdf (5 pages, 227408 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 

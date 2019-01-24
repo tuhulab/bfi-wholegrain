@@ -1,0 +1,295 @@
+pathway	pathID	overlap_size	pathway_size	p-value(raw)	p-value	overlap_features(name)	overlap_features(id)	overlap_input(mzs)	total_metabolites(id)	total_metabolites(name)	overlap_input(featureidx)	input_adduct	MSMS_matching
+		0	0	1.0	1.0								
+D-glucuronate degradation	PWY-5525	2	3	0.5217440787061051	1.0	L-xylulose$L-gulonate	L-XYLULOSE;L-GULONATE	195.050827036;195.050827036	L-XYLULOSE;L-GULONATE;XYLITOL	L-xylulose$L-gulonate$xylitol	29;29	M+HCOO[-];M+HCOO[-];M-H[-];M-H[-]	
+heme degradation	PWY-5874	0	0	1.0	1.0								
+thymine degradation	PWY-6430	0	0	1.0	1.0								
+methionine degradation	METHIONINE-DEG1-PWY	0	0	1.0	1.0								
+fatty acid &alpha;-oxidation	PWY66-387	0	1	1.0	1.0				2-KETOGLUTARATE	2-oxoglutarate			
+<i>trans, trans</i>-farnesyl diphosphate biosynthesis	PWY-5123	0	0	1.0	1.0								
+fatty acid &beta;-oxidation (unsaturated, odd number)	PWY-5137	0	0	1.0	1.0								
+fatty acid &beta;-oxidation (peroxisome)	PWY66-391	0	0	1.0	1.0								
+fatty acid &beta;-oxidation	FAO-PWY	0	0	1.0	1.0								
+oxidized GTP and dGTP detoxification	PWY-6502	0	0	1.0	1.0								
+fatty acid &alpha;-oxidation III	PWY66-388	0	0	1.0	1.0								
+serotonin degradation	PWY-6313	0	0	1.0	1.0								
+glutathione-mediated detoxification	PWY-4061	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;PYRUVATE	L-glutamate$pyruvate	43	M+Na-2H[-]	
+noradrenaline and adrenaline degradation	PWY-6342	0	1	1.0	1.0				DIHYDROXYPHENYLGLYCOLALDEHYDE	3,4-dihydroxyphenylglycolaldehyde			
+pyrimidine deoxyribonucleosides degradation	PWY-7181	0	0	1.0	1.0								
+thyronamine and iodothyronamine metabolism	PWY-6688	0	0	1.0	1.0								
+4-hydroxy-2-nonenal detoxification	PWY-7112	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;CPD-10806	L-glutamate$4-hydroxy-2-nonenal	43	M+Na-2H[-]	
+CMP phosphorylation	PWY-7205	0	0	1.0	1.0								
+NAD phosphorylation and dephosphorylation	NADPHOS-DEPHOS-PWY-1	0	0	1.0	1.0								
+pyrimidine ribonucleosides salvage I	PWY-7193	0	0	1.0	1.0								
+GDP-glucose biosynthesis II	PWY-5661-1	0	0	1.0	1.0								
+&alpha;-tocopherol degradation	PWY-6377	0	0	1.0	1.0								
+bupropion degradation	PWY66-241	0	0	1.0	1.0								
+pyrimidine deoxyribonucleosides salvage	PWY-7199	0	0	1.0	1.0								
+arsenate detoxification I (glutaredoxin)	PWY-4202	0	0	1.0	1.0								
+NAD salvage	NAD-BIOSYNTHESIS-III	0	0	1.0	1.0								
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	PWY-5653	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+pyrimidine ribonucleosides degradation	PWY0-1295	0	1	1.0	1.0				RIBOSE-1P	&alpha-D-ribose-1-phosphate			
+<i>myo</i>-inositol <i>de novo</i> biosynthesis	PWY-2301	0	1	1.0	1.0				MYO-INOSITOL	<I>myo</I>-inositol			
+lactate fermentation (reoxidation of cytosolic NADH)	PWY-5481	0	1	1.0	1.0				PYRUVATE	pyruvate			
+UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis I	PWY-5512	0	0	1.0	1.0								
+UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II	PWY-5514	0	2	1.0	1.0				GLC;CPD-13469	&beta-D-glucose$&alpha-D-glucosamine 6-phosphate			
+mevalonate pathway	PWY-922	0	0	1.0	1.0								
+gluconeogenesis	PWY66-399	0	2	1.0	1.0				PYRUVATE;OXALACETIC_ACID	pyruvate$oxaloacetate			
+4-hydroxyproline degradation	HYDROXYPRODEG-PWY	2	4	0.6287223768902648	1.0	L-glutamate$L-4-hydroxyglutamate semialdehyde	GLT;L-4-HYDROXYGLUTAMATE_SEMIALDEHYDE	168.028754991;168.028754991	GLT;PYRUVATE;L-4-HYDROXYGLUTAMATE_SEMIALDEHYDE;2-KETOGLUTARATE	L-glutamate$pyruvate$L-4-hydroxyglutamate semialdehyde$2-oxoglutarate	43;43	M+Na-2H[-];M+Na-2H[-];M+Na-2H[-];M+Na-2H[-]	
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	UDPNACETYLGALSYN-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+icosapentaenoate biosynthesis II (metazoa)	PWY-7049	0	0	1.0	1.0								
+phosphatidylethanolamine biosynthesis II	PWY4FS-6	0	0	1.0	1.0								
+molybdenum cofactor biosynthesis	PWY-6823	0	0	1.0	1.0								
+hydrogen sulfide biosynthesis (trans-sulfuration)	PWY66-426	0	0	1.0	1.0								
+sucrose degradation	PWY66-373	0	3	1.0	1.0				GLC;BETA-D-FRUCTOSE;ALPHA-GLUCOSE	&beta-D-glucose$&beta-D-fructofuranose$&alpha-D-glucose			
+sorbitol degradation I	PWY-4101	0	1	1.0	1.0				CPD-15382	keto-D-fructose			
+spermine and spermidine degradation I	PWY-6117	0	0	1.0	1.0								
+flavin biosynthesis	PWY66-366	0	0	1.0	1.0								
+phenylalanine degradation/tyrosine biosynthesis	PHENYLALANINE-DEG1-PWY	0	0	1.0	1.0								
+&gamma;-linolenate biosynthesis	PWY-6000	0	0	1.0	1.0								
+L-serine degradation	SERDEG-PWY	0	1	1.0	1.0				PYRUVATE	pyruvate			
+serine biosynthesis (phosphorylated route)	SERSYN-PWY	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+selenocysteine biosynthesis	PWY-6281	0	0	1.0	1.0								
+chondroitin sulfate degradation (metazoa)	PWY-6573	0	0	1.0	1.0								
+dermatan sulfate degradation (metazoa)	PWY-6576	0	0	1.0	1.0								
+sulfate activation for sulfonation	PWY-5340	0	0	1.0	1.0								
+glycine betaine degradation	PWY-3661-1	0	0	1.0	1.0								
+fatty acid activation	PWY-5143	0	0	1.0	1.0								
+NADH repair	PWY-6938	0	0	1.0	1.0								
+(S)-reticuline biosynthesis	PWY-6133	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE;34-DIHYDROXYPHENYLACETALDEHYDE	L-glutamate$2-oxoglutarate$3,4-dihydroxyphenylacetaldehyde	43	M+Na-2H[-]	
+taurine biosynthesis	PWY-5331	0	0	1.0	1.0								
+MAP kinase cascade	PWY66-14	0	0	1.0	1.0								
+BMP Signalling Pathway	PWY66-11	0	0	1.0	1.0								
+acetyl-CoA biosynthesis from citrate	PWY-5172	0	1	1.0	1.0				OXALACETIC_ACID	oxaloacetate			
+sulfite oxidation	PWY-5326	0	0	1.0	1.0								
+thio-molybdenum cofactor biosynthesis	PWY-5963	0	0	1.0	1.0								
+triacylglycerol degradation	LIPAS-PWY	0	0	1.0	1.0								
+acyl carrier protein metabolism	PWY-6012-1	0	0	1.0	1.0								
+phospholipases	LIPASYN-PWY	0	0	1.0	1.0								
+[2Fe-2S] iron-sulfur cluster biosynthesis	PWY-7250	0	0	1.0	1.0								
+glycerol degradation	PWY-4261	0	0	1.0	1.0								
+S-adenosyl-L-methionine biosynthesis	SAM-PWY	0	0	1.0	1.0								
+mitochondrial L-carnitine shuttle	PWY-6111	0	0	1.0	1.0								
+3-phosphoinositide degradation	PWY-6368	0	0	1.0	1.0								
+sphingosine and sphingosine-1-phosphate metabolism	PWY3DJ-11470	0	0	1.0	1.0								
+anandamide degradation	PWY6666-1	0	0	1.0	1.0								
+acetone degradation I (to methylglyoxal)	PWY-5451	0	3	1.0	1.0				ACETOL;METHYL-GLYOXAL;3-KETOBUTYRATE	acetol$methylglyoxal$acetoacetate			
+pyridoxal 5'-phosphate salvage	PLPSAL-PWY	0	0	1.0	1.0								
+proline degradation	PROUT-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+proline biosynthesis	PROSYN-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+<i>S</i>-methyl-5'-thioadenosine degradation	PWY-6756	0	0	1.0	1.0								
+retinol biosynthesis	PWY-6857	0	0	1.0	1.0								
+retinoate biosynthesis II	PWY-6875	0	0	1.0	1.0								
+L-dopachrome biosynthesis	PWY-6481	0	0	1.0	1.0								
+retinoate biosynthesis I	PWY-6872	0	0	1.0	1.0								
+eumelanin biosynthesis	PWY-6498	0	0	1.0	1.0								
+the visual cycle I (vertebrates)	PWY-6861	0	0	1.0	1.0								
+uracil degradation	PWY-3982	0	0	1.0	1.0								
+PRPP biosynthesis	PWY0-662	0	0	1.0	1.0								
+L-dopa degradation	PWY-6334	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	PWY-6554	0	0	1.0	1.0								
+<i>N</i>-acetylglucosamine degradation I	GLUAMCAT-PWY	0	1	1.0	1.0				CPD-13469	&alpha-D-glucosamine 6-phosphate			
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis II (mammalian)	PWY-6362	0	0	1.0	1.0								
+&beta;-alanine degradation	BETA-ALA-DEGRADATION-I-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE;MALONATE-S-ALD	L-glutamate$2-oxoglutarate$malonate semialdehyde	43	M+Na-2H[-]	
+dolichyl-diphosphooligosaccharide biosynthesis	MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	0	0	1.0	1.0								
+aspartate biosynthesis	ASPARTATESYN-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;OXALACETIC_ACID;2-KETOGLUTARATE	L-glutamate$oxaloacetate$2-oxoglutarate	43	M+Na-2H[-]	
+palmitate biosynthesis	PWY-5994	0	0	1.0	1.0								
+oleate biosynthesis	PWY-5996	0	0	1.0	1.0								
+glutaryl-CoA degradation	PWY-5177	0	0	1.0	1.0								
+valine degradation	VALDEG-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;CH3-MALONATE-S-ALD;2-KETOGLUTARATE	L-glutamate$(<i>S</i>)-methylmalonate-semialdehyde$2-oxoglutarate	43	M+Na-2H[-]	
+2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA	PWY-5652	0	1	1.0	1.0				2K-ADIPATE	2-oxoadipate			
+acetate conversion to acetyl-CoA	PWY0-1313	0	0	1.0	1.0								
+pyruvate decarboxylation to acetyl CoA	PYRUVDEHYD-PWY	0	1	1.0	1.0				PYRUVATE	pyruvate			
+ornithine <i>de novo </i> biosynthesis	ARGININE-SYN4-PWY	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+glycerol-3-phosphate shuttle	PWY-6118	0	0	1.0	1.0								
+ketolysis	PWY66-368	0	1	1.0	1.0				3-KETOBUTYRATE	acetoacetate			
+L-cysteine degradation II	PWY-5329	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;PYRUVATE;2-KETOGLUTARATE	L-glutamate$pyruvate$2-oxoglutarate	43	M+Na-2H[-]	
+ketogenesis	PWY66-367	0	1	1.0	1.0				3-KETOBUTYRATE	acetoacetate			
+L-cysteine degradation I	CYSTEINE-DEG-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;PYRUVATE;2-KETOGLUTARATE	L-glutamate$pyruvate$2-oxoglutarate	43	M+Na-2H[-]	
+spermine biosynthesis	ARGSPECAT-PWY	0	0	1.0	1.0								
+creatine biosynthesis	GLYCGREAT-PWY	1	1	0.21518987341772133	1.0	guanidinoacetate	GUANIDOACETIC_ACID	117.054586328	GUANIDOACETIC_ACID	guanidinoacetate	24	M-H[-]	
+pentose phosphate pathway (non-oxidative branch)	NONOXIPENT-PWY	0	2	1.0	1.0				XYLULOSE-5-PHOSPHATE;RIBULOSE-5P	D-xylulose 5-phosphate$D-ribulose 5-phosphate			
+pentose phosphate pathway (oxidative branch)	OXIDATIVEPENT-PWY-1	0	1	1.0	1.0				RIBULOSE-5P	D-ribulose 5-phosphate			
+creatine-phosphate biosynthesis	PWY-6158	0	0	1.0	1.0								
+malate-aspartate shuttle	MALATE-ASPARTATE-SHUTTLE-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;OXALACETIC_ACID;2-KETOGLUTARATE	L-glutamate$oxaloacetate$2-oxoglutarate	43	M+Na-2H[-]	
+asparagine biosynthesis	ASPARAGINE-BIOSYNTHESIS	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;OXALACETIC_ACID;2-KETOGLUTARATE	L-glutamate$oxaloacetate$2-oxoglutarate	43	M+Na-2H[-]	
+histamine biosynthesis	PWY-6173	0	0	1.0	1.0								
+diphthamide biosynthesis	PWY-6482	0	0	1.0	1.0								
+propionyl-CoA degradation	PROPIONMET-PWY	0	0	1.0	1.0								
+hypusine biosynthesis	PWY-5905	0	0	1.0	1.0								
+methylglyoxal degradation III	PWY-5453	0	2	1.0	1.0				ACETOL;METHYL-GLYOXAL	acetol$methylglyoxal			
+choline degradation	CHOLINE-BETAINE-ANA-PWY	0	0	1.0	1.0								
+methylglyoxal degradation I	PWY-5386	0	2	1.0	1.0				PYRUVATE;METHYL-GLYOXAL	pyruvate$methylglyoxal			
+methylglyoxal degradation VI	MGLDLCTANA-PWY	0	3	1.0	1.0				PYRUVATE;CPD-358;METHYL-GLYOXAL	pyruvate$(R)-lactaldehyde$methylglyoxal			
+asparagine degradation	ASPARAGINE-DEG1-PWY-1	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;OXALACETIC_ACID;2-KETOGLUTARATE	L-glutamate$oxaloacetate$2-oxoglutarate	43	M+Na-2H[-]	
+tRNA charging	TRNA-CHARGING-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+L-glutamine tRNA biosynthesis	PWY-5921	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+methionine salvage	ADENOSYLHOMOCYSCAT-PWY	0	0	1.0	1.0								
+lactose degradation III	BGALACT-PWY	0	2	1.0	1.0				GALACTOSE;GLC	&beta-D-galactose$&beta-D-glucose			
+folate polyglutamylation	PWY-2161	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+glutamate removal from folates	PWY-2161B	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+citrulline-nitric oxide cycle	PWY-4983	0	0	1.0	1.0								
+tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	PWY-6613	0	0	1.0	1.0								
+D-<i>myo</i>-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	PWY-6365	0	0	1.0	1.0								
+inositol pyrophosphates biosynthesis	PWY-6369	0	0	1.0	1.0								
+D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis	PWY-6351	0	1	1.0	1.0				MYO-INOSITOL	<I>myo</I>-inositol			
+urea cycle	PWY-4984	0	0	1.0	1.0								
+D-<i>myo</i>-inositol (1,3,4)-trisphosphate biosynthesis	PWY-6364	0	0	1.0	1.0								
+glutamine biosynthesis	GLNSYN-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+bile acid biosynthesis, neutral pathway	PWY-6061	0	0	1.0	1.0								
+D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation	PWY-6363	0	1	1.0	1.0				MYO-INOSITOL	<I>myo</I>-inositol			
+zymosterol biosynthesis	PWY-6074	0	0	1.0	1.0								
+D-<i>myo</i>-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	PWY-6366	0	0	1.0	1.0								
+pyrimidine deoxyribonucleotide phosphorylation	PWY-7197	0	0	1.0	1.0								
+leucine degradation	LEU-DEG2-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;3-KETOBUTYRATE;2-KETOGLUTARATE	L-glutamate$acetoacetate$2-oxoglutarate	43	M+Na-2H[-]	
+lanosterol biosynthesis	PWY-6132	0	0	1.0	1.0								
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	PWY-7184	0	0	1.0	1.0								
+acyl-CoA hydrolysis	PWY-5148	0	0	1.0	1.0								
+allopregnanolone biosynthesis	PWY-7455	0	0	1.0	1.0								
+epoxysqualene biosynthesis	PWY-5670	0	0	1.0	1.0								
+pyrimidine deoxyribonucleotides biosynthesis from CTP	PWY-7210	0	0	1.0	1.0								
+dolichol and dolichyl phosphate biosynthesis	PWY-6129	0	0	1.0	1.0								
+biotin-carboxyl carrier protein assembly	PWY0-1264	0	0	1.0	1.0								
+sphingomyelin metabolism/ceramide salvage	PWY3DJ-11281	0	0	1.0	1.0								
+triacylglycerol biosynthesis	TRIGLSYN-PWY	0	0	1.0	1.0								
+coenzyme A biosynthesis	COA-PWY-1	0	0	1.0	1.0								
+tRNA splicing	PWY-6689	0	0	1.0	1.0								
+mRNA capping	PWY-7375-1	0	0	1.0	1.0								
+2-oxoglutarate decarboxylation to succinyl-CoA	PWY-5084	0	1	1.0	1.0				2-KETOGLUTARATE	2-oxoglutarate			
+2-oxoisovalerate decarboxylation to isobutanoyl-CoA	PWY-5046	0	0	1.0	1.0								
+folate transformations I	PWY-2201	0	0	1.0	1.0								
+7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	PWY-7286	0	1	1.0	1.0				PYRUVATE	pyruvate			
+melatonin degradation II	PWY-6399	0	0	1.0	1.0								
+fatty acid elongation -- saturated	FASYN-ELONG-PWY	0	0	1.0	1.0								
+fatty acid biosynthesis initiation	PWY-5966-1	0	0	1.0	1.0								
+melatonin degradation I	PWY-6398	0	1	1.0	1.0				N-ACETYL-SEROTONIN	<i>N</i>-acetyl-serotonin			
+lysine degradation II (pipecolate pathway)	PWY66-425	1	4	0.6287223768902648	1.0	L-glutamate	GLT	168.028754991	2K-ADIPATE;CPD-468;GLT;2-KETOGLUTARATE	2-oxoadipate$L-2-aminoadipate$L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+lysine degradation I (saccharopine pathway)	LYSINE-DEG1-PWY	1	4	0.6287223768902648	1.0	L-glutamate	GLT	168.028754991	2K-ADIPATE;CPD-468;GLT;2-KETOGLUTARATE	2-oxoadipate$L-2-aminoadipate$L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+formaldehyde oxidation	PWY-1801	0	0	1.0	1.0								
+melatonin degradation III	PWY-6400	0	1	1.0	1.0				CPD-12022	<i>N</i><sup>1</sup>-acetyl-<i>N</i><sup>2</sup>-formyl-5-methoxykynuramine			
+histidine degradation	PWY-5030	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+ethanol degradation II	PWY66-21	0	0	1.0	1.0								
+ethanol degradation IV	PWY66-162	0	0	1.0	1.0								
+oxidative ethanol degradation III	PWY66-161	0	0	1.0	1.0								
+heme biosynthesis from uroporphyrinogen-III I	HEME-BIOSYNTHESIS-II	0	0	1.0	1.0								
+cardiolipin biosynthesis	PWY-5269	0	0	1.0	1.0								
+phosphatidylcholine biosynthesis	PWY3O-450	0	0	1.0	1.0								
+nicotine degradation IV	PWY66-201	0	0	1.0	1.0								
+nicotine degradation III	PWY66-221	0	0	1.0	1.0								
+guanosine nucleotides degradation	PWY-6608	0	1	1.0	1.0				RIBOSE-1P	&alpha-D-ribose-1-phosphate			
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis	PWY-7226	0	0	1.0	1.0								
+ascorbate recycling (cytosolic)	PWY-6370	0	0	1.0	1.0								
+D-galactose degradation V (Leloir pathway)	PWY66-422	0	2	1.0	1.0				GALACTOSE;ALPHA-D-GALACTOSE	&beta-D-galactose$&alpha-D-galactose			
+phytol degradation	PWY66-389	0	0	1.0	1.0								
+spermidine biosynthesis	BSUBPOLYAMSYN-PWY	0	0	1.0	1.0								
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	PWY-4361	0	1	1.0	1.0				2-KETOGLUTARATE	2-oxoglutarate			
+phenylethylamine degradation I	2PHENDEG-PWY	0	0	1.0	1.0								
+protein citrullination	PWY-4921	0	0	1.0	1.0								
+histamine degradation	PWY-6181	0	0	1.0	1.0								
+threonine degradation	PWY66-428	0	1	1.0	1.0				2-OXOBUTANOATE	2-oxobutanoate			
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	PWY-6755	0	0	1.0	1.0								
+dopamine degradation	PWY6666-2	0	2	1.0	1.0				CPD-782;34-DIHYDROXYPHENYLACETALDEHYDE	3,4-dihydroxyphenylacetate$3,4-dihydroxyphenylacetaldehyde			
+UTP and CTP dephosphorylation I	PWY-7185	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+4-aminobutyrate degradation	PWY-6535	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	GLT;SUCC-S-ALD;2-KETOGLUTARATE	L-glutamate$succinate semialdehyde$2-oxoglutarate	43	M+Na-2H[-]	
+GDP-mannose biosynthesis	PWY-5659	0	0	1.0	1.0								
+UTP and CTP dephosphorylation II	PWY-7177	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+GDP-L-fucose biosynthesis I (from GDP-D-mannose)	PWY-66	0	0	1.0	1.0								
+GDP-L-fucose biosynthesis II (from L-fucose)	PWY-6	0	0	1.0	1.0								
+docosahexaenoate biosynthesis III (mammals)	PWY-7606	0	0	1.0	1.0								
+geranylgeranyldiphosphate biosynthesis	PWY-5120	0	0	1.0	1.0								
+ubiquinol-10 biosynthesis	PWY-5872	0	0	1.0	1.0								
+protein ubiquitylation	PWY-7511	0	0	1.0	1.0								
+protein <i>O</i>-[<i>N</i>-acetyl]-glucosylation	PWY-7437	0	0	1.0	1.0								
+ceramide <i>de novo</i> biosynthesis	PWY3DJ-12	0	0	1.0	1.0								
+TCA cycle	PWY66-398	0	2	1.0	1.0				OXALACETIC_ACID;2-KETOGLUTARATE	oxaloacetate$2-oxoglutarate			
+terminal <i>O</i>-glycans residues modification	PWY-7434	0	0	1.0	1.0								
+cysteine biosynthesis/homocysteine degradation (trans-sulfuration)	HOMOCYSDEGR-PWY	0	1	1.0	1.0				2-OXOBUTANOATE	2-oxobutanoate			
+mucin core 1 and core 2 <i>O</i>-glycosylation	PWY-7433	0	0	1.0	1.0								
+dTMP <i>de novo</i> biosynthesis (mitochondrial)	PWY66-385	0	0	1.0	1.0								
+stearate biosynthesis	PWY-5972	0	0	1.0	1.0								
+4-hydroxybenzoate biosynthesis	PWY-5754	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+CMP-<i>N</i>-acetylneuraminate biosynthesis I (eukaryotes)	PWY-6138	0	0	1.0	1.0								
+purine deoxyribonucleosides salvage	PWY-7224	0	0	1.0	1.0								
+adenine and adenosine salvage III	PWY-6609	1	2	0.3862382343395003	1.0	hypoxanthine	HYPOXANTHINE	181.035520071	RIBOSE-1P;HYPOXANTHINE	&alpha-D-ribose-1-phosphate$hypoxanthine	14	M+HCOO[-]	
+adenine and adenosine salvage I	P121-PWY	0	1	1.0	1.0				RIBOSE-1P	&alpha-D-ribose-1-phosphate			
+adenine and adenosine salvage II	PWY-6619	0	0	1.0	1.0								
+guanine and guanosine salvage	PWY-6620	0	1	1.0	1.0				RIBOSE-1P	&alpha-D-ribose-1-phosphate			
+alanine biosynthesis/degradation	ALANINE-DEG3-PWY	1	3	0.5217440787061051	1.0	L-glutamate	GLT	168.028754991	PYRUVATE;GLT;2-KETOGLUTARATE	pyruvate$L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+5-aminoimidazole ribonucleotide biosynthesis	PWY-6121	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+thiosulfate disproportionation III (rhodanese)	PWY-5350	0	0	1.0	1.0								
+thyroid hormone metabolism II (via conjugation and/or degradation)	PWY-6261	0	0	1.0	1.0								
+D-mannose degradation	MANNCAT-PWY	0	0	1.0	1.0								
+thyroid hormone metabolism I (via deiodination)	PWY-6260	0	0	1.0	1.0								
+2'-deoxy-&alpha;-D-ribose 1-phosphate degradation	PWY-7180	0	0	1.0	1.0								
+lipoate biosynthesis and incorporation	PWY0-1275	0	0	1.0	1.0								
+lipoate salvage	PWY0-522	0	0	1.0	1.0								
+thiamin salvage III	PWY-6898	0	0	1.0	1.0								
+tetrapyrrole biosynthesis	PWY-5189	0	0	1.0	1.0								
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis	PWY-7227	0	0	1.0	1.0								
+dermatan sulfate biosynthesis (late stages)	PWY-6568	0	0	1.0	1.0								
+heparan sulfate biosynthesis (late stages)	PWY-6558	0	0	1.0	1.0								
+trehalose degradation	PWY0-1182	0	2	1.0	1.0				GLC;ALPHA-GLUCOSE	&beta-D-glucose$&alpha-D-glucose			
+tetrahydrobiopterin <i>de novo</i> biosynthesis	PWY-5663	0	0	1.0	1.0								
+chondroitin sulfate biosynthesis (late stages)	PWY-6567	0	0	1.0	1.0								
+glutathione biosynthesis	GLUTATHIONESYN-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+urate biosynthesis/inosine 5'-phosphate degradation	PWY-5695	0	1	1.0	1.0				RIBOSE-1P	&alpha-D-ribose-1-phosphate			
+thioredoxin pathway	THIOREDOX-PWY	0	0	1.0	1.0								
+purine deoxyribonucleosides degradation	PWY-7179-1	1	1	0.21518987341772133	1.0	hypoxanthine	HYPOXANTHINE	181.035520071	HYPOXANTHINE	hypoxanthine	14	M+HCOO[-]	
+purine ribonucleosides degradation to ribose-1-phosphate	PWY0-1296	1	2	0.3862382343395003	1.0	hypoxanthine	HYPOXANTHINE	181.035520071	RIBOSE-1P;HYPOXANTHINE	&alpha-D-ribose-1-phosphate$hypoxanthine	14	M+HCOO[-]	
+glycoaminoglycan-protein linkage region biosynthesis	PWY-6557	0	0	1.0	1.0								
+glutathione redox reactions II	GLUT-REDOX-PWY	0	0	1.0	1.0								
+adenosine nucleotides degradation	SALVADEHYPOX-PWY	1	2	0.3862382343395003	1.0	hypoxanthine	HYPOXANTHINE	181.035520071	RIBOSE-1P;HYPOXANTHINE	&alpha-D-ribose-1-phosphate$hypoxanthine	14	M+HCOO[-]	
+chondroitin biosynthesis	PWY-6566	0	0	1.0	1.0								
+glutathione redox reactions I	PWY-4081	0	0	1.0	1.0								
+serotonin and melatonin biosynthesis	PWY-6030	0	1	1.0	1.0				N-ACETYL-SEROTONIN	<i>N</i>-acetyl-serotonin			
+vitamin D<sub>3</sub> biosynthesis	PWY-6076	0	0	1.0	1.0								
+thyroid hormone biosynthesis	PWY-6241	0	0	1.0	1.0								
+progesterone biosynthesis	PWY-7299	0	0	1.0	1.0								
+estradiol biosynthesis II	PWY-7306	0	0	1.0	1.0								
+morphine biosynthesis	PWY-5270	0	2	1.0	1.0				2-KETOGLUTARATE;7-O-ACETYLSALUTARIDINOL	2-oxoglutarate$7-<i>O</i>-acetylsalutaridinol			
+catecholamine biosynthesis	PWY66-301	0	0	1.0	1.0								
+C20 prostanoid biosynthesis	PWY66-374	0	0	1.0	1.0								
+glutamate biosynthesis/degradation	GLUTAMATE-SYN2-PWY	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+leukotriene biosynthesis	PWY66-375	0	0	1.0	1.0								
+pregnenolone biosynthesis	PWY66-377	0	0	1.0	1.0								
+glutamine degradation/glutamate biosynthesis	GLUTAMINDEG-PWY	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+androgen biosynthesis	PWY66-378	0	0	1.0	1.0								
+estradiol biosynthesis I	PWY66-380	0	0	1.0	1.0								
+isoleucine degradation	ILEUDEG-PWY	1	2	0.3862382343395003	1.0	L-glutamate	GLT	168.028754991	GLT;2-KETOGLUTARATE	L-glutamate$2-oxoglutarate	43	M+Na-2H[-]	
+glucocorticoid biosynthesis	PWY66-381	0	0	1.0	1.0								
+glycolysis	PWY66-400	0	1	1.0	1.0				PYRUVATE	pyruvate			
+mineralocorticoid biosynthesis	PWY66-382	0	0	1.0	1.0								
+lipoxin biosynthesis	PWY66-392	0	0	1.0	1.0								
+aspirin-triggered lipoxin biosynthesis	PWY66-393	0	0	1.0	1.0								
+aspirin triggered resolvin E biosynthesis	PWY66-394	0	0	1.0	1.0								
+L-carnitine biosynthesis	PWY-6100	0	1	1.0	1.0				2-KETOGLUTARATE	2-oxoglutarate			
+aspirin triggered resolvin D biosynthesis	PWY66-395	0	0	1.0	1.0								
+resolvin D biosynthesis	PWY66-397	0	0	1.0	1.0								
+Rapoport-Luebering glycolytic shunt	PWY-6405	0	0	1.0	1.0								
+carnosine biosynthesis	PWY66-420	0	0	1.0	1.0								
+fructose 2,6-bisphosphate synthesis	PWY66-423	0	0	1.0	1.0								
+adenosine ribonucleotides <i>de novo</i> biosynthesis	PWY-7219	0	0	1.0	1.0								
+homocarnosine biosynthesis	PWY66-421	0	0	1.0	1.0								
+guanosine ribonucleotides <i>de novo</i> biosynthesis	PWY-7221	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+inosine-5'-phosphate biosynthesis	PWY-6124	0	0	1.0	1.0								
+glycogenolysis	PWY-5941	0	1	1.0	1.0				GLC	&beta-D-glucose			
+arachidonate biosynthesis IV (8-detaturase)	PWY-7601	0	0	1.0	1.0								
+glycogen biosynthesis	PWY-5067	0	0	1.0	1.0								
+glycine/serine biosynthesis	GLYSYN-PWY	0	0	1.0	1.0								
+putrescine biosynthesis I	PWY-46	0	0	1.0	1.0								
+tyrosine degradation	TYRFUMCAT-PWY	1	4	0.6287223768902648	1.0	L-glutamate	GLT	168.028754991	HOMOGENTISATE;GLT;3-KETOBUTYRATE;2-KETOGLUTARATE	homogentisate$L-glutamate$acetoacetate$2-oxoglutarate	43	M+Na-2H[-]	
+glycine biosynthesis	GLYSYN-ALA-PWY	0	1	1.0	1.0				PYRUVATE	pyruvate			
+putrescine biosynthesis II	PWY-40	0	0	1.0	1.0								
+3-phosphoinositide biosynthesis	PWY-6352	0	1	1.0	1.0				MYO-INOSITOL	<I>myo</I>-inositol			
+glycine cleavage	GLYCLEAV-PWY	0	0	1.0	1.0								
+putrescine degradation III	PWY-0	0	0	1.0	1.0								
+tryptophan degradation via tryptamine	PWY-6307	0	0	1.0	1.0								
+D-<i>myo</i>-inositol-5-phosphate metabolism	PWY-6367	0	0	1.0	1.0								
+tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	PWY-5651	0	0	1.0	1.0								
+phosphatidylserine biosynthesis I	PWY-7501	0	0	1.0	1.0								
+phosphatidylserine biosynthesis II	PWY-7506	0	0	1.0	1.0								
+UMP biosynthesis	PWY-5686	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+CDP-diacylglycerol biosynthesis	PWY-5667	0	0	1.0	1.0								
+UTP and CTP <i>de novo</i> biosynthesis	PWY-7176	1	1	0.21518987341772133	1.0	L-glutamate	GLT	168.028754991	GLT	L-glutamate	43	M+Na-2H[-]	
+++++++
+Annotation for metabolites in significant pathways
+m/z	id	match_form	mz_difference	name	pathway

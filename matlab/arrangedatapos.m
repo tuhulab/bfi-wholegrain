@@ -1,6 +1,6 @@
 %% Section 1-Read pre-processed data
-filename = 'serumPOS0.xlsx'; % pre-processed data
-SampleList = 'serumsamplelist.xlsx'; % sample list label of the cdf files
+filename = 'serum_pos_0.xlsx'; % pre-processed data
+SampleList = 'serum_samplelist.xlsx'; % sample list label of the cdf files
 mode = 'pos'; %data mode
 dataform = '01.cdf'; %data format 
 peakInt = 'peak height'; %intensity of the of the peaks
@@ -56,7 +56,6 @@ for k=1:length(usubj)
 end
 
 %% Section 4- Include Test eat information to the dataset object
-
 dataplPOS.class{1,1} = dietc; 
 dataplPOS.classname{1,1} = 'Test_eat'; 
 

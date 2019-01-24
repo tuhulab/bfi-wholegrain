@@ -1,0 +1,5 @@
+CPD_ID	CPD_NAME	CPD_STATISTIC
+CPD-3193	4-hydroxy-4-(3-pyridyl)-butanoate	182.082067454
+BILIRUBIN	bilirubin	585.271416965
+CPD-11401	L-thyroxine acyl &beta-D-glucuronide	991.679020346
+NN-DIMETHYLANILINE-N-OXIDE	<i>N,N</i>-dimethylaniline-<i>N</i>-oxide	120.081272319

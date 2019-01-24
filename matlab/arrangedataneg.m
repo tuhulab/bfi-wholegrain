@@ -1,7 +1,7 @@
 %% Section 1-Read pre-processed data
-filename = 'serumPOS.xlsx'; % pre-processed data
-SampleList = 'samplelist.xlsx'; % sample list label of the cdf files
-mode = 'pos'; %data mode
+filename = 'serum_neg_aw_ab.xlsx'; % pre-processed data
+SampleList = 'serum_samplelist.xlsx'; % sample list label of the cdf files
+mode = 'neg'; %data mode
 dataform = '01.cdf'; %data format 
 peakInt = 'peak height'; %intensity of the of the peaks
 %no_split_for_codes = 2; %split. seems useless??
@@ -10,7 +10,7 @@ code_names = {'Subject','Time'}; %Labels
 blank = 'NEGbl.mat'
 %% Section 2-Create the dataset from pre-processed data
 [dataplPOS,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
-datapl
+
 %% Section 3-Group(barley or wheat intervention)
 % compare the info from sample list and Diet codes
 [n,t] = xlsread('DietCodes.xlsx'); % read the file with codes
