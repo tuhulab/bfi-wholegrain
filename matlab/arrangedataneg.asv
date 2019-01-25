@@ -9,7 +9,7 @@ splitter = '_';
 code_names = {'Subject','Time'}; %Labels
 blank = 'NEGbl.mat'
 %% Section 2-Create the dataset from pre-processed data
-[dataplNEG,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
+[dataplPOS,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
 
 %% Section 3-Group(barley or wheat intervention)
 % compare the info from sample list and Diet codes
@@ -21,7 +21,7 @@ for i = 1 : length(t1);%add by Tu
 end;%add by Tu
 t1=str2double(t2(:,1));%add by Tu
 
-subj = dataplNEG.class{1,2};
+subj = dataplPOS.class{1,2};
 usubj = unique(subj);
 
 sub_codes = t1(:,1);%I replaced Gözde's code (n to t) because my code file does not contain any text
@@ -57,21 +57,21 @@ end
 
 %% Section 4- Include Test eat information to the dataset object
 
-dataplNEG.class{1,1} = dietc; 
-dataplNEG.classname{1,1} = 'Test_eat'; 
+dataplPOS.class{1,1} = dietc; 
+dataplPOS.classname{1,1} = 'Test_eat'; 
 
 %dataplPOS.class{1,4} = gc; 
 %dataplPOS.classname{1,4} = 'Gender'; 
 
-dataplNEG.label{1,6} = diet; 
-dataplNEG.labelname{1,6} = 'Test_eat'; 
+dataplPOS.label{1,6} = diet; 
+dataplPOS.labelname{1,6} = 'Test_eat'; 
 
 %dataplPOS.label{1,7} = g; 
 %dataplPOS.labelname{1,7} = 'Gender'; 
 
 %% clean the noise signals and apply percent rule
-sample = dataplNEG;
-a=load(blank);blank=a.NEGbl;clear a;
+sample = dataplPOS;
+a=load(blank);blank=a.data;clear a;
 [data_cleaned, varargout]= clean_data(sample,1,blank,{''},5,10,{'Time','Test_eat'},{0.7,15});
 data_grouped= group_markers(data_cleaned,0.7,0.01);
 
