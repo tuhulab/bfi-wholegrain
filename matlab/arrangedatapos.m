@@ -74,12 +74,30 @@ load(blank);
 [data_cleaned, varargout]= clean_data(sample,1,POSbl,{''},5,10,{'Time','Test_eat'},{0.7,15});
 data_grouped= group_markers(data_cleaned,0.7,0.01);
 
-%%
-
+%% seperate
 %assigned_dataset = assign_markers2(data_cleaned,0.02,0.1,mode,'Method2');
-
 %assigned_dataset = normaliz(assigned_dataset);
-
 %data_cleass_NEG= group_markers(assigned_dataset,0.7,0.01);
+%[data_training, data_test] = sep_testcal (data_grouped)
 
-[data_training, data_test] = sep_testcal (data_grouped) 
+%%variable selection by plsda
+SorPS=data_grouped.label{1,3};
+for i = 1: length(SorPS)
+   PS(i)=strcmp(SorPS(i,:),'S ');
+end
+dataPLS=data_grouped(PS);
+
+data =dataPLS;
+class = data.class{1,1}; %the class of the diet
+subject = data.class{1,2};% class of the subject
+rep = 12 %subject %what does this mean?
+
+
+[calst,test_val] = varsel_test(data,class,rep,subject);
+
+% ERav=mean(test_val.ER)
+% 
+% figure,plot(test_val.ER,'o')
+% 
+data=dataPLS
+[dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,9,data);
