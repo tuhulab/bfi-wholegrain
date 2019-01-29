@@ -101,3 +101,8 @@ rep = 12 %subject %what does this mean?
 % 
 data=dataPLS
 [dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,9,data);
+
+%% plot
+datasel = sortby(dataselvar,'class',1,1);
+mzrt = cell2mat(datasel.axisscale(2,1:2)')'
+figure,plotgui(datasel)
