@@ -34,7 +34,7 @@ function [dataex, varargout]= clean_data(sample,PS,data_bl,out_sample,th,a,class
 % a=10;
 % classnames={'Test_eat'};
 % varargin={0.7,15};
-% sample=dataplPOS;
+% sample=dataplNEG;
 %% define number of input variables
 numvarargs = length(varargin); % what?
 
@@ -239,7 +239,7 @@ end
 
 %% Combine sample & ps
 if PS==1
-    [~,ide,idp] = intersect(dataex.axisscale{2,2},samplePS.axisscale{2,2},'stable');
+    [~,ide,idp] = intersect(dataex.axisscale{2,1},samplePS.axisscale{2,2},'stable');
     
     for k=1:length(sample.labelname(2,:))
         samplePS.label{2,k}={''};

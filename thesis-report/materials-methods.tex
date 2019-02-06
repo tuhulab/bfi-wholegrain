@@ -9,7 +9,7 @@ MassLynx was used to check mass spectra.
 
 DataBridge, an \acrshort{lc-ms} data file conversion program built-in MassLynx developed by Waters.
 
-XCMS Online
+XCMS Online was used for uni-variable data analysis.
 
 
 \subsection{Data-preprocessing}
@@ -21,7 +21,7 @@ First, data format was converted by DataBridge from '.raw' to '.cdf'. '.raw' was
 % MZmine step
 Then, the data was preprocessed by MZmine (2.31) following the steps: peak detection, deisotoping, alignment and gap filling.
 
-Positive mode and negative were separately processed because of different noise level and in-source reaction. Blank samples were also excluded in pre-processing.
+Positive mode and negative mode were separately processed because of different noise level and in-source reaction. Blank samples were also excluded in pre-processing.
 
 % result
 In the end, the detected features, including information of mass to charge ratio (m/z), retention time (rt) and intensities were output as '.csv' files for further investigation.
@@ -33,3 +33,12 @@ In the end, the detected features, including information of mass to charge ratio
 \subsection{Statistics}
 \subsubsection{Paired t test}
 Paired-t test and unpaired-t test were conducted on XCMS Online (xcmsonline.scripps.edu).
+
+\subsection{PCA}
+PCA was used for quality control and outlier detection.
+
+\subsection{PLSDA modeling}
+PLSDA modeling was used to select variables that have significant differences. 
+
+\subsection{Literature search}
+using qian's article as a reference

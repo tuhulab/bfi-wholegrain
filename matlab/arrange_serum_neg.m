@@ -1,14 +1,14 @@
-%% Section 1-Define pre-processed data parameters
-filename = 'serum_pos_0.xlsx'; % pre-processed data
+%% Section 1-Read pre-processed data
+filename = 'serum_neg_3.xlsx'; % pre-processed data
 SampleList = 'serum_samplelist.xlsx'; % sample list label of the cdf files
-mode = 'pos'; %data mode
+mode = 'neg'; %data mode
 dataform = '01.cdf'; %data format 
 peakInt = 'peak height'; %intensity of the of the peaks
 splitter = '_';
 code_names = {'Subject','Time'}; %Labels
-blank = 'POSbl.mat' %already processed blank sample dataset in mat form
+blank = 'NEGbl.mat';
 %% Section 2-Create the dataset from pre-processed data
-[dataplPOS,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
+[dataplNEG,infosamples,repsamps,missingINsl,missingINd] = Arrange_Data_MZmine2(filename,SampleList,mode,dataform,peakInt,splitter,code_names);
 
 %% Section 3-Group(barley or wheat intervention)
 % compare the info from sample list and Diet codes
@@ -20,7 +20,7 @@ for i = 1 : length(t1);%add by Tu
 end;%add by Tu
 t1=str2double(t2(:,1));%add by Tu
 
-subj = dataplPOS.class{1,2};
+subj = dataplNEG.class{1,2};
 usubj = unique(subj);
 
 sub_codes = t1(:,1);%I replaced Gözde's code (n to t) because my code file does not contain any text
@@ -55,22 +55,23 @@ for k=1:length(usubj)
 end
 
 %% Section 4- Include Test eat information to the dataset object
-dataplPOS.class{1,1} = dietc; 
-dataplPOS.classname{1,1} = 'Test_eat'; 
+
+dataplNEG.class{1,1} = dietc; 
+dataplNEG.classname{1,1} = 'Test_eat'; 
 
 %dataplPOS.class{1,4} = gc; 
 %dataplPOS.classname{1,4} = 'Gender'; 
 
-dataplPOS.label{1,6} = diet; 
-dataplPOS.labelname{1,6} = 'Test_eat'; 
+dataplNEG.label{1,6} = diet; 
+dataplNEG.labelname{1,6} = 'Test_eat'; 
 
 %dataplPOS.label{1,7} = g; 
 %dataplPOS.labelname{1,7} = 'Gender'; 
 
 %% clean the noise signals and apply percent rule
-sample = dataplPOS;
-load(blank);
-[data_cleaned, varargout]= clean_data(sample,1,POSbl,{''},5,10,{'Time','Test_eat'},{0.7,15});
+sample = dataplNEG;
+a=load(blank);blank=a.NEGbl;clear a;
+[data_cleaned, varargout]= clean_data(sample,1,blank,{''},5,10,{'Test_eat'},{0.7,15});
 data_grouped= group_markers(data_cleaned,0.7,0.01);
 
 %% seperate
@@ -89,8 +90,7 @@ dataPLS=data_grouped(PS);
 data =dataPLS;
 class = data.class{1,1}; %the class of the diet
 subject = data.class{1,2};% class of the subject
-rep = 12 %subject %what does this mean?
-
+rep = 12 
 
 [calst,test_val] = varsel_test(data,class,rep,subject);
 
@@ -99,9 +99,19 @@ rep = 12 %subject %what does this mean?
 % figure,plot(test_val.ER,'o')
 % 
 data=dataPLS
-[dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,9,data);
+[dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,12,data);
 
 %% plot
 datasel = sortby(dataselvar,'class',1,1);
 mzrt = cell2mat(datasel.axisscale(2,1:2)')'
+figure,plotgui(datasel)
+
+%% find feature
+armz =[
+5.03	579.389
+4.92	577.375
+4.92	551.360]
+
+[datasel,varargout] = find_feature(data_grouped,armz(:,2),armz(:,1),0.01,0.03,'mz',0)
+datasel = sortby(datasel,'class',1,1);
 figure,plotgui(datasel)
