@@ -5,8 +5,8 @@ urinepospath <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
 urinenegpath <- 'C:\\Users\\tuhu\\projects\\barley\\NEGdata.mat'
 urinepospolarity <- 'positive'
 urinenegpolarity <- 'negative'
-barleypos <- m2r(path=barleypospath, polarity = barleypospolarity)
-barleyneg <- m2r(path=barleynegpath, polarity = barleynegpolarity)
+barleypos <- m2r(path=urinepospath, polarity = urinepospolarity)
+barleyneg <- m2r(path=urinenegpath, polarity = urinenegpolarity)
 
 barleypos %>% filter(feature=='X1268') %>% ggplot(aes(x=intervention, y=intensity)) + 
   geom_point() +
@@ -52,3 +52,11 @@ urine_wg %>% filter(feature=='X5') %>% ggplot(aes(x=intervention, y=intensity,ti
   geom_point() +
   geom_boxplot() +
   ggtitle('3,5 DHBA')
+
+path <- 'C:\\Users\\tuhu\\projects\\bfi-wholegrain\\matlab\\urine_pos_selected.mat'
+polarity <- 'positive'
+wheatpos <- m2r(path=path, polarity = polarity)
+wheatpos %>% filter(feature=='X13') %>% ggplot(aes(x=intervention, y=intensity)) + 
+  geom_point() +
+  geom_boxplot() 
+
