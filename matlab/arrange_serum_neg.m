@@ -1,5 +1,5 @@
 %% Section 1-Read pre-processed data
-filename = 'serum_neg_3.xlsx'; % pre-processed data
+filename = 'serum_neg_4.xlsx'; % pre-processed data
 SampleList = 'serum_samplelist.xlsx'; % sample list label of the cdf files
 mode = 'neg'; %data mode
 dataform = '01.cdf'; %data format 
@@ -99,7 +99,7 @@ rep = 12
 % figure,plot(test_val.ER,'o')
 % 
 data=dataPLS
-[dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,12,data);
+[dataselvar,mzrtselvarl,m10] = arrangevarsel(calst,9,data);
 
 %% plot
 datasel = sortby(dataselvar,'class',1,1);
@@ -107,11 +107,19 @@ mzrt = cell2mat(datasel.axisscale(2,1:2)')'
 figure,plotgui(datasel)
 
 %% find feature
-armz =[
-5.03	579.389
-4.92	577.375
-4.92	551.360]
+targetmzrt =[
+1.98	357.09
+0.93	329.051
+2.66	181.041
+1.94	153.018
+2.91	232.977
+0.78	262.9874
+1.19	511.0971
+1.63	210.041
 
-[datasel,varargout] = find_feature(data_grouped,armz(:,2),armz(:,1),0.01,0.03,'mz',0)
+]
+
+[datasel,varargout] = find_feature(dataplPOS,targetmzrt(:,2),targetmzrt(:,1),0.01,0.1,'mz',0)
+mzrt = cell2mat(datasel.axisscale(2,1:2)')'
 datasel = sortby(datasel,'class',1,1);
 figure,plotgui(datasel)
