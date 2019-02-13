@@ -10,7 +10,7 @@ cdfs <- dir(path, full.names = TRUE,
             recursive = TRUE)
 
 ## Create a phenodata data.frame
-pd <- data.frame(sample_name = sub(basename(cdfs), pattern = ".CDF",
+pd <- data.frame(file_name = sub(basename(cdfs), pattern = "01.CDF",
                                    replacement = "", fixed = TRUE),
                  #sample_group = c(rep("KO", 6), rep("WT", 6)),
                  stringsAsFactors = FALSE)
