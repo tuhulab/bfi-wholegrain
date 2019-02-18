@@ -63,3 +63,5 @@
 \contentsline {subsection}{\numberline {4.2}Unpaired t-test of Negative Mode Urine Samples}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}PLSDA modelling to select variables of plasma samples}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Alkylresorcinols in plasma and urine samples}{8}
