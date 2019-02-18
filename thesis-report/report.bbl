@@ -19,83 +19,115 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Ibrugger2013}{article}{}
-      \name{author}{9}{}{%
-        {{hash=a9d8c66682f7ed68b4907ccd3dfca3c5}{%
-           family={Ibrugger},
-           familyi={I\bibinitperiod},
-           given={Sabine},
-           giveni={S\bibinitperiod}}}%
-        {{hash=5b9d74ecda42bd7c84012d9498cea335}{%
-           family={Kristensen},
-           familyi={K\bibinitperiod},
-           given={Mette},
-           giveni={M\bibinitperiod}}}%
-        {{hash=cf3126072a6412953162dbc732ed5d8e}{%
-           family={Poulsen},
+    \entry{Pratico2018}{article}{}
+      \name{author}{16}{}{%
+        {{hash=58ffe67f49ef97dd41f5df9d6ab2a39a}{%
+           family={Pratic{ò}},
            familyi={P\bibinitperiod},
-           given={Malene\bibnamedelima Wibe},
-           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=1e096be8c157b72e627c76a406febc79}{%
-           family={Mikkelsen},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=63677015b0fbd760e55a21f08a606f98}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99051fc5dd46ebc835a9e9f03a9f8ba9}{%
+           family={Verg{è}res},
+           familyi={V\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c01dad542ad5f3fae1950eb9ec859f8}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={Marjukka},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
            familyi={M\bibinitperiod},
-           given={Mette\bibnamedelima Skau},
-           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=af79c58cca8998c27945442a437b0080}{%
-           family={Ejsing},
-           familyi={E\bibinitperiod},
-           given={Johnny},
-           giveni={J\bibinitperiod}}}%
-        {{hash=7299e323aa6afde6f88eb3b0d1ec4f78}{%
-           family={Jespersen},
-           familyi={J\bibinitperiod},
-           given={Birthe\bibnamedelima Moller},
-           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=3e667acfc0e431f8452290a5b7d3625f}{%
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63ac5746e80f367ebf112368a25ffadd}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Lorraine},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4fb87b841940afb6e24c7f06e44ff568}{%
+           family={Pedapati},
+           familyi={P\bibinitperiod},
+           given={Sri\bibnamedelima Harsha},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d5d3e5183247a50512915e7c1f49241d}{%
+           family={Afman},
+           familyi={A\bibinitperiod},
+           given={Lydia\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d579591acc70fe0e1d3256489de57b16}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0393a2624ab8f920b99a8ae7521c142b}{%
+           family={V{á}zquez-Fresno},
+           familyi={V\bibinithyphendelim F\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5ca283b6b4151fac00ed4e9b26b7fdea}{%
+           family={Lacueva},
+           familyi={L\bibinitperiod},
+           given={Cristina\bibnamedelima Andres},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aed3bf3502c3537743cd208659384c90}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0799d15b95d5ac229596f1212d4f42e3}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={Edith\bibnamedelima J.M.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0804e6bbcbce69b630e208260ca5af2e}{%
            family={Dragsted},
            familyi={D\bibinitperiod},
-           given={Lars\bibnamedelima Ove},
+           given={Lars\bibnamedelima O.},
            giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-        {{hash=2045dd809eccc6f53d271b10c22879bb}{%
-           family={Engelsen},
-           familyi={E\bibinitperiod},
-           given={Soren\bibnamedelima Balling},
-           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=ffdb7346c6c2e65cbf292810e2f9ee35}{%
-           family={Bugel},
-           familyi={B\bibinitperiod},
-           given={Susanne},
-           giveni={S\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {eng}%
+      \list{publisher}{1}{%
+        {Genes {\&} Nutrition}%
       }
-      \strng{namehash}{bc6c274d62dec0c00cacc21d786ecb6a}
-      \strng{fullhash}{59e28a4fbc5a53f3494038443987e2a5}
-      \strng{bibnamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
-      \strng{authorbibnamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
-      \strng{authornamehash}{bc6c274d62dec0c00cacc21d786ecb6a}
-      \strng{authorfullhash}{59e28a4fbc5a53f3494038443987e2a5}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \strng{namehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{fullhash}{161836630e111cf6d8d811c247eefe19}
+      \strng{bibnamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authorbibnamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authornamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authorfullhash}{161836630e111cf6d8d811c247eefe19}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{beta-Glucans are known to exhibit hypocholesterolemic effects. Increased intestinal viscosity is thought to be crucial for cholesterol lowering. It is suggested that concentration, molecular mass, and structure, including the ratio of (1--{>}3) to (1--{>}4) glucan bonds in the molecule, are of importance for beta-glucan functionality. This study investigated the effects of 3 different beta-glucan sources, incorporated into a beverage and yogurt, on blood lipids and fecal endpoints. Fourteen participants completed this randomized, crossover, single-blinded study with four 3-wk periods: control and 3.3 g/d oat, barley, and barley mutant beta-glucans of similar molecular mass. Before and after each period, fasting and postprandial blood samples were drawn and 3-d fecal samples were collected. Treatment did not affect changes in total, LDL, and HDL cholesterol compared with control; however, consumption of 3.3 g/d of oat beta-glucans for 3 wk resulted in greater decreases in total (-0.29 +/- 0.09 mmol/L, P {<} 0.01), LDL (-0.23 +/- 0.07 mmol/L, P {<} 0.01), and HDL (-0.05 +/- 0.03 mmol/L, P {<} 0.05) cholesterol compared with baseline. Changes in LDL in the beta-glucan treatments were not related to beta-glucan structure (cellotriosyl:cellotetraosyl). Decreases in fasting triacylglycerol were substantially greater after oat beta-glucan treatment compared with control (P = 0.03). Fecal dry and wet weight, stool frequency, fecal pH, and energy excretion were unaffected. The results do not fully support the hypocholesterolemic effects by differently structured oat and barley beta-glucans. However, substantial differences compared with baseline suggest a potential for oat beta-glucan, presumably due to its higher solubility and viscosity. This underlines the importance of elusive structural beta-glucan features for beneficial physiologic effects.}
-      \field{issn}{1541-6100 (Electronic)}
-      \field{journaltitle}{The Journal of nutrition}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{{Extracted oat and barley beta-glucans do not affect cholesterol metabolism in young healthy adults.}}
-      \field{volume}{143}
-      \field{year}{2013}
-      \field{pages}{1579\bibrangedash 1585}
-      \range{pages}{7}
+      \field{issn}{18653499}
+      \field{journaltitle}{Genes and Nutrition}
+      \field{number}{1}
+      \field{title}{{Guidelines for Biomarker of Food Intake Reviews (BFIRev): How to conduct an extensive literature search for biomarker of food intake discovery}}
+      \field{volume}{13}
+      \field{year}{2018}
       \verb{doi}
-      \verb 10.3945/jn.112.173054
+      \verb 10.1186/s12263-018-0592-8
       \endverb
-      \keyw{Adult,Anticholesteremic Agents,Avena,Cholesterol,Cholesterol,HDL,Cholesterol,LDL,Cross-Over Studies,Defecation,Diet,Feces,Female,Hordeum,Humans,Hydrogen-Ion Concentration,Male,Molecular Weight,Mutation,Single-Blind Method,Triglycerides,Young Adult,beta-Glucans,blood,chemistry,pharmacology}
+      \keyw{Biomarkers,Food exposure markers,Literature search methodology,Metabolomics,Systematic review}
     \endentry
   \enddatalist
+  \missing{?}
 \endrefsection
 \endinput
 

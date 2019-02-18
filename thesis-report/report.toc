@@ -1,36 +1,65 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Preface}{4}{section.1}
+\contentsline {section}{\numberline {1}Preface}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Introduction}{4}{section.2}
+\contentsline {section}{\numberline {2}Introduction}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Statistics method}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Whole Grain Cereals and Their Health Beneficial Effects}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}Comparisions between Univariable and Multivariable statistics}{4}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Food Intake Biomarkers}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Identification}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}LC-MS Based Metabolomics}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Level of Identification and communication confidence}{4}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.4}Biostatistics Strategy in Metabolomics Research}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Validation of the Biomarker}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.4.1}Comparisions between Univariable and Multivariable statistics}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Materials and methods}{4}{section.3}
+\contentsline {subsection}{\numberline {2.5}Identification}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Software}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {2.5.1}Level of Identification and communication confidence}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Data-preprocessing}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {2.6}Validation of the Biomarker}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Statistics}{5}{subsection.3.3}
+\contentsline {section}{\numberline {3}Materials and methods}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Paired t test}{5}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.1}A mini-systematic literature review of whole grain wheat and barley intake biomarkers}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}PCA}{5}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.1.1}Designing the review for whole grain wheat and barley}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}PLSDA modeling}{5}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.1.2}Searching for relevant BFI research paper}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.6}Literature search}{5}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.1.3}Selecting and screening papers for quality and relevance}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Results}{5}{section.4}
+\contentsline {subsubsection}{\numberline {3.1.4}Selection of candidate BFIs and data collection from the included records}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Unpaired t-test of Negative Mode Urine Samples}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {3.1.5}Assessing quality of included papers on candidate BFIs}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.6}Evaluating the current overall status of BFIs for the food in question}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.7}Presenting data and results}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.8}Interpretation and conclusion}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Software}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Data-preprocessing}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Statistics}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1}Paired t test}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}PCA}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}PLSDA modeling}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}Literature search}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Results}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Mini-systematic literature review of whole grain wheat and barley intake biomarkers}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1}search results in ISI Web of Science}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Unpaired t-test of Negative Mode Urine Samples}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}PLSDA modelling to select variables of plasma samples}{8}

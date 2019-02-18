@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  6 FEB 2019 08:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  18 FEB 2019 14:46
 entering extended mode
 **./report.tex
 (report.tex
@@ -20,150 +20,13 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(ku-frontpage.sty
-Package: ku-frontpage 2017/07/12 v0.1 Frontpages with University of Copenhagen 
-logos
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/09/26 3.24 The Babel package
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/09/26 3.24 Babel switching mechanism
-)
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engli
-sh.ldf"
-Language: english 2017/06/06 v3.3r English support from the babel system
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/09/26 3.24 Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.de
-f")
-\bbl@dirlevel=\count89
-)
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engli
-sh.ldf"
-Language: english 2017/06/06 v3.3r English support from the babel system
-))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
-"
-Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi
-.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
-r.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
-sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.st
-y"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
-cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
-.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
-ty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
-ty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
-cs.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 99.
-)
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.s
-ty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.s
-ty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
-ty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count90
-\Gm@cntv=\count91
-\c@Gm@tempcnt=\count92
-\Gm@bindingoffset=\dimen106
-\Gm@wd@mp=\dimen107
-\Gm@odd@mp=\dimen108
-\Gm@even@mp=\dimen109
-\Gm@layoutwidth=\dimen110
-\Gm@layoutheight=\dimen111
-\Gm@layouthoffset=\dimen112
-\Gm@layoutvoffset=\dimen113
-\Gm@dimlist=\toks15
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.c
-fg")))
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\glo
 ssaries.sty"
 Package: glossaries 2018/07/23 v4.41 (NLCT)
 
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
 "
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -172,10 +35,12 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 ex"
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.
 tex"
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
-)
-\XKV@depth=\count93
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\keyval.te
+x"))
+\XKV@depth=\count88
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.s
@@ -185,10 +50,10 @@ Package: mfirstuc 2017/11/14 v2.06 (NLCT)
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.s
 ty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count94
+\etb@tempcnta=\count89
 )
-\@glsmfirst=\toks18
-\@glsmrest=\toks19
+\@glsmfirst=\toks16
+\@glsmrest=\toks17
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.s
 ty"
@@ -212,57 +77,57 @@ Package: amstext 2000/06/29 v2.01 AMS text
  ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
-\ex@=\dimen114
+\@emptytoks=\toks18
+\ex@=\dimen103
 ))
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen115
+\pmbraise@=\dimen104
 ) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count95
+\inf@bad=\count90
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count96
-\leftroot@=\count97
+\uproot@=\count91
+\leftroot@=\count92
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count98
-\DOTSCASE@=\count99
+\classnum@=\count93
+\DOTSCASE@=\count94
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen116
+\big@size=\dimen105
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count100
-\c@MaxMatrixCols=\count101
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
 \dotsspace@=\muskip10
-\c@parentequation=\count102
-\dspbrk@lvl=\count103
-\tag@help=\toks21
-\row@=\count104
-\column@=\count105
-\maxfields@=\count106
-\andhelp@=\toks22
-\eqnshift@=\dimen117
-\alignsep@=\dimen118
-\tagshift@=\dimen119
-\tagwidth@=\dimen120
-\totwidth@=\dimen121
-\lineht@=\dimen122
-\@envbody=\toks23
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks19
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks20
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks21
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks24
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count107
+\c@su@anzahl=\count102
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatool-f
 p.sty"
@@ -273,18 +138,18 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
 Package: defpattern 1994/10/12
-\actioncount=\count108
+\actioncount=\count103
 ) ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
 Package: fp-basic 1996/05/13
-\FP@xs=\count109
-\FP@xia=\count110
-\FP@xib=\count111
-\FP@xfa=\count112
-\FP@xfb=\count113
-\FP@rega=\count114
-\FP@regb=\count115
-\FP@regs=\count116
-\FP@times=\count117
+\FP@xs=\count104
+\FP@xia=\count105
+\FP@xib=\count106
+\FP@xfa=\count107
+\FP@xfb=\count108
+\FP@rega=\count109
+\FP@regb=\count110
+\FP@regs=\count111
+\FP@times=\count112
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
 Package: fp-addons 1995/03/15
@@ -303,7 +168,7 @@ Package: fp-pas 1994/08/29
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
 Package: fp-random 1995/02/23
-\FPseed=\count118
+\FPseed=\count113
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
 Package: fp-eqn 1995/04/03
@@ -314,41 +179,27 @@ Package: fp-upn 1996/10/21
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks25
-\@dtl@tmpcount=\count119
+\@dtl@toks=\toks23
+\@dtl@tmpcount=\count114
 \dtl@tmplength=\skip46
-\dtl@sortresult=\count120
-\@dtl@numgrpsepcount=\count121
-\@dtl@datatype=\count122
-\dtl@codeA=\count123
-\dtl@codeB=\count124
-\@dtl@foreach@level=\count125
+\dtl@sortresult=\count115
+\@dtl@numgrpsepcount=\count116
+\@dtl@datatype=\count117
+\dtl@codeA=\count118
+\dtl@codeB=\count119
+\@dtl@foreach@level=\count120
 )
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\glo
 ssaries-compatible-307.sty"
 Package: glossaries-compatible-307 2018/07/23 v4.41 (NLCT)
 )
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tracklang\tracklang
-.sty"
-Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tracklang\trackla
-ng.tex"))
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translat
-or.sty"
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries-english\
-glossaries-english.ldf"
-File: glossaries-english.ldf 2014/11/23 v1.0
-)
-\gls@level=\count126
-\@gls@tmpb=\toks26
+\gls@level=\count121
+\@gls@tmpb=\toks24
 \gls@tmplen=\skip47
-\glskeylisttok=\toks27
-\glslabeltok=\toks28
-\glsshorttok=\toks29
-\glslongtok=\toks30
+\glskeylisttok=\toks25
+\glslabeltok=\toks26
+\glsshorttok=\toks27
+\glslongtok=\toks28
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
 lossary-hypernav.sty"
@@ -370,17 +221,17 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip50
 \LTpre=\skip51
 \LTpost=\skip52
-\LTchunksize=\count127
-\LTcapwidth=\dimen123
+\LTchunksize=\count122
+\LTcapwidth=\dimen112
 \LT@head=\box28
 \LT@firsthead=\box29
 \LT@foot=\box30
 \LT@lastfoot=\box31
-\LT@cols=\count128
-\LT@rows=\count129
-\c@LT@tables=\count130
-\c@LT@chunks=\count131
-\LT@p@ftn=\toks31
+\LT@cols=\count123
+\LT@rows=\count124
+\c@LT@tables=\count125
+\c@LT@chunks=\count126
+\LT@p@ftn=\toks29
 )
 \glsdescwidth=\skip53
 \glspagelistwidth=\skip54
@@ -392,21 +243,21 @@ Package: glossary-super 2018/07/23 v4.41 (NLCT)
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\supertabular\supert
 abular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count132
-\ST@wd=\dimen124
+\c@tracingst=\count127
+\ST@wd=\dimen113
 \ST@rightskip=\skip55
 \ST@leftskip=\skip56
 \ST@parfillskip=\skip57
-\ST@pageleft=\dimen125
-\ST@headht=\dimen126
-\ST@tailht=\dimen127
-\ST@pagesofar=\dimen128
-\ST@pboxht=\dimen129
-\ST@lineht=\dimen130
-\ST@stretchht=\dimen131
-\ST@prevht=\dimen132
-\ST@toadd=\dimen133
-\ST@dimen=\dimen134
+\ST@pageleft=\dimen114
+\ST@headht=\dimen115
+\ST@tailht=\dimen116
+\ST@pagesofar=\dimen117
+\ST@pboxht=\dimen118
+\ST@lineht=\dimen119
+\ST@stretchht=\dimen120
+\ST@prevht=\dimen121
+\ST@toadd=\dimen122
+\ST@dimen=\dimen123
 \ST@pbox=\box32
 ))
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\g
@@ -433,10 +284,22 @@ ds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
+r.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex
 .sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.st
+y"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -461,7 +324,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count133
+\lrq@indent=\count128
 
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -474,49 +337,49 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.t
 ex"
 \@xs@message=\write6
-\integerpart=\count134
-\decimalpart=\count135
+\integerpart=\count129
+\decimalpart=\count130
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count136
-\c@listtotal=\count137
-\c@listcount=\count138
-\c@liststart=\count139
-\c@liststop=\count140
-\c@citecount=\count141
-\c@citetotal=\count142
-\c@multicitecount=\count143
-\c@multicitetotal=\count144
-\c@instcount=\count145
-\c@maxnames=\count146
-\c@minnames=\count147
-\c@maxitems=\count148
-\c@minitems=\count149
-\c@citecounter=\count150
-\c@savedcitecounter=\count151
-\c@uniquelist=\count152
-\c@uniquename=\count153
-\c@refsection=\count154
-\c@refsegment=\count155
-\c@maxextratitle=\count156
-\c@maxextratitleyear=\count157
-\c@maxextradate=\count158
-\c@maxextraalpha=\count159
-\c@abbrvpenalty=\count160
-\c@highnamepenalty=\count161
-\c@lownamepenalty=\count162
-\c@maxparens=\count163
-\c@parenlevel=\count164
-\blx@tempcnta=\count165
-\blx@tempcntb=\count166
-\blx@tempcntc=\count167
-\blx@maxsection=\count168
-\blx@maxsegment@0=\count169
-\blx@notetype=\count170
-\blx@parenlevel@text=\count171
-\blx@parenlevel@foot=\count172
-\blx@sectionciteorder@0=\count173
+\c@tabx@nest=\count131
+\c@listtotal=\count132
+\c@listcount=\count133
+\c@liststart=\count134
+\c@liststop=\count135
+\c@citecount=\count136
+\c@citetotal=\count137
+\c@multicitecount=\count138
+\c@multicitetotal=\count139
+\c@instcount=\count140
+\c@maxnames=\count141
+\c@minnames=\count142
+\c@maxitems=\count143
+\c@minitems=\count144
+\c@citecounter=\count145
+\c@savedcitecounter=\count146
+\c@uniquelist=\count147
+\c@uniquename=\count148
+\c@refsection=\count149
+\c@refsegment=\count150
+\c@maxextratitle=\count151
+\c@maxextratitleyear=\count152
+\c@maxextradate=\count153
+\c@maxextraalpha=\count154
+\c@abbrvpenalty=\count155
+\c@highnamepenalty=\count156
+\c@lownamepenalty=\count157
+\c@maxparens=\count158
+\c@parenlevel=\count159
+\blx@tempcnta=\count160
+\blx@tempcntb=\count161
+\blx@tempcntc=\count162
+\blx@maxsection=\count163
+\blx@maxsegment@0=\count164
+\blx@notetype=\count165
+\blx@parenlevel@text=\count166
+\blx@parenlevel@foot=\count167
+\blx@sectionciteorder@0=\count168
 \labelnumberwidth=\skip59
 \labelalphawidth=\skip60
 \biblabelsep=\skip61
@@ -527,9 +390,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip66
 \blx@bcfin=\read1
 \blx@bcfout=\write7
-\c@mincomprange=\count174
-\c@maxcomprange=\count175
-\c@mincompwidth=\count176
+\c@mincomprange=\count169
+\c@maxcomprange=\count170
+\c@mincompwidth=\count171
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -541,74 +404,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'nature.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count177
-\c@savedafterword=\count178
-\c@annotator=\count179
-\c@savedannotator=\count180
-\c@author=\count181
-\c@savedauthor=\count182
-\c@bookauthor=\count183
-\c@savedbookauthor=\count184
-\c@commentator=\count185
-\c@savedcommentator=\count186
-\c@editor=\count187
-\c@savededitor=\count188
-\c@editora=\count189
-\c@savededitora=\count190
-\c@editorb=\count191
-\c@savededitorb=\count192
-\c@editorc=\count193
-\c@savededitorc=\count194
-\c@foreword=\count195
-\c@savedforeword=\count196
-\c@holder=\count197
-\c@savedholder=\count198
-\c@introduction=\count199
-\c@savedintroduction=\count266
-\c@namea=\count267
-\c@savednamea=\count268
-\c@nameb=\count269
-\c@savednameb=\count270
-\c@namec=\count271
-\c@savednamec=\count272
-\c@translator=\count273
-\c@savedtranslator=\count274
-\c@shortauthor=\count275
-\c@savedshortauthor=\count276
-\c@shorteditor=\count277
-\c@savedshorteditor=\count278
-\c@labelname=\count279
-\c@savedlabelname=\count280
-\c@institution=\count281
-\c@savedinstitution=\count282
-\c@lista=\count283
-\c@savedlista=\count284
-\c@listb=\count285
-\c@savedlistb=\count286
-\c@listc=\count287
-\c@savedlistc=\count288
-\c@listd=\count289
-\c@savedlistd=\count290
-\c@liste=\count291
-\c@savedliste=\count292
-\c@listf=\count293
-\c@savedlistf=\count294
-\c@location=\count295
-\c@savedlocation=\count296
-\c@organization=\count297
-\c@savedorganization=\count298
-\c@origlocation=\count299
-\c@savedoriglocation=\count300
-\c@origpublisher=\count301
-\c@savedorigpublisher=\count302
-\c@publisher=\count303
-\c@savedpublisher=\count304
-\c@language=\count305
-\c@savedlanguage=\count306
-\c@origlanguage=\count307
-\c@savedoriglanguage=\count308
-\c@pageref=\count309
-\c@savedpageref=\count310
+\c@afterword=\count172
+\c@savedafterword=\count173
+\c@annotator=\count174
+\c@savedannotator=\count175
+\c@author=\count176
+\c@savedauthor=\count177
+\c@bookauthor=\count178
+\c@savedbookauthor=\count179
+\c@commentator=\count180
+\c@savedcommentator=\count181
+\c@editor=\count182
+\c@savededitor=\count183
+\c@editora=\count184
+\c@savededitora=\count185
+\c@editorb=\count186
+\c@savededitorb=\count187
+\c@editorc=\count188
+\c@savededitorc=\count189
+\c@foreword=\count190
+\c@savedforeword=\count191
+\c@holder=\count192
+\c@savedholder=\count193
+\c@introduction=\count194
+\c@savedintroduction=\count195
+\c@namea=\count196
+\c@savednamea=\count197
+\c@nameb=\count198
+\c@savednameb=\count199
+\c@namec=\count266
+\c@savednamec=\count267
+\c@translator=\count268
+\c@savedtranslator=\count269
+\c@shortauthor=\count270
+\c@savedshortauthor=\count271
+\c@shorteditor=\count272
+\c@savedshorteditor=\count273
+\c@labelname=\count274
+\c@savedlabelname=\count275
+\c@institution=\count276
+\c@savedinstitution=\count277
+\c@lista=\count278
+\c@savedlista=\count279
+\c@listb=\count280
+\c@savedlistb=\count281
+\c@listc=\count282
+\c@savedlistc=\count283
+\c@listd=\count284
+\c@savedlistd=\count285
+\c@liste=\count286
+\c@savedliste=\count287
+\c@listf=\count288
+\c@savedlistf=\count289
+\c@location=\count290
+\c@savedlocation=\count291
+\c@organization=\count292
+\c@savedorganization=\count293
+\c@origlocation=\count294
+\c@savedoriglocation=\count295
+\c@origpublisher=\count296
+\c@savedorigpublisher=\count297
+\c@publisher=\count298
+\c@savedpublisher=\count299
+\c@language=\count300
+\c@savedlanguage=\count301
+\c@origlanguage=\count302
+\c@savedoriglanguage=\count303
+\c@pageref=\count304
+\c@savedpageref=\count305
 \shorthandwidth=\skip67
 \shortjournalwidth=\skip68
 \shortserieswidth=\skip69
@@ -636,13 +499,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.d
 ef"
 File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-\c@textcitecount=\count311
-\c@textcitetotal=\count312
-\c@textcitemaxnames=\count313
-\c@biburlnumpenalty=\count314
-\c@biburlucpenalty=\count315
-\c@biburllcpenalty=\count316
-\c@smartand=\count317
+\c@textcitecount=\count306
+\c@textcitetotal=\count307
+\c@textcitemaxnames=\count308
+\c@biburlnumpenalty=\count309
+\c@biburlucpenalty=\count310
+\c@biburllcpenalty=\count311
+\c@smartand=\count312
 )
 Package biblatex Info: Trying to load bibliography style 'nature'...
 Package biblatex Info: ... file 'nature.bbx' found.
@@ -668,8 +531,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\standa
 rd.bbx"
 File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count318
-\c@bbx:relatedtotal=\count319
+\c@bbx:relatedcount=\count313
+\c@bbx:relatedtotal=\count314
 ))))
 Package biblatex Info: Trying to load citation style 'nature'...
 Package biblatex Info: ... file 'nature.cbx' found.
@@ -683,8 +546,8 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numeri
 c-comp.cbx"
 File: numeric-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count320
-\c@cbx@tempcntb=\count321
+\c@cbx@tempcnta=\count315
+\c@cbx@tempcntb=\count316
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -708,21 +571,21 @@ File: biblatex.cfg
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 ("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen135
+\col@sep=\dimen124
 \ar@mcellbox=\box33
-\extrarowheight=\dimen136
-\NC@list=\toks32
+\extrarowheight=\dimen125
+\NC@list=\toks30
 \extratabsurround=\skip81
 \backup@length=\skip82
 \ar@cellbox=\box34
 )
-\TX@col@width=\dimen137
-\TX@old@table=\dimen138
-\TX@old@col=\dimen139
-\TX@target=\dimen140
-\TX@delta=\dimen141
-\TX@cols=\count322
-\TX@ftn=\toks33
+\TX@col@width=\dimen126
+\TX@old@table=\dimen127
+\TX@old@col=\dimen128
+\TX@target=\dimen129
+\TX@delta=\dimen130
+\TX@cols=\count317
+\TX@ftn=\toks31
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -731,13 +594,9 @@ Package biblatex Info: ... file 'english.lbx' found.
 h.lbx"
 File: english.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 )
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count323
-\@quotereset=\count324
-(report.aux)
+\@quotelevel=\count318
+\@quotereset=\count319
+ (report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -752,205 +611,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 19.
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-\AtBeginShipoutBox=\box35
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
-i"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
-\scratchdimen=\dimen142
-\scratchbox=\box36
-\nofMPsegments=\count326
-\nofMParguments=\count327
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count328
-\MPscratchDim=\dimen143
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
-\everyMPtoPDFconversion=\toks35
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
-ase.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefine
-keys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(55.0pt, 487.50787pt, 55.0pt)
-* v-part:(T,H,B)=(79.6678pt, 685.71124pt, 79.6678pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=487.50787pt
-* \textheight=685.71124pt
-* \oddsidemargin=-17.26999pt
-* \evensidemargin=-17.26999pt
-* \topmargin=-29.60219pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
-ty"
-Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
-yperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
-eneric.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package hobsub Info: Skipping package `ifluatex' (already loaded).
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
-Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
-Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
-Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package hobsub Info: Skipping package `atbegshi' (already loaded).
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
-y"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen144
-\Hy@linkcounter=\count331
-\Hy@pagecounter=\count332
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-"
-File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-)
-\Hy@SavedSpaceFactor=\count333
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
-fg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Hyper figures OFF on input line 4535.
-Package hyperref Info: Link nesting OFF on input line 4540.
-Package hyperref Info: Hyper index ON on input line 4543.
-Package hyperref Info: Plain pages OFF on input line 4550.
-Package hyperref Info: Backreferencing OFF on input line 4555.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count334
-LaTeX Info: Redefining \nolinkurl on input line 5139.
-LaTeX Info: Redefining \url on input line 5141.
-\XeTeXLinkMargin=\dimen145
-Package auxhook Info: \AddLineBeginMainAux comes a little late,
-(auxhook)             because the main .aux file is already opened on input lin
-e 5522.
-\Fld@menulength=\count335
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
-Package hyperref Info: Hyper figures OFF on input line 6396.
-Package hyperref Info: Link nesting OFF on input line 6401.
-Package hyperref Info: Hyper index ON on input line 6404.
-Package hyperref Info: backreferencing OFF on input line 6411.
-Package hyperref Info: Link coloring OFF on input line 6416.
-Package hyperref Info: Link coloring with OCG OFF on input line 6421.
-Package hyperref Info: PDF/A mode OFF on input line 6426.
-LaTeX Info: Redefining \ref on input line 6466.
-LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count336
-\c@Item=\count337
-\c@Hfootnote=\count338
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
-f"
-File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count339
-\c@bookmark@seq@number=\count340
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
-heck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-)
-\Hy@SectionHShift=\skip83
-)
-Package hyperref Info: Link coloring OFF on input line 19.
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
-y"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
-string.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count341
-)
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
- (report.out) (report.out)
-\@outlinefile=\write8
-\openout8 = `report.out'.
-
  (report.glsdefs)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -959,114 +619,75 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' found.
- (report.bbl)
+ (report.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ?
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
-<logos/science-logo.pdf, id=71, 597.50731pt x 845.0471pt>
-File: logos/science-logo.pdf Graphic file (type pdf)
-<use logos/science-logo.pdf>
-Package pdftex.def Info: logos/science-logo.pdf  used on input line 25.
-(pdftex.def)             Requested size: 597.50584pt x 845.04504pt.
-<logos/science-english.pdf, id=73, 597.23125pt x 845.1575pt>
-File: logos/science-english.pdf Graphic file (type pdf)
-<use logos/science-english.pdf>
-Package pdftex.def Info: logos/science-english.pdf  used on input line 25.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 25.
+ (report.toc
+Overfull \hbox (7.1951pt too wide) in paragraph at lines 15--15
+ [][] []\OT1/cmr/m/n/10 Comparisions be-tween Uni-vari-able and Mul-ti-vari-abl
+e statis- 
+ []
 
-("C:\Users\tuhu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 25.
-
-
-LaTeX Font Warning: Font shape `OT1/phv/sb/n' undefined
-(Font)              using `OT1/phv/m/n' instead on input line 25.
-
-[1{C:/Users/tuhu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1
 
 \openout3 = `report.ist'.
 
- <./logos/science-logo.pdf> <./logos/science-english.pdf>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
- (report.toc
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-)
-\tf@toc=\write9
-\openout9 = `report.toc'.
+{C:/Users/tuhu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+\tf@toc=\write8
+\openout8 = `report.toc'.
 
  [2]
-\@gls@deffile=\write10
-\openout10 = `report.glsdefs'.
-
- (report.gls)
-(report.acr) [3] (intro.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+\@gls@deffile=\write9
+\openout9 = `report.glsdefs'.
 
 
-LaTeX Warning: Citation '?' on page 4 undefined on input line 31.
-
-
-Overfull \hbox (8.95786pt too wide) in paragraph at lines 31--32
-[]\OT1/ptm/m/n/10 Five lev-els of con-fi-dence were pro-posed and ap-plied ex-t
-en-sively in xxx ar-eas of LC-MS based com-pound identification[[]]. 
+(report.gls) (report.acr) [3] (intro.tex [4]) [5] (materials-methods.tex
+Overfull \hbox (3.61166pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/m/n/10 The mini-review re-ferred '8-step' Biomarker of Food In-take 
+Re-views (BFIRev)
  []
 
-) (materials-methods.tex [4]) (result.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
- (report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+[6] [7]) (result.tex
+Overfull \hbox (2.0042pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/12 Mini-systematic lit-er-a-ture re-view of whole grain wheat
+ []
 
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: D63F3D1AA314F68D7A70FDBC50D4EB53;1152
-(rerunfilecheck)             After:  9DDF1E6E8A8907C0E2D1EF5870FF10AD;1179.
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                report
-(biblatex)                and rerun LaTeX afterwards.
-
+) [8] (report.aux)
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20412 strings out of 492970
- 353736 string characters out of 3127037
- 849499 words of memory out of 3000000
- 23928 multiletter control sequences out of 15000+200000
- 25512 words of font info for 48 fonts, out of 3000000 for 9000
+ 12399 strings out of 492970
+ 212391 string characters out of 3127037
+ 680039 words of memory out of 3000000
+ 16096 multiletter control sequences out of 15000+200000
+ 9630 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,11n,46p,1977b,1702s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsubsection.2.3.1} has been referenced but does
- not exist, replaced by a fixed one
-
-{C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C
-:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvr8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
-s/utmb8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmr8a.pfb>
-Output written on report.pdf (5 pages, 231779 bytes).
+ 45i,8n,46p,1974b,1099s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tuhu/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/tuhu/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
+/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb
+><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr7.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb>
+Output written on report.pdf (8 pages, 144017 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,17 +1,23 @@
 \BOOKMARK [1][-]{section.1}{Preface}{}% 1
 \BOOKMARK [1][-]{section.2}{Introduction}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Statistics method}{section.2}% 3
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Comparisions between Univariable and Multivariable statistics}{subsection.2.1}% 4
-\BOOKMARK [2][-]{subsection.2.2}{Identification}{section.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Level of Identification and communication confidence}{subsection.2.2}% 6
-\BOOKMARK [2][-]{subsection.2.3}{Validation of the Biomarker}{section.2}% 7
-\BOOKMARK [1][-]{section.3}{Materials and methods}{}% 8
-\BOOKMARK [2][-]{subsection.3.1}{Software}{section.3}% 9
-\BOOKMARK [2][-]{subsection.3.2}{Data-preprocessing}{section.3}% 10
-\BOOKMARK [2][-]{subsection.3.3}{Statistics}{section.3}% 11
-\BOOKMARK [3][-]{subsubsection.3.3.1}{Paired t test}{subsection.3.3}% 12
-\BOOKMARK [2][-]{subsection.3.4}{PCA}{section.3}% 13
-\BOOKMARK [2][-]{subsection.3.5}{PLSDA modeling}{section.3}% 14
-\BOOKMARK [2][-]{subsection.3.6}{Literature search}{section.3}% 15
-\BOOKMARK [1][-]{section.4}{Results}{}% 16
-\BOOKMARK [2][-]{subsection.4.1}{Unpaired t-test of Negative Mode Urine Samples}{section.4}% 17
+\BOOKMARK [2][-]{subsection.2.1}{Whole Grain Cereals and Their Health Beneficial Effects}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Food Intake Biomarkers}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{LC-MS Based Metabolomics}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Biostatistics Strategy in Metabolomics Research}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Comparisions between Univariable and Multivariable statistics}{subsection.2.4}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Identification}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Level of Identification and communication confidence}{subsection.2.5}% 9
+\BOOKMARK [2][-]{subsection.2.6}{Validation of the Biomarker}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Materials and methods}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Systematic literature review of whole grain wheat and barley intake biomarkers}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Searching for relevant BFI research paper}{subsection.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Software}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Data-preprocessing}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Statistics}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Paired t test}{subsection.3.4}% 17
+\BOOKMARK [2][-]{subsection.3.5}{PCA}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.6}{PLSDA modeling}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.7}{Literature search}{section.3}% 20
+\BOOKMARK [1][-]{section.4}{Results}{}% 21
+\BOOKMARK [2][-]{subsection.4.1}{Unpaired t-test of Negative Mode Urine Samples}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.2}{PLSDA modelling to select variables of plasma samples}{section.4}% 23
