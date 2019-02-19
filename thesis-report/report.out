@@ -9,15 +9,24 @@
 \BOOKMARK [3][-]{subsubsection.2.5.1}{Level of Identification and communication confidence}{subsection.2.5}% 9
 \BOOKMARK [2][-]{subsection.2.6}{Validation of the Biomarker}{section.2}% 10
 \BOOKMARK [1][-]{section.3}{Materials and methods}{}% 11
-\BOOKMARK [2][-]{subsection.3.1}{Systematic literature review of whole grain wheat and barley intake biomarkers}{section.3}% 12
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Searching for relevant BFI research paper}{subsection.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.2}{Software}{section.3}% 14
-\BOOKMARK [2][-]{subsection.3.3}{Data-preprocessing}{section.3}% 15
-\BOOKMARK [2][-]{subsection.3.4}{Statistics}{section.3}% 16
-\BOOKMARK [3][-]{subsubsection.3.4.1}{Paired t test}{subsection.3.4}% 17
-\BOOKMARK [2][-]{subsection.3.5}{PCA}{section.3}% 18
-\BOOKMARK [2][-]{subsection.3.6}{PLSDA modeling}{section.3}% 19
-\BOOKMARK [2][-]{subsection.3.7}{Literature search}{section.3}% 20
-\BOOKMARK [1][-]{section.4}{Results}{}% 21
-\BOOKMARK [2][-]{subsection.4.1}{Unpaired t-test of Negative Mode Urine Samples}{section.4}% 22
-\BOOKMARK [2][-]{subsection.4.2}{PLSDA modelling to select variables of plasma samples}{section.4}% 23
+\BOOKMARK [2][-]{subsection.3.1}{A mini-systematic literature review of whole grain wheat and barley intake biomarkers}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Designing the review for whole grain wheat and barley}{subsection.3.1}% 13
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Searching for relevant BFI research paper}{subsection.3.1}% 14
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Selecting and screening papers for quality and relevance}{subsection.3.1}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Selection of candidate BFIs and data collection from the included records}{subsection.3.1}% 16
+\BOOKMARK [3][-]{subsubsection.3.1.5}{Assessing quality of included papers on candidate BFIs}{subsection.3.1}% 17
+\BOOKMARK [3][-]{subsubsection.3.1.6}{Evaluating the current overall status of BFIs for the food in question}{subsection.3.1}% 18
+\BOOKMARK [3][-]{subsubsection.3.1.7}{Presenting data and results}{subsection.3.1}% 19
+\BOOKMARK [3][-]{subsubsection.3.1.8}{Interpretation and conclusion}{subsection.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.2}{Software}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.3}{Data-preprocessing}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.4}{Statistics}{section.3}% 23
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Paired t test}{subsection.3.4}% 24
+\BOOKMARK [2][-]{subsection.3.5}{PCA}{section.3}% 25
+\BOOKMARK [2][-]{subsection.3.6}{PLSDA modeling}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.7}{Literature search}{section.3}% 27
+\BOOKMARK [1][-]{section.4}{Results}{}% 28
+\BOOKMARK [2][-]{subsection.4.1}{Mini-systematic literature review of whole grain wheat and barley intake biomarkers}{section.4}% 29
+\BOOKMARK [2][-]{subsection.4.2}{Unpaired t-test of Negative Mode Urine Samples}{section.4}% 30
+\BOOKMARK [2][-]{subsection.4.3}{PLSDA modelling to select variables of plasma samples}{section.4}% 31
+\BOOKMARK [2][-]{subsection.4.4}{Alkylresorcinol metabolites in plasma and urine samples}{section.4}% 32
