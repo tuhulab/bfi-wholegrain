@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  19 FEB 2019 10:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.30)  19 FEB 2019 11:26
 entering extended mode
 **./report.tex
 (report.tex
@@ -1105,12 +1105,12 @@ Package biblatex Warning: The following entry could not be found
 )
 Package biblatex Info: Reference section=0 on input line 20.
 Package biblatex Info: Reference segment=0 on input line 20.
-<logos/ku-logo.pdf, id=131, 597.23125pt x 845.1575pt>
+<logos/ku-logo.pdf, id=143, 597.23125pt x 845.1575pt>
 File: logos/ku-logo.pdf Graphic file (type pdf)
 <use logos/ku-logo.pdf>
 Package pdftex.def Info: logos/ku-logo.pdf  used on input line 23.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-<logos/ku-english.pdf, id=133, 597.23125pt x 845.1575pt>
+<logos/ku-english.pdf, id=145, 597.23125pt x 845.1575pt>
 File: logos/ku-english.pdf Graphic file (type pdf)
 <use logos/ku-english.pdf>
 Package pdftex.def Info: logos/ku-english.pdf  used on input line 23.
@@ -1164,22 +1164,23 @@ Overfull \hbox (8.95786pt too wide) in paragraph at lines 33--34
 en-sively in xxx ar-eas of LC-MS based com-pound identification[[]]. 
  []
 
-) [4] (materials-methods.tex [5]) (result.tex
-<picture/barley_biomarker_review.pdf, id=228, 917.4275pt x 293.095pt>
+) [4] (materials-methods.tex [5]) (result.tex) (conclusion.tex) [6]
+(appendix.tex
+<picture/barley_biomarker_review.pdf, id=247, 911.405pt x 404.51125pt>
 File: picture/barley_biomarker_review.pdf Graphic file (type pdf)
 <use picture/barley_biomarker_review.pdf>
 Package pdftex.def Info: picture/barley_biomarker_review.pdf  used on input lin
 e 4.
-(pdftex.def)             Requested size: 487.50787pt x 155.74657pt.
+(pdftex.def)             Requested size: 487.50787pt x 216.37743pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
- [6 <./picture/barley_biomarker_review.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+ [7 <./picture/barley_biomarker_review.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
  (report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 2C723F6216EF1D896C0F8DD5C00EDA59;2834.
+(rerunfilecheck)             Checksum: FD733C46F95456D31CE75889DC9EB0FA;3046.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1191,10 +1192,10 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 (\end occurred when \ifx on line 20 was incomplete)
 (\end occurred when \ifx on line 20 was incomplete) 
 Here is how much of TeX's memory you used:
- 20493 strings out of 492970
- 355005 string characters out of 3127037
- 850909 words of memory out of 3000000
- 23982 multiletter control sequences out of 15000+200000
+ 20505 strings out of 492970
+ 355247 string characters out of 3127037
+ 851912 words of memory out of 3000000
+ 23985 multiletter control sequences out of 15000+200000
  30375 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,46p,1974b,1701s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1208,9 +1209,9 @@ C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a
 uhvr8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmb8a.pfb><C:/Users/tuhu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 times/utmr8a.pfb>
-Output written on report.pdf (6 pages, 262885 bytes).
+Output written on report.pdf (7 pages, 266788 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 284 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 302 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
