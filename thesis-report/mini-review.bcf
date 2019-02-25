@@ -1980,6 +1980,9 @@
     <bcf:citekey order="2">Scalbert2014</bcf:citekey>
     <bcf:citekey order="3">arreview2004</bcf:citekey>
     <bcf:citekey order="4">Pratico2018</bcf:citekey>
+    <bcf:citekey order="5">Baik2008</bcf:citekey>
+    <bcf:citekey order="6">DeAngelis2015</bcf:citekey>
+    <bcf:citekey order="7">Gurdeniz2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

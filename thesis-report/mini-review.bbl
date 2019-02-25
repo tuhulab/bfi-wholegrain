@@ -285,6 +285,184 @@
       \endverb
       \keyw{Biomarkers,Food exposure markers,Literature search methodology,Metabolomics,Systematic review}
     \endentry
+    \entry{Baik2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2e01905b6a8af9fac8c4f167d8b36be1}{%
+           family={Baik},
+           familyi={B\bibinitperiod},
+           given={Byung-kee},
+           giveni={B\bibinithyphendelim k\bibinitperiod}}}%
+        {{hash=ba4c58c56c7b20b3dc66f2ac576d8069}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={Steven\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{23117d4ca745030f9766660ebedfdaa0}
+      \strng{fullhash}{23117d4ca745030f9766660ebedfdaa0}
+      \strng{bibnamehash}{23117d4ca745030f9766660ebedfdaa0}
+      \strng{authorbibnamehash}{23117d4ca745030f9766660ebedfdaa0}
+      \strng{authornamehash}{23117d4ca745030f9766660ebedfdaa0}
+      \strng{authorfullhash}{23117d4ca745030f9766660ebedfdaa0}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cereal Science}
+      \field{title}{{Barley for food : Characteristics , improvement , and renewed interest}}
+      \field{volume}{48}
+      \field{year}{2008}
+      \field{pages}{233\bibrangedash 242}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jcs.2008.02.002
+      \endverb
+    \endentry
+    \entry{DeAngelis2015}{article}{}
+      \name{author}{10}{}{%
+        {{hash=7db5ceabf14716e314cb1d98d0fa6ad3}{%
+           family={{De Angelis}},
+           familyi={D\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=40f552d891a0f413398efb30587b8ee9}{%
+           family={Montemurno},
+           familyi={M\bibinitperiod},
+           given={Eustacchio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e2abf59bc191ae1c68e85a5e5be3f9c4}{%
+           family={Vannini},
+           familyi={V\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=17ac3537dbb8805df66cf5428093354d}{%
+           family={Cosola},
+           familyi={C\bibinitperiod},
+           given={Carmela},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c2928c2f58a0b060500d9478ce9a7ff9}{%
+           family={Cavallo},
+           familyi={C\bibinitperiod},
+           given={Noemi},
+           giveni={N\bibinitperiod}}}%
+        {{hash=78f4661b67d2a37874dbe0cf2a67c880}{%
+           family={Gozzi},
+           familyi={G\bibinitperiod},
+           given={Giorgia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4e6453f3ddf0ebe24a8c14768ed1c622}{%
+           family={Maranzano},
+           familyi={M\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1d42d7a978bbad94ee3dd1bec6f46650}{%
+           family={{Di Cagno}},
+           familyi={D\bibinitperiod},
+           given={Raffaella},
+           giveni={R\bibinitperiod}}}%
+        {{hash=56fd791232bf506c74b926ca205c5682}{%
+           family={Gobbetti},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=02d3bbb1f09554496a50ec762a4627f8}{%
+           family={Gesualdo},
+           familyi={G\bibinitperiod},
+           given={Loreto},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{932187af88d77cb176a0c73cad892e22}
+      \strng{fullhash}{56711c23594ab42ffeb5e4654880007a}
+      \strng{bibnamehash}{932187af88d77cb176a0c73cad892e22}
+      \strng{authorbibnamehash}{932187af88d77cb176a0c73cad892e22}
+      \strng{authornamehash}{932187af88d77cb176a0c73cad892e22}
+      \strng{authorfullhash}{56711c23594ab42ffeb5e4654880007a}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, we compared the fecal microbiota and metabolomes of 26 healthy subjects before (HS) and after (HSB) 2 months of diet intervention based on the administration of durum wheat flour and whole-grain barley pasta containing the minimum recommended daily intake (3 g) of barley beta-glucans. Metabolically active bacteria were analyzed through pyrosequencing of the 16S rRNA gene and community-level catabolic profiles. Pyrosequencing data showed that levels of Clostridiaceae (Clostridium orbiscindens and Clostridium sp.), Roseburia hominis, and Ruminococcus sp. increased, while levels of other Firmicutes and Fusobacteria decreased, from the HSB samples to the HS fecal samples. Community-level catabolic profiles were lower in HSB samples. Compared to the results for HS samples, cultivable lactobacilli increased in HSB fecal samples, while the numbers of Enterobacteriaceae, total coliforms, and Bacteroides, Porphyromonas, Prevotella, Pseudomonas, Alcaligenes, and Aeromonas bacteria decreased. Metabolome analyses were performed using an amino acid analyzer and gas chromatography-mass spectrometry solid-phase microextraction. A marked increase in short-chain fatty acids (SCFA), such as 2-methyl-propanoic, acetic, butyric, and propionic acids, was found in HSB samples with respect to the HS fecal samples. Durum wheat flour and whole-grain barley pasta containing 3{\%} barley beta-glucans appeared to be effective in modulating the composition and metabolic pathways of the intestinal microbiota, leading to an increased level of SCFA in the HSB samples.}
+      \field{issn}{1098-5336 (Electronic)}
+      \field{journaltitle}{Applied and environmental microbiology}
+      \field{month}{11}
+      \field{number}{22}
+      \field{title}{{Effect of Whole-Grain Barley on the Human Fecal Microbiota and Metabolome.}}
+      \field{volume}{81}
+      \field{year}{2015}
+      \field{pages}{7945\bibrangedash 7956}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1128/AEM.02507-15
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/7945.full.pdf:pdf
+      \endverb
+      \keyw{16S,Adult,Bacteria,DNA,Diet,Feces,Female,Gas Chromatography-Mass Spectrometry,Hordeum,Humans,Italy,Male,Metabolome,Microbiota,Middle Aged,Phylogeny,RNA,Ribosomal,Sequence Analysis,Solid Phase Microextraction,Triticum,chemistry,classification,genetics,growth {\&} development,isolation {\&} purification,metabolism,microbiology}
+    \endentry
+    \entry{Gurdeniz2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d0658c029fb6370c529fac320d0a87c9}{%
+           family={Gurdeniz},
+           familyi={G\bibinitperiod},
+           given={Gozde},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d5dadf62006fa8fe994ddadfd5e2ec91}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Morten\bibnamedelima Georg},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=99181a321be29ce3f394d3f13d936e60}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=33b565004cf268af4efedd7de94a13fe}{%
+           family={Bech},
+           familyi={B\bibinitperiod},
+           given={Lene},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6916b89289aed683046be157b2981bbf}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3e667acfc0e431f8452290a5b7d3625f}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima Ove},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{fullhash}{82e0d709ff62ab47863e0cccc14b2d71}
+      \strng{bibnamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authorbibnamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authornamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authorfullhash}{82e0d709ff62ab47863e0cccc14b2d71}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Evaluation of the health related effects of beer intake is hampered by the lack of accurate tools for assessing intakes (biomarkers). Therefore, we identified plasma and urine metabolites associated with recent beer intake by untargeted metabolomics and established a characteristic metabolite pattern representing raw materials and beer production as a qualitative biomarker of beer intake. In a randomized, crossover, single-blinded meal study (MSt1), 18 participants were given, one at a time, four different test beverages: strong, regular, and nonalcoholic beers and a soft drink. Four participants were assigned to have two additional beers (MSt2). In addition to plasma and urine samples, test beverages, wort, and hops extract were analyzed by UPLC-QTOF. A unique metabolite pattern reflecting beer metabolome, including metabolites derived from beer raw material (i.e., N-methyl tyramine sulfate and the sum of iso-alpha-acids and tricyclohumols) and the production process (i.e., pyro-glutamyl proline and 2-ethyl malate), was selected to establish a compliance biomarker model for detection of beer intake based on MSt1. The model predicted the MSt2 samples collected before and up to 12 h after beer intake correctly (AUC = 1). A biomarker model including four metabolites representing both beer raw materials and production steps provided a specific and accurate tool for measurement of beer consumption.}
+      \field{issn}{1535-3907 (Electronic)}
+      \field{journaltitle}{Journal of proteome research}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Detecting Beer Intake by Unique Metabolite Patterns.}}
+      \field{volume}{15}
+      \field{year}{2016}
+      \field{pages}{4544\bibrangedash 4556}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1021/acs.jproteome.6b00635
+      \endverb
+      \keyw{Alcohol Drinking,Beer,Biomarkers,Chromatography,Liquid,Cross-Over Studies,Humans,Mass Spectrometry,Metabolome,Metabolomics,Single-Blind Method,analysis,blood,urine}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
