@@ -1,0 +1,291 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{ISI:000447355100002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e15361233f89bd445bd13822dd99ded}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={Shengmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{fullhash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{bibnamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authorbibnamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authornamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authorfullhash}{1e15361233f89bd445bd13822dd99ded}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is growing evidence that whole grain (WG) intake may prevent many chronic diseases. However, there are mixed results on this topic in human studies as a result of a lack of accurate tools to assess the intake of WGs and individual metabolic variation. To better understand the effects of WGs on health maintenance and the risk of chronic disease, there is an urgent need to identify the biomarkers for WG intake. The molecular signatures of WG intake remain undefined. This perspective gives an overview of the current knowledge, challenges, and future directions on the biomarkers of WG intake.}
+      \field{issn}{0021-8561}
+      \field{journaltitle}{JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY}
+      \field{month}{10}
+      \field{number}{40}
+      \field{title}{{Biomarkers of Whole Grain Intake}}
+      \field{volume}{66}
+      \field{year}{2018}
+      \field{pages}{10347\bibrangedash 10352}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acs.jafc.8b04110
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/acs.jafc.8b04110.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Scalbert2014}{article}{}
+      \name{author}{9}{}{%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63ac5746e80f367ebf112368a25ffadd}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Lorraine},
+           giveni={L\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4388a0c99df3cdd68076b5a30278e4c0}{%
+           family={Andres-Lacueva},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=12153ae5dd8ecd7f09989dacf214211b}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima O},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=f78fc18a2750bdc7544140bd628e1862}{%
+           family={Draper},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ecf561d31588da7a7d3624da348fae76}{%
+           family={Rappaport},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=67e2f1c6669f40948ebee9e20f030561}{%
+           family={Hooft},
+           familyi={H\bibinitperiod},
+           given={Justin\bibnamedelima JJ},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=69a6c81956fa259d773e3cc99ab81572}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ea34a2a9d357d3d7b746bd3e71aa9543}
+      \strng{fullhash}{5c919cbfb91b45766bbe112e83c7e62e}
+      \strng{bibnamehash}{ea34a2a9d357d3d7b746bd3e71aa9543}
+      \strng{authorbibnamehash}{ea34a2a9d357d3d7b746bd3e71aa9543}
+      \strng{authornamehash}{ea34a2a9d357d3d7b746bd3e71aa9543}
+      \strng{authorfullhash}{5c919cbfb91b45766bbe112e83c7e62e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{The American Journal of Clinical Nutrition}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{The food metabolome: a window over dietary exposure}}
+      \field{volume}{99}
+      \field{year}{2014}
+      \field{pages}{1286\bibrangedash 1308}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.3945/ajcn.113.076133
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/ajcn/article/99/6/1286/4577352
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/ajcn/article/99/6/1286/4577352
+      \endverb
+      \keyw{diet,food,metabolites,metabolomics}
+    \endentry
+    \entry{arreview2004}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=23bcab327317b8ec8cf4c9abfcb0d89f}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59b715f238293522a8a5eed6e4b02955}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{24c5aa26774ab12cb083226911f427b5}
+      \strng{fullhash}{c523a8e6bc015e95b17de2fd88c44241}
+      \strng{bibnamehash}{c523a8e6bc015e95b17de2fd88c44241}
+      \strng{authorbibnamehash}{c523a8e6bc015e95b17de2fd88c44241}
+      \strng{authornamehash}{24c5aa26774ab12cb083226911f427b5}
+      \strng{authorfullhash}{c523a8e6bc015e95b17de2fd88c44241}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The biologic and chemical properties of alkylresorcinols (ARs) have been reviewed previously, but there has been relatively little research or focus on the importance of ARs in food and diet. ARs represent a significant proportion of the phytochemicals present in wheat and rye, in which they normally exist in concentrations between 300 and 1500 microg/g. ARs are concentrated in the bran fraction of these cereals, and are therefore a significant component of food products rich in whole grain wheat and rye but not in products containing only refined cereal flour. In this review, we discuss the presence of ARs in food, methods of analysis, their absorption and role in the diet in light of their in vitro bioactivities, and their possible use as biomarkers of whole-grain wheat and rye intake.}
+      \field{booktitle}{Nutrition Reviews}
+      \field{issn}{00296643}
+      \field{title}{{Dietary Alkylresorcinols: Absorption, Bioactivities, and Possible Use as Biomarkers of Whole-grain Wheat- and Rye-rich Foods}}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1301/nr.2004.mar.81-95
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/nutritionreviews62-0081.pdf:pdf
+      \endverb
+      \keyw{Alkylresorcinols,Biomarker,Cardol,Rye,Wheat,Whole grain}
+    \endentry
+    \entry{Pratico2018}{article}{}
+      \name{author}{16}{}{%
+        {{hash=58ffe67f49ef97dd41f5df9d6ab2a39a}{%
+           family={Pratic{ò}},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=63677015b0fbd760e55a21f08a606f98}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99051fc5dd46ebc835a9e9f03a9f8ba9}{%
+           family={Verg{è}res},
+           familyi={V\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c01dad542ad5f3fae1950eb9ec859f8}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={Marjukka},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63ac5746e80f367ebf112368a25ffadd}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Lorraine},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4fb87b841940afb6e24c7f06e44ff568}{%
+           family={Pedapati},
+           familyi={P\bibinitperiod},
+           given={Sri\bibnamedelima Harsha},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d5d3e5183247a50512915e7c1f49241d}{%
+           family={Afman},
+           familyi={A\bibinitperiod},
+           given={Lydia\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d579591acc70fe0e1d3256489de57b16}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0393a2624ab8f920b99a8ae7521c142b}{%
+           family={V{á}zquez-Fresno},
+           familyi={V\bibinithyphendelim F\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5ca283b6b4151fac00ed4e9b26b7fdea}{%
+           family={Lacueva},
+           familyi={L\bibinitperiod},
+           given={Cristina\bibnamedelima Andres},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aed3bf3502c3537743cd208659384c90}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0799d15b95d5ac229596f1212d4f42e3}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={Edith\bibnamedelima J.M.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0804e6bbcbce69b630e208260ca5af2e}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Genes {\&} Nutrition}%
+      }
+      \strng{namehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{fullhash}{161836630e111cf6d8d811c247eefe19}
+      \strng{bibnamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authorbibnamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authornamehash}{72f68d4d30a591a724001bab1cbcbe4d}
+      \strng{authorfullhash}{161836630e111cf6d8d811c247eefe19}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18653499}
+      \field{journaltitle}{Genes and Nutrition}
+      \field{number}{1}
+      \field{title}{{Guidelines for Biomarker of Food Intake Reviews (BFIRev): How to conduct an extensive literature search for biomarker of food intake discovery}}
+      \field{volume}{13}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1186/s12263-018-0592-8
+      \endverb
+      \keyw{Biomarkers,Food exposure markers,Literature search methodology,Metabolomics,Systematic review}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
