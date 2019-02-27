@@ -1982,7 +1982,26 @@
     <bcf:citekey order="4">Pratico2018</bcf:citekey>
     <bcf:citekey order="5">Baik2008</bcf:citekey>
     <bcf:citekey order="6">DeAngelis2015</bcf:citekey>
-    <bcf:citekey order="7">Gurdeniz2016</bcf:citekey>
+    <bcf:citekey order="7">DeAngelis2015</bcf:citekey>
+    <bcf:citekey order="8">ISI:000309032000011</bcf:citekey>
+    <bcf:citekey order="8">ISI:000259554500019</bcf:citekey>
+    <bcf:citekey order="9">ISI:000259554500019</bcf:citekey>
+    <bcf:citekey order="10">doi:10.1021/jf0340456</bcf:citekey>
+    <bcf:citekey order="10">ANDERSSON2010794</bcf:citekey>
+    <bcf:citekey order="10">BORDIGA201638</bcf:citekey>
+    <bcf:citekey order="11">doi:10.1021/jf0340456</bcf:citekey>
+    <bcf:citekey order="11">ANDERSSON2010794</bcf:citekey>
+    <bcf:citekey order="11">BORDIGA201638</bcf:citekey>
+    <bcf:citekey order="12">Dragsted2017</bcf:citekey>
+    <bcf:citekey order="13">Gao2017</bcf:citekey>
+    <bcf:citekey order="14">Gurdeniz2016</bcf:citekey>
+    <bcf:citekey order="15">ISI:000376712600013</bcf:citekey>
+    <bcf:citekey order="16">ISI:000376712600013</bcf:citekey>
+    <bcf:citekey order="17">Gao2017</bcf:citekey>
+    <bcf:citekey order="18">ISI:000389134200003</bcf:citekey>
+    <bcf:citekey order="19">ISI:000394168100034</bcf:citekey>
+    <bcf:citekey order="20">ISI:000384082300001</bcf:citekey>
+    <bcf:citekey order="21">ISI:000447355100002</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -1991,4 +2010,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

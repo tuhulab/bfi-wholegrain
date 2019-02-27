@@ -1,12 +1,15 @@
 \documentclass[]{article}
 
 %opening
-\title{A Mini Review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
+\title{A Mini Review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake\footnote{Supervisor: Lars Ove Dragsted, Gözde Gürdeniz}}
 \author{Tu Hu}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
 \addbibresource{barley.bib}
-
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{siunitx}
 \begin{document}
 
 \maketitle
@@ -30,8 +33,17 @@
 \section{Results}
 \input{review-result}
 
+\section{Conclusions}
+\input{review-conclusion}
 \section{Discussions}
+\input{review-dis}
 
 \section{Appendix}
+\input{review-appendix}
 
+\clearpage
+\printbibliography[
+heading=bibintoc,
+title={References}
+]
 \end{document}
