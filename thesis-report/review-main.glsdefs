@@ -1,0 +1,840 @@
+\ifglsentryexists{cvd}{}%
+{%
+\gls@defglossaryentry{cvd}%
+{%
+name={CVD},%
+sort={CVD},%
+type={acronym},%
+first={cardiovascular diseases\glsspace (CVD)},%
+firstplural={cardiovascular diseasess\glsspace (CVDs)},%
+text={CVD},%
+plural={CVDs},%
+description={cardiovascular diseases},%
+descriptionplural={cardiovascular diseases\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={cardiovascular diseases},%
+longplural={cardiovascular diseasess},%
+short={CVD},%
+shortplural={CVDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tc}{}%
+{%
+\gls@defglossaryentry{tc}%
+{%
+name={TC},%
+sort={TC},%
+type={acronym},%
+first={Total Cholesterol\glsspace (TC)},%
+firstplural={Total Cholesterols\glsspace (TCs)},%
+text={TC},%
+plural={TCs},%
+description={Total Cholesterol},%
+descriptionplural={Total Cholesterol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Total Cholesterol},%
+longplural={Total Cholesterols},%
+short={TC},%
+shortplural={TCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ldlc}{}%
+{%
+\gls@defglossaryentry{ldlc}%
+{%
+name={LDL-C},%
+sort={LDL-C},%
+type={acronym},%
+first={Low Density Lipoprotein Cholesterol\glsspace (LDL-C)},%
+firstplural={Low Density Lipoprotein Cholesterols\glsspace (LDL-Cs)},%
+text={LDL-C},%
+plural={LDL-Cs},%
+description={Low Density Lipoprotein Cholesterol},%
+descriptionplural={Low Density Lipoprotein Cholesterol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Low Density Lipoprotein Cholesterol},%
+longplural={Low Density Lipoprotein Cholesterols},%
+short={LDL-C},%
+shortplural={LDL-Cs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hdlc}{}%
+{%
+\gls@defglossaryentry{hdlc}%
+{%
+name={HDL-C},%
+sort={HDL-C},%
+type={acronym},%
+first={High Density Lipoprotein Cholesterol\glsspace (HDL-C)},%
+firstplural={High Density Lipoprotein Cholesterols\glsspace (HDL-Cs)},%
+text={HDL-C},%
+plural={HDL-Cs},%
+description={High Density Lipoprotein Cholesterol},%
+descriptionplural={High Density Lipoprotein Cholesterol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={High Density Lipoprotein Cholesterol},%
+longplural={High Density Lipoprotein Cholesterols},%
+short={HDL-C},%
+shortplural={HDL-Cs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tg}{}%
+{%
+\gls@defglossaryentry{tg}%
+{%
+name={TG},%
+sort={TG},%
+type={acronym},%
+first={Triglycerides\glsspace (TG)},%
+firstplural={Triglyceridess\glsspace (TGs)},%
+text={TG},%
+plural={TGs},%
+description={Triglycerides},%
+descriptionplural={Triglycerides\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Triglycerides},%
+longplural={Triglyceridess},%
+short={TG},%
+shortplural={TGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{crp}{}%
+{%
+\gls@defglossaryentry{crp}%
+{%
+name={CRP},%
+sort={CRP},%
+type={acronym},%
+first={C-Reactive Protein\glsspace (CRP)},%
+firstplural={C-Reactive Proteins\glsspace (CRPs)},%
+text={CRP},%
+plural={CRPs},%
+description={C-Reactive Protein},%
+descriptionplural={C-Reactive Protein\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={C-Reactive Protein},%
+longplural={C-Reactive Proteins},%
+short={CRP},%
+shortplural={CRPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wbb}{}%
+{%
+\gls@defglossaryentry{wbb}%
+{%
+name={WBB},%
+sort={WBB},%
+type={acronym},%
+first={Whole Barley Bread\glsspace (WBB)},%
+firstplural={Whole Barley Breads\glsspace (WBBs)},%
+text={WBB},%
+plural={WBBs},%
+description={Whole Barley Bread},%
+descriptionplural={Whole Barley Bread\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Whole Barley Bread},%
+longplural={Whole Barley Breads},%
+short={WBB},%
+shortplural={WBBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wwb}{}%
+{%
+\gls@defglossaryentry{wwb}%
+{%
+name={WWB},%
+sort={WWB},%
+type={acronym},%
+first={Whole Wheat Bread\glsspace (WWB)},%
+firstplural={Whole Wheat Breads\glsspace (WWBs)},%
+text={WWB},%
+plural={WWBs},%
+description={Whole Wheat Bread},%
+descriptionplural={Whole Wheat Bread\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Whole Wheat Bread},%
+longplural={Whole Wheat Breads},%
+short={WWB},%
+shortplural={WWBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bfis}{}%
+{%
+\gls@defglossaryentry{bfis}%
+{%
+name={BFIs},%
+sort={BFIs},%
+type={acronym},%
+first={Biomarkers of Food Intake\glsspace (BFIs)},%
+firstplural={Biomarkers of Food Intakes\glsspace (BFIss)},%
+text={BFIs},%
+plural={BFIss},%
+description={Biomarkers of Food Intake},%
+descriptionplural={Biomarkers of Food Intake\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Biomarkers of Food Intake},%
+longplural={Biomarkers of Food Intakes},%
+short={BFIs},%
+shortplural={BFIss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lc-ms}{}%
+{%
+\gls@defglossaryentry{lc-ms}%
+{%
+name={LC-MS},%
+sort={LC-MS},%
+type={acronym},%
+first={Liquid Chromatography-Mass Spectrometry\glsspace (LC-MS)},%
+firstplural={Liquid Chromatography-Mass Spectrometrys\glsspace (LC-MSs)},%
+text={LC-MS},%
+plural={LC-MSs},%
+description={Liquid Chromatography-Mass Spectrometry},%
+descriptionplural={Liquid Chromatography-Mass Spectrometry\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Liquid Chromatography-Mass Spectrometry},%
+longplural={Liquid Chromatography-Mass Spectrometrys},%
+short={LC-MS},%
+shortplural={LC-MSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gc-ms}{}%
+{%
+\gls@defglossaryentry{gc-ms}%
+{%
+name={GC-MS},%
+sort={GC-MS},%
+type={acronym},%
+first={Gas Chromatography-Mass Spectrometry\glsspace (GC-MS)},%
+firstplural={Gas Chromatography-Mass Spectrometrys\glsspace (GC-MSs)},%
+text={GC-MS},%
+plural={GC-MSs},%
+description={Gas Chromatography-Mass Spectrometry},%
+descriptionplural={Gas Chromatography-Mass Spectrometry\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Gas Chromatography-Mass Spectrometry},%
+longplural={Gas Chromatography-Mass Spectrometrys},%
+short={GC-MS},%
+shortplural={GC-MSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nmr}{}%
+{%
+\gls@defglossaryentry{nmr}%
+{%
+name={NMR},%
+sort={NMR},%
+type={acronym},%
+first={Nuclear Magnetic Resonance Spectroscopy\glsspace (NMR)},%
+firstplural={Nuclear Magnetic Resonance Spectroscopys\glsspace (NMRs)},%
+text={NMR},%
+plural={NMRs},%
+description={Nuclear Magnetic Resonance Spectroscopy},%
+descriptionplural={Nuclear Magnetic Resonance Spectroscopy\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Nuclear Magnetic Resonance Spectroscopy},%
+longplural={Nuclear Magnetic Resonance Spectroscopys},%
+short={NMR},%
+shortplural={NMRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ms/ms}{}%
+{%
+\gls@defglossaryentry{ms/ms}%
+{%
+name={MS/MS},%
+sort={MS/MS},%
+type={acronym},%
+first={Tandem Mass Spectrometry\glsspace (MS/MS)},%
+firstplural={Tandem Mass Spectrometrys\glsspace (MS/MSs)},%
+text={MS/MS},%
+plural={MS/MSs},%
+description={Tandem Mass Spectrometry},%
+descriptionplural={Tandem Mass Spectrometry\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tandem Mass Spectrometry},%
+longplural={Tandem Mass Spectrometrys},%
+short={MS/MS},%
+shortplural={MS/MSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tims-pasef}{}%
+{%
+\gls@defglossaryentry{tims-pasef}%
+{%
+name={TIMS-PASEF},%
+sort={TIMS-PASEF},%
+type={acronym},%
+first={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentation\glsspace (TIMS-PASEF)},%
+firstplural={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentations\glsspace (TIMS-PASEFs)},%
+text={TIMS-PASEF},%
+plural={TIMS-PASEFs},%
+description={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentation},%
+descriptionplural={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentation},%
+longplural={Trapped Ion Mobility Spectrometry with Parallel Accumulation Serial Fragmentations},%
+short={TIMS-PASEF},%
+shortplural={TIMS-PASEFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hmdb}{}%
+{%
+\gls@defglossaryentry{hmdb}%
+{%
+name={HMDB},%
+sort={HMDB},%
+type={acronym},%
+first={Human Metabolome Database\glsspace (HMDB)},%
+firstplural={Human Metabolome Databases\glsspace (HMDBs)},%
+text={HMDB},%
+plural={HMDBs},%
+description={Human Metabolome Database},%
+descriptionplural={Human Metabolome Database\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human Metabolome Database},%
+longplural={Human Metabolome Databases},%
+short={HMDB},%
+shortplural={HMDBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gnps}{}%
+{%
+\gls@defglossaryentry{gnps}%
+{%
+name={GNPS},%
+sort={GNPS},%
+type={acronym},%
+first={Global Nature Products Social Molecular Networking\glsspace (GNPS)},%
+firstplural={Global Nature Products Social Molecular Networkings\glsspace (GNPSs)},%
+text={GNPS},%
+plural={GNPSs},%
+description={Global Nature Products Social Molecular Networking},%
+descriptionplural={Global Nature Products Social Molecular Networking\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Nature Products Social Molecular Networking},%
+longplural={Global Nature Products Social Molecular Networkings},%
+short={GNPS},%
+shortplural={GNPSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{aw}{}%
+{%
+\gls@defglossaryentry{aw}%
+{%
+name={AW},%
+sort={AW},%
+type={acronym},%
+first={After Wheat\glsspace (AW)},%
+firstplural={After Wheats\glsspace (AWs)},%
+text={AW},%
+plural={AWs},%
+description={After Wheat},%
+descriptionplural={After Wheat\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={After Wheat},%
+longplural={After Wheats},%
+short={AW},%
+shortplural={AWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ab}{}%
+{%
+\gls@defglossaryentry{ab}%
+{%
+name={AB},%
+sort={AB},%
+type={acronym},%
+first={After Barley\glsspace (AB)},%
+firstplural={After Barleys\glsspace (ABs)},%
+text={AB},%
+plural={ABs},%
+description={After Barley},%
+descriptionplural={After Barley\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={After Barley},%
+longplural={After Barleys},%
+short={AB},%
+shortplural={ABs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bw}{}%
+{%
+\gls@defglossaryentry{bw}%
+{%
+name={BW},%
+sort={BW},%
+type={acronym},%
+first={Before Wheat\glsspace (BW)},%
+firstplural={Before Wheats\glsspace (BWs)},%
+text={BW},%
+plural={BWs},%
+description={Before Wheat},%
+descriptionplural={Before Wheat\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Before Wheat},%
+longplural={Before Wheats},%
+short={BW},%
+shortplural={BWs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bb}{}%
+{%
+\gls@defglossaryentry{bb}%
+{%
+name={BB},%
+sort={BB},%
+type={acronym},%
+first={Before Barley\glsspace (BB)},%
+firstplural={Before Barleys\glsspace (BBs)},%
+text={BB},%
+plural={BBs},%
+description={Before Barley},%
+descriptionplural={Before Barley\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Before Barley},%
+longplural={Before Barleys},%
+short={BB},%
+shortplural={BBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pca}{}%
+{%
+\gls@defglossaryentry{pca}%
+{%
+name={PCA},%
+sort={PCA},%
+type={acronym},%
+first={Principle Component Analysis\glsspace (PCA)},%
+firstplural={Principle Component Analysiss\glsspace (PCAs)},%
+text={PCA},%
+plural={PCAs},%
+description={Principle Component Analysis},%
+descriptionplural={Principle Component Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Principle Component Analysis},%
+longplural={Principle Component Analysiss},%
+short={PCA},%
+shortplural={PCAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{plsda}{}%
+{%
+\gls@defglossaryentry{plsda}%
+{%
+name={PLSDA},%
+sort={PLSDA},%
+type={acronym},%
+first={Partial Least Squares Discriminant Analysis\glsspace (PLSDA)},%
+firstplural={Partial Least Squares Discriminant Analysiss\glsspace (PLSDAs)},%
+text={PLSDA},%
+plural={PLSDAs},%
+description={Partial Least Squares Discriminant Analysis},%
+descriptionplural={Partial Least Squares Discriminant Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Partial Least Squares Discriminant Analysis},%
+longplural={Partial Least Squares Discriminant Analysiss},%
+short={PLSDA},%
+shortplural={PLSDAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pqn}{}%
+{%
+\gls@defglossaryentry{pqn}%
+{%
+name={PQN},%
+sort={PQN},%
+type={acronym},%
+first={Probabilistic Quotient Normalization\glsspace (PQN)},%
+firstplural={Probabilistic Quotient Normalizations\glsspace (PQNs)},%
+text={PQN},%
+plural={PQNs},%
+description={Probabilistic Quotient Normalization},%
+descriptionplural={Probabilistic Quotient Normalization\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Probabilistic Quotient Normalization},%
+longplural={Probabilistic Quotient Normalizations},%
+short={PQN},%
+shortplural={PQNs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{vip}{}%
+{%
+\gls@defglossaryentry{vip}%
+{%
+name={VIP},%
+sort={VIP},%
+type={acronym},%
+first={variable importance in projection\glsspace (VIP)},%
+firstplural={variable importance in projections\glsspace (VIPs)},%
+text={VIP},%
+plural={VIPs},%
+description={variable importance in projection},%
+descriptionplural={variable importance in projection\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={variable importance in projection},%
+longplural={variable importance in projections},%
+short={VIP},%
+shortplural={VIPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wg}{}%
+{%
+\gls@defglossaryentry{wg}%
+{%
+name={WG},%
+sort={WG},%
+type={acronym},%
+first={whole grain\glsspace (WG)},%
+firstplural={whole grains\glsspace (WGs)},%
+text={WG},%
+plural={WGs},%
+description={whole grain},%
+descriptionplural={whole grain\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={whole grain},%
+longplural={whole grains},%
+short={WG},%
+shortplural={WGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{wgs}{}%
+{%
+\gls@defglossaryentry{wgs}%
+{%
+name={WGs},%
+sort={WGs},%
+type={acronym},%
+first={whole grains\glsspace (WGs)},%
+firstplural={whole grainss\glsspace (WGss)},%
+text={WGs},%
+plural={WGss},%
+description={whole grains},%
+descriptionplural={whole grains\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={whole grains},%
+longplural={whole grainss},%
+short={WGs},%
+shortplural={WGss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ars}{}%
+{%
+\gls@defglossaryentry{ars}%
+{%
+name={ARs},%
+sort={ARs},%
+type={acronym},%
+first={Alkylresorcinols\glsspace (ARs)},%
+firstplural={Alkylresorcinolss\glsspace (ARss)},%
+text={ARs},%
+plural={ARss},%
+description={Alkylresorcinols},%
+descriptionplural={Alkylresorcinols\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Alkylresorcinols},%
+longplural={Alkylresorcinolss},%
+short={ARs},%
+shortplural={ARss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ffq}{}%
+{%
+\gls@defglossaryentry{ffq}%
+{%
+name={FFQ},%
+sort={FFQ},%
+type={acronym},%
+first={Food Frequency Questionnaire\glsspace (FFQ)},%
+firstplural={Food Frequency Questionnaires\glsspace (FFQs)},%
+text={FFQ},%
+plural={FFQs},%
+description={Food Frequency Questionnaire},%
+descriptionplural={Food Frequency Questionnaire\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Food Frequency Questionnaire},%
+longplural={Food Frequency Questionnaires},%
+short={FFQ},%
+shortplural={FFQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

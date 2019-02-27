@@ -597,6 +597,53 @@
       \verb 10.1016/j.jcs.2008.02.002
       \endverb
     \endentry
+    \entry{ISI:000272990200002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b2fa23c78330c98e4109d9c1e176bdb}{%
+           family={Abidi},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=951395ef9bcc56ffd91cf7c7587c7f2c}{%
+           family={{Ben Salem}},
+           familyi={B\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eee23e2f9c3b4ab487b37d63f9409f70}{%
+           family={Vasta},
+           familyi={V\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2b90892c5b9add7f76338f83c4ad4512}{%
+           family={Priolo},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c414956455598900c42a352899e2be7e}
+      \strng{fullhash}{1b36c0f9bf618d30432b6c35d205279a}
+      \strng{bibnamehash}{1b36c0f9bf618d30432b6c35d205279a}
+      \strng{authorbibnamehash}{1b36c0f9bf618d30432b6c35d205279a}
+      \strng{authornamehash}{c414956455598900c42a352899e2be7e}
+      \strng{authorfullhash}{1b36c0f9bf618d30432b6c35d205279a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An 84-day experiment, comprising growth and digestibility trials, was conducted to evaluate the effect of replacing barley with spineless Cactus (Opuntia ficus indica f. inermis) cladodes (cactus) on feed intake, digestion, blood metabolites, growth and meat quality of male lambs and kids consuming oaten hay. The replacement of barley by cactus decreased drinking water intake (P = 0.002) but had no effect on feed intake, diet digestibility and N balance (P {>} 0.05). Irrespective of animal species, the barley diet exhibited higher concentrations of allantoin in urine (P = 0.005) and therefore a higher microbial N Supply (P = 0.063) than the Cactus diet. Average daily gain was greater for the barley than for the cactus diet (P {<} 0.05), with a tendency for a greater difference for goats (46 g/day vs. 24 g/day) than for sheep (46 g/day vs. 39 g/day). The replacement of barley with cactus did not produce major differences in treat intramuscular fatty acid composition. Vaccenic acid concentration was significantly affected by treatment, being higher in meat of animals offered the cactus diet compared with the barley diet, while the accumulation of conjugated linoleic acid was not affected by the inclusion of cactus in the diet. Total saturated fatty acids, monounsaturated fatty acids (FA) and polyunsaturated FA were not influenced by supplementation with cactus. Despite the higher level of total n-6 FA in kids' meat, the n-6/n-3 ratio had a very low value. which is favourable for human health. It is concluded that. in terms of equivalent energy, cactus cladodes could replace barley in the diet of lambs and kids without substantial detrimental effects on digestion, growth and meat quality. Therefore, cactus could be used as a cost-effective feed supplement for sheep and goats on low quality roughages raised in dry areas. (C) 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{0921-4488}
+      \field{journaltitle}{SMALL RUMINANT RESEARCH}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{{Supplementation with barley or spineless cactus (Opuntia ficus indica f. inermis) cladodes on digestion, growth and intramuscular fatty acid composition in sheep and goats receiving oaten hay}}
+      \field{volume}{87}
+      \field{year}{2009}
+      \field{pages}{9\bibrangedash 16}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.smallrumres.2009.09.004
+      \endverb
+    \endentry
     \entry{Foster2003}{article}{}
       \name{author}{6}{}{%
         {{hash=b2b56b8469be371d1eae8a2f574b23a4}{%
@@ -1228,6 +1275,192 @@
       \verb https://doi.org/10.1186/s12263-017-0587-x
       \endverb
     \endentry
+    \entry{Bird2008}{article}{}
+      \name{author}{7}{}{%
+        {{hash=93611577235fceffb53cd53312e95ad0}{%
+           family={Bird},
+           familyi={B\bibinitperiod},
+           given={Anthony\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=49aa8da186303d82f8ddd81ad8334232}{%
+           family={Vuaran},
+           familyi={V\bibinitperiod},
+           given={Michelle\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=917d24940db59f94f670fb0f98507b29}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Roger\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=50e341af20222f52721889b83e924431}{%
+           family={Noakes},
+           familyi={N\bibinitperiod},
+           given={Manny},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c50c4a26284e89e2a8a63e6994a0f8bf}{%
+           family={Keogh},
+           familyi={K\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6a744f1c37485a11dd1df15962bd75b8}{%
+           family={Morell},
+           familyi={M\bibinitperiod},
+           given={Matthew\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=df21af6d0b901778fe0ef326951920b4}{%
+           family={Topping},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{675f174f61c43ee8ec8a05e2e7a1ea58}
+      \strng{fullhash}{077943b5fa0636a210bfad74707db627}
+      \strng{bibnamehash}{675f174f61c43ee8ec8a05e2e7a1ea58}
+      \strng{authorbibnamehash}{675f174f61c43ee8ec8a05e2e7a1ea58}
+      \strng{authornamehash}{675f174f61c43ee8ec8a05e2e7a1ea58}
+      \strng{authorfullhash}{077943b5fa0636a210bfad74707db627}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Himalaya 292 (Hordeum vulgare var. Himalaya 292) is a novel hull-less barley variety lacking activity of a key enzyme of starch synthesis giving a grain containing less total starch, more amylose and higher total dietary fibre. Animal trials have shown that Himalaya 292 contains more resistant starch and has greater positive impact on biomarkers of large-bowel health than comparable wholegrain cereal products. The present study compared the effects of foods made from wholegrain Himalaya 292 with those made from wholegrain wheat on faecal biomarkers of bowel health in human subjects. Seventeen male and female volunteers aged 31-66 years consumed similar quantities of Himalaya 292, whole-wheat or refined cereal foods daily for 4 weeks in a randomised cross-over design. Total dietary fibre intakes from weighed food records were 45, 32 and 21 g/d for the Himalaya 292, whole-wheat and refined cereal periods, respectively. Compared with the refined cereal foods, consumption of Himalaya 292 foods resulted in 33 {\%} higher faecal weight, a lowering of faecal pH from 7.24 to 6.98, a 42 {\%} higher faecal concentration and a 91 {\%} higher excretion of butyrate, a 57 {\%} higher faecal total SCFA excretion and a 33 {\%} lower faecal p-cresol concentration. pH and butyrate concentration and excretion were also significantly different compared with wholemeal wheat. It is concluded that consumption of a diet that included foods made from Himalaya 292 supplied more fibre and improved indices of bowel health compared with refined cereal foods and, for some indices, similar wholemeal wheat foods at equivalent levels of intake.}
+      \field{issn}{0007-1145 (Print)}
+      \field{journaltitle}{The British journal of nutrition}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Wholegrain foods made from a novel high-amylose barley variety (Himalaya 292) improve indices of bowel health in human subjects.}}
+      \field{volume}{99}
+      \field{year}{2008}
+      \field{pages}{1032\bibrangedash 1040}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1017/S000711450783902X
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/wholegrain{\_}foods{\_}made{\_}from{\_}a{\_}novel{\_}highamylose{\_}barley{\_}variety{\_}himalaya{\_}292{\_}improve{\_}indices{\_}of{\_}bowel{\_}health{\_}in{\_}human{\_}subjects.pdf:pdf
+      \endverb
+      \keyw{Adult,Aged,Amylose,Cross-Over Studies,Defecation,Diet,Dietary Fiber,Energy Intake,Fatty Acids,Feces,Female,Hordeum,Humans,Hydrogen-Ion Concentration,Male,Middle Aged,Prospective Studies,Triticum,Volatile,Water,administration {\&} dosage,analysis,chemistry,metabolism}
+    \endentry
+    \entry{Ames2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=36a377d32971b8d8510bb33efd9c3e93}{%
+           family={Ames},
+           familyi={A\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c4c189b6d1ef2c4c1c908665240f99fa}{%
+           family={Blewett},
+           familyi={B\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2b4f21d19d82c934be5eb2200b33f747}{%
+           family={Storsley},
+           familyi={S\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5f44d8670101d83ee9e0f8d2f2e96d73}{%
+           family={Thandapilly},
+           familyi={T\bibinitperiod},
+           given={Sijo\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fb4c4f86b780f1a41f8135b05b0f56c6}{%
+           family={Zahradka},
+           familyi={Z\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=905010dbbe4ac05546484e6d2784f2ea}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{50535cd543485411fee0d11a42f00433}
+      \strng{fullhash}{507b875770c37fba2ee7ab50cf70fd2a}
+      \strng{bibnamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authorbibnamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authornamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authorfullhash}{507b875770c37fba2ee7ab50cf70fd2a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of the present study was to determine if the consumption of barley tortillas varying in fibre and/or starch composition affected postprandial glucose, insulin, glucagon-like peptide-1 (GLP-1) or peptide YY concentrations. A double-blind, randomised, controlled trial was performed with twelve healthy adults. They each consumed one of five barley tortillas or a glucose drink on six individual visits separated by at least 1 week. Tortillas were made from 100{\%} barley flour blends using five different milling fractions to achieve the desired compositions. All treatments provided 50 g of available carbohydrate and were designed to make the following comparisons: (1) low-starch amylose (0{\%}) v. high-starch amylose (42{\%}) with similar beta-glucan and insoluble fibre content; (2) low beta-glucan (4.5 g) v. medium beta-glucan (7.8 g) v. high beta-glucan (11.6 g) with similar starch amylose and insoluble fibre content; and (3) low insoluble fibre (7.4 g) v. high insoluble fibre (19.6 g) with similar starch amylose and beta-glucan content. Blood was collected at fasting and at multiple intervals until 180 min after the first bite/sip of the test product. Amylose and insoluble fibre content did not alter postprandial glucose and insulin, but high-beta-glucan tortillas elicited a lower glucose and insulin response as compared to the low-beta-glucan tortillas. The tortillas with high insoluble fibre had a higher AUC for GLP-1 as compared to the tortillas with low insoluble fibre, whereas amylose and beta-glucan content had no effect. Results show that processing methods can be used to optimise barley foods to reduce postprandial blood glucose responses and factors that may influence satiety.}
+      \field{issn}{1475-2662 (Electronic)}
+      \field{journaltitle}{The British journal of nutrition}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{{A double-blind randomised controlled trial testing the effect of a barley product containing varying amounts and types of fibre on the postprandial glucose response of healthy volunteers.}}
+      \field{volume}{113}
+      \field{year}{2015}
+      \field{pages}{1373\bibrangedash 1383}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/S0007114515000367
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/doubleblind{\_}randomised{\_}controlled{\_}trial{\_}testing{\_}the{\_}effect{\_}of{\_}a{\_}barley{\_}product{\_}containing{\_}varying{\_}amounts{\_}and{\_}types{\_}of{\_}fibre{\_}on{\_}the{\_}postprandial{\_}glucose{\_}response{\_}of{\_}healthy{\_}volunteers.pdf:pdf
+      \endverb
+      \keyw{Adult,Amylose,Animals,Blood Glucose,Bread,Cross-Over Studies,Diet,Dietary Fiber,Double-Blind Method,Female,Flour,Genotype,Glucagon-Like Peptide 1,Glycemic Index,Healthy Volunteers,Hordeum,Humans,Insulin,Male,Peptide YY,Postprandial Period,Satiation,Seeds,Solubility,Starch,administration {\&} dosage,analysis,beta-Glucans,blood,chemistry,genetics}
+    \endentry
+    \entry{Marungruang2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a73f1c0d86e6701161c6e58b10d798c5}{%
+           family={Marungruang},
+           familyi={M\bibinitperiod},
+           given={Nittaya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f47f336fabca7338b4c22ab7f54563b0}{%
+           family={Tovar},
+           familyi={T\bibinitperiod},
+           given={Juscelino},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48d00e0812758619cbc079a6e020acd4}{%
+           family={Bjorck},
+           familyi={B\bibinitperiod},
+           given={Inger},
+           giveni={I\bibinitperiod}}}%
+        {{hash=7cfad03958a33bb0f974b2c6a880f539}{%
+           family={Hallenius},
+           familyi={H\bibinitperiod},
+           given={Frida\bibnamedelima Fak},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{058a12e2f15f07e1aa8d7df38b33f48f}
+      \strng{fullhash}{25d493f2f280603a23418d41be0d6f16}
+      \strng{bibnamehash}{25d493f2f280603a23418d41be0d6f16}
+      \strng{authorbibnamehash}{25d493f2f280603a23418d41be0d6f16}
+      \strng{authornamehash}{058a12e2f15f07e1aa8d7df38b33f48f}
+      \strng{authorfullhash}{25d493f2f280603a23418d41be0d6f16}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: A multifunctional diet (MFD) targeting subclinical inflammation was developed as a tool to decrease risk factors for cardiometabolic disease in healthy "at-risk" individuals (BMI 25-33 kg/m(2)). MFD contains several components that are degraded in the colon by the microbiota, such as dietary fibers from rye, barley, oats and berries. It also contains soy beans, oily fish and plant stanols. In previous studies, we have observed improved cardiometabolic markers in healthy at-risk individuals after 4-8 week intake of MFD. However, whether these improvements can be associated with changes in the gut microbiota composition has not been investigated. In the present study, we analyzed the gut microbiota before and after an 8-week dietary intervention with MFD. METHODS: Cardiometabolic at-risk individuals (n = 47), between 51 and 72 years old and with a BMI of 25-33 kg/m(2), were given either the MFD or a control diet lacking the functional ("active") components for 8 weeks in a parallel, randomized design. Next-generation sequencing of bacterial 16S rRNA genes was used to analyze the gut microbiota composition. RESULTS: The 8-week intervention with MFD did not significantly alter the gut microbiota composition at phylum or genus taxonomic levels, while LEfSE analysis identified increased abundance of Prevotella copri in the MFD group as compared to the control group. Treponema correlated positively with blood pressure. In contrast, Faecalibacterium showed a negative association with blood pressure, while Bilophila appeared to associate with a negative blood lipid profile. CONCLUSIONS: Taken together, results from the present study may be used in the further development of effective dietary concepts capable of reducing cardiometabolic risk markers in humans through a targeted modulation of the gut microbial community. TRIAL REGISTRATION NUMBER: Clinical Trials.gov NCT02148653.}
+      \field{issn}{1436-6215 (Electronic)}
+      \field{journaltitle}{European journal of nutrition}
+      \field{month}{12}
+      \field{number}{8}
+      \field{title}{{Improvement in cardiometabolic risk markers following a multifunctional diet is associated with gut microbial taxa in healthy overweight and obese subjects.}}
+      \field{volume}{57}
+      \field{year}{2018}
+      \field{pages}{2927\bibrangedash 2936}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00394-017-1563-3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Marungruang2018{\_}Article{\_}ImprovementInCardiometabolicRi.pdf:pdf
+      \endverb
+    \endentry
     \entry{Gurdeniz2016}{article}{}
       \name{author}{6}{}{%
         {{hash=d0658c029fb6370c529fac320d0a87c9}{%
@@ -1538,7 +1771,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{ISI:000272990200002z}
 \endrefsection
 \endinput
 

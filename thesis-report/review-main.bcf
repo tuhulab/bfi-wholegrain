@@ -1986,7 +1986,7 @@
     <bcf:citekey order="8">phenolexplorer</bcf:citekey>
     <bcf:citekey order="9">dictionary</bcf:citekey>
     <bcf:citekey order="10">Baik2008</bcf:citekey>
-    <bcf:citekey order="11">ISI:000272990200002z</bcf:citekey>
+    <bcf:citekey order="11">ISI:000272990200002</bcf:citekey>
     <bcf:citekey order="11">Foster2003</bcf:citekey>
     <bcf:citekey order="12">DeAngelis2015</bcf:citekey>
     <bcf:citekey order="13">DeAngelis2015</bcf:citekey>
@@ -2001,14 +2001,17 @@
     <bcf:citekey order="17">BORDIGA201638</bcf:citekey>
     <bcf:citekey order="18">Dragsted2017</bcf:citekey>
     <bcf:citekey order="19">Gao2017</bcf:citekey>
-    <bcf:citekey order="20">Gurdeniz2016</bcf:citekey>
-    <bcf:citekey order="21">ISI:000376712600013</bcf:citekey>
-    <bcf:citekey order="22">ISI:000376712600013</bcf:citekey>
-    <bcf:citekey order="23">Gao2017</bcf:citekey>
-    <bcf:citekey order="24">ISI:000389134200003</bcf:citekey>
-    <bcf:citekey order="25">ISI:000394168100034</bcf:citekey>
-    <bcf:citekey order="26">ISI:000384082300001</bcf:citekey>
-    <bcf:citekey order="27">ISI:000447355100002</bcf:citekey>
+    <bcf:citekey order="20">Bird2008</bcf:citekey>
+    <bcf:citekey order="21">Ames2015</bcf:citekey>
+    <bcf:citekey order="22">Marungruang2018</bcf:citekey>
+    <bcf:citekey order="23">Gurdeniz2016</bcf:citekey>
+    <bcf:citekey order="24">ISI:000376712600013</bcf:citekey>
+    <bcf:citekey order="25">ISI:000376712600013</bcf:citekey>
+    <bcf:citekey order="26">Gao2017</bcf:citekey>
+    <bcf:citekey order="27">ISI:000389134200003</bcf:citekey>
+    <bcf:citekey order="28">ISI:000394168100034</bcf:citekey>
+    <bcf:citekey order="29">ISI:000384082300001</bcf:citekey>
+    <bcf:citekey order="30">ISI:000447355100002</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
