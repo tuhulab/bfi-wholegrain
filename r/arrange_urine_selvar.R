@@ -69,9 +69,26 @@ boxplot_intervention <- function(feature=...){
   geom_boxplot() +
   ggtitle(paste('rt=',rt,'  ','mz=',mz,' ','feature=',feature1))
   return(fig)
+  
   }
 
 featurex <- paste('X',1:86,sep='')
 
 boxplot_intervention('X8')
 figure <- lapply(featurex,boxplot_intervention)
+
+path1 <- paste0(getwd(),'/figure/','figure',1:86,'.pdf')
+
+boxplot_intervention_save <- function(feature=...){
+  feature1 <- feature
+  data1<- urine_neg_sel %>% filter(feature==feature1)
+  rt<-as.character(round(data1$rt[1],digits = 2))
+  mz<-data1$mz[1]
+  pos<-data1$polarity[1]
+  urine_neg_sel %>% filter(feature==feature1) %>% ggplot(aes(x=intervention,y=intensity)) +
+    geom_point() +
+    geom_boxplot() +
+    ggtitle(paste('rt=',rt,'  ','mz=',mz,' ','feature=',feature1,'polarity=',pos))
+  ggsave(paste0(feature1,'.jpg'))
+}
+figure <- lapply(featurex,boxplot_intervention_save)
