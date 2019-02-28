@@ -129,7 +129,7 @@ figure <- lapply(featurex,boxplot_intervention_save)
     rt1 <- matdata1$axisscale[[6]]
     rt <- rt1[[1]]
     ##extract mz
-    mz1 <- matdata1$label[[2]]
+    mz1 <- matdata1$axisscale[[2]]
     mz <- mz1[[1]]
     ##extract groupinfo
     #group1 <- matdata1$label[[10]]
@@ -153,9 +153,20 @@ figure <- lapply(featurex,boxplot_intervention_save)
     
     ##write rt and mz
     rtdata <- rt %>% data.frame() %>% gather(feature, rt, 1: ncol(rt))
-    mzdata <- t(mz) %>% data.frame() %>% gather(feature, mz, 1: nrow(mz))
+    mzdata <- mz %>% data.frame() %>% gather(feature, mz, 1: ncol(mz))
     
     datan2 <- left_join(datan1,rtdata,by='feature') %>% left_join(mzdata,by='feature') %>% mutate(polarity)
     return(datan2)}
   urine_pos_data <- m2r(path,polarity)  
+  
+  urine_pos_sel_data <- urine_pos_data %>% filter(mz %in% mzrt_sel$mz) %>% 
+    filter (rt %in% mzrt_sel$rt)
+  length(unique(urine_pos_sel_data$feature)) - nrow(mzrt_sel)
+  
+  mzrt_sel <- mzrt_sel %>% mutate(feature_new=paste0('X',1:nrow(mzrt_sel)))
+  
+  urine_pos_sel_data_arrange <- urine_pos_sel_data %>% arrange(rt,mz,intervention,intensity) %>%
+    group_by(feature) 
+
+  test <-left_join(urine_pos_sel_data_arrange,mzrt_sel,by='rt')                       
   
