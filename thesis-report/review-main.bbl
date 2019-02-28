@@ -1522,6 +1522,65 @@
       \endverb
       \keyw{Alcohol Drinking,Beer,Biomarkers,Chromatography,Liquid,Cross-Over Studies,Humans,Mass Spectrometry,Metabolome,Metabolomics,Single-Blind Method,analysis,blood,urine}
     \endentry
+    \entry{Chen2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=82f3155637b10e9caa3f73f63bde03f0}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=59b715f238293522a8a5eed6e4b02955}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{227f173d507aa36e62084839cf71c151}
+      \strng{fullhash}{e49fcdb3bf17d384c8f62a03ccf233dc}
+      \strng{bibnamehash}{e49fcdb3bf17d384c8f62a03ccf233dc}
+      \strng{authorbibnamehash}{e49fcdb3bf17d384c8f62a03ccf233dc}
+      \strng{authornamehash}{227f173d507aa36e62084839cf71c151}
+      \strng{authorfullhash}{e49fcdb3bf17d384c8f62a03ccf233dc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{doi: 10.1021/jf049726v}
+      \field{issn}{0021-8561}
+      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
+      \field{month}{12}
+      \field{number}{26}
+      \field{title}{{Alkylresorcinols as Markers of Whole Grain Wheat and Rye in Cereal Products}}
+      \field{volume}{52}
+      \field{year}{2004}
+      \field{pages}{8242\bibrangedash 8246}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/jf049726v
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/jf049726v.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+    \endentry
     \entry{ISI:000376712600013}{article}{}
       \name{author}{7}{}{%
         {{hash=1c922708c0ff06e4964f043d781c7d01}{%
@@ -1585,6 +1644,149 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/z4w00305000580.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Landberg2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{fullhash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{bibnamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{authorbibnamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{authornamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{authorfullhash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Sciences-New York}
+      \field{isbn}{978-91-86195-58-8}
+      \field{title}{{Alkylresorcinols as Biomarkers of Whole Grain Wheat and Rye Intake}}
+      \field{year}{2009}
+    \endentry
+    \entry{ISI:000333777700008}{article}{}
+      \name{author}{18}{}{%
+        {{hash=58ef806335b1a607422537395eea65ff}{%
+           family={Magnusdottir},
+           familyi={M\bibinitperiod},
+           given={O\bibnamedelima K},
+           giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e341616be1a69c50bc387430a48f0faa}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6246b97c29d0dab12c03de136b983726}{%
+           family={Gunnarsdottir},
+           familyi={G\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=17e5502849bc56a7c30a906e4dee805f}{%
+           family={Cloetens},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2dd8961cb683f0e7163355f1790ee82f}{%
+           family={Akesson},
+           familyi={A\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b42f41bb59941b0516e49205975ff3d0}{%
+           family={Landin-Olsson},
+           familyi={L\bibinithyphendelim O\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=15723aea4b9d257a1da181a0fe3c3cda}{%
+           family={Rosqvist},
+           familyi={R\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7f38c21ef52379301abff50e4d0a11e0}{%
+           family={Iggman},
+           familyi={I\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bc2fd9e149cb92f2f0b364fef2e4ffb6}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d7fc17e002843e0c00fbd78a5c2a0b61}{%
+           family={Herzig},
+           familyi={H\bibinitperiod},
+           given={K-H},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=c367d7876045e4a5f2d83523e7c54998}{%
+           family={Savolainen},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ce89fba27f8d0da8724e83ae666dcdfc}{%
+           family={Brader},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8969d7982b4893022f801269aab1a790}{%
+           family={Hermansen},
+           familyi={H\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6c540092276d290bd82de3f049bb433}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=276c7e44550ebb5096e1735fa100ae2c}{%
+           family={Poutanen},
+           familyi={P\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a623f3bc7c0221482f0cb9a42fcd9b69}{%
+           family={Uusitupa},
+           familyi={U\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b1c7b0b73889637632982ce461fa79b}{%
+           family={Thorsdottir},
+           familyi={T\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8a05dc3830cc82190e9d4d4b86721736}{%
+           family={Riserus},
+           familyi={R\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{282cc6246fdf8567e9199886fa902d97}
+      \strng{fullhash}{75adc74ea0ebb7b50e187740238e0e83}
+      \strng{bibnamehash}{282cc6246fdf8567e9199886fa902d97}
+      \strng{authorbibnamehash}{282cc6246fdf8567e9199886fa902d97}
+      \strng{authornamehash}{282cc6246fdf8567e9199886fa902d97}
+      \strng{authorfullhash}{75adc74ea0ebb7b50e187740238e0e83}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND/OBJECTIVES: Few studies have used biomarkers of whole-grain intake to study its relation to glucose metabolism. We aimed to investigate the association between plasma alkylresorcinols (AR), a biomarker of whole-grain rye and wheat intake, and glucose metabolism in individuals with metabolic syndrome (MetS). SUBJECTS/METHODS: Participants were 30-65 years of age, with body mass index 27-40 kg/m(2) and had MetS without diabetes. Individuals were recruited through six centers in the Nordic countries and randomized to a healthy Nordic diet (ND, n=96), rich in whole-grain rye and wheat, or a control diet (n=70), for 18-24 weeks. In addition, associations between total plasma AR concentration and C17:0/C21:0 homolog ratio as an indication of the relative whole-grain rye intake, and glucose metabolism measures from oral glucose tolerance tests were investigated in pooled (ND + control) regression analyses at 18/24 weeks. RESULTS: ND did not improve glucose metabolism compared with control diet, but the AR C17:0/C21:0 ratio was inversely associated with fasting insulin concentrations (P=0.002) and positively associated with the insulin sensitivity indices Matsuda ISI (P=0.026) and disposition index (P=0.022) in pooled analyses at 18/24 weeks, even after adjustment for confounders. The AR C17:0/C21:0 ratio was not significantly associated with insulin secretion indices. Total plasma AR concentration was not related to fasting plasma glucose or fasting insulin at 18/24 weeks. CONCLUSIONS: The AR C17:0/C21:0 ratio, an indicator of relative whole-grain rye intake, is associated with increased insulin sensitivity in a population with MetS.}
+      \field{issn}{0954-3007}
+      \field{journaltitle}{EUROPEAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Plasma alkylresorcinols C17:0/C21:0 ratio, a biomarker of relative whole-grain rye intake, is associated to insulin sensitivity: a randomized study}}
+      \field{volume}{68}
+      \field{year}{2014}
+      \field{pages}{453\bibrangedash 458}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/ejcn.2014.12
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/ejcn201412.pdf:pdf
       \endverb
     \endentry
     \entry{ISI:000389134200003}{article}{}
@@ -1752,8 +1954,8 @@
       \strng{authorbibnamehash}{7973352d91aa12f6a5e646a448dc83da}
       \strng{authornamehash}{125c4b11f7663ea4aa7a9c748642d0ab}
       \strng{authorfullhash}{7973352d91aa12f6a5e646a448dc83da}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A diet questionnaire (DQ) designed to assess habitual diet and phyto-oestrogen intake was developed. This study aimed to examine the validity of the DQ in men, with and without having prostate cancer. The DQ was validated against alkylresorcinol metabolites measured in urine as objective biomarkers of whole grain wheat and rye (WG) intake, and a 4-d estimated food record (FR) was used for relative comparison. Participants (n 61) completed both methods and provided spot urine samples. We found a statistically significant correlation between the DQ and FR for reported whole grain intake and isoflavonoids, as well as for intake of macronutrients, except protein. The correlation coefficient between the two methods was on average r 0.30, lowest for lignans (r -0.11) and highest for alcohol (r 0.65). Reported energy intake was lower in the DQ compared with FR (8523 v. 9249 kJ (2037 v. 2211 kcal), respectively; P = 0.014). Bland-Altman plots showed an acceptable agreement; most cases were within the limits (95 {\%} CI) of agreement on reported energy intake, as well as intake of macronutrients, except protein (which was underestimated in the DQ compared with the FR). The correlation of alkylresorcinol with WG intake was statistically significant in the DQ (r 0.31, P = 0.015), but not in the FR (r 0.18, P = 0.12) and the weighted. was 0-29 and 0.11, respectively. In conclusion, the results showed that the DQ have a reasonable validity for measuring WG intake and most nutrients, and, after some adjustments regarding protein intake assessment have been made, the DQ will be a promising tool.}
