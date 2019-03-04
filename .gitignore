@@ -24,3 +24,16 @@ report/report\.toc
 *.log
 *.out
 *.gz
+data/mealstudy/DatamatrixNEG.mat
+data/mealstudy/PosModeMealALLSAMPLES160611.xlsx
+data/mealstudy/DatamatrixPOS.mat
+data/mealstudy/DatesForExt.mat
+data/mealstudy/mzrtmealNEG.mat
+data/mealstudy/mzrtmealPOS.mat
+data/mealstudy/NegModeGapALLSAMPLES0105.xlsx
+data/mealstudy/PosModeGapALLSAMPLES.xlsx
+data/mealstudy/Potential markers data meal study.xlsx
+data/mealstudy/VectorDateMatchPOS.mat
+data/mealstudy/VectorForDateMatchNEG.mat
+data/mealstudy/ylabels.mat
+data/mealstudy/ylabelsNEG.mat
