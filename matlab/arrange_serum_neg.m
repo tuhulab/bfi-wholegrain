@@ -121,5 +121,5 @@ targetmzrt =[
 
 [datasel,varargout] = find_feature(dataplPOS,targetmzrt(:,2),targetmzrt(:,1),0.01,0.1,'mz',0)
 mzrt = cell2mat(datasel.axisscale(2,1:2)')'
-datasel = sortby(datasel,'class',1,1);
+datasel = sortby(dataselvar,'class',1,1);
 figure,plotgui(datasel)

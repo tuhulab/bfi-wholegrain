@@ -1789,6 +1789,138 @@
       \verb :C$\backslash$:/Users/tuhu/Downloads/ejcn201412.pdf:pdf
       \endverb
     \endentry
+    \entry{ISI:000298402100026}{article}{}
+      \name{author}{7}{}{%
+        {{hash=82f3155637b10e9caa3f73f63bde03f0}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4655f3aa0290904ead86c6531a5fedc6}{%
+           family={Bourgeois},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f7d34328b53e8f3d7d4ca5c1ba514d07}{%
+           family={Macharia},
+           familyi={M\bibinitperiod},
+           given={Harrison\bibnamedelima Ndung'u},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d3e1f1d2645ec71594ef89b14579c136}{%
+           family={Kochhar},
+           familyi={K\bibinitperiod},
+           given={Sunil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=907e68975a3dd9915d5928f6f824e847}{%
+           family={Jebb},
+           familyi={J\bibinitperiod},
+           given={Susan\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=221064149fe871c4843a33418b73e5be}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Iain\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=efbbea3b6ee5fa1bf3a72d2841a30a9e}{%
+           family={Seal},
+           familyi={S\bibinitperiod},
+           given={Chris\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{36f9cf7241a402ccf3549cc9598e1016}
+      \strng{fullhash}{9a20cff7ffdb4ff137583890dc0c144a}
+      \strng{bibnamehash}{36f9cf7241a402ccf3549cc9598e1016}
+      \strng{authorbibnamehash}{36f9cf7241a402ccf3549cc9598e1016}
+      \strng{authornamehash}{36f9cf7241a402ccf3549cc9598e1016}
+      \strng{authorfullhash}{9a20cff7ffdb4ff137583890dc0c144a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Small-scale, short-term intervention studies have suggested that plasma alkylresorcinol (AR) concentrations may be biomarkers of whole grain (WG) wheat and rye intakes. Objective: The objective was to determine whether plasma AR concentrations reflect self-reported WG food intake in a 16-wk WG intervention study and to establish which phenotypic characteristics influence plasma AR concentrations. Design: In a randomized parallel-group dietary intervention study, 316 overweight and obese participants with a WG intake of {<}30 g/d were recruited and randomly assigned to 1 of 3 groups: control (no dietary change), intervention 1 (60 g WG/d for 16 wk), or intervention 2 (60 g WG/d for 8 wk followed by 120 g WG/d for 8 wk). Fasting blood samples were collected at baseline, 8 wk, and 16 wk for the measurement of plasma lipids and ARs. Results: Plasma samples from 266 study completers were analyzed. Total plasma AR concentrations increased with the WG intervention and could be used to distinguish between control subjects and those who consumed 60 or 120 g WG, but not between those who consumed 60 and 120 g WG. Plasma AR concentrations were higher in men, were positively associated with plasma triglyceride concentrations, and were negatively associated with nonesterified fatty acids. Conclusions: Plasma AR concentrations were correlated with WG intake and could be used to distinguish between low- and high-WG consumers. Sex and plasma lipid concentrations independently influenced plasma AR concentrations, although plasma triglycerides may explain higher concentrations in men. This trial is registered as ISRCT no. 83078872. Am J Clin Nutr 2012;95:204 11.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{AMERICAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Plasma alkylresorcinols as a biomarker of whole-grain food consumption in a large population: results from the WHOLEheart Intervention Study}}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{204\bibrangedash 211}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3945/ajcn.110.008508
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/204.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000303089700010}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1b6c2e30c14afa0e8eb0a5f94b78b9a9}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={Mary\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4153a6403a16be411b5bb644be76b619}{%
+           family={Neelakantan},
+           familyi={N\bibinitperiod},
+           given={Nithya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0087d36f590f4cc378e4a4e69260a71a}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=e41f645e2dbb86acf3572ddc4dc29a39}{%
+           family={Sampson},
+           familyi={S\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c52608b032c21966fba3fa7400bdc6b6}{%
+           family={Spiegelman},
+           familyi={S\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0b786d33862ed658ed1f1875683c9b9e}{%
+           family={Dam},
+           familyi={D\bibinitperiod},
+           given={Rob\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{fullhash}{fee436324755fcef084c8717863f759b}
+      \strng{bibnamehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{authorbibnamehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{authorfullhash}{fee436324755fcef084c8717863f759b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two alkylresorcinol (AR) metabolites, 3, 5-dihydroxybenzoic acid (DHBA) and 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA), in urine have been suggested as biomarkers of whole grain (WG) and cereal fiber intake but the long-term reproducibility and correlation with habitual intake has not been determined. Therefore, we evaluated the long-term reproducibility of AR metabolites in spot urine samples and investigated their correlation with habitual WG and cereal fiber intake in U.S. women. AR metabolites were analyzed in 104 women participating in the Nurses' Health Study II and WG and fiber intakes were assessed using a FFQ. Long-term reproducibility was assessed by calculating the intra-class correlation coefficients (ICC) using samples taken 1-3 y (mean 1.8 y) apart. The observed Spearman correlation coefficients (r(S)) and r(S) adjusted for within-participant variation in the biomarker were calculated between WG and fiber intake and biomarkers. The long-term reproducibility was poor for DHBA {\{}[{\}}ICC = 0.17 (95{\%} Cl: 0.05, 0.43)] and modest for DHPPA {\{}[{\}}ICC = 0.31 (95{\%} Cl: 0.17, 0.51)]. The correlation between WG intake in 1995 and DHPPA measured 2 y later was 0.37 (P {<} 0.0001); the adjusted correlation was 0.60 (95{\%} Cl: 0.37, 0.76). Cereal fiber and WG intake were similarly correlated to the biomarkers. DHPPA in spot urine samples reflected WG intake despite relatively low intake of food sources of AR. The poor to modest reproducibility may limit the use of single measurements of these biomarkers in cohort studies in the US, where WG intake is relatively low and has changed over time. But DHPPA in repeated samples may be useful for validating WG intake and assessing compliance in WG intervention studies. J. Nutr. 142: 872-877, 2012.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{JOURNAL OF NUTRITION}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Alkylresorcinol Metabolite Concentrations in Spot Urine Samples Correlated with Whole Grain and Cereal Fiber Intake but Showed Low to Modest Reproducibility over One to Three Years in U.S. Women}}
+      \field{volume}{142}
+      \field{year}{2012}
+      \field{pages}{872\bibrangedash 877}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.3945/jn.111.156398
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/nut14200872.pdf:pdf
+      \endverb
+    \endentry
     \entry{ISI:000389134200003}{article}{}
       \name{author}{10}{}{%
         {{hash=6dab7d50fa2d943d433121c1d9f7565a}{%
@@ -1848,8 +1980,8 @@
       \strng{authorbibnamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authornamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authorfullhash}{5491e7f7a62bac96f77d8cb163a787a3}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Scope: This work aimed at investigating absorption, metabolism, and bioavailability of phenolic compounds after consumption of whole grain bread or bread enriched with an aleurone fraction. Methods and results: Two commercially available breads were consumed by 15 participants on three occasions and matched for either the amount of ferulic acid in the bread or the amount of bread consumed. Urine was collected for 48 h from all the volunteers for phenolic metabolite quantification. Blood samples were collected for 24 h following bread consumption in five participants. A total of 12 and 4 phenolic metabolites were quantified in urine and plasma samples, respectively. Metabolites were sulfate and glucuronic acid conjugates of phenolic acids, and high concentrations of ferulic acid-4'-O-sulfate, dihydroferulic acid-4'-O-sulfate, and dihydroferulic acid-O-glucuronide were observed. The bioavailability of ferulic acid was significantly higher from the aleurone-enriched bread when all ferulic acid metabolites were accounted for. Conclusions: The study shows that low amounts of aleurone-enriched bread resulted in equivalent plasma levels of ferulic acid as whole grain bread. This could suggest that, if the absorbed phenolic metabolites after whole grain product intake exert health benefits, equal levels could be reached through the consumption of lower doses of refined products enriched in aleurone fraction.}
@@ -1909,8 +2041,8 @@
       \strng{authorbibnamehash}{d035d6147fe0b3874f8528d82758b889}
       \strng{authornamehash}{d035d6147fe0b3874f8528d82758b889}
       \strng{authorfullhash}{d53ca6738f90f86ad4afbf9bbee6ca44}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Benzoxazinoids (BXs) are a group of wholegrain phytochemicals with potential pharmacological properties; however, limited information exists on their absorption, metabolism, and excretion in humans. The aim of this study was to investigate the dose-dependent uptake and excretion of dietary BXs in a healthy population. Blood and urine were collected from 19 healthy participants from a crossover study after a washout, a LOW BX diet or HIGH BX diet, and analysed for 12 BXs and 4 phenoxazinone derivatives. We found that the plasma BX level peaked approximately 3 h after food intake, whereas BXs in urine were present even at 36 h after consuming a meal. No phenoxazinone derivatives could be detected in either plasma or urine. The dominant BX metabolite in both plasma and urine was 2-beta-d-glucopyranosyloxy-1,4-benzoxazin-3-one (HBOA-Glc), even though 2-beta-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one (DIBOA-Glc) was the major component in the diet. The dietary BX treatment correlated well with the plasma and urine levels, illustrating strong dose-dependent BX absorption, which also had a rapid washout, especially from the plasma compartment.}
