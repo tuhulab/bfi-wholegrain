@@ -1921,6 +1921,286 @@
       \verb :C$\backslash$:/Users/tuhu/Downloads/nut14200872.pdf:pdf
       \endverb
     \endentry
+    \entry{ISI:000334172400017}{article}{}
+      \name{author}{50}{}{%
+        {{hash=4b6268035937b7a8a8d18b2f33298f58}{%
+           family={Kyro},
+           familyi={K\bibinitperiod},
+           given={Cecilie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f96c4cc75e3ee233801b19644a50fb19}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6207d913f10f98525b2c61ba225f5dd7}{%
+           family={Bueno-de-Mesquita},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={H\bibnamedelima B(as).},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=cdecb767c18dd232690c2cdc3a01a215}{%
+           family={Skeie},
+           familyi={S\bibinitperiod},
+           given={Guri},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9e12136df486b2b8b1a0e91a913db153}{%
+           family={Loft},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=627b9820ab301eaa1f6ab1606bc25b59}{%
+           family={Aman},
+           familyi={A\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bb684d52a6d0a40513f8199d38a15fd3}{%
+           family={Leenders},
+           familyi={L\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=44086fda4d761f4531737314fc932868}{%
+           family={Dik},
+           familyi={D\bibinitperiod},
+           given={Vincent\bibnamedelima K},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a3339cd0cafd3559ad96578a5538a17b}{%
+           family={Siersema},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=afd0ac6c85b07efc98fcd01dc96b66bb}{%
+           family={Pischon},
+           familyi={P\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1338bb6274f57525047835ecfa722b5e}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3d8b85646ee5ae30c9ad4ddb2e36b4ca}{%
+           family={Overvad},
+           familyi={O\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2b38591b91e4a55f10a7397723729826}{%
+           family={Boutron-Ruault},
+           familyi={B\bibinithyphendelim R\bibinitperiod},
+           given={Marie-Christine},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=e726ced571acf2389a302b9563dea1c5}{%
+           family={Fagherazzi},
+           familyi={F\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=16ddb1959ab624c74dbe8faf4ab9686e}{%
+           family={Cottet},
+           familyi={C\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8470691eba4f09b075d1269859441f38}{%
+           family={Kuehn},
+           familyi={K\bibinitperiod},
+           given={Tilman},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3ce973fdd9330786834e1e1971b3c976}{%
+           family={Chang-Claude},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c62b8f524ebca677a4b3590f47c745a3}{%
+           family={Boeing},
+           familyi={B\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d9b8eb4673ca0f6c1fa8e3feda716847}{%
+           family={Trichopoulou},
+           familyi={T\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dab481ad3fda7f7ef3e2b499c24ef53f}{%
+           family={Naska},
+           familyi={N\bibinitperiod},
+           given={Androniki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b84c251d2c6b063b8f4ce48400548b9}{%
+           family={Oikonomidou},
+           familyi={O\bibinitperiod},
+           given={Despoina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9937fb1b1be1b51c4691d785b6bb9a80}{%
+           family={Masala},
+           familyi={M\bibinitperiod},
+           given={Giovanna},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7cfe0298e8f56f9f98fe9ff9fd56cb78}{%
+           family={Pala},
+           familyi={P\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8738dda69005d37fd5a399562bf5c2f4}{%
+           family={Tumino},
+           familyi={T\bibinitperiod},
+           given={Rosario},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7b6fec425491136180895fd4924e53cb}{%
+           family={Vineis},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=97f5811306a03cab5d8401453d1ae7bb}{%
+           family={Mattiello},
+           familyi={M\bibinitperiod},
+           given={Amalia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e78c83b915eafed1f10cf22e6db7426f}{%
+           family={Peeters},
+           familyi={P\bibinitperiod},
+           given={Petra\bibnamedelima H},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be3a5cd9431206b372dbfb28e5f83edf}{%
+           family={Bakken},
+           familyi={B\bibinitperiod},
+           given={Toril},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b1bd02971d81c4b2f5873976ea8251e1}{%
+           family={Weiderpass},
+           familyi={W\bibinitperiod},
+           given={Elisabete},
+           giveni={E\bibinitperiod}}}%
+        {{hash=99a3f11d4ddb8f8315d51cb269ab34e8}{%
+           family={Asli},
+           familyi={A\bibinitperiod},
+           given={Lene\bibnamedelima Angell},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=50fe9d0196e3bc09d9a305c7cea82f88}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Soledad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=39af073b7dd568ce65e7ac92d48ace4f}{%
+           family={Jakszyn},
+           familyi={J\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=458a2c286b3264b2b6de53f4066501d1}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Maria-Jose},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=eb970c5b7b98ab3ac842aad58a15cc1c}{%
+           family={Amiano},
+           familyi={A\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5e858909df041ba26ac784aba6467281}{%
+           family={{Maria Huerta}},
+           familyi={M\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+        {{hash=49076b27da3868c94f8a8b8c78791587}{%
+           family={Barricarte},
+           familyi={B\bibinitperiod},
+           given={Aurelio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3c90ddfc1d1a37016a18a7602318d0d7}{%
+           family={Ljuslinder},
+           familyi={L\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=879a0c8c6d8432a9a305ee930e835bbd}{%
+           family={Palmqvist},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f0e134cb10d7484a5c49d6571a5af190}{%
+           family={Khaw},
+           familyi={K\bibinitperiod},
+           given={Kay-Tee},
+           giveni={K\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=6a7da229dc55fa906f0cf66d5b2a7355}{%
+           family={Wareham},
+           familyi={W\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=002299e212e453b137e90673737b01ff}{%
+           family={Key},
+           familyi={K\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ff3b2e721160a02eb3e11f7514d490fc}{%
+           family={Travis},
+           familyi={T\bibinitperiod},
+           given={Ruth\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0263a696320dcadad70131a3426183c1}{%
+           family={Slimani},
+           familyi={S\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5656ffe86c2cfe8414ef9002d4b5cc70}{%
+           family={Freisling},
+           familyi={F\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod}}}%
+        {{hash=be36d04c41f63faae8cf3fd6e939be8c}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=48387088ab5db509d8d8c454d091ef1e}{%
+           family={Gunter},
+           familyi={G\bibinitperiod},
+           given={Marc\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1b290e4c48fdc3af19bdba040a6cacba}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dba4272d5c6260989bc61306e1deaafb}{%
+           family={Riboli},
+           familyi={R\bibinitperiod},
+           given={Elio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=505cd3055bd7a115f2fe001d07c72d1a}{%
+           family={Tjonneland},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{fullhash}{9dae6160f45bc880d6634d69f890ff64}
+      \strng{bibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authorbibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authornamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authorfullhash}{9dae6160f45bc880d6634d69f890ff64}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Whole-grain intake has been reported to be associated with a lower risk of several lifestyle-related diseases such as type 2 diabetes, CVD and some types of cancers. As measurement errors in self-reported whole-grain intake assessments can be substantial, dietary biomarkers are relevant to be used as complementary tools for dietary intake assessment. Alkylresorcinols (AR) are phenolic lipids found almost exclusively in whole-grain wheat and rye products among the commonly consumed foods and are considered as valid biomarkers of the intake of these products. In the present study, we analysed the plasma concentrations of five AR homologues in 2845 participants from ten European countries from a nested case-control study in the European Prospective Investigation into Cancer and Nutrition. High concentrations of plasma total AR were found in participants from Scandinavia and Central Europe and lower concentrations in those from the Mediterranean countries. The geometric mean plasma total AR concentrations were between 35 and 41nmol/l in samples drawn from fasting participants in the Central European and Scandinavian countries and below 23nmol/l in those of participants from the Mediterranean countries. The whole-grain source (wheat or rye) could be determined using the ratio of two of the homologues. The main source was wheat in Greece, Italy, the Netherlands and the UK, whereas rye was also consumed in considerable amounts in Germany, Denmark and Sweden. The present study demonstrates a considerable variation in the plasma concentrations of total AR and concentrations of AR homologues across ten European countries, reflecting both quantitative and qualitative differences in the intake of whole-grain wheat and rye.}
+      \field{issn}{0007-1145}
+      \field{journaltitle}{BRITISH JOURNAL OF NUTRITION}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{{Plasma alkylresorcinol concentrations, biomarkers of whole-grain wheat and rye intake, in the European Prospective Investigation into Cancer and Nutrition (EPIC) cohort}}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{1881\bibrangedash 1890}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1017/S0007114513004388
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/plasma{\_}alkylresorcinol{\_}concentrations{\_}biomarkers{\_}of{\_}wholegrain{\_}wheat{\_}and{\_}rye{\_}intake{\_}in{\_}the{\_}european{\_}prospective{\_}investigation{\_}into{\_}cancer{\_}and{\_}nutrition{\_}epic{\_}cohort.pdf:pdf
+      \endverb
+    \endentry
     \entry{ISI:000389134200003}{article}{}
       \name{author}{10}{}{%
         {{hash=6dab7d50fa2d943d433121c1d9f7565a}{%
