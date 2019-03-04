@@ -2018,6 +2018,8 @@
     <bcf:citekey order="33">ISI:000394168100034</bcf:citekey>
     <bcf:citekey order="34">ISI:000384082300001</bcf:citekey>
     <bcf:citekey order="35">ISI:000447355100002</bcf:citekey>
+    <bcf:citekey order="36">ISI:000350230300006</bcf:citekey>
+    <bcf:citekey order="37">ISI:000348343300015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
