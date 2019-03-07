@@ -114,19 +114,22 @@ boxplot_intervention_save <- function(feature=...){
 }
 figure <- lapply(featurex,boxplot_intervention_save)
 
-#extract mz and rt from plsda modeling
-  path <- 'c://Users/tuhu/projects/barley/urine_pos_varsel.mat'
-  matdata1 <- readMat(path)
-  matdata <- matdata1[[1]]  
-  mz_sel1 <- matdata$axisscale[[2]]
-    mz_sel <-  mz_sel1[[1]]
-  rt_sel1 <-  matdata$axisscale[[6]]  
-    rt_sel <- rt_sel1[[1]]  
-  mzrt_sel <- data.frame(mz=t(mz_sel),rt=t(rt_sel))    
+#extract mz and rt from plsda modeling (NOT NECESSARY)
+  #path <- 'c://Users/tuhu/projects/barley/urine_pos_varsel.mat'
+  #matdata1 <- readMat(path)
+  #matdata <- matdata1[[1]]  
+  #mz_sel1 <- matdata$axisscale[[2]]
+  #  mz_sel <-  mz_sel1[[1]]
+  #rt_sel1 <-  matdata$axisscale[[6]]  
+  #  rt_sel <- rt_sel1[[1]]  
+  #mzrt_sel <- data.frame(mz=t(mz_sel),rt=t(rt_sel))    
   
 
   # arrange POS data
-  path <- 'c://Users/tuhu/projects/barley/urine_pos_data.mat'  
+  
+  #path <- 'c://Users/tuhu/projects/barley/urine_pos_data.mat'  
+  #this data is fu**ing wrong
+  path <- 'c://Users/tuhu/projects/bfi-wholegrain/matlab/urine_pos_selected.mat'
   polarity <- 'pos'
   m2r <- function(path=...,polarity=...){
     matdata <- readMat(path)
@@ -182,29 +185,31 @@ figure <- lapply(featurex,boxplot_intervention_save)
     return(datan2)}
   urine_pos_data <- m2r(path,polarity)  
   
-  urine_pos_sel_data <- urine_pos_data %>% filter(mz %in% mzrt_sel$mz) %>% 
-    filter (rt %in% mzrt_sel$rt)
-  length(unique(urine_pos_sel_data$feature)) - nrow(mzrt_sel)
-  
-  mzrt_sel <- mzrt_sel %>% mutate(feature_new=paste0('X',1:nrow(mzrt_sel)))
-  
-  urine_pos_sel_data_arrange <- urine_pos_sel_data %>% arrange(rt,mz,intervention,intensity)
-
-  test <-left_join(urine_pos_sel_data_arrange,mzrt_sel,by='rt')                       
-  urine_plsda_selvar_pos <- test %>% select(-mz.y,-feature) %>% mutate (feature=feature_new, mz=mz.x) %>% select(-feature_new, -mz.x)  
+  #urine_pos_sel_data <- urine_pos_data %>% filter(mz %in% mzrt_sel$mz) %>% 
+  #  filter (rt %in% mzrt_sel$rt)
+  #length(unique(urine_pos_sel_data$feature)) - nrow(mzrt_sel)
+  #mzrt_sel <- mzrt_sel %>% mutate(feature_new=paste0('X',1:nrow(mzrt_sel)))
+  #urine_pos_sel_data_arrange <- urine_pos_sel_data %>% arrange(rt,mz,intervention,intensity)
+  #test <-left_join(urine_pos_sel_data_arrange,mzrt_sel,by='rt')                       
+  #urine_plsda_selvar_pos <- test %>% select(-mz.y,-feature) %>% mutate (feature=feature_new, mz=mz.x) %>% select(-feature_new, -mz.x)  
 
   #plot
   boxplot_intervention_save <- function(feature=...){
     feature1 <- feature
-    data1<- urine_plsda_selvar_pos %>% filter(feature==feature1)
+    data1<- urine_pos_data %>% filter(feature==feature1)
     rt<-as.character(round(data1$rt[1],digits = 2))
     mz<-round(data1$mz[1],digits = 4)
     pos<-data1$polarity[1]
-    urine_plsda_selvar_pos %>% filter(feature==feature1) %>% ggplot(aes(x=intervention,y=intensity)) +
+    urine_pos_data %>% filter(feature==feature1) %>% ggplot(aes(x=intervention,y=intensity)) +
       geom_point() +
       geom_boxplot() +
       ggtitle(paste('rt=',rt,'  ','mz=',mz,' ','feature=',feature1,' ','polarity=',pos))
     ggsave(paste0(feature1,'.jpg'))
   }
-  featureX <- paste0('X',1:nrow(mzrt_sel))
+  
+  featureX <- paste0('X',1:length(unique(urine_pos_data$feature)))
   figure <- lapply(featureX,boxplot_intervention_save)
+
+  #select markers for WG wheat intake
+  urine_pos_data %>% group_by(feature,intervention) %>% summarize(mean(intensity))
+  
