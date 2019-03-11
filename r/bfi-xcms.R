@@ -10,31 +10,49 @@ cdffiles <- paste(folderpath,cdffiles,sep='/')
 
 #create a phenodata data.frame (store subjects, filename, intervention, etc)
 #for KU_nexs_metabolomics group, it will be a MassLynx samplelist plus a diet_code
-#samplelist_path <- 'C://Users//tuhu//projects//bfi-wholegrain//matlab//urine_samplelist.xlsx'
+samplelist_path <- 'C://Users//tuhu//projects//bfi-wholegrain//matlab//urine_samplelist.xlsx'
 
 #temporary solution
-pd <- data.frame(sample_name = sub(basename(cdffiles), pattern = ".CDF",
-                                   replacement = "", fixed = TRUE),
-                 # sample_group = c(rep("fake_gr_1", 4), rep("fake_gr_2", 3)),
-                 stringsAsFactors = FALSE)
+# pd <- data.frame(sample_name = sub(basename(cdffiles), pattern = ".CDF",
+#                                    replacement = "", fixed = TRUE),
+#                  # sample_group = c(rep("fake_gr_1", 4), rep("fake_gr_2", 3)),
+#                  stringsAsFactors = FALSE)
 
-raw_data <- readMSData(files = cdffiles, pdata = new("NAnnotatedDataFrame", pd),
-                       mode = "onDisk")
+# raw_data <- readMSData(files = cdffiles, pdata = new("NAnnotatedDataFrame", pd),
+#                        mode = "onDisk")
 
-#next line is only for testing purpose (NOT FINISH, I'm gonna do this later)
-# MassLynxSampleListPath <- samplelist_path
-# MassLynx_extract <- function(MassLynxSampleListPath=...){
-#   samplelist <- read_excel(MassLynxSampleListPath,col_names = FALSE)
-#   filename <- samplelist[,1]
-#   subject <- samplelist[,2]
-#   polarity <- samplelist[,3]
-#     extract_polarity <- function(polarity){
-#       polarity1 <- polarity
-#         lapply  
-#         str_match(as.character(polarity1[1,]),'pos')
-#     } 
-# } 
+MassLynxSampleListPath <- samplelist_path
+MassLynx_extract <- function(MassLynxSampleListPath=...){
+  samplelist <- read_excel(MassLynxSampleListPath,col_names = c('filename','subject','MS_file','MS_Tune_file','Inlet_file','Bottle','Inject_volume'))
+  filename <- samplelist[,1]
+  subject <- samplelist[,2]
+  polarity <- samplelist[,3]
+    #use character match to determine polarity
+    extract_pos <- function(rownumber=...){
+      polarity1 <- polarity
+      pos_or_not <- grepl('pos',polarity[rownumber,])
+      return(pos_or_not)
+    }
+  #generate a list
+  polarity_T_or_F <- sapply(1:nrow(polarity), extract_pos)
+  polarity <- ifelse(polarity_T_or_F,'pos','neg')
+  pd <- data.frame(filename,subject,polarity=polarity)
+  return(pd)
+}
+pd_1 <- MassLynx_extract(MassLynxSampleListPath)
 
+#diet codes
+diet_code_path <- 'C:/Users/tuhu/projects/barley/DietCodes.xlsx'
+diet_code_1 <- read_excel(diet_code_path) %>% as.tibble()
+diet_code <- diet_code_1 %>% mutate(subject=sample,intervention=intervention) %>% 
+  select(subject,intervention)
+pd_2 <- left_join(pd_1,diet_code,by='subject')
+
+pd_samples <- pd_2 %>% filter(is.na(intervention)==FALSE)
+
+pd_non_samples <- pd_2 %>% filter(is.na(intervention)==TRUE) %>% mutate(intervention=subject)
+
+pd <- bind_rows(pd_samples,pd_non_samples)
 
 #Define parameters for centWave algorithm (parameters were adapted from Gözde's noma method)
 cwp <- CentWaveParam(ppm=35,
