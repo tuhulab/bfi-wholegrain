@@ -1,5 +1,5 @@
-library(xcms)
 library(tidyverse)
+library(xcms)
 library(readxl) #because 'readxl' is not a tidyverse core package, it should be loaded explicitly
 #library(magrittr)
 library(RColorBrewer)
@@ -49,29 +49,49 @@ pd <- bind_rows(pd_samples,pd_non_samples)
   
   pdata <- new('NAnnotatedDataFrame', pd_pos)
  
-  raw_data <- readMSData(files = pos_path,mode = "onDisk",pdata = pdata)
-
+  raw_data <- readMSData(files = pos_path,
+                          mode = "onDisk",msLevel. = 1, centroided. = TRUE)
+                          #pdata = pdata)
+  
+  raw_data <- readMSData(files = cdffiles[11],
+                         mode = "onDisk")
+  
   #explore one peak
+  head(rtime(raw_data)) #converted as second
+  bpis <- chromatogram(raw_data, aggregationFun = "max")
+  plot(bpis)
+  
+  
   ## Define the rt and m/z range of the peak area
-  rtr <- c(250, 300)
-  mzr <- c(291.26, 291.28)
+  rtr <- c(250, 255)
+  mzr <- c(291.20, 291.30)
   ## extract the chromatogram
   chr_raw <- chromatogram(raw_data, mz = mzr, rt = rtr)
   plot(chr_raw)
   
   
 #Define parameters for centWave algorithm (parameters were adapted from Gözde's noma method)
-cwp <- CentWaveParam(ppm=35,
-                     peakwidth= c(2,20),
-                     snthresh=4,
-                     prefilter=c(2,15),
-                     mzdiff=-0.001,
-                     integrate = 1,
-                     noise=5000,mzCenterFun = 'mean')
+cwp <- CentWaveParam(ppm=30,
+                     peakwidth= c(2,20)
+                     #snthresh=4,
+                     #prefilter=c(2,15),
+                     #mzdiff=-0.001,
+                     #integrate = 1,
+                     #noise=15,mzCenterFun = 'mean'
+                     )
 
+register(SerialParam())
 xdata <- findChromPeaks(raw_data, param = cwp)
+#cwp <- CentWaveParam(peakwidth = c(20, 80), noise = 5000)
 
-cwp <- CentWaveParam(peakwidth = c(20, 80), noise = 5000)
-xdata <- findChromPeaks(raw_data, param = cwp)
 
-                      
+ detach('package:dplyr')
+ detach('package:ggplot2')
+ detach('package:purrr')
+ detach('package:tidyr')
+detach('package:readxl')
+detach('package:readr')
+detach('package:tibble')
+detach('package:stringr')
+detach('package:tidyverse')
+
