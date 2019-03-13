@@ -49,12 +49,9 @@ pd <- bind_rows(pd_samples,pd_non_samples)
   
   pdata <- new('NAnnotatedDataFrame', pd_pos)
  
-  raw_data <- readMSData(files = pos_path,
-                          mode = "onDisk",msLevel. = 1, centroided. = TRUE)
-                          #pdata = pdata)
+  raw_data <- readMSData(files = pos_path, mode = "onDisk",msLevel. = 1, centroided. = TRUE,pdata = pdata)
   
-  raw_data <- readMSData(files = cdffiles[11],
-                         mode = "onDisk")
+  #raw_data <- readMSData(files = cdffiles,mode = "onDisk",msLevel. = 1, centroided. = TRUE)
   
   #explore one peak
   head(rtime(raw_data)) #converted as second
