@@ -9,6 +9,10 @@ folderpath<- 'C:/Users/tuhu/projects/bfi-wholegrain/data/cdf-urine'
 cdffiles <- list.files(folderpath, recursive = TRUE)
 cdffiles <- paste(folderpath,cdffiles,sep='/')
 
+#test muyao's dataset
+muyao_path <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/muyao_data'
+muyao_cdfs
+
 #create a phenodata data.frame (store subjects, filename, intervention, etc)
 #for KU_nexs_metabolomics group, it will be a MassLynx samplelist plus a diet_code
 samplelist_path <- 'C://Users//tuhu//projects//bfi-wholegrain//matlab//urine_samplelist.xlsx'
@@ -49,7 +53,8 @@ pd <- bind_rows(pd_samples,pd_non_samples)
   
   pdata <- new('NAnnotatedDataFrame', pd_pos)
  
-  raw_data <- readMSData(files = pos_path, mode = "onDisk",msLevel. = 1, centroided. = TRUE,pdata = pdata)
+  raw_data <- readMSData(files = pos_path, mode = "onDisk",msLevel. = 1, centroided. = TRUE)
+                         #pdata = pdata)
   
   #raw_data <- readMSData(files = cdffiles,mode = "onDisk",msLevel. = 1, centroided. = TRUE)
   

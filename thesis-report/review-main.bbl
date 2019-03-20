@@ -1646,148 +1646,111 @@
       \verb :C$\backslash$:/Users/tuhu/Downloads/z4w00305000580.pdf:pdf
       \endverb
     \endentry
-    \entry{Landberg2009}{book}{}
-      \name{author}{1}{}{%
+    \entry{10.1093/jn/137.5.1137}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f691cb720b93ea31544a2f68dee4ec71}{%
+           family={Adlercreutz},
+           familyi={A\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=35eab2013fc2f13090b2ba703839f806}{%
+           family={Peñalvo},
+           familyi={P\bibinitperiod},
+           given={José\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f879bf5b7b8126dc72010cb08742737c}{%
+           family={Linko-Parvinen},
+           familyi={L\bibinithyphendelim P\bibinitperiod},
+           given={Anna-Maria},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=d834f0c9cb3f7813c8012d00cb1e89d2}{%
+           family={Tikkanen},
+           familyi={T\bibinitperiod},
+           given={Matti\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
            family={Landberg},
            familyi={L\bibinitperiod},
            given={Rikard},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
-      \strng{fullhash}{9bcc18d6029d0ab2b90138de7b2cea5d}
-      \strng{bibnamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
-      \strng{authorbibnamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
-      \strng{authornamehash}{9bcc18d6029d0ab2b90138de7b2cea5d}
-      \strng{authorfullhash}{9bcc18d6029d0ab2b90138de7b2cea5d}
+      \strng{namehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
+      \strng{fullhash}{c5cfccdde13d86d0f3a59f274f3f6eec}
+      \strng{bibnamehash}{c5cfccdde13d86d0f3a59f274f3f6eec}
+      \strng{authorbibnamehash}{c5cfccdde13d86d0f3a59f274f3f6eec}
+      \strng{authornamehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
+      \strng{authorfullhash}{c5cfccdde13d86d0f3a59f274f3f6eec}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Sciences-New York}
-      \field{isbn}{978-91-86195-58-8}
-      \field{title}{{Alkylresorcinols as Biomarkers of Whole Grain Wheat and Rye Intake}}
-      \field{year}{2009}
-    \endentry
-    \entry{ISI:000333777700008}{article}{}
-      \name{author}{18}{}{%
-        {{hash=58ef806335b1a607422537395eea65ff}{%
-           family={Magnusdottir},
-           familyi={M\bibinitperiod},
-           given={O\bibnamedelima K},
-           giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=e341616be1a69c50bc387430a48f0faa}{%
-           family={Landberg},
-           familyi={L\bibinitperiod},
-           given={R},
-           giveni={R\bibinitperiod}}}%
-        {{hash=6246b97c29d0dab12c03de136b983726}{%
-           family={Gunnarsdottir},
-           familyi={G\bibinitperiod},
-           given={I},
-           giveni={I\bibinitperiod}}}%
-        {{hash=17e5502849bc56a7c30a906e4dee805f}{%
-           family={Cloetens},
-           familyi={C\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=2dd8961cb683f0e7163355f1790ee82f}{%
-           family={Akesson},
-           familyi={A\bibinitperiod},
-           given={B},
-           giveni={B\bibinitperiod}}}%
-        {{hash=b42f41bb59941b0516e49205975ff3d0}{%
-           family={Landin-Olsson},
-           familyi={L\bibinithyphendelim O\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=15723aea4b9d257a1da181a0fe3c3cda}{%
-           family={Rosqvist},
-           familyi={R\bibinitperiod},
-           given={F},
-           giveni={F\bibinitperiod}}}%
-        {{hash=7f38c21ef52379301abff50e4d0a11e0}{%
-           family={Iggman},
-           familyi={I\bibinitperiod},
-           given={D},
-           giveni={D\bibinitperiod}}}%
-        {{hash=bc2fd9e149cb92f2f0b364fef2e4ffb6}{%
-           family={Schwab},
-           familyi={S\bibinitperiod},
-           given={U},
-           giveni={U\bibinitperiod}}}%
-        {{hash=d7fc17e002843e0c00fbd78a5c2a0b61}{%
-           family={Herzig},
-           familyi={H\bibinitperiod},
-           given={K-H},
-           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
-        {{hash=c367d7876045e4a5f2d83523e7c54998}{%
-           family={Savolainen},
-           familyi={S\bibinitperiod},
-           given={M\bibnamedelima J},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=ce89fba27f8d0da8724e83ae666dcdfc}{%
-           family={Brader},
-           familyi={B\bibinitperiod},
-           given={L},
-           giveni={L\bibinitperiod}}}%
-        {{hash=8969d7982b4893022f801269aab1a790}{%
-           family={Hermansen},
-           familyi={H\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod}}}%
-        {{hash=d6c540092276d290bd82de3f049bb433}{%
-           family={Kolehmainen},
-           familyi={K\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=276c7e44550ebb5096e1735fa100ae2c}{%
-           family={Poutanen},
-           familyi={P\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod}}}%
-        {{hash=a623f3bc7c0221482f0cb9a42fcd9b69}{%
-           family={Uusitupa},
-           familyi={U\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6b1c7b0b73889637632982ce461fa79b}{%
-           family={Thorsdottir},
-           familyi={T\bibinitperiod},
-           given={I},
-           giveni={I\bibinitperiod}}}%
-        {{hash=8a05dc3830cc82190e9d4d4b86721736}{%
-           family={Riserus},
-           familyi={R\bibinitperiod},
-           given={U},
-           giveni={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{282cc6246fdf8567e9199886fa902d97}
-      \strng{fullhash}{75adc74ea0ebb7b50e187740238e0e83}
-      \strng{bibnamehash}{282cc6246fdf8567e9199886fa902d97}
-      \strng{authorbibnamehash}{282cc6246fdf8567e9199886fa902d97}
-      \strng{authornamehash}{282cc6246fdf8567e9199886fa902d97}
-      \strng{authorfullhash}{75adc74ea0ebb7b50e187740238e0e83}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{BACKGROUND/OBJECTIVES: Few studies have used biomarkers of whole-grain intake to study its relation to glucose metabolism. We aimed to investigate the association between plasma alkylresorcinols (AR), a biomarker of whole-grain rye and wheat intake, and glucose metabolism in individuals with metabolic syndrome (MetS). SUBJECTS/METHODS: Participants were 30-65 years of age, with body mass index 27-40 kg/m(2) and had MetS without diabetes. Individuals were recruited through six centers in the Nordic countries and randomized to a healthy Nordic diet (ND, n=96), rich in whole-grain rye and wheat, or a control diet (n=70), for 18-24 weeks. In addition, associations between total plasma AR concentration and C17:0/C21:0 homolog ratio as an indication of the relative whole-grain rye intake, and glucose metabolism measures from oral glucose tolerance tests were investigated in pooled (ND + control) regression analyses at 18/24 weeks. RESULTS: ND did not improve glucose metabolism compared with control diet, but the AR C17:0/C21:0 ratio was inversely associated with fasting insulin concentrations (P=0.002) and positively associated with the insulin sensitivity indices Matsuda ISI (P=0.026) and disposition index (P=0.022) in pooled analyses at 18/24 weeks, even after adjustment for confounders. The AR C17:0/C21:0 ratio was not significantly associated with insulin secretion indices. Total plasma AR concentration was not related to fasting plasma glucose or fasting insulin at 18/24 weeks. CONCLUSIONS: The AR C17:0/C21:0 ratio, an indicator of relative whole-grain rye intake, is associated with increased insulin sensitivity in a population with MetS.}
-      \field{issn}{0954-3007}
-      \field{journaltitle}{EUROPEAN JOURNAL OF CLINICAL NUTRITION}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{{Plasma alkylresorcinols C17:0/C21:0 ratio, a biomarker of relative whole-grain rye intake, is associated to insulin sensitivity: a randomized study}}
-      \field{volume}{68}
-      \field{year}{2014}
-      \field{pages}{453\bibrangedash 458}
+      \field{abstract}{Alkylresorcinols with alkyl chains C17:0-C25:0 are abundant in whole-grain wheat and rye. Concentrations in human plasma have been suggested to be biomarkers of dietary whole-grain intake. We measured human plasma, erythrocyte, and lipoprotein alkylresorcinol concentrations and alkylresorcinol homolog distribution, and evaluated the use of plasma alkylresorcinol concentration as a dietary biomarker of whole-grain intake compared with serum enterolactone. A total of 15 subjects (8 women) consumed whole-grain wheat or whole-grain rye crisp bread (∼100 g/d) in a crossover design for 1 wk. The test bread periods were preceded by 1-wk periods of consuming refined wheat bread. Plasma, erythrocyte, lipoprotein alkylresorcinol, and serum enterolactone concentrations were measured before and after each period, and plasma alkylresorcinols and serum enterolactone were measured after habitual diet intake before and 1 wk after the trial. Plasma alkylresorcinols are transported in lipoproteins with VLDL and HDL being the main carriers. AR concentrations in plasma, erythrocytes, and lipoproteins were increased (P $\backslash$$\backslash${<} 0.05) by whole-grain wheat bread and even more so with rye crisp bread, although interindividual variation was high. The alkylresorcinol homolog C17:0 to C21:0 ratio in plasma was higher after the whole-grain rye diet period compared with the whole-grain wheat diet period (P $\backslash$$\backslash${<} 0.05). Serum enterolactone concentrations were increased significantly by whole-grain rye intake only in men. This is the first report to show that alkylresorcinols in human plasma are mainly transported in lipoproteins. The plasma alkylresorcinol C17:0 to C21:0 ratio reflects intake of whole-grain wheat and rye, and the plasma total alkylresorcinol concentration appears to be a useful biomarker of whole-grain cereal intake.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{The Journal of Nutrition}
+      \field{number}{5}
+      \field{title}{{Alkylresorcinols from Whole-Grain Wheat and Rye Are Transported in Human Plasma Lipoproteins}}
+      \field{volume}{137}
+      \field{year}{2007}
+      \field{pages}{1137\bibrangedash 1142}
       \range{pages}{6}
       \verb{doi}
-      \verb 10.1038/ejcn.2014.12
+      \verb 10.1093/jn/137.5.1137
       \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/ejcn201412.pdf:pdf
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1093/jn/137.5.1137
       \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1093/jn/137.5.1137
+      \endverb
+    \endentry
+    \entry{ISI:000255012000007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=905d295f430821ea107b8ef29e1bd0bc}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Agneta},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc8977c39dd3e20723ae7defa8746556}{%
+           family={Vessby},
+           familyi={V\bibinitperiod},
+           given={Bengt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=627b9820ab301eaa1f6ab1606bc25b59}{%
+           family={Aman},
+           familyi={A\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{fullhash}{73e4c9c6622facb97f100789c6000429}
+      \strng{bibnamehash}{73e4c9c6622facb97f100789c6000429}
+      \strng{authorbibnamehash}{73e4c9c6622facb97f100789c6000429}
+      \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{authorfullhash}{73e4c9c6622facb97f100789c6000429}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Alkylresorcinols (ARs), phenolic lipids exclusively present in the outer parts of wheat and rye grains, have been proposed as specific dietary biomarkers of whole-grain wheat and rye intake. Objective: The objective was to validate plasma ARs as a biomarker of whole-grain wheat and rye intakes by studying the correlation between their plasma concentration and intake calculated from food records. Design: In a randomized crossover study, 22 women and 8 men were given a defined amount of either whole-grain or refined-cereal-grain products to be included in their habitual diets for two 6-wk periods. Blood samples were collected and food intakes were recorded before and after each intervention period. Results: Plasma AR concentrations were significantly higher after the whole-grain diet period than after the refined-grain period (P {<} 0.0001) and were well correlated with average daily AR intake estimated by self-reported weighed food records (Spearman's r = 0.58, P {<} 0.001). Conclusion: Plasma AR concentrations are correlated with intake assessed by food records, which suggests that ARs are selective nutritional biomarkers for the intake of whole-grain wheat and rye.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{AMERICAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Alkylresorcinols as biomarkers of whole-grain wheat and rye intake: plasma concentration and intake estimated from dietary records}}
+      \field{volume}{87}
+      \field{year}{2008}
+      \field{pages}{832\bibrangedash 838}
+      \range{pages}{7}
     \endentry
     \entry{ISI:000298402100026}{article}{}
       \name{author}{7}{}{%
@@ -1900,8 +1863,8 @@
       \strng{authorbibnamehash}{25cccf9a1c52915e03e63aec5c833ecd}
       \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
       \strng{authorfullhash}{fee436324755fcef084c8717863f759b}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Two alkylresorcinol (AR) metabolites, 3, 5-dihydroxybenzoic acid (DHBA) and 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA), in urine have been suggested as biomarkers of whole grain (WG) and cereal fiber intake but the long-term reproducibility and correlation with habitual intake has not been determined. Therefore, we evaluated the long-term reproducibility of AR metabolites in spot urine samples and investigated their correlation with habitual WG and cereal fiber intake in U.S. women. AR metabolites were analyzed in 104 women participating in the Nurses' Health Study II and WG and fiber intakes were assessed using a FFQ. Long-term reproducibility was assessed by calculating the intra-class correlation coefficients (ICC) using samples taken 1-3 y (mean 1.8 y) apart. The observed Spearman correlation coefficients (r(S)) and r(S) adjusted for within-participant variation in the biomarker were calculated between WG and fiber intake and biomarkers. The long-term reproducibility was poor for DHBA {\{}[{\}}ICC = 0.17 (95{\%} Cl: 0.05, 0.43)] and modest for DHPPA {\{}[{\}}ICC = 0.31 (95{\%} Cl: 0.17, 0.51)]. The correlation between WG intake in 1995 and DHPPA measured 2 y later was 0.37 (P {<} 0.0001); the adjusted correlation was 0.60 (95{\%} Cl: 0.37, 0.76). Cereal fiber and WG intake were similarly correlated to the biomarkers. DHPPA in spot urine samples reflected WG intake despite relatively low intake of food sources of AR. The poor to modest reproducibility may limit the use of single measurements of these biomarkers in cohort studies in the US, where WG intake is relatively low and has changed over time. But DHPPA in repeated samples may be useful for validating WG intake and assessing compliance in WG intervention studies. J. Nutr. 142: 872-877, 2012.}

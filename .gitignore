@@ -37,3 +37,4 @@ data/mealstudy/VectorDateMatchPOS.mat
 data/mealstudy/VectorForDateMatchNEG.mat
 data/mealstudy/ylabels.mat
 data/mealstudy/ylabelsNEG.mat
+*.cdf
