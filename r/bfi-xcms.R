@@ -10,8 +10,9 @@ cdffiles <- list.files(folderpath, recursive = TRUE)
 cdffiles <- paste(folderpath,cdffiles,sep='/')
 
 #test muyao's dataset
-muyao_path <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/muyao_data'
-muyao_cdfs
+# muyao_path <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/muyao_data'
+# muyao_cdfs <- list.files(muyao_path, recursive = TRUE)
+# muyao_cdfs <- paste(muyao_path,muyao_cdfs,sep='/')
 
 #create a phenodata data.frame (store subjects, filename, intervention, etc)
 #for KU_nexs_metabolomics group, it will be a MassLynx samplelist plus a diet_code
@@ -50,13 +51,12 @@ pd <- bind_rows(pd_samples,pd_non_samples)
 ##select only POS mode (samples+pool)
   pd_pos <- pd %>% filter(polarity=='pos',intervention %in% c('BW','BB','AW','AB','Pool'))
   pos_path <- paste(folderpath,paste0(pd_pos$filename,'01.CDF'),sep='/')
-  
   pdata <- new('NAnnotatedDataFrame', pd_pos)
  
   raw_data <- readMSData(files = pos_path, mode = "onDisk",msLevel. = 1, centroided. = TRUE)
                          #pdata = pdata)
   
-  #raw_data <- readMSData(files = cdffiles,mode = "onDisk",msLevel. = 1, centroided. = TRUE)
+  raw_data <- readMSData(files = muyao_cdfs[1],mode = "onDisk",msLevel. = 1, centroided. = TRUE)
   
   #explore one peak
   head(rtime(raw_data)) #converted as second
