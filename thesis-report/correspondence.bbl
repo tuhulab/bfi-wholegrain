@@ -1,0 +1,152 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{10.1093/ajcn/nqy323}{article}{}
+      \name{author}{19}{}{%
+        {{hash=3d4f0450a4621742b6376d9d0ee171af}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ff27b59a1cf9fbfde9949a07b591a25e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liangkai},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f52dd5ae2efd04b3a717b728e71209e9}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peiyun},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b79b5ad1a3e96375ccd825c84a8500de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shuzhen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=544728309dbcc2e3e42dc87a0a919027}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Sijing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=91fcfefe4213e964312f53d137791d86}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Taoping},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b32f61b294f8e4aa5306c6ea6859da26}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2cad6290e559575c104a1d558b0bf110}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaoli},
+           giveni={X\bibinitperiod}}}%
+        {{hash=201ce602c48237b8f58d2607ae3dc96e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoqian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb3749a2bc8ae3770c18d31e9f1d56f3}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yalun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9e257f65e76140df5f80d6e01101bfc7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Liegang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=47db9e8f7a0362d04e888b0e7431d2be}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Changhui},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cbe3d4d62aa7eb719d3fc6882e631041}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8abd864a335c882b725305ff56a087cb}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Suli},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7d87e36ed1a8d831d0752483abe619a1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yanwei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=740b017d0525d5dc06841e3a7001564f}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=973657f7bef5ed9e559916248c375d07}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Jinquan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=506683bc649f6639a98978558113da66}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cbb8bf66cca39e79bb109607032cd57e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelima B},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf59e9f56979b477c89011d5573cb3c4}
+      \strng{fullhash}{a20954aa9df59aee6a277310189b76a5}
+      \strng{bibnamehash}{bf59e9f56979b477c89011d5573cb3c4}
+      \strng{authorbibnamehash}{bf59e9f56979b477c89011d5573cb3c4}
+      \strng{authornamehash}{bf59e9f56979b477c89011d5573cb3c4}
+      \strng{authorfullhash}{a20954aa9df59aee6a277310189b76a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Epidemiologic studies on whole grains and risk of stroke have reported inconsistent results, with some suggesting a protective effect but others showing a null association.The aim of this study was to examine whether plasma 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA), a biomarker of whole-grain wheat and rye intake, is associated with risk of ischemic stroke.A hospital-based case-control study was conducted between March 2011 and May 2016. Cases (n = 990) with first ischemic stroke were matched to controls (n = 990) by sex and age. Concentrations of plasma DHPPA were determined by high-performance liquid chromatography–tandem mass spectrometry. We calculated ORs for the association of plasma DHPPA concentrations with ischemic stroke risk through the use of logistic regression.Plasma DHPPA was inversely associated with ischemic stroke risk. After adjustment for potential confounding factors, the ORs for ischemic stroke across increasing quartiles of plasma DHPPA concentrations were 1 (referent), 0.76 (95$\backslash$$\backslash${\%} CI: 0.58, 0.99), 0.71 (95$\backslash$$\backslash${\%} CI: 0.54, 0.92), and 0.59 (95$\backslash$$\backslash${\%} CI: 0.45, 0.77), respectively (P-trend = 0.001). The inverse association was also observed in all subgroups of participants according to sex, age, body mass index, smoking status, alcohol consumption, history of hypertension, and history of diabetes.Our study showed that higher plasma DHPPA concentrations were associated with lower risk of ischemic stroke. This finding provides further evidence to support the health benefits of whole-grain consumption.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{The American Journal of Clinical Nutrition}
+      \field{number}{2}
+      \field{title}{{Plasma alkylresorcinol metabolite, a biomarker of whole-grain wheat and rye intake, and risk of ischemic stroke: a case-control study}}
+      \field{volume}{109}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/ajcn/nqy323
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/ajcn/nqy323
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/ajcn/nqy323
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -2011,8 +2011,8 @@
       \strng{authorbibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
       \strng{authornamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
       \strng{authorfullhash}{9dae6160f45bc880d6634d69f890ff64}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Whole-grain intake has been reported to be associated with a lower risk of several lifestyle-related diseases such as type 2 diabetes, CVD and some types of cancers. As measurement errors in self-reported whole-grain intake assessments can be substantial, dietary biomarkers are relevant to be used as complementary tools for dietary intake assessment. Alkylresorcinols (AR) are phenolic lipids found almost exclusively in whole-grain wheat and rye products among the commonly consumed foods and are considered as valid biomarkers of the intake of these products. In the present study, we analysed the plasma concentrations of five AR homologues in 2845 participants from ten European countries from a nested case-control study in the European Prospective Investigation into Cancer and Nutrition. High concentrations of plasma total AR were found in participants from Scandinavia and Central Europe and lower concentrations in those from the Mediterranean countries. The geometric mean plasma total AR concentrations were between 35 and 41nmol/l in samples drawn from fasting participants in the Central European and Scandinavian countries and below 23nmol/l in those of participants from the Mediterranean countries. The whole-grain source (wheat or rye) could be determined using the ratio of two of the homologues. The main source was wheat in Greece, Italy, the Netherlands and the UK, whereas rye was also consumed in considerable amounts in Germany, Denmark and Sweden. The present study demonstrates a considerable variation in the plasma concentrations of total AR and concentrations of AR homologues across ten European countries, reflecting both quantitative and qualitative differences in the intake of whole-grain wheat and rye.}
@@ -2030,6 +2030,103 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/plasma{\_}alkylresorcinol{\_}concentrations{\_}biomarkers{\_}of{\_}wholegrain{\_}wheat{\_}and{\_}rye{\_}intake{\_}in{\_}the{\_}european{\_}prospective{\_}investigation{\_}into{\_}cancer{\_}and{\_}nutrition{\_}epic{\_}cohort.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000430455900021}{article}{}
+      \name{author}{14}{}{%
+        {{hash=91fcfefe4213e964312f53d137791d86}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Taoping},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8a50257f9b737f41e6cdd904598f9f03}{%
+           family={Rong},
+           familyi={R\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cad6290e559575c104a1d558b0bf110}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaoli},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb3749a2bc8ae3770c18d31e9f1d56f3}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yalun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3d4f0450a4621742b6376d9d0ee171af}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ff27b59a1cf9fbfde9949a07b591a25e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liangkai},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f52dd5ae2efd04b3a717b728e71209e9}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peiyun},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b79b5ad1a3e96375ccd825c84a8500de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shuzhen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b32f61b294f8e4aa5306c6ea6859da26}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=973657f7bef5ed9e559916248c375d07}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Jinquan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7e91a80ff2cb1a6a8328462d4b444bcc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xuefeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=930721fb410c25993144579f7ebf2a0d}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cbb8bf66cca39e79bb109607032cd57e}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelima B},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9e257f65e76140df5f80d6e01101bfc7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Liegang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{fullhash}{22d590a4a4d3315a099644cb70654993}
+      \strng{bibnamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authorbibnamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authornamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authorfullhash}{22d590a4a4d3315a099644cb70654993}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE To examine the association of plasma alkylresorcinol metabolite 3-(3,5-dihydroxyphenyl)-1- propanoic acid (DHPPA), a biomarker of whole-grain wheat and rye intake, with type 2 diabetes (T2D) and impaired glucose regulation (IGR) in a Chinese population. RESEARCH DESIGN AND METHODS A total of 1,060 newly diagnosed T2D patients, 736 newly diagnosed IGR patients, and 1,443 control subjects with normal glucose tolerance were recruited in the case control study. Plasma DHPPA concentrations were determined by high-performance liquid chromatography-tandem mass spectroscopy. Multivariate logistic regression analysis was used to evaluate the independent association of plasma DHPPA concentrations with the likelihood of T2D and IGR. RESULTS After adjustment for age, sex, BMI, and family history of diabetes, the odds ratios (95{\%} CI) of T2D and IGR were 0.57 (0.45, 0.73) and 0.66 (0.50, 0.85), respectively, comparing the lowest with the highest quartile of plasma DHPPA concentrations. Further adjustment for current smoking status, current alcohol consumption, physical activity, history of hypertension, and educational level did not change the observed association materially. Similar results were also obtained in T2D and IGR groups combined. The inverse association of plasma DHPPA with T2D persisted in stratified analyses according to age, sex, BMI, current smoking status, current alcohol consumption, physical activity, family history of diabetes, and history of hypertension. CONCLUSIONS These findings suggested that higher plasma DHPPA concentrations were associated with lower odds of T2D and IGR. Further studies are warranted to confirm these findings in prospective cohorts.}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{DIABETES CARE}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Plasma Alkylresorcinol Metabolite, a Biomarker of Whole-Grain Wheat and Rye Intake, and Risk of Type 2 Diabetes and Impaired Glucose Regulation in a Chinese Population}}
+      \field{volume}{41}
+      \field{year}{2018}
+      \field{pages}{440\bibrangedash 445}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.2337/dc17-1570
       \endverb
     \endentry
     \entry{ISI:000333777700008}{article}{}
@@ -2498,8 +2595,8 @@
       \strng{authorbibnamehash}{a17d50d272d14a7b087cb860c989ce39}
       \strng{authornamehash}{a17d50d272d14a7b087cb860c989ce39}
       \strng{authorfullhash}{b62221456275414b75dde83e364646e7}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The bran and particularly the aleurone fraction of wheat are high in betaine and other physiological methyl donors, which may exert beneficial physiological effects. We conducted two randomised, controlled, cross-over postprandial studies to assess and compare plasma betaine and other methyl donor-related responses following the consumption of minimally processed bran and aleurone fractions (study A) and aleurone bread (study B). For both studies, standard pharmacokinetic parameters were derived for betaine, choline, folate, dimethylglycine (DMG), total homocysteine and methionine from plasma samples taken at 0, 0.5, 1, 2 and 3 h. In study A (n 14), plasma betaine concentrations were significantly and substantially elevated from 0.5 to 3 h following the consumption of both bran and aleurone compared with the control; however, aleurone gave significantly higher responses than bran. Small, but significant, increases were also observed in DMG measures; however, no significant responses were observed in other analytes. In study B (n 13), plasma betaine concentrations were significantly and substantially higher following consumption of the aleurone bread compared with the control bread; small, but significant, increases were also observed in DMG and folate measures in response to consumption of the aleurone bread; however, no significant responses were observed in other analytes. Peak plasma betaine concentrations, which were 1.7-1.8 times the baseline levels, were attained earlier following the consumption of minimally processed aleurone compared with the aleurone bread (time taken to reach peak concentration 1.2 v. 2.1h). These results showed that the consumption of minimally processed wheat bran, and particularly the aleurone fraction, yielded substantial postprandial increases in plasma betaine concentrations. Furthermore, these effects appear to be maintained when aleurone was incorporated into bread.}
@@ -2583,8 +2680,8 @@
       \strng{authorbibnamehash}{2e7b30557c0065eda62b87ac141f236f}
       \strng{authornamehash}{2e7b30557c0065eda62b87ac141f236f}
       \strng{authorfullhash}{3989bc385fa6a888edd6a053fb5b3a03}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bread is one of the most widely consumed foods. Its impact on human health is currently of special interest for researchers. We aimed to identify biomarkers of bread consumption by applying a nutrimetabolomic approach to a free-living population. An untargeted HPLC-q-TOF-MS and multivariate analysis was applied to human urine from 155 subjects stratified by habitual bread consumption in three groups: non-consumers of bread (n = 56), white-bread consumers (n = 48) and whole-grain bread consumers (n = 51). The most differential metabolites (variable importance for projection a parts per thousand yen1.5) included compounds originating from cereal plant phytochemicals such as benzoxazinoids and alkylresorcinol metabolites, and compounds produced by gut microbiota (such as enterolactones, hydroxybenzoic and dihydroferulic acid metabolites). Pyrraline, riboflavin, 3-indolecarboxylic acid glucuronide, 2,8-dihydroxyquinoline glucuronide and N-alpha-acetylcitrulline were also tentatively identified. In order to combine multiple metabolites in a model to predict bread consumption, a stepwise logistic regression analysis was used. Receiver operating curves were constructed to evaluate the global performance of individual metabolites and their combination. The area under the curve values {\{}[{\}}AUC (95 {\%} CI)] of combined models ranged from 77.8 {\%} (69.1-86.4 {\%}) to 93.7 {\%} (89.4-98.1 {\%}), whereas the AUC for the metabolites included in the models had weak values when they were evaluated individually: from 58.1 {\%} (46.6-69.7 {\%}) to 78.4 {\%} (69.8-87.1 {\%}). Our study showed that a daily bread intake significantly impacted on the urinary metabolome, despite being examined under uncontrolled free-living conditions. We further concluded that a combination of several biomarkers of exposure is better than a single biomarker for the predictive ability of discriminative analysis.}
@@ -2650,8 +2747,8 @@
       \strng{authorbibnamehash}{25cccf9a1c52915e03e63aec5c833ecd}
       \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
       \strng{authorfullhash}{fee436324755fcef084c8717863f759b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Two alkylresorcinol (AR) metabolites, 3, 5-dihydroxybenzoic acid (DHBA) and 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA), in urine have been suggested as biomarkers of whole grain (WG) and cereal fiber intake but the long-term reproducibility and correlation with habitual intake has not been determined. Therefore, we evaluated the long-term reproducibility of AR metabolites in spot urine samples and investigated their correlation with habitual WG and cereal fiber intake in U.S. women. AR metabolites were analyzed in 104 women participating in the Nurses' Health Study II and WG and fiber intakes were assessed using a FFQ. Long-term reproducibility was assessed by calculating the intra-class correlation coefficients (ICC) using samples taken 1-3 y (mean 1.8 y) apart. The observed Spearman correlation coefficients (r(S)) and r(S) adjusted for within-participant variation in the biomarker were calculated between WG and fiber intake and biomarkers. The long-term reproducibility was poor for DHBA {\{}[{\}}ICC = 0.17 (95{\%} Cl: 0.05, 0.43)] and modest for DHPPA {\{}[{\}}ICC = 0.31 (95{\%} Cl: 0.17, 0.51)]. The correlation between WG intake in 1995 and DHPPA measured 2 y later was 0.37 (P {<} 0.0001); the adjusted correlation was 0.60 (95{\%} Cl: 0.37, 0.76). Cereal fiber and WG intake were similarly correlated to the biomarkers. DHPPA in spot urine samples reflected WG intake despite relatively low intake of food sources of AR. The poor to modest reproducibility may limit the use of single measurements of these biomarkers in cohort studies in the US, where WG intake is relatively low and has changed over time. But DHPPA in repeated samples may be useful for validating WG intake and assessing compliance in WG intervention studies. J. Nutr. 142: 872-877, 2012.}

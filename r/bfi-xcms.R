@@ -56,7 +56,8 @@ pd <- bind_rows(pd_samples,pd_non_samples)
   raw_data <- readMSData(files = pos_path, mode = "onDisk",msLevel. = 1, centroided. = TRUE)
                          #pdata = pdata)
   
-  raw_data <- readMSData(files = muyao_cdfs[1],mode = "onDisk",msLevel. = 1, centroided. = TRUE)
+  ####test Muyao's data as a trail. It is ok!
+  ###raw_data <- readMSData(files = muyao_cdfs[1],mode = "onDisk",msLevel. = 1, centroided. = TRUE)
   
   #explore one peak
   head(rtime(raw_data)) #converted as second
