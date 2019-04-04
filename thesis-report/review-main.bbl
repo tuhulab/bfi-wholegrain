@@ -1522,6 +1522,151 @@
       \endverb
       \keyw{Alcohol Drinking,Beer,Biomarkers,Chromatography,Liquid,Cross-Over Studies,Humans,Mass Spectrometry,Metabolome,Metabolomics,Single-Blind Method,analysis,blood,urine}
     \endentry
+    \entry{ISI:000348343300015}{article}{}
+      \name{author}{11}{}{%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=366df0d305daa21d5d6001177b8c5586}{%
+           family={Llorach},
+           familyi={L\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=71d32749921f2e8d259afb3105315be2}{%
+           family={Urpi-Sarda},
+           familyi={U\bibinithyphendelim S\bibinitperiod},
+           given={Mireia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bee6f918e014da2ed31fa220b5b145f0}{%
+           family={Tulipani},
+           familyi={T\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=341cc190ac0544ebb103765f674216ed}{%
+           family={Salas-Salvado},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c88c7624e2c1c8f26810d8e52aeaa6b4}{%
+           family={{Angel Martinez-Gonzalez}},
+           familyi={A\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a68be040f32cc739124feb4af4f56ae4}{%
+           family={Corella},
+           familyi={C\bibinitperiod},
+           given={Dolores},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2e6c690fd79fbc9fd7f71ce894d3640c}{%
+           family={Fito},
+           familyi={F\bibinitperiod},
+           given={Montserrat},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e151227352bfd27d5e9f1d2a01aed1dd}{%
+           family={Estruch},
+           familyi={E\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9a87c427359bc60347a225670b135c07}{%
+           family={Serra-Majem},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Lluis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4388a0c99df3cdd68076b5a30278e4c0}{%
+           family={Andres-Lacueva},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{fullhash}{3989bc385fa6a888edd6a053fb5b3a03}
+      \strng{bibnamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authorbibnamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authornamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authorfullhash}{3989bc385fa6a888edd6a053fb5b3a03}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bread is one of the most widely consumed foods. Its impact on human health is currently of special interest for researchers. We aimed to identify biomarkers of bread consumption by applying a nutrimetabolomic approach to a free-living population. An untargeted HPLC-q-TOF-MS and multivariate analysis was applied to human urine from 155 subjects stratified by habitual bread consumption in three groups: non-consumers of bread (n = 56), white-bread consumers (n = 48) and whole-grain bread consumers (n = 51). The most differential metabolites (variable importance for projection a parts per thousand yen1.5) included compounds originating from cereal plant phytochemicals such as benzoxazinoids and alkylresorcinol metabolites, and compounds produced by gut microbiota (such as enterolactones, hydroxybenzoic and dihydroferulic acid metabolites). Pyrraline, riboflavin, 3-indolecarboxylic acid glucuronide, 2,8-dihydroxyquinoline glucuronide and N-alpha-acetylcitrulline were also tentatively identified. In order to combine multiple metabolites in a model to predict bread consumption, a stepwise logistic regression analysis was used. Receiver operating curves were constructed to evaluate the global performance of individual metabolites and their combination. The area under the curve values {\{}[{\}}AUC (95 {\%} CI)] of combined models ranged from 77.8 {\%} (69.1-86.4 {\%}) to 93.7 {\%} (89.4-98.1 {\%}), whereas the AUC for the metabolites included in the models had weak values when they were evaluated individually: from 58.1 {\%} (46.6-69.7 {\%}) to 78.4 {\%} (69.8-87.1 {\%}). Our study showed that a daily bread intake significantly impacted on the urinary metabolome, despite being examined under uncontrolled free-living conditions. We further concluded that a combination of several biomarkers of exposure is better than a single biomarker for the predictive ability of discriminative analysis.}
+      \field{issn}{1573-3882}
+      \field{journaltitle}{METABOLOMICS}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{{Nutrimetabolomics fingerprinting to identify biomarkers of bread exposure in a free-living population from the PREDIMED study cohort}}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{155\bibrangedash 165}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s11306-014-0682-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Garcia-Aloy2015{\_}Article{\_}NutrimetabolomicsFingerprintin.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000451002000016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=0545690ec3da5fd7970c413ddcff9b73}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Huaxing},
+           giveni={H\bibinitperiod}}}%
+        {{hash=942e8438e8a79c3c15f862180a192170}{%
+           family={Omar},
+           familyi={O\bibinitperiod},
+           given={Nor\bibnamedelimb Adila\bibnamedelima Mhd},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1f58f45387a3cd8af34addb63c3fbe6d}{%
+           family={Hakansson},
+           familyi={H\bibinitperiod},
+           given={Niclas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e611acdcfa322af28f7b2284b6cee5b8}{%
+           family={Wolk},
+           familyi={W\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c01c6f3125d496eab96e0ebe22d038f5}{%
+           family={Michaelsson},
+           familyi={M\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e43c71fb01144fcfc52b80bf22992c3}
+      \strng{fullhash}{912d420cb7496be87adb3649b3a33854}
+      \strng{bibnamehash}{0e43c71fb01144fcfc52b80bf22992c3}
+      \strng{authorbibnamehash}{0e43c71fb01144fcfc52b80bf22992c3}
+      \strng{authornamehash}{0e43c71fb01144fcfc52b80bf22992c3}
+      \strng{authorfullhash}{912d420cb7496be87adb3649b3a33854}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objective: Wheat and rye, the most consumed whole grains (WG) in the Nordic countries, contain alkylresorcinols (AR) in their bran. AR concentrations in human adipose tissue might reflect long-term WG rye and wheat intake. We aimed to evaluate AR concentrations in adipose tissue biopsies as a long-term biomarker of WG wheat and rye intake in free-living Swedish men and women. Design: Cross-sectional study. AR concentrations in adipose tissue biopsies were analysed and compared with long-term WG intake assessed by three FFQ (repeated over a period of 14 years in men, 17 years in women) and with plasma AR concentrations. Setting: The Cohort of Swedish Men between 1997 and 2010 and the Swedish Mammography Cohort between 1987 and 2003, Sweden. Subjects: Men (n 149) and women (n 109). Results: Long-term WG rye intake estimated with repeated FFQ correlated (r = 0.31-0.41, P{<}0.01) with adipose-tissue AR concentrations, while WG wheat intake correlated only weakly (r = 0.17-0.33, P {<} 0.05). Total AR concentration in adipose tissue was 61 {\%} lower in women than in men at similar energy-adjusted WG wheat and rye intakes, but plasma concentrations were similar. AR concentrations in adipose tissue correlated well with plasma concentrations (r = 0.49-0.81, P {<} 0.001). Conclusions: AR in adipose tissue reflected long-term WG rye but not WG wheat intake, probably due to poor precision in estimating WG wheat intake by FFQ. AR in adipose tissue appears promising as a biomarker of long-term WG rye intake but should be adjusted for sex.}
+      \field{issn}{1368-9800}
+      \field{journaltitle}{PUBLIC HEALTH NUTRITION}
+      \field{month}{7}
+      \field{number}{10}
+      \field{title}{{Evaluation of alkylresorcinols in adipose tissue biopsies as a long-term biomarker of whole-grain wheat and rye intake in free-living Swedish men and women}}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{1933\bibrangedash 1942}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1017/S1368980018000484
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/evaluation{\_}of{\_}alkylresorcinols{\_}in{\_}adipose{\_}tissue{\_}biopsies{\_}as{\_}a{\_}longterm{\_}biomarker{\_}of{\_}wholegrain{\_}wheat{\_}and{\_}rye{\_}intake{\_}in{\_}freeliving{\_}swedish{\_}men{\_}and{\_}women.pdf:pdf
+      \endverb
+    \endentry
     \entry{Chen2004}{article}{}
       \name{author}{4}{}{%
         {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
@@ -1680,8 +1825,8 @@
       \strng{authorbibnamehash}{c5cfccdde13d86d0f3a59f274f3f6eec}
       \strng{authornamehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
       \strng{authorfullhash}{c5cfccdde13d86d0f3a59f274f3f6eec}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Alkylresorcinols with alkyl chains C17:0-C25:0 are abundant in whole-grain wheat and rye. Concentrations in human plasma have been suggested to be biomarkers of dietary whole-grain intake. We measured human plasma, erythrocyte, and lipoprotein alkylresorcinol concentrations and alkylresorcinol homolog distribution, and evaluated the use of plasma alkylresorcinol concentration as a dietary biomarker of whole-grain intake compared with serum enterolactone. A total of 15 subjects (8 women) consumed whole-grain wheat or whole-grain rye crisp bread (∼100 g/d) in a crossover design for 1 wk. The test bread periods were preceded by 1-wk periods of consuming refined wheat bread. Plasma, erythrocyte, lipoprotein alkylresorcinol, and serum enterolactone concentrations were measured before and after each period, and plasma alkylresorcinols and serum enterolactone were measured after habitual diet intake before and 1 wk after the trial. Plasma alkylresorcinols are transported in lipoproteins with VLDL and HDL being the main carriers. AR concentrations in plasma, erythrocytes, and lipoproteins were increased (P $\backslash$$\backslash${<} 0.05) by whole-grain wheat bread and even more so with rye crisp bread, although interindividual variation was high. The alkylresorcinol homolog C17:0 to C21:0 ratio in plasma was higher after the whole-grain rye diet period compared with the whole-grain wheat diet period (P $\backslash$$\backslash${<} 0.05). Serum enterolactone concentrations were increased significantly by whole-grain rye intake only in men. This is the first report to show that alkylresorcinols in human plasma are mainly transported in lipoproteins. The plasma alkylresorcinol C17:0 to C21:0 ratio reflects intake of whole-grain wheat and rye, and the plasma total alkylresorcinol concentration appears to be a useful biomarker of whole-grain cereal intake.}
@@ -1737,8 +1882,8 @@
       \strng{authorbibnamehash}{73e4c9c6622facb97f100789c6000429}
       \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
       \strng{authorfullhash}{73e4c9c6622facb97f100789c6000429}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Alkylresorcinols (ARs), phenolic lipids exclusively present in the outer parts of wheat and rye grains, have been proposed as specific dietary biomarkers of whole-grain wheat and rye intake. Objective: The objective was to validate plasma ARs as a biomarker of whole-grain wheat and rye intakes by studying the correlation between their plasma concentration and intake calculated from food records. Design: In a randomized crossover study, 22 women and 8 men were given a defined amount of either whole-grain or refined-cereal-grain products to be included in their habitual diets for two 6-wk periods. Blood samples were collected and food intakes were recorded before and after each intervention period. Results: Plasma AR concentrations were significantly higher after the whole-grain diet period than after the refined-grain period (P {<} 0.0001) and were well correlated with average daily AR intake estimated by self-reported weighed food records (Spearman's r = 0.58, P {<} 0.001). Conclusion: Plasma AR concentrations are correlated with intake assessed by food records, which suggests that ARs are selective nutritional biomarkers for the intake of whole-grain wheat and rye.}
@@ -2496,8 +2641,8 @@
       \strng{authorbibnamehash}{7973352d91aa12f6a5e646a448dc83da}
       \strng{authornamehash}{125c4b11f7663ea4aa7a9c748642d0ab}
       \strng{authorfullhash}{7973352d91aa12f6a5e646a448dc83da}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A diet questionnaire (DQ) designed to assess habitual diet and phyto-oestrogen intake was developed. This study aimed to examine the validity of the DQ in men, with and without having prostate cancer. The DQ was validated against alkylresorcinol metabolites measured in urine as objective biomarkers of whole grain wheat and rye (WG) intake, and a 4-d estimated food record (FR) was used for relative comparison. Participants (n 61) completed both methods and provided spot urine samples. We found a statistically significant correlation between the DQ and FR for reported whole grain intake and isoflavonoids, as well as for intake of macronutrients, except protein. The correlation coefficient between the two methods was on average r 0.30, lowest for lignans (r -0.11) and highest for alcohol (r 0.65). Reported energy intake was lower in the DQ compared with FR (8523 v. 9249 kJ (2037 v. 2211 kcal), respectively; P = 0.014). Bland-Altman plots showed an acceptable agreement; most cases were within the limits (95 {\%} CI) of agreement on reported energy intake, as well as intake of macronutrients, except protein (which was underestimated in the DQ compared with the FR). The correlation of alkylresorcinol with WG intake was statistically significant in the DQ (r 0.31, P = 0.015), but not in the FR (r 0.18, P = 0.12) and the weighted. was 0-29 and 0.11, respectively. In conclusion, the results showed that the DQ have a reasonable validity for measuring WG intake and most nutrients, and, after some adjustments regarding protein intake assessment have been made, the DQ will be a promising tool.}
@@ -2512,6 +2657,50 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/S2048679016000288a{\_}pdf.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000387249200001}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b727f607fe60fd53eaee16e73b790ad}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yingdong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f57aebc86497dbabb1c6d95647639a1a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Pei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=97c5d5161470eff19e6587b93ed3aee9}{%
+           family={Sha},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1e15361233f89bd445bd13822dd99ded}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={Shengmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{fullhash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{bibnamehash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{authorbibnamehash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{authornamehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{authorfullhash}{aaa7d46be855d3578cad79f70ac02988}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mounting evidence suggests that whole grain (WG) intake plays an important role in chronic disease prevention. However, numerous human studies have failed to produce clear-cut conclusions on this topic. Here, a combination of non-targeted and targeted metabolomics approaches, together with kinetic studies, was used to investigate biomarkers of WG wheat intake and further explore the diet-disease associations. Via these integrated approaches, forty-one compounds were identified as the most discriminating endogenous metabolites after WG versus refined grain (RG) wheat bread consumption. The corresponding biological assessment of these endogenous changes suggests that, in contrast to RG consumption, WG wheat consumption may facilitate antioxidant defense systems and moderate the risk factors of cancer, cardiovascular diseases, and other chronic diseases. A panel of urinary markers consisting of seven alkylresorcinol metabolites and five benzoxazinoid derivatives as specific biomarkers, as well as five phenolic acid derivatives, was also established to cover multiple time points and longer time periods for correctly and objectively monitoring WG wheat intake. Through these findings, we have established a comprehensive biomarker pool to better assess WG wheat consumption, and to monitor the endogenous changes that are linked to health effects of WG wheat consumption.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{SCIENTIFIC REPORTS}
+      \field{month}{11}
+      \field{title}{{Urinary Biomarkers of Whole Grain Wheat Intake Identified by Non-targeted and Targeted Metabolomics Approaches}}
+      \field{volume}{6}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/srep36278
       \endverb
     \endentry
     \entry{ISI:000350230300006}{article}{}
@@ -2614,91 +2803,6 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/postprandial{\_}plasma{\_}betaine{\_}and{\_}other{\_}methyl{\_}donorrelated{\_}responses{\_}after{\_}consumption{\_}of{\_}minimally{\_}processed{\_}wheat{\_}bran{\_}or{\_}wheat{\_}aleurone{\_}or{\_}wheat{\_}aleurone{\_}incorporated{\_}into{\_}bread.pdf:pdf
-      \endverb
-    \endentry
-    \entry{ISI:000348343300015}{article}{}
-      \name{author}{11}{}{%
-        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
-           family={Garcia-Aloy},
-           familyi={G\bibinithyphendelim A\bibinitperiod},
-           given={Mar},
-           giveni={M\bibinitperiod}}}%
-        {{hash=366df0d305daa21d5d6001177b8c5586}{%
-           family={Llorach},
-           familyi={L\bibinitperiod},
-           given={Rafael},
-           giveni={R\bibinitperiod}}}%
-        {{hash=71d32749921f2e8d259afb3105315be2}{%
-           family={Urpi-Sarda},
-           familyi={U\bibinithyphendelim S\bibinitperiod},
-           given={Mireia},
-           giveni={M\bibinitperiod}}}%
-        {{hash=bee6f918e014da2ed31fa220b5b145f0}{%
-           family={Tulipani},
-           familyi={T\bibinitperiod},
-           given={Sara},
-           giveni={S\bibinitperiod}}}%
-        {{hash=341cc190ac0544ebb103765f674216ed}{%
-           family={Salas-Salvado},
-           familyi={S\bibinithyphendelim S\bibinitperiod},
-           given={Jordi},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c88c7624e2c1c8f26810d8e52aeaa6b4}{%
-           family={{Angel Martinez-Gonzalez}},
-           familyi={A\bibinitperiod},
-           given={Miguel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a68be040f32cc739124feb4af4f56ae4}{%
-           family={Corella},
-           familyi={C\bibinitperiod},
-           given={Dolores},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2e6c690fd79fbc9fd7f71ce894d3640c}{%
-           family={Fito},
-           familyi={F\bibinitperiod},
-           given={Montserrat},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e151227352bfd27d5e9f1d2a01aed1dd}{%
-           family={Estruch},
-           familyi={E\bibinitperiod},
-           given={Ramon},
-           giveni={R\bibinitperiod}}}%
-        {{hash=9a87c427359bc60347a225670b135c07}{%
-           family={Serra-Majem},
-           familyi={S\bibinithyphendelim M\bibinitperiod},
-           given={Lluis},
-           giveni={L\bibinitperiod}}}%
-        {{hash=4388a0c99df3cdd68076b5a30278e4c0}{%
-           family={Andres-Lacueva},
-           familyi={A\bibinithyphendelim L\bibinitperiod},
-           given={Cristina},
-           giveni={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{2e7b30557c0065eda62b87ac141f236f}
-      \strng{fullhash}{3989bc385fa6a888edd6a053fb5b3a03}
-      \strng{bibnamehash}{2e7b30557c0065eda62b87ac141f236f}
-      \strng{authorbibnamehash}{2e7b30557c0065eda62b87ac141f236f}
-      \strng{authornamehash}{2e7b30557c0065eda62b87ac141f236f}
-      \strng{authorfullhash}{3989bc385fa6a888edd6a053fb5b3a03}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Bread is one of the most widely consumed foods. Its impact on human health is currently of special interest for researchers. We aimed to identify biomarkers of bread consumption by applying a nutrimetabolomic approach to a free-living population. An untargeted HPLC-q-TOF-MS and multivariate analysis was applied to human urine from 155 subjects stratified by habitual bread consumption in three groups: non-consumers of bread (n = 56), white-bread consumers (n = 48) and whole-grain bread consumers (n = 51). The most differential metabolites (variable importance for projection a parts per thousand yen1.5) included compounds originating from cereal plant phytochemicals such as benzoxazinoids and alkylresorcinol metabolites, and compounds produced by gut microbiota (such as enterolactones, hydroxybenzoic and dihydroferulic acid metabolites). Pyrraline, riboflavin, 3-indolecarboxylic acid glucuronide, 2,8-dihydroxyquinoline glucuronide and N-alpha-acetylcitrulline were also tentatively identified. In order to combine multiple metabolites in a model to predict bread consumption, a stepwise logistic regression analysis was used. Receiver operating curves were constructed to evaluate the global performance of individual metabolites and their combination. The area under the curve values {\{}[{\}}AUC (95 {\%} CI)] of combined models ranged from 77.8 {\%} (69.1-86.4 {\%}) to 93.7 {\%} (89.4-98.1 {\%}), whereas the AUC for the metabolites included in the models had weak values when they were evaluated individually: from 58.1 {\%} (46.6-69.7 {\%}) to 78.4 {\%} (69.8-87.1 {\%}). Our study showed that a daily bread intake significantly impacted on the urinary metabolome, despite being examined under uncontrolled free-living conditions. We further concluded that a combination of several biomarkers of exposure is better than a single biomarker for the predictive ability of discriminative analysis.}
-      \field{issn}{1573-3882}
-      \field{journaltitle}{METABOLOMICS}
-      \field{month}{2}
-      \field{number}{1}
-      \field{title}{{Nutrimetabolomics fingerprinting to identify biomarkers of bread exposure in a free-living population from the PREDIMED study cohort}}
-      \field{volume}{11}
-      \field{year}{2015}
-      \field{pages}{155\bibrangedash 165}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1007/s11306-014-0682-6
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/Garcia-Aloy2015{\_}Article{\_}NutrimetabolomicsFingerprintin.pdf:pdf
       \endverb
     \endentry
     \entry{ISI:000303089700010}{article}{}

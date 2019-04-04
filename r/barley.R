@@ -1,5 +1,6 @@
-library(tidyverse)
+library(tidyr)
 library(R.matlab)
+library(tidyverse)
 
 urinepospath <- 'C:\\Users\\tuhu\\projects\\barley\\POSdata.mat'
 urinenegpath <- 'C:\\Users\\tuhu\\projects\\barley\\NEGdata.mat'
