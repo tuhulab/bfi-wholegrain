@@ -11,9 +11,9 @@ cdffiles <- list.files(folderpath, recursive = TRUE)
 cdffiles <- paste(folderpath,cdffiles,sep='/')
 
 #test muyao's dataset
- muyao_path <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/muyao_data'
- muyao_cdfs <- list.files(muyao_path, recursive = TRUE)
- muyao_cdfs <- paste(muyao_path,muyao_cdfs,sep='/')
+ # muyao_path <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/muyao_data'
+ # muyao_cdfs <- list.files(muyao_path, recursive = TRUE)
+ # muyao_cdfs <- paste(muyao_path,muyao_cdfs,sep='/')
 
 #test serum dataset
 serum_folder <- 'C:/Users/tuhu/projects/bfi-wholegrain/data/cdf-serum'
@@ -85,12 +85,12 @@ pd <- bind_rows(pd_samples,pd_non_samples)
   
 #Define parameters for centWave algorithm (parameters were adapted from G?zde's noma method)
 cwp <- CentWaveParam(ppm=30,
-                     peakwidth= c(2,20)
-                     #snthresh=4,
+                     peakwidth= c(2,20),
+                     snthresh=4,
                      #prefilter=c(2,15),
                      #mzdiff=-0.001,
                      #integrate = 1,
-                     #noise=15,mzCenterFun = 'mean'
+                     noise=1500,mzCenterFun = 'mean'
                      )
 
 cwp1 <- CentWaveParam(ppm=30,
@@ -99,7 +99,7 @@ cwp1 <- CentWaveParam(ppm=30,
                      prefilter=c(2,15),
                      mzdiff=-0.001,
                      integrate = 1,
-                     noise=15,mzCenterFun = 'mean')
+                     noise=15,mzCenterFun = "mean")
 
 register(SerialParam())
 xdata <- findChromPeaks(raw_data, param = cwp)
