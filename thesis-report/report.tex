@@ -1,15 +1,19 @@
-\documentclass[]{book}
+%KOMA-script
+\documentclass[]{scrreprt}
+
+%\documentclass[]{memoir}
+
 %\usepackage[english, ku, titlepage]{ku-frontpage}
 \usepackage[acronym]{glossaries}
 
 \makeglossaries
 %opening
 %\assignment{Master Thesis}
-\title{Investigation of Whole Grain Wheat and Barley Intake Biomarkers}
+\title{Nutrimetabolomics: \\ Biomarker Discover, \\Data Quality Control \\and Bioinformatics Tools}
 \author{Tu Hu}
-%\subtitle{by UPLC-MS Based Metabolomics}
+%\subtitle{Examplified by Whole Grain Barley, Wheat Intake and FATMAD}
 %\advisor{Supervisor: Lars Ove Dragsted \& Gözde Gürdenz}
-\date{Jun, 2019}
+\date{Sep, 2019}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
 %\addbibresource{barley1.bib}
@@ -25,7 +29,7 @@
 %\end{abstract}
 %% table of content
 \tableofcontents
-\newpage
+
 \newacronym{cvd}{CVD}{cardiovascular diseases}
 \newacronym{tc}{TC}{Total Cholesterol}
 \newacronym{ldlc}{LDL-C}{Low Density Lipoprotein Cholesterol}
@@ -51,31 +55,47 @@
 \newacronym{pqn}{PQN}{Probabilistic Quotient Normalization}
 \newacronym{vip}{VIP}{variable importance in projection}
 \printglossaries
-\newpage
+%\newpage
 
-\chapter{Introduction}
-\section{Preface}
+\addchap{Preface}
+\addchap{Introduction}
+%\section{Preface}
 
 %\input{barley.bib}
 
-\chapter{Introduction}
-\input{intro.tex}
+%\chapter{Introduction}
+%\input{intro.tex}
 
 %\newpage
-\section{Materials and methods}
-\input{materials-methods.tex}
+%\section{Materials and methods}
+%\input{materials-methods.tex}
 
-\section{Results}
-\input{result.tex}
-\section{Conclusions}
-\input{conclusion.tex}
+%\section{Results}
+%\input{result.tex}
+%\section{Conclusions}
+%\input{conclusion.tex}
 
-\newpage
-\section{Appendix}
-\input{appendix.tex}
+%\newpage
+%\section{Appendix}
+%\input{appendix.tex}
 
 \chapter{A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
 %\input{review-main.pdf}
 
-\chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat by LC-MS Based Untargeted Metabolomics}
+\chapter{Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}
+
+\chapter{Compound Identification and Validation}
+
+\chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}
+
+\chapter{Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}
+\input{qc.tex}
+
+\chapter{Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}
+
+\chapter{Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}
+
+
+
+\addchap{Closing Remarks}
 \end{document}
