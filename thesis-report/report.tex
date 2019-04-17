@@ -1,14 +1,14 @@
-\documentclass[]{article}
-\usepackage[english, ku, titlepage]{ku-frontpage}
+\documentclass[]{book}
+%\usepackage[english, ku, titlepage]{ku-frontpage}
 \usepackage[acronym]{glossaries}
 
 \makeglossaries
 %opening
-\assignment{Master Thesis}
+%\assignment{Master Thesis}
 \title{Investigation of Whole Grain Wheat and Barley Intake Biomarkers}
 \author{Tu Hu}
 %\subtitle{by UPLC-MS Based Metabolomics}
-\advisor{Supervisor: Lars Ove Dragsted \& Gözde Gürdenz}
+%\advisor{Supervisor: Lars Ove Dragsted \& Gözde Gürdenz}
 \date{Jun, 2019}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
@@ -20,9 +20,9 @@
 \begin{document}
 \maketitle
 %% abstract
-\begin{abstract}
-	This calls for an abstract.
-\end{abstract}
+%\begin{abstract}
+%	This calls for an abstract.
+%\end{abstract}
 %% table of content
 \tableofcontents
 \newpage
@@ -52,14 +52,16 @@
 \newacronym{vip}{VIP}{variable importance in projection}
 \printglossaries
 \newpage
+
+\chapter{Introduction}
 \section{Preface}
 
 %\input{barley.bib}
 
-\section{Introduction}
+\chapter{Introduction}
 \input{intro.tex}
 
-\newpage
+%\newpage
 \section{Materials and methods}
 \input{materials-methods.tex}
 
@@ -72,4 +74,8 @@
 \section{Appendix}
 \input{appendix.tex}
 
+\chapter{A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
+%\input{review-main.pdf}
+
+\chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat by LC-MS Based Untargeted Metabolomics}
 \end{document}
