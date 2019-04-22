@@ -4,11 +4,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Introduction}{5}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Biomarker Discovery}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Definition of Biomarker}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Biomarker Classification}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Biomarker Systematic review}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Biomarker Validation}{5}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Compound Identification and Validation}{8}% 
+\contentsline {chapter}{\numberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{8}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{9}% 
 \defcounter {refsection}{0}\relax 
@@ -20,4 +30,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Closing Remarks}{15}% 
+\contentsline {chapter}{\numberline {8}Computing Metabolomics Data on a 219 kr Device}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Closing Remarks}{16}% 

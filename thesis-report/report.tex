@@ -9,14 +9,14 @@
 \makeglossaries
 %opening
 %\assignment{Master Thesis}
-\title{Nutrimetabolomics: \\ Biomarker Discover, \\Data Quality Control \\and Bioinformatics Tools}
-\author{Tu Hu}
+\title{Nutrimetabolomics: \\ Biomarker Discover, \\Data Quality Control, \\Bioinformatics Tools\\ and Computing Hardware}
+\author{Tu Hu\footnote{Supervised by Lars Ove Dragsted and Gözde Gürdeniz}}
 %\subtitle{Examplified by Whole Grain Barley, Wheat Intake and FATMAD}
 %\advisor{Supervisor: Lars Ove Dragsted \& Gözde Gürdenz}
 \date{Sep, 2019}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
-%\addbibresource{barley1.bib}
+\usepackage{glossaries}
 \addbibresource{barley.bib}
 \usepackage{tabularx}
 \usepackage{graphicx}
@@ -54,12 +54,15 @@
 \newacronym{plsda}{PLSDA}{Partial Least Squares Discriminant Analysis}
 \newacronym{pqn}{PQN}{Probabilistic Quotient Normalization}
 \newacronym{vip}{VIP}{variable importance in projection}
+
+
+
 \printglossaries
 %\newpage
 
 \addchap{Preface}
 \addchap{Introduction}
-%\section{Preface}
+\input{thesis_intro.tex}
 
 %\input{barley.bib}
 
@@ -84,7 +87,7 @@
 
 \chapter{Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}
 
-\chapter{Compound Identification and Validation}
+\chapter{Barley Intake Biomarker: Compound Identification and Structure Elucidation}
 
 \chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}
 
@@ -95,7 +98,7 @@
 
 \chapter{Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}
 
-
+\chapter{Computing Metabolomics Data on a 219 kr Device}
 
 \addchap{Closing Remarks}
 \end{document}
