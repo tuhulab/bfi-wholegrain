@@ -28,8 +28,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{13}% 
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}abstract}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}m2r}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.4}plot\_excretion}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.5}plot\_intervention}{13}% 
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Computing Metabolomics Data on a 219 kr Device}{15}% 
+\contentsline {chapter}{\numberline {8}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Abstract}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Introduction}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline Potential Use environment}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\nonumberline hello}{15}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\nonumberline Closing Remarks}{16}% 
