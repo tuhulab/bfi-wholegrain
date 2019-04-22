@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.9)  22 APR 2019 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.9)  22 APR 2019 14:27
 entering extended mode
 **./report.tex
 (report.tex
@@ -710,6 +710,232 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen131
 \Gin@req@width=\dimen132
 )
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.s
+ty"
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.st
+y"
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-co
+de.tex"
+Package: expl3 2019-04-06 L3 programming layer (code)
+\c_max_int=\count321
+\l_tmpa_int=\count322
+\l_tmpb_int=\count323
+\g_tmpa_int=\count324
+\g_tmpb_int=\count325
+\g__kernel_prg_map_int=\count326
+\c__ior_term_ior=\count327
+\c_log_iow=\count328
+\l_iow_line_count_int=\count329
+\l__iow_line_target_int=\count330
+\l__iow_one_indent_int=\count331
+\l__iow_indent_int=\count332
+\c_zero_dim=\dimen133
+\c_max_dim=\dimen134
+\l_tmpa_dim=\dimen135
+\l_tmpb_dim=\dimen136
+\g_tmpa_dim=\dimen137
+\g_tmpb_dim=\dimen138
+\c_zero_skip=\skip98
+\c_max_skip=\skip99
+\l_tmpa_skip=\skip100
+\l_tmpb_skip=\skip101
+\g_tmpa_skip=\skip102
+\g_tmpb_skip=\skip103
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count333
+\l__intarray_loop_int=\count334
+\c__intarray_sp_dim=\dimen139
+\g__intarray_font_int=\count335
+\c__fp_leading_shift_int=\count336
+\c__fp_middle_shift_int=\count337
+\c__fp_trailing_shift_int=\count338
+\c__fp_big_leading_shift_int=\count339
+\c__fp_big_middle_shift_int=\count340
+\c__fp_big_trailing_shift_int=\count341
+\c__fp_Bigg_leading_shift_int=\count342
+\c__fp_Bigg_middle_shift_int=\count343
+\c__fp_Bigg_trailing_shift_int=\count344
+\c__kernel_randint_max_int=\count345
+\g__fp_array_int=\count346
+\l__fp_array_loop_int=\count347
+\l__sort_length_int=\count348
+\l__sort_min_int=\count349
+\l__sort_top_int=\count350
+\l__sort_max_int=\count351
+\l__sort_true_max_int=\count352
+\l__sort_block_int=\count353
+\l__sort_begin_int=\count354
+\l__sort_end_int=\count355
+\l__sort_A_int=\count356
+\l__sort_B_int=\count357
+\l__sort_C_int=\count358
+\l__tl_analysis_normal_int=\count359
+\l__tl_analysis_index_int=\count360
+\l__tl_analysis_nesting_int=\count361
+\l__tl_analysis_type_int=\count362
+\l__regex_internal_a_int=\count363
+\l__regex_internal_b_int=\count364
+\l__regex_internal_c_int=\count365
+\l__regex_balance_int=\count366
+\l__regex_group_level_int=\count367
+\l__regex_mode_int=\count368
+\c__regex_cs_in_class_mode_int=\count369
+\c__regex_cs_mode_int=\count370
+\l__regex_catcodes_int=\count371
+\l__regex_default_catcodes_int=\count372
+\c__regex_catcode_D_int=\count373
+\c__regex_catcode_S_int=\count374
+\c__regex_catcode_L_int=\count375
+\c__regex_catcode_O_int=\count376
+\c__regex_catcode_A_int=\count377
+\c__regex_all_catcodes_int=\count378
+\l__regex_show_lines_int=\count379
+\l__regex_min_state_int=\count380
+\l__regex_max_state_int=\count381
+\l__regex_left_state_int=\count382
+\l__regex_right_state_int=\count383
+\l__regex_capturing_group_int=\count384
+\l__regex_min_pos_int=\count385
+\l__regex_max_pos_int=\count386
+\l__regex_curr_pos_int=\count387
+\l__regex_start_pos_int=\count388
+\l__regex_success_pos_int=\count389
+\l__regex_curr_char_int=\count390
+\l__regex_curr_catcode_int=\count391
+\l__regex_last_char_int=\count392
+\l__regex_case_changed_char_int=\count393
+\l__regex_curr_state_int=\count394
+\l__regex_step_int=\count395
+\l__regex_min_active_int=\count396
+\l__regex_max_active_int=\count397
+\l__regex_replacement_csnames_int=\count398
+\l__regex_match_count_int=\count399
+\l__regex_min_submatch_int=\count400
+\l__regex_submatch_int=\count401
+\l__regex_zeroth_submatch_int=\count402
+\g__regex_trace_regex_int=\count403
+\c_empty_box=\box38
+\l_tmpa_box=\box39
+\l_tmpb_box=\box40
+\g_tmpa_box=\box41
+\g_tmpb_box=\box42
+\l__box_top_dim=\dimen140
+\l__box_bottom_dim=\dimen141
+\l__box_left_dim=\dimen142
+\l__box_right_dim=\dimen143
+\l__box_top_new_dim=\dimen144
+\l__box_bottom_new_dim=\dimen145
+\l__box_left_new_dim=\dimen146
+\l__box_right_new_dim=\dimen147
+\l__box_internal_box=\box43
+\l__coffin_internal_box=\box44
+\l__coffin_internal_dim=\dimen148
+\l__coffin_offset_x_dim=\dimen149
+\l__coffin_offset_y_dim=\dimen150
+\l__coffin_x_dim=\dimen151
+\l__coffin_y_dim=\dimen152
+\l__coffin_x_prime_dim=\dimen153
+\l__coffin_y_prime_dim=\dimen154
+\c_empty_coffin=\box45
+\l__coffin_aligned_coffin=\box46
+\l__coffin_aligned_internal_coffin=\box47
+\l_tmpa_coffin=\box48
+\l_tmpb_coffin=\box49
+\g_tmpa_coffin=\box50
+\g_tmpb_coffin=\box51
+\l__coffin_bounding_shift_dim=\dimen155
+\l__coffin_left_corner_dim=\dimen156
+\l__coffin_right_corner_dim=\dimen157
+\l__coffin_bottom_corner_dim=\dimen158
+\l__coffin_top_corner_dim=\dimen159
+\l__coffin_scaled_total_height_dim=\dimen160
+\l__coffin_scaled_width_dim=\dimen161
+\c__coffin_empty_coffin=\box52
+\l__coffin_display_coffin=\box53
+\l__coffin_display_coord_coffin=\box54
+\l__coffin_display_pole_coffin=\box55
+\l__coffin_display_offset_dim=\dimen162
+\l__coffin_display_x_dim=\dimen163
+\l__coffin_display_y_dim=\dimen164
+\g__file_internal_ior=\read2
+\l__seq_internal_a_int=\count404
+\l__seq_internal_b_int=\count405
+\c__deprecation_minus_one=\count406
+)
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmod
+e.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count407
+))
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse
+\xparse.sty"
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count408
+\g__xparse_grabber_int=\count409
+\l__xparse_m_args_int=\count410
+\l__xparse_v_nesting_int=\count411
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys
+2e\l3keys2e.sty"
+Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box56
+\l__siunitx_tmp_dim=\dimen165
+\l__siunitx_tmp_int=\count412
+\l__siunitx_number_mantissa_length_int=\count413
+\l__siunitx_number_uncert_length_int=\count414
+\l__siunitx_round_int=\count415
+\l__siunitx_process_decimal_int=\count416
+\l__siunitx_process_uncertainty_int=\count417
+\l__siunitx_process_fixed_int=\count418
+\l__siunitx_process_integer_min_int=\count419
+\l__siunitx_process_precision_int=\count420
+\l__siunitx_group_min_int=\count421
+\l__siunitx_angle_marker_box=\box57
+\l__siunitx_angle_unit_box=\box58
+\l__siunitx_angle_marker_dim=\dimen166
+\l__siunitx_angle_unit_dim=\dimen167
+\l__siunitx_unit_int=\count422
+\l__siunitx_unit_denominator_int=\count423
+\l__siunitx_unit_numerator_int=\count424
+\l__siunitx_unit_prefix_int=\count425
+\l__siunitx_unit_prefix_base_int=\count426
+\l__siunitx_unit_prefix_gram_int=\count427
+\l__siunitx_number_product_int=\count428
+\c__siunitx_one_fill_skip=\skip104
+\l__siunitx_table_unit_align_skip=\skip105
+\l__siunitx_table_exponent_dim=\dimen168
+\l__siunitx_table_integer_dim=\dimen169
+\l__siunitx_table_mantissa_dim=\dimen170
+\l__siunitx_table_marker_dim=\dimen171
+\l__siunitx_table_result_dim=\dimen172
+\l__siunitx_table_uncert_dim=\dimen173
+\l__siunitx_table_fill_pre_dim=\dimen174
+\l__siunitx_table_fill_post_dim=\dimen175
+\l__siunitx_table_fill_mid_dim=\dimen176
+\l__siunitx_table_pre_box=\box59
+\l__siunitx_table_post_box=\box60
+\l__siunitx_table_mantissa_box=\box61
+\l__siunitx_table_result_box=\box62
+\l__siunitx_table_number_align_skip=\skip106
+\l__siunitx_table_text_align_skip=\skip107
+
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transl
+ator.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -717,23 +943,23 @@ Package biblatex Info: ... file 'english.lbx' found.
 ish.lbx"
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
-\@quotelevel=\count321
-\@quotereset=\count322
+\@quotelevel=\count429
+\@quotereset=\count430
  (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
  (report.glsdefs)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -741,37 +967,24 @@ Package biblatex Info: Automatic encoding selection.
 \openout6 = `report.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'report.bbl' is wrong format version - expected 
-3.0.
-
 Package biblatex Info: ... file 'report.bbl' found.
-(report.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ?
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+ (report.bbl)
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
 
 ("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
 pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen133
-\scratchbox=\box38
-\nofMPsegments=\count324
-\nofMParguments=\count325
+\scratchcounter=\count431
+\scratchdimen=\dimen177
+\scratchbox=\box63
+\nofMPsegments=\count432
+\nofMParguments=\count433
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen134
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
+\MPscratchCnt=\count434
+\MPscratchDim=\dimen178
+\MPnumerator=\count435
+\makeMPintoPDFobject=\count436
 \everyMPtoPDFconversion=\toks34
 )
 ("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf
@@ -793,15 +1006,110 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
 
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transl
+ator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-a
+bbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+LaTeX Info: Redefining \celsius on input line 26.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 26.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 26.
+Package gensymb Info: Using \Omega for \ohm on input line 26.
+
+Package gensymb Warning: Not defining \micro.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 33.
 ("C:\Users\czw814\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 
 [1
 
@@ -811,82 +1119,101 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 
 {C:/Users/czw814/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (report.toc
-Overfull \hbox (3.57529pt too wide) in paragraph at lines 41--41
+Overfull \hbox (3.57529pt too wide) in paragraph at lines 28--28
  [][] []\OT1/cmss/bx/n/10.95 Implementing A Stream-lined Metabolomics Data Anal
 -y-sis Work-flow (EZMS) 
  []
 
-)
+[2
+
+])
 \tf@toc=\write7
 \openout7 = `report.toc'.
 
 \@gls@deffile=\write8
 \openout8 = `report.glsdefs'.
 
- (report.gls) (report.acr [2
-
-]) [3
+ (report.gls) (report.acr [3]) [4
 
 ]
 chapter without number
-[4
+[5
 
 ]
 chapter without number
-(thesis_intro.tex) [5
+(thesis_intro.tex) [6
 
 ]
 chapter 1.
-[6
-
-]
-chapter 2.
 [7
 
 ]
-chapter 3.
+chapter 2.
 [8
 
 ]
+chapter 3.
+(thesis_barley_id.tex
+
+LaTeX Warning: Citation 'sterolmsms' on page 9 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'doi:10.1021/jf501509m' on page 9 undefined on input li
+ne 19.
+
+
+LaTeX Warning: Citation 'sterolmsms' on page 9 undefined on input line 25.
+
+) [9
+
+]
 chapter 4.
-[9
+[10
 
 ]
 chapter 5.
-(qc.tex [10
+(qc.tex [11
 
-] [11
+] [12
 
 
-]) [12]
+]) [13]
 chapter 6.
-(thesis_r_function.tex) [13
+(thesis_r_function.tex) [14
 
 ]
 chapter 7.
-[14
+[15
 
 ]
 chapter 8.
-(thesis_hardware.tex) [15
+(thesis_hardware.tex) [16
 
 ]
 chapter without number
-[16
+[17
 
 ] (report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                report
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15281 strings out of 492945
- 270517 string characters out of 3125809
- 852862 words of memory out of 3000000
- 18955 multiletter control sequences out of 15000+200000
- 10139 words of font info for 37 fonts, out of 3000000 for 9000
+ 27385 strings out of 492945
+ 529027 string characters out of 3125809
+ 1050262 words of memory out of 3000000
+ 31007 multiletter control sequences out of 15000+200000
+ 542120 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,12n,66p,9087b,792s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,71p,9087b,1114s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/czw814/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx10.pfb><C:/Users/czw814/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr10.pfb><C:/Users/czw814/AppData/Local/Programs/MiKTeX 2.9
@@ -894,10 +1221,11 @@ public/amsfonts/cm/cmr10.pfb><C:/Users/czw814/AppData/Local/Programs/MiKTeX 2.9
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/czw814/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
 rs/czw814/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb>
-Output written on report.pdf (16 pages, 88973 bytes).
+7.pfb><C:/Users/czw814/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb>
+Output written on report.pdf (17 pages, 102810 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

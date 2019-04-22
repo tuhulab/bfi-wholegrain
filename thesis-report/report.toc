@@ -1,53 +1,34 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Preface}{4}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Introduction}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {0.1}Biomarker Discovery}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline Definition of Biomarker}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline Biomarker Classification}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline Biomarker Systematic review}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline Biomarker Validation}{5}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{6}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{7}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{8}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{9}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{10}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Introduction}{12}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}abstract}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}m2r}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}plot\_excretion}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}plot\_intervention}{13}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{14}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Abstract}{15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Introduction}{15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline Potential Use environment}{15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\nonumberline hello}{15}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Closing Remarks}{16}% 
+\contentsline {chapter}{\nonumberline Preface}{5}% 
+\contentsline {chapter}{\nonumberline Introduction}{6}% 
+\contentsline {section}{\numberline {0.1}Biomarker Discovery}{6}% 
+\contentsline {subsubsection}{\nonumberline Definition of Biomarker}{6}% 
+\contentsline {subsubsection}{\nonumberline Biomarker Classification}{6}% 
+\contentsline {subsubsection}{\nonumberline Biomarker Systematic review}{6}% 
+\contentsline {subsubsection}{\nonumberline Biomarker Validation}{6}% 
+\contentsline {chapter}{\numberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{7}% 
+\contentsline {chapter}{\numberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{8}% 
+\contentsline {chapter}{\numberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{9}% 
+\contentsline {section}{\numberline {3.1}Abstract}{9}% 
+\contentsline {section}{\numberline {3.2}Introduction}{9}% 
+\contentsline {subsection}{\numberline {3.2.1}Phytosterol and Fragmentation Behaviour}{9}% 
+\contentsline {section}{\numberline {3.3}Materials and methods}{9}% 
+\contentsline {subsection}{\numberline {3.3.1}Chemicals}{9}% 
+\contentsline {subsection}{\numberline {3.3.2}Apparatus}{9}% 
+\contentsline {subsection}{\numberline {3.3.3}UPLC-MS/MS analysis of Sitostanol}{9}% 
+\contentsline {chapter}{\numberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{10}% 
+\contentsline {chapter}{\numberline {5}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{11}% 
+\contentsline {section}{\numberline {5.1}Introduction}{13}% 
+\contentsline {chapter}{\numberline {6}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{14}% 
+\contentsline {section}{\numberline {6.1}abstract}{14}% 
+\contentsline {section}{\numberline {6.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{14}% 
+\contentsline {section}{\numberline {6.3}m2r}{14}% 
+\contentsline {section}{\numberline {6.4}plot\_excretion}{14}% 
+\contentsline {section}{\numberline {6.5}plot\_intervention}{14}% 
+\contentsline {chapter}{\numberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{15}% 
+\contentsline {chapter}{\numberline {8}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{16}% 
+\contentsline {section}{\numberline {8.1}Abstract}{16}% 
+\contentsline {section}{\numberline {8.2}Introduction}{16}% 
+\contentsline {subsubsection}{\nonumberline Potential Use environment}{16}% 
+\contentsline {subsubsection}{\nonumberline hello}{16}% 
+\contentsline {chapter}{\nonumberline Closing Remarks}{17}% 
