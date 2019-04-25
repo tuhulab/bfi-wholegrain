@@ -4,6 +4,8 @@ library(tidyverse)
 library(xcms)
 library(readxl)
 
+register(SerialParam()) 
+
 urine_sample_list_path <- file.path("C:","Users","czw814","projects","fatmed","data","urine_sample_list.xlsx")
 
 read_MassLynx <- function(MassLynxSampleListPath=...){
@@ -27,4 +29,32 @@ read_MassLynx <- function(MassLynxSampleListPath=...){
 urine_sample_list <- read_MassLynx(urine_sample_list_path)
 urine_pos_pd <- urine_sample_list %>% filter(polarity=="pos") %>% mutate(path = file.path("C:","Users","czw814","projects","fatmed","data","FATMED_urine",paste0(.data$filename,"01.CDF")))
 
-raw_data <- readMSData(files = urine_pos_pd$path, mode = "onDisk",msLevel. = 1, centroided. = TRUE)
+raw_data <- readMSData(files = urine_pos_pd$path, 
+                       mode = "onDisk",
+                       msLevel. = 1, 
+                       centroided. = TRUE)
+
+mzs <- mz(raw_data)
+mzs_by_file <- split(mzs, f=fromFile(raw_data))
+
+#plot BPC 
+bpis <- chromatogram(raw_data, aggregationFun="max")
+
+#extract 1st chromatogram data
+bpi_1 <- bpis[1,1]
+head(rtime(bpi_1))
+head(intensity(bpi_1))
+length(intensity(bpi_1))
+
+cwp <- CentWaveParam(ppm=30,
+                      peakwidth= c(2,20),
+                      snthresh=4,
+                      prefilter=c(2,15),
+                      mzdiff=-0.001,
+                      integrate = 1,
+                      noise=15,mzCenterFun = "mean")
+xdata <- findChromPeaks(raw_data, param = cwp)
+
+tc <- split(tic(raw_data), f = fromFile(raw_data))
+boxplot(tc)
+
