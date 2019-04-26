@@ -1,4 +1,7 @@
 # bfi-wholegrain
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/82648908720d40129a4330fcaee1d795)](https://app.codacy.com/app/tu/bfi-wholegrain?utm_source=github.com&utm_medium=referral&utm_content=tuhulab/bfi-wholegrain&utm_campaign=Badge_Grade_Settings)
+
 Repository for Tu's project and thesis of master study - 'Investigation of Biomarkers for Whole Grain Cereal Intake'.
 
 Most of the MatLab codes and algorisms were produced by the supervisor Gözde Gürdeniz during her PhD and postdoc work in University of Copenhagen. Tu modified them and adapt to his master thesis.
