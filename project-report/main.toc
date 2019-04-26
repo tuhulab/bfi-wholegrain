@@ -1,45 +1,45 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {section}{\numberline {1}Overview}{6}
-\contentsline {section}{\numberline {2}Background}{6}
-\contentsline {subsection}{\numberline {2.1}Research Questions and Study Design}{6}
-\contentsline {subsection}{\numberline {2.2}\acrshort {cvd} Risk Factors and Other Health Status Indicators}{7}
-\contentsline {subsection}{\numberline {2.3}Conclusions}{7}
-\contentsline {section}{\numberline {3}Introduction}{7}
-\contentsline {subsection}{\numberline {3.1}Barley}{7}
-\contentsline {subsubsection}{\numberline {3.1.1}Barley in the farm}{7}
-\contentsline {subsubsection}{\numberline {3.1.2}Barley on the table}{7}
-\contentsline {subsubsection}{\numberline {3.1.3}Health Benefits of Whole Grain Barley}{8}
-\contentsline {subsubsection}{\numberline {3.1.4}Renewd Interest of Barley in Food Industry}{8}
-\contentsline {subsection}{\numberline {3.2}Whole Grain Cereal Intake Biomarkers}{9}
-\contentsline {subsubsection}{\numberline {3.2.1}\acrfull {bfis}}{9}
-\contentsline {subsubsection}{\numberline {3.2.2}Alkylresorcinols}{9}
-\contentsline {subsection}{\numberline {3.3}Novel Dietary Biomarkers Identification by Untargetted \\ Metabolomics}{10}
-\contentsline {subsubsection}{\numberline {3.3.1}Metabolome Profiling Techniques}{10}
-\contentsline {subsubsection}{\numberline {3.3.2}Metabolomics data analysis}{11}
-\contentsline {subsubsection}{\numberline {3.3.3}Compound Identification and Validation}{11}
-\contentsline {section}{\numberline {4}Materials and Methods}{13}
-\contentsline {subsection}{\numberline {4.1}Chemicals}{13}
-\contentsline {subsection}{\numberline {4.2}Apparatus}{13}
-\contentsline {subsection}{\numberline {4.3}Whole Grain Barley}{13}
-\contentsline {subsection}{\numberline {4.4}\acrshort {lc/ms} Analysis of Urine samples and Whole Grain Barley}{13}
-\contentsline {subsection}{\numberline {4.5}Data Preprocessing}{14}
-\contentsline {subsection}{\numberline {4.6}Data Analysis and Variable Selections}{14}
-\contentsline {subsection}{\numberline {4.7}\acrfull {ms/ms} Experiment and Identification}{15}
-\contentsline {section}{\numberline {5}Results}{15}
-\contentsline {subsection}{\numberline {5.1}\acrshort {lc/ms} Analysis of Whole Grain Barley}{15}
-\contentsline {subsection}{\numberline {5.2}Data-preprocess}{15}
-\contentsline {subsection}{\numberline {5.3}\acrshort {pca} Modeling}{16}
-\contentsline {subsection}{\numberline {5.4}\acrshort {plsda} Modeling and Variable Selections}{16}
-\contentsline {subsection}{\numberline {5.5}\acrfull {ms/ms} and Identification of Potential Biomarkers}{18}
-\contentsline {subsubsection}{\numberline {5.5.1}m/z 231.0870}{18}
-\contentsline {subsubsection}{\numberline {5.5.2}m/z 775.3401}{18}
-\contentsline {subsubsection}{\numberline {5.5.3}m/z 216.9995 - phenol or polyphenol metabolite}{18}
-\contentsline {subsubsection}{\numberline {5.5.4}m/z 517.3030 and 501.3080 - glucuronide conjugates}{20}
-\contentsline {subsubsection}{\numberline {5.5.5}m/z 291.2683 - sterol derivative}{21}
-\contentsline {section}{\numberline {6}Conclusions and Discussions}{24}
-\contentsline {section}{\numberline {7}Perspectives}{25}
-\contentsline {section}{\numberline {8}Acknowledgements}{26}
-\contentsline {section}{\numberline {9}Appendix}{27}
-\contentsline {subsection}{\numberline {9.1}Chromatogram of Barley Flour}{27}
-\contentsline {subsection}{\numberline {9.2}\acrfull {ms/ms} spectra of phytosterols}{28}
-\contentsline {section}{References}{29}
+\contentsline {section}{\numberline {1}Overview}{6}% 
+\contentsline {section}{\numberline {2}Background}{6}% 
+\contentsline {subsection}{\numberline {2.1}Research Questions and Study Design}{6}% 
+\contentsline {subsection}{\numberline {2.2}\acrshort {cvd} Risk Factors and Other Health Status Indicators}{7}% 
+\contentsline {subsection}{\numberline {2.3}Conclusions}{7}% 
+\contentsline {section}{\numberline {3}Introduction}{7}% 
+\contentsline {subsection}{\numberline {3.1}Barley}{7}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Barley in the farm}{7}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Barley on the table}{7}% 
+\contentsline {subsubsection}{\numberline {3.1.3}Health Benefits of Whole Grain Barley}{8}% 
+\contentsline {subsubsection}{\numberline {3.1.4}Renewd Interest of Barley in Food Industry}{8}% 
+\contentsline {subsection}{\numberline {3.2}Whole Grain Cereal Intake Biomarkers}{9}% 
+\contentsline {subsubsection}{\numberline {3.2.1}\acrfull {bfis}}{9}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Alkylresorcinols}{9}% 
+\contentsline {subsection}{\numberline {3.3}Novel Dietary Biomarkers Identification by Untargetted \\ Metabolomics}{10}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Metabolome Profiling Techniques}{10}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Metabolomics data analysis}{11}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Compound Identification and Validation}{11}% 
+\contentsline {section}{\numberline {4}Materials and Methods}{13}% 
+\contentsline {subsection}{\numberline {4.1}Chemicals}{13}% 
+\contentsline {subsection}{\numberline {4.2}Apparatus}{13}% 
+\contentsline {subsection}{\numberline {4.3}Whole Grain Barley}{13}% 
+\contentsline {subsection}{\numberline {4.4}\acrshort {lc/ms} Analysis of Urine samples and Whole Grain Barley}{13}% 
+\contentsline {subsection}{\numberline {4.5}Data Preprocessing}{14}% 
+\contentsline {subsection}{\numberline {4.6}Data Analysis and Variable Selections}{14}% 
+\contentsline {subsection}{\numberline {4.7}\acrfull {ms/ms} Experiment and Identification}{15}% 
+\contentsline {section}{\numberline {5}Results}{15}% 
+\contentsline {subsection}{\numberline {5.1}\acrshort {lc/ms} Analysis of Whole Grain Barley}{15}% 
+\contentsline {subsection}{\numberline {5.2}Data-preprocess}{15}% 
+\contentsline {subsection}{\numberline {5.3}\acrshort {pca} Modeling}{16}% 
+\contentsline {subsection}{\numberline {5.4}\acrshort {plsda} Modeling and Variable Selections}{16}% 
+\contentsline {subsection}{\numberline {5.5}\acrfull {ms/ms} and Identification of Potential Biomarkers}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.1}m/z 231.0870}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.2}m/z 775.3401}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.3}m/z 216.9995 - phenol or polyphenol metabolite}{18}% 
+\contentsline {subsubsection}{\numberline {5.5.4}m/z 517.3030 and 501.3080 - glucuronide conjugates}{20}% 
+\contentsline {subsubsection}{\numberline {5.5.5}m/z 291.2683 - sterol derivative}{21}% 
+\contentsline {section}{\numberline {6}Conclusions and Discussions}{24}% 
+\contentsline {section}{\numberline {7}Perspectives}{25}% 
+\contentsline {section}{\numberline {8}Acknowledgements}{26}% 
+\contentsline {section}{\numberline {9}Appendix}{27}% 
+\contentsline {subsection}{\numberline {9.1}Chromatogram of Barley Flour}{27}% 
+\contentsline {subsection}{\numberline {9.2}\acrfull {ms/ms} spectra of phytosterols}{28}% 
+\contentsline {section}{References}{29}% 

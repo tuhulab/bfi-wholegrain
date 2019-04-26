@@ -1,8 +1,8 @@
 %KOMA-script
-\documentclass[]{scrreprt}
+\documentclass[]{report}
 
 %\documentclass[]{memoir}
-
+\usepackage{makecell}
 %\usepackage[english, ku, titlepage]{ku-frontpage}
 \usepackage[acronym]{glossaries}
 
@@ -22,7 +22,21 @@
 \usepackage{graphicx}
 \usepackage{siunitx}
 \usepackage{gensymb}
+\usepackage[backend=biber,style=nature,%sorting=ynt
+]{biblatex}
+\addbibresource{barley.bib}
 
+
+\usepackage{makecell}
+\usepackage{siunitx}
+\usepackage[acronym]{glossaries}
+\usepackage{footnote}
+\makesavenoteenv{tabular}
+\makesavenoteenv{table}
+\usepackage{lscape}
+\input{abbreviation.tex}
+
+\usepackage{pdfpages}
 \begin{document}
 \maketitle
 %% abstract
@@ -62,9 +76,9 @@
 \printglossaries
 %\newpage
 
-\addchap{Preface}
-\addchap{Introduction}
-\input{thesis_intro.tex}
+%\addchap{Preface}
+%\addchap{Introduction}
+%\input{thesis_intro.tex}
 
 %\input{barley.bib}
 
@@ -85,9 +99,29 @@
 %\input{appendix.tex}
 
 \chapter{A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
-%\input{review-main.pdf}
+	%\includepdf[pages=-]{review-main.pdf}
+	%\section{Abstract}
+	%\section{Introduction}
+	%\input{review-intro}
+	
+	%\section{Materials and Methods}
+	%\input{review-mm}
+	
+	%\section{Results}
+	%\input{review-result}
+	
+	
+	%\section{Conclusions}
+	%\input{review-conclusion}
+	
+	%\section{Discussions}
+	%\input{review-dis}
+	%\newpage
+	%\section{Appendix}
+	%\input{review-appendix}
 
 \chapter{Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}
+	
 
 \chapter{Barley Intake Biomarker: Compound Identification and Structure Elucidation}
 \input{thesis_barley_id.tex}
@@ -105,5 +139,5 @@
 \chapter{Using a Budgeted Device to Compute High-throughout Metabolomics Data}
 \input{thesis_hardware.tex}
 
-\addchap{Closing Remarks}
+%\addchap{Closing Remarks}
 \end{document}

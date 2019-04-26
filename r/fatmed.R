@@ -4,12 +4,27 @@ library(tidyverse)
 library(xcms)
 library(readxl)
 
-register(SerialParam()) 
+#configure parallel computing
+# registered()
+# register(SerialParam()) 
+###########configure parallel computing###########
 
-urine_sample_list_path <- file.path("C:","Users","czw814","projects","fatmed","data","urine_sample_list.xlsx")
+register(SerialParam())
+##################################################
+
+########access I drive##############
+urine_sample_list_path<- "I:/SCIENCE-NEXS-NyMetabolomics/Personal folders/Tu/fatmed_cdf/urine_sample_list.xlsx"
+
+#urine_sample_list_path <- file.path("C:","Users","czw814","projects","fatmed","data","urine_sample_list.xlsx")
 
 read_MassLynx <- function(MassLynxSampleListPath=...){
-  samplelist <- read_excel(MassLynxSampleListPath,col_names = c('filename','subject','MS_file','MS_Tune_file','Inlet_file','Bottle','Inject_volume'))
+  samplelist <- read_excel(MassLynxSampleListPath,col_names = c('filename',
+                                                                'subject',
+                                                                'MS_file',
+                                                                'MS_Tune_file',
+                                                                'Inlet_file',
+                                                                'Bottle',
+                                                                'Inject_volume'))
   filename <- samplelist[,1]
   subject <- samplelist[,2]
   polarity <- samplelist[,3]
@@ -27,14 +42,26 @@ read_MassLynx <- function(MassLynxSampleListPath=...){
 }
 
 urine_sample_list <- read_MassLynx(urine_sample_list_path)
-urine_pos_pd <- urine_sample_list %>% filter(polarity=="pos") %>% mutate(path = file.path("C:","Users","czw814","projects","fatmed","data","FATMED_urine",paste0(.data$filename,"01.CDF")))
 
-raw_data <- readMSData(files = urine_pos_pd$path, 
-                       mode = "onDisk",
-                       msLevel. = 1, 
-                       centroided. = TRUE)
 
-mzs <- mz(raw_data)
+##Calculate running time of reading from portal harddrive (Toshiba)
+urine_pos_pd_toshiba <- urine_sample_list %>% filter(polarity=="pos") %>% mutate(path = file.path("D:","FATMED_urine",paste0(.data$filename,"01.CDF")))
+start <- Sys.time()
+raw_data_toshiba <- readMSData(files = urine_pos_pd_toshiba$path, 
+                               mode = "onDisk",
+                               msLevel. = 1, 
+                               centroided. = TRUE)
+end <- Sys.time()
+time_from_network_raw_data <- end-start
+
+##Calculate running time of reading from portal harddrive (Toshiba)
+start <- Sys.time()
+mzs <- mz(raw_data_toshiba)
+end <- Sys.time()
+time_from_toshiba_mz <- end-start
+#mzs <- mz(raw_data)
+
+start-end
 mzs_by_file <- split(mzs, f=fromFile(raw_data))
 
 #plot BPC 
@@ -57,4 +84,14 @@ xdata <- findChromPeaks(raw_data, param = cwp)
 
 tc <- split(tic(raw_data), f = fromFile(raw_data))
 boxplot(tc)
+
+counterdown <- function(FUN=...){
+  start <- Sys.time()
+  FUN
+  end <- Sys.time()
+  return(end-start)}
+
+test <- function(x) { round(sqrt(x), 4) }
+counterdown(lapply(1:1000000,test
+  ))
 
