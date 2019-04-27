@@ -1,17 +1,20 @@
 \documentclass[]{article}
 
 %opening
-\title{Course Syllabus \\ {\small Crash Course on LC-MS Based Untargeted Metabolomics Data Preprocessing}}
+\title{Course Syllabus \\ {\small Crash Course on LC-MS Based Metabolomics Data Preprocessing}}
 
 \author{Tu Hu\footnote{Data analyst, tu@nexs.ku.dk}}
 \date{Apr, 2019}
+\usepackage{graphicx}
 \usepackage{makecell}
 \begin{document}
 
 \maketitle
 
-
-\section{Learning outcome}
+\section{Contents}
+	In this crash course, participant(s) will be briefly introduced the principles of LC-MS based metabolomics, principles of data-preprocessing and general procedures. 
+	Further, data from participant(s)' project will be used as an example and worked out by MZmine 2 with guidance. Final results will be a feature table including file name (or sample name), retention time, m/z and intensities for further analysis.
+\section{Learning Outcomes}
 
 After completing the course, the student(s) should have:
 \\
@@ -25,7 +28,8 @@ After completing the course, the student(s) should have:
 
 \textbf{Skills in/to:}
 \begin{itemize}
-	\item Applying MZmine 2.0 to preprocess LC-MS based untargeted metabolomics data 
+	\item Explore metabolomics data by MassLynx
+	\item Applying MZmine 2 to preprocess LC-MS based untargeted metabolomics data 
 
 \end{itemize}
 
@@ -35,24 +39,50 @@ After completing the course, the student(s) should have:
 	\item Independently handle LC-MS based metabolomics data preprocessing task
 \end{itemize}
 
+\newpage
 \section{Course Structure}
+\begin{table}[h]
+\scalebox{0.83}{
+
 \begin{tabular}{|c|c|c|c|c|}
 	\hline 
-	& Contents & Date & Location & Duration \\ 
+	& Contents & Time & Location & Duration \\ 
+	\hline
+	\makecell{Hands-on\\exercise 0} & \makecell{Explore Data on MassLynx} & \makecell{9 am \\29th, Apr} & Metabolomics Lab & 20 min \\ 
 	\hline 
-	Lecture & \makecell{Introduction to \\LC-MS based Metabolomics\\ data preprocess} & ad-hoc & local meeting room & 20 min \\ 
+	Lecture & \makecell{Principles of \\LC-MS based Metabolomics\\and data preprocessing} & \makecell{upon\\participant's\\reservation} & Local meeting room & 20 min \\ 
 	\hline 
-	\makecell{Hands-on\\exercise 1} & real case practise & ad-hoc & local meeting room & 1 h \\ 
+	\makecell{Hands-on\\exercise 1} & Real case work & \makecell{upon\\participant's\\reservation} & Local meeting room & 1 h \\ 
 	\hline 
-	\makecell{Hands-on\\exercise 2}  & real case practise & ad-hoc & local meeting room & 1 h \\ 
+	\makecell{Hands-on\\exercise 2}  & Real case work & \makecell{upon\\participant's\\reservation} & Local meeting room & 1 h \\ 
 	\hline 
-	Q \& A & \makecell{Questions regarding \\data preprocessing} & ad-hoc & ad-hoc & 1 h \\ 
+	\makecell{...}  & \makecell{Dependent on participant's progress}& \makecell{upon\\participant's\\reservation} & Local meeting room & ... \\ 
 	\hline 
-\end{tabular} 
+	Q \& A & \makecell{Questions regarding \\data preprocessing} & \makecell{upon\\participant's\\reservation} & ad-hoc & 1 h \\ 
+	\hline 
+\end{tabular} }
+\end{table}
+\section{Reading Materials and Guides}
+Reading materials will be delivered to student's email address in pdf. Other formats (such as Mendeley entries, LaTex citation commend or BibTex entry) are available upon request.
 
-\section{Reading materials}
+1. Yi, L. et al. Chemometric methods in data processing of mass spectrometry-based metabolomics: A review. Anal. Chim. Acta 914, 17–34 (2016).\\\textbf{\textit{Only 2.1 (Pre-processing of raw data) is mandatory.}}\\
 
-\section{Notes}
 
+2. Pluskal, T., Castillo, S., Villar-Briones, A. \& Orešič, M. MZmine 2: Modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC Bioinformatics (2010). doi:10.1186/1471-2105-11-395 \\\textbf{\textit{Only Figure 1 is mandatory.}}\\
+
+3. MZmine 2 Downloading Page and Installation Manual: http://mzmine.\\github.io/download.html \\\textbf{\textit{It is recommended to download and familiarize this software before starting the crash course. If installation problems are encountered, they will be troubleshot in hands-on exercise.}}\\
+
+4. Karaman, I., Climaco Pinto, R. \& Graça, G. Metabolomics Data Preprocessing: From Raw Data to Features for Statistical Analysis. Compr. Anal. Chem. 82, 197–225 (2018). \\\textbf{\textit{Following sections are optional: \\3. NMR Preprocessing (However, participants should aware that they may be asked about NMR in thesis defence by opponents) \\4.1.2.4 LC-MS Preprocessing Example}}\\
+
+5. MZmine Instructions by Gözde Gürdeniz\\\textbf{\textit{The most important reading material for this crash course. Participant(s) will be guided through this instruction.}}\\
+
+6. LC-MS Data Preprocessing lecture slides by Gözde Gürdeniz from PhD course Introduction to Nutitional Metabolomics\\\textbf{\textit{This is a very detailed overview of LC-MS Metabolomics data preprocessing.}}\\
+\section{Participant(s)}
+Marina Roberts (lhw351@alumni.ku.dk; m.roberts180@gmail.com\footnote{Prefer to be contacted by gmail.})
+
+\section{Remarks}
+Participant(s) are expected to understand the principles of LC-MS based metabolomics. If not, they will be briefly introduced with a vivid analogy.
+
+This course was developed under the supervision of Lars Ove Dragsted and Natalia Manjarrez. 
 
 \end{document}

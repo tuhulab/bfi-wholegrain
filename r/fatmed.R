@@ -10,6 +10,7 @@ library(readxl)
 ###########configure parallel computing###########
 
 register(SerialParam())
+register(SnowParam(workers = 6))
 ##################################################
 
 ########access I drive##############
@@ -46,22 +47,21 @@ urine_sample_list <- read_MassLynx(urine_sample_list_path)
 
 ##Calculate running time of reading from portal harddrive (Toshiba)
 urine_pos_pd_toshiba <- urine_sample_list %>% filter(polarity=="pos") %>% mutate(path = file.path("D:","FATMED_urine",paste0(.data$filename,"01.CDF")))
-start <- Sys.time()
+#start <- Sys.time()
 raw_data_toshiba <- readMSData(files = urine_pos_pd_toshiba$path, 
                                mode = "onDisk",
                                msLevel. = 1, 
                                centroided. = TRUE)
-end <- Sys.time()
-time_from_network_raw_data <- end-start
+#end <- Sys.time()
+#time_from_network_raw_data <- end-start
 
 ##Calculate running time of reading from portal harddrive (Toshiba)
-start <- Sys.time()
+#start <- Sys.time()
 mzs <- mz(raw_data_toshiba)
-end <- Sys.time()
-time_from_toshiba_mz <- end-start
+#end <- Sys.time()
+#time_from_toshiba_mz <- end-start
 #mzs <- mz(raw_data)
-
-start-end
+#start-end
 mzs_by_file <- split(mzs, f=fromFile(raw_data))
 
 #plot BPC 
