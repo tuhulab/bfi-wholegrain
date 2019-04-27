@@ -1,0 +1,116 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{sterolmsms}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7b60365fdde8a10a7367c996ce5fc769}{%
+           family={Muenger},
+           familyi={M\bibinitperiod},
+           given={Linda\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a29d1b292d5cef9b18ec8c426f4e13c2}{%
+           family={Boulos},
+           familyi={B\bibinitperiod},
+           given={Samy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1eb85e8f09b44153b3666dafa43bfee8}{%
+           family={Nystroem},
+           familyi={N\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab231c44708155f445f11cfcae693bdf}
+      \strng{fullhash}{946e813b5264badeda0b6013f4e460bb}
+      \strng{bibnamehash}{946e813b5264badeda0b6013f4e460bb}
+      \strng{authorbibnamehash}{946e813b5264badeda0b6013f4e460bb}
+      \strng{authornamehash}{ab231c44708155f445f11cfcae693bdf}
+      \strng{authorfullhash}{946e813b5264badeda0b6013f4e460bb}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary plant foods are characterized by a vast molecular diversity of glycosylated sterols (SG) that differ in the structure of the steryl backbone. The identification of these polar steryl conjugates represents a major challenge as they are structurally highly similar, and commercial standards are limited to a few naturally abundant species. Spectral databases do not yet contain MS/MS spectra of these sterol conjugates obtained by electrospray ionization (ESI), which would facilitate their reliable identification. Thus, this study aimed at providing novel information on ESI-MS/MS spectra of both abundant and minor SG found in foods. As a first step, however, free sterols (FS) were investigated for their fragmentation behavior as they share the same intermediate ion as SG. Pure SG were obtained from commercially available standard mixtures and minor SG were extracted from different food sources (oat bran, wheat bran, pumpkin seeds, melon, rapeseeds, and potato peel). ESI-MS/MS spectra of 15 FS were assessed and fragment ions reflective of structural features were identified and rationalized. Subsequently, 14 SG were identified at four different levels, while relative retention times from chromatographic separation and spectral features of FS served to identify five SG. Spectral data from FS were directly transferable to SG when analyzed as aglycone ions as shown by similarity scores while SG were characterized by shorter retention times in reverse phase chromatography and the additional analysis as sodiated adduct confirmed their glycosidic nature. Moreover, we report for the first time the occurrence of 24-methylenecholesterol and a 4-monomethyl sterol as glycosidic conjugates in higher plants. The presented data will serve as a valuable tool for SG profiling of foods by facilitating their identification.}
+      \field{issn}{2296-2646}
+      \field{journaltitle}{FRONTIERS IN CHEMISTRY}
+      \field{month}{8}
+      \field{title}{{UPLC-MS/MS Based Identification of Dietary Steryl Glucosides by Investigation of Corresponding Free Sterols}}
+      \field{volume}{6}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.3389/fchem.2018.00342
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/fchem-06-00342.pdf:pdf
+      \endverb
+    \endentry
+    \entry{doi:10.1021/jf501509m}{article}{}
+      \name{author}{3}{}{%
+        {{hash=06edd10ea7834b47cd8e38849ca3a2bb}{%
+           family={Oppliger},
+           familyi={O\bibinitperiod},
+           given={Selina\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4a889d0a5328d3fab98279d6cbf3b0ae}{%
+           family={M{ü}nger},
+           familyi={M\bibinitperiod},
+           given={Linda\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=deb6e87144a352b9cba384d45fed02eb}{%
+           family={Nystr{ö}m},
+           familyi={N\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff3feac1311b68e5fcd73ccfceaaf409}
+      \strng{fullhash}{fc05520b9fb179bce38c0e2b8e619024}
+      \strng{bibnamehash}{fc05520b9fb179bce38c0e2b8e619024}
+      \strng{authorbibnamehash}{fc05520b9fb179bce38c0e2b8e619024}
+      \strng{authornamehash}{ff3feac1311b68e5fcd73ccfceaaf409}
+      \strng{authorfullhash}{fc05520b9fb179bce38c0e2b8e619024}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{PMID: 25175549}
+      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
+      \field{number}{39}
+      \field{title}{{Rapid and Highly Accurate Detection of Steryl Glycosides by Ultraperformance Liquid Chromatography–Quadrupole Time-of-Flight Mass Spectrometry (UPLC-Q-TOF-MS)}}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{pages}{9410\bibrangedash 9419}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/jf501509m
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Desktop/jf501509m.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jf501509m
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jf501509m
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

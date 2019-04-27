@@ -1,0 +1,29 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {chapter}{Contents}{1}
+\contentsline {chapter}{\chapternumberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{3}
+\contentsline {chapter}{\chapternumberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{5}
+\contentsline {chapter}{\chapternumberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{7}
+\contentsline {section}{\numberline {3.1}Abstract}{7}
+\contentsline {section}{\numberline {3.2}Introduction}{7}
+\contentsline {subsection}{Phytosterol and Fragmentation Behaviour}{7}
+\contentsline {section}{\numberline {3.3}Materials and methods}{7}
+\contentsline {subsection}{Chemicals}{7}
+\contentsline {subsection}{Apparatus}{7}
+\contentsline {subsection}{UPLC-MS/MS analysis of Sitostanol}{7}
+\contentsline {chapter}{\chapternumberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{9}
+\contentsline {chapter}{\chapternumberline {5}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{11}
+\contentsline {section}{\numberline {5.1}Introduction}{11}
+\contentsline {chapter}{\chapternumberline {6}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{13}
+\contentsline {section}{\numberline {6.1}abstract}{13}
+\contentsline {section}{\numberline {6.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{13}
+\contentsline {section}{\numberline {6.3}m2r}{13}
+\contentsline {section}{\numberline {6.4}plot\_excretion}{13}
+\contentsline {section}{\numberline {6.5}plot\_intervention}{13}
+\contentsline {chapter}{\chapternumberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{15}
+\contentsline {chapter}{\chapternumberline {8}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{17}
+\contentsline {section}{\numberline {8.1}Abstract}{17}
+\contentsline {section}{\numberline {8.2}Introduction}{18}
+\contentsline {subsubsection}{Potential Use environment}{18}
+\contentsline {subsubsection}{hello}{18}
+\contentsline {section}{\numberline {8.3}Solution}{18}
+\contentsline {section}{\numberline {8.4}Business Model}{18}
