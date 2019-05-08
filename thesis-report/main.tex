@@ -1,10 +1,10 @@
 %KOMA-script
 %\documentclass[]{report}
 
-\documentclass[]{memoir}
+\documentclass[]{report}
 
 
-\usepackage{makecell}
+
 %\usepackage[english, ku, titlepage]{ku-frontpage}
 \usepackage[acronym]{glossaries}
 
@@ -18,25 +18,22 @@
 \date{Sep, 2019}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
-\usepackage{glossaries}
+%\usepackage{glossaries}
 \addbibresource{barley.bib}
 \usepackage{tabularx}
 \usepackage{graphicx}
+
 \usepackage{siunitx}
 \usepackage{gensymb}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
-\addbibresource{barley.bib}
-
+%\addbibresource{barley.bib}
 
 \usepackage{makecell}
-\usepackage{siunitx}
-\usepackage[acronym]{glossaries}
 \usepackage{footnote}
-\makesavenoteenv{tabular}
-\makesavenoteenv{table}
 \usepackage{lscape}
 \input{abbreviation.tex}
+\usepackage{siunitx}
 
 \usepackage{pdfpages}
 \begin{document}
@@ -82,7 +79,7 @@
 %\addchap{Introduction}
 %\input{thesis_intro.tex}
 
-%\input{barley.bib}
+
 
 %\chapter{Introduction}
 %\input{intro.tex}
@@ -102,25 +99,24 @@
 
 \chapter{A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
 	%\includepdf[pages=-]{review-main.pdf}
-	%\section{Abstract}
-	%\section{Introduction}
-	%\input{review-intro}
+	\section{Abstract}
+	\section{Introduction}
+	\input{review-intro}
 	
-	%\section{Materials and Methods}
-	%\input{review-mm}
+	\section{Materials and Methods}
+	\input{review-mm}
 	
-	%\section{Results}
-	%\input{review-result}
+	\section{Results}
+	\input{review-result}
+		
+	\section{Conclusions}
+	\input{review-conclusion}
 	
-	
-	%\section{Conclusions}
-	%\input{review-conclusion}
-	
-	%\section{Discussions}
-	%\input{review-dis}
-	%\newpage
-	%\section{Appendix}
-	%\input{review-appendix}
+	\section{Discussions}
+	\input{review-dis}
+	\newpage
+	\section{Appendix}
+	\input{review-appendix}
 
 \chapter{Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}
 	
@@ -129,6 +125,7 @@
 \input{thesis_barley_id.tex}
 
 \chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}
+\input{thesis_wheat_marker.tex}
 
 \chapter{Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}
 \input{qc.tex}

@@ -2,7 +2,7 @@ library(tidyverse)
 library(R.matlab)
 library(stringr)
 #extract neg data
-path <- 'c://Users/tuhu/projects/barley/urine_neg_varsel.mat'
+path <- 'c://Users/tuhu/projects/bfi-wholegrain/matlab/urine_neg_varsel.mat'
 polarity <- 'neg'
 
 #convert mat into R dataset
