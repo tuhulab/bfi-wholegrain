@@ -24,6 +24,7 @@
 \contentsline {section}{\numberline {3.2}Introduction}{15}% 
 \contentsline {subsection}{\numberline {3.2.1}Phytosterol and Fragmentation Behaviour}{15}% 
 \contentsline {subsection}{\numberline {3.2.2}$\beta $-glucuronidase for metabolite analysis}{15}% 
+\contentsline {subsubsection}{Glucuronidation in }{15}% 
 \contentsline {section}{\numberline {3.3}Materials and methods}{16}% 
 \contentsline {subsection}{\numberline {3.3.1}Chemicals}{16}% 
 \contentsline {subsection}{\numberline {3.3.2}Apparatus}{16}% 
@@ -39,19 +40,25 @@
 \contentsline {section}{\numberline {4.3}Results}{19}% 
 \contentsline {section}{\numberline {4.4}Conclusion}{19}% 
 \contentsline {section}{\numberline {4.5}Discussion}{19}% 
-\contentsline {chapter}{\numberline {5}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{20}% 
-\contentsline {section}{\numberline {5.1}Introduction}{1}% 
-\contentsline {chapter}{\numberline {6}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{2}% 
-\contentsline {section}{\numberline {6.1}abstract}{2}% 
-\contentsline {section}{\numberline {6.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{2}% 
-\contentsline {section}{\numberline {6.3}m2r}{2}% 
-\contentsline {section}{\numberline {6.4}plot\_excretion}{2}% 
-\contentsline {section}{\numberline {6.5}plot\_intervention}{2}% 
-\contentsline {chapter}{\numberline {7}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{3}% 
-\contentsline {chapter}{\numberline {8}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{4}% 
-\contentsline {section}{\numberline {8.1}Abstract}{4}% 
-\contentsline {section}{\numberline {8.2}Introduction}{5}% 
+\contentsline {chapter}{\numberline {5}Towards a Streamlined Metabolomics Data Analysis Flow: Unify Metabolomics Data Format Tidy}{20}% 
+\contentsline {section}{\numberline {5.1}Introduction}{20}% 
+\contentsline {section}{\numberline {5.2}Materials and Methods}{20}% 
+\contentsline {section}{\numberline {5.3}Results}{21}% 
+\contentsline {section}{\numberline {5.4}Discussions}{21}% 
+\contentsline {section}{\numberline {5.5}Conclusion}{21}% 
+\contentsline {chapter}{\numberline {6}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{22}% 
+\contentsline {section}{\numberline {6.1}Introduction}{1}% 
+\contentsline {chapter}{\numberline {7}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{2}% 
+\contentsline {section}{\numberline {7.1}abstract}{2}% 
+\contentsline {section}{\numberline {7.2}"Tidy" High-throughout Analysis Data, Examplified by RNA sequencing data}{2}% 
+\contentsline {section}{\numberline {7.3}m2r}{2}% 
+\contentsline {section}{\numberline {7.4}plot\_excretion}{2}% 
+\contentsline {section}{\numberline {7.5}plot\_intervention}{2}% 
+\contentsline {chapter}{\numberline {8}Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}{3}% 
+\contentsline {chapter}{\numberline {9}Using a Budgeted Device to Compute High-throughout Metabolomics Data}{4}% 
+\contentsline {section}{\numberline {9.1}Abstract}{4}% 
+\contentsline {section}{\numberline {9.2}Introduction}{5}% 
 \contentsline {subsubsection}{Potential Use environment}{5}% 
 \contentsline {subsubsection}{hello}{5}% 
-\contentsline {section}{\numberline {8.3}Solution}{5}% 
-\contentsline {section}{\numberline {8.4}Business Model}{5}% 
+\contentsline {section}{\numberline {9.3}Solution}{5}% 
+\contentsline {section}{\numberline {9.4}Business Model}{5}% 

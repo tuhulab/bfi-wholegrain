@@ -3,7 +3,9 @@ library(R.matlab)
 library(tidyverse)
 
 urinepospath <- 'C:\\Users\\czw814\\projects\\bfi-wholegrain\\matlab\\urine_pos_data.mat'
+
 urinenegpath <- 'C:\\Users\\czw814\\projects\\bfi-wholegrain\\matlab\\urine_neg_data.mat'
+
 urinepospolarity <- 'positive'
 urinenegpolarity <- 'negative'
 
@@ -47,7 +49,7 @@ m2r <- function(path=...,polarity=...) {
   pools$subject <- 'pool'
   pools$timepoint <- NA
   pools$intervention <- 'pool'
-  data <- bind_rows(nonpools,pools)
+  data <- bind_rows(nonpools,pools) %>% arrange(filename)
   
   ####### error is here!!!!!!! sequence is changed!!!!!
   intdata <- data.frame(int)
@@ -72,9 +74,10 @@ barleyneg %>% filter(feature=='X3001') %>% ggplot(aes(x=intervention, y=intensit
   geom_point() +
   geom_boxplot()
 
-barleyneg %>% filter(feature=='X1123') %>% ggplot(aes(x=intervention, y=intensity)) + 
+barleyneg %>% filter(feature=='X1516') %>% ggplot(aes(x=intervention, y=intensity)) + 
   geom_point() +
   geom_boxplot()
+
 #search ion
   #define ion
     target_rt_1 <- 3.99
@@ -86,9 +89,40 @@ barleyneg %>% filter(feature=='X1123') %>% ggplot(aes(x=intervention, y=intensit
     rt_window <- 0.02
     mz_window <- 0.05
     
-    barleyneg %>% filter(rt>target_rt_2-rt_window & rt<target_rt_2+rt_window) %>% 
+data_517<-    barleyneg %>% filter(rt>target_rt_2-rt_window & rt<target_rt_2+rt_window) %>% 
       filter(mz>target_mz_2-mz_window & mz<target_mz_2+mz_window) 
-    
+data_517$samplename[which.max(data_517$intensity)] #perfect!
+
+
+#search ion function
+#define ion
+
+target_rt_1 <- 0.97
+target_mz_1 <- 329.0582
+rt_window <- 0.02
+mz_window <- 0.05
+
+target_rt_2 <- 1.88
+target_mz_2 <- 153.0187
+rt_window <- 0.02
+mz_window <- 0.05
+
+search_ion <- function(target_rt=...,target_mz=...,rt_window=...,mz_window=...,data=...){
+search_data <- data %>% filter(rt>target_rt-rt_window & rt<target_rt+rt_window) %>% 
+  filter(mz>target_mz-mz_window & mz<target_mz+mz_window) 
+return(search_data)
+}
+
+data_329<-search_ion(target_rt=target_rt_2,
+           target_mz=target_mz_2,
+           rt_window=rt_window,
+           mz_window=mz_window,
+           data=barleyneg)
+
+data_329 <- barleyneg %>% filter(rt>target_rt_1-rt_window & rt<target_rt_1+rt_window) %>% 
+  filter(mz>target_mz_1-mz_window & mz<target_mz_1+mz_window) 
+data_329$filename[which.max(data_329$intensity)] #perfect!
+
     
 serumnegpath <- 'C:\\Users\\tuhu\\projects\\bfi-wholegrain\\matlab\\serum_neg.mat'
 serumnegpolarity <- 'negative'
@@ -132,4 +166,9 @@ wheatpos <- m2r(path=path, polarity = polarity)
 wheatpos %>% filter(feature=='X13') %>% ggplot(aes(x=intervention, y=intensity)) + 
   geom_point() +
   geom_boxplot() 
+
+
+
+
+
 
