@@ -1,52 +1,56 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {chapter}{\numberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{3}% 
-\contentsline {section}{\numberline {1.1}Abstract}{3}% 
-\contentsline {section}{\numberline {1.2}Introduction}{3}% 
-\contentsline {section}{\numberline {1.3}Materials and Methods}{4}% 
-\contentsline {section}{\numberline {1.4}Results}{4}% 
-\contentsline {subsection}{\numberline {1.4.1}WG barley}{4}% 
-\contentsline {subsection}{\numberline {1.4.2}WG wheat}{5}% 
-\contentsline {subsubsection}{Overview}{5}% 
-\contentsline {subsubsection}{Alkylresorcinols (ARs) and Homologous Ratio C17:0/C21:0}{6}% 
-\contentsline {subsubsection}{Applications in Type II Diabetes Research}{7}% 
-\contentsline {subsubsection}{Other potential markers}{7}% 
-\contentsline {section}{\numberline {1.5}Conclusions}{8}% 
-\contentsline {section}{\numberline {1.6}Discussions}{8}% 
-\contentsline {subsection}{\numberline {1.6.1}Potential BFIs for WG barley}{8}% 
-\contentsline {subsection}{\numberline {1.6.2}Exclusion Criteria of WG Wheat intake biomarker}{8}% 
-\contentsline {subsection}{\numberline {1.6.3}AR metabolites for WG wheat intake and Geographical Applicabilities}{9}% 
-\contentsline {subsection}{\numberline {1.6.4}Analytical platform of ARs}{11}% 
-\contentsline {subsection}{\numberline {1.6.5}Necessities and Challenges of Discovering Biomarkers for WG Wheat Intake}{11}% 
-\contentsline {section}{\numberline {1.7}Appendix}{12}% 
-\contentsline {chapter}{\numberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{14}% 
-\contentsline {chapter}{\numberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{15}% 
-\contentsline {section}{\numberline {3.1}Abstract}{15}% 
-\contentsline {section}{\numberline {3.2}Introduction}{15}% 
-\contentsline {subsection}{\numberline {3.2.1}Phytosterol and Fragmentation Behaviour}{15}% 
-\contentsline {subsection}{\numberline {3.2.2}$\beta $-glucuronidase for metabolite analysis}{15}% 
-\contentsline {subsubsection}{Glucuronidation in }{15}% 
-\contentsline {section}{\numberline {3.3}Materials and methods}{16}% 
-\contentsline {subsection}{\numberline {3.3.1}Chemicals}{16}% 
-\contentsline {subsection}{\numberline {3.3.2}Apparatus}{16}% 
-\contentsline {subsection}{\numberline {3.3.3}UPLC-MS/MS analysis of Sitostanol}{16}% 
-\contentsline {subsection}{\numberline {3.3.4}Deconjugation experiments}{16}% 
-\contentsline {section}{\numberline {3.4}Retention Time (RT) and m/z in Different Matrix}{17}% 
-\contentsline {chapter}{\numberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{18}% 
-\contentsline {section}{\numberline {4.1}Introduction}{18}% 
-\contentsline {subsection}{\numberline {4.1.1}Confidence of Identification}{18}% 
-\contentsline {subsection}{\numberline {4.1.2}Alkylresorcinol Metabolism Pathway}{18}% 
-\contentsline {section}{\numberline {4.2}Materials and Methods}{19}% 
-\contentsline {subsection}{\numberline {4.2.1}In vitro glucurnadition mimic experiments}{19}% 
-\contentsline {section}{\numberline {4.3}Results}{19}% 
-\contentsline {section}{\numberline {4.4}Conclusion}{19}% 
-\contentsline {section}{\numberline {4.5}Discussion}{19}% 
-\contentsline {chapter}{\numberline {5}Towards a Streamlined Metabolomics Data Analysis Flow: Unify Metabolomics Data Format Tidy}{20}% 
-\contentsline {section}{\numberline {5.1}Introduction}{20}% 
-\contentsline {section}{\numberline {5.2}Materials and Methods}{20}% 
-\contentsline {section}{\numberline {5.3}Results}{21}% 
-\contentsline {section}{\numberline {5.4}Discussions}{21}% 
-\contentsline {section}{\numberline {5.5}Conclusion}{21}% 
-\contentsline {chapter}{\numberline {6}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{22}% 
+\contentsline {chapter}{\numberline {1}A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}{4}% 
+\contentsline {section}{\numberline {1.1}Abstract}{4}% 
+\contentsline {section}{\numberline {1.2}Introduction}{4}% 
+\contentsline {section}{\numberline {1.3}Materials and Methods}{5}% 
+\contentsline {section}{\numberline {1.4}Results}{5}% 
+\contentsline {subsection}{\numberline {1.4.1}WG barley}{5}% 
+\contentsline {subsection}{\numberline {1.4.2}WG wheat}{6}% 
+\contentsline {subsubsection}{Overview}{6}% 
+\contentsline {subsubsection}{Alkylresorcinols (ARs) and Homologous Ratio C17:0/C21:0}{7}% 
+\contentsline {subsubsection}{Applications in Type II Diabetes Research}{8}% 
+\contentsline {subsubsection}{Other potential markers}{8}% 
+\contentsline {section}{\numberline {1.5}Conclusions}{9}% 
+\contentsline {section}{\numberline {1.6}Discussions}{9}% 
+\contentsline {subsection}{\numberline {1.6.1}Potential BFIs for WG barley}{9}% 
+\contentsline {subsection}{\numberline {1.6.2}Exclusion Criteria of WG Wheat intake biomarker}{9}% 
+\contentsline {subsection}{\numberline {1.6.3}AR metabolites for WG wheat intake and Geographical Applicabilities}{10}% 
+\contentsline {subsection}{\numberline {1.6.4}Analytical platform of ARs}{12}% 
+\contentsline {subsection}{\numberline {1.6.5}Necessities and Challenges of Discovering Biomarkers for WG Wheat Intake}{12}% 
+\contentsline {section}{\numberline {1.7}Appendix}{13}% 
+\contentsline {chapter}{\numberline {2}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{15}% 
+\contentsline {chapter}{\numberline {3}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{16}% 
+\contentsline {section}{\numberline {3.1}Abstract}{16}% 
+\contentsline {section}{\numberline {3.2}Introduction}{16}% 
+\contentsline {subsection}{\numberline {3.2.1}Phytosterol and Fragmentation Behaviour}{16}% 
+\contentsline {subsection}{\numberline {3.2.2}$\beta $-glucuronidase for metabolite analysis}{16}% 
+\contentsline {subsubsection}{Glucuronidation in }{16}% 
+\contentsline {section}{\numberline {3.3}Materials and methods}{17}% 
+\contentsline {subsection}{\numberline {3.3.1}Chemicals}{17}% 
+\contentsline {subsection}{\numberline {3.3.2}Apparatus}{17}% 
+\contentsline {subsection}{\numberline {3.3.3}UPLC-MS/MS analysis of Sitostanol}{17}% 
+\contentsline {subsection}{\numberline {3.3.4}Deconjugation experiments}{17}% 
+\contentsline {section}{\numberline {3.4}Results}{18}% 
+\contentsline {subsection}{\numberline {3.4.1}Retention Time (RT) and m/z in Different Matrix}{18}% 
+\contentsline {subsection}{\numberline {3.4.2}Enzymatic Deglucuronidation}{18}% 
+\contentsline {chapter}{\numberline {4}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{19}% 
+\contentsline {section}{\numberline {4.1}Introduction}{19}% 
+\contentsline {subsection}{\numberline {4.1.1}Confidence of Identification}{19}% 
+\contentsline {subsection}{\numberline {4.1.2}Alkylresorcinol Metabolism Pathway}{19}% 
+\contentsline {section}{\numberline {4.2}Materials and Methods}{20}% 
+\contentsline {subsection}{\numberline {4.2.1}In vitro glucurnadition mimic experiments}{20}% 
+\contentsline {subsection}{\numberline {4.2.2}Glucurnadase experiments}{20}% 
+\contentsline {section}{\numberline {4.3}Results}{20}% 
+\contentsline {subsection}{\numberline {4.3.1}Glucuronadase}{20}% 
+\contentsline {section}{\numberline {4.4}Conclusion}{20}% 
+\contentsline {section}{\numberline {4.5}Discussion}{20}% 
+\contentsline {chapter}{\numberline {5}Towards a Streamlined Metabolomics Data Analysis Flow: Unify Metabolomics Data Format Tidy}{21}% 
+\contentsline {section}{\numberline {5.1}Introduction}{21}% 
+\contentsline {section}{\numberline {5.2}Materials and Methods}{21}% 
+\contentsline {section}{\numberline {5.3}Results}{22}% 
+\contentsline {section}{\numberline {5.4}Discussions}{22}% 
+\contentsline {section}{\numberline {5.5}Conclusion}{22}% 
+\contentsline {chapter}{\numberline {6}Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}{23}% 
 \contentsline {section}{\numberline {6.1}Introduction}{1}% 
 \contentsline {chapter}{\numberline {7}Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}{2}% 
 \contentsline {section}{\numberline {7.1}abstract}{2}% 
