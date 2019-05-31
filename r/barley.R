@@ -88,10 +88,9 @@ barleyneg %>% filter(feature=='X1516') %>% ggplot(aes(x=intervention, y=intensit
 
     rt_window <- 0.02
     mz_window <- 0.05
-    
-data_517<-    barleyneg %>% filter(rt>target_rt_2-rt_window & rt<target_rt_2+rt_window) %>% 
-      filter(mz>target_mz_2-mz_window & mz<target_mz_2+mz_window) 
-data_517$samplename[which.max(data_517$intensity)] #perfect!
+
+wheat_3 <- barleyneg %>% filter(rt>1.30 & rt<1.40) %>% filter(mz>232.9 & mz<233) 
+wheat_3$samplename[which.max(wheat_3$intensity)] #perfect!
 
 
 #search ion function
@@ -107,7 +106,7 @@ target_mz_2 <- 153.0187
 rt_window <- 0.02
 mz_window <- 0.05
 
-search_ion <- function(target_rt=...,target_mz=...,rt_window=...,mz_window=...,data=...){
+search_ion <- function(data=...,target_rt=...,target_mz=...,rt_window=0.02,mz_window=0.01){
 search_data <- data %>% filter(rt>target_rt-rt_window & rt<target_rt+rt_window) %>% 
   filter(mz>target_mz-mz_window & mz<target_mz+mz_window) 
 return(search_data)
@@ -169,6 +168,15 @@ wheatpos %>% filter(feature=='X13') %>% ggplot(aes(x=intervention, y=intensity))
 
 
 
+#######compare ion_1 & ion_2 intenstiy############
+ion_1 <- search_ion(data = barleyneg,target_rt = 0.97,target_mz = 329.0582) %>% filter(intervention=="AB  ")
+ion_2 <- search_ion(data = barleyneg,target_rt = 1.12,target_mz = 329.06) %>% filter(intervention=="AB  ")
+ion_combined <- data.frame(subject=ion_1$subject,ion_1_intensity=ion_1$intensity,ion_2_intensity=ion_2$intensity)
+ggplot(ion_combined,aes(x=ion_1_intensity,y=ion_2_intensity))+geom_point()
 
+ion_1_aw <- search_ion(data = barleyneg,target_rt = 0.97,target_mz = 329.0582) %>% filter(intervention=="AW  ")
+ion_2_aw <- search_ion(data = barleyneg,target_rt = 1.12,target_mz = 329.06)%>% filter(intervention=="AW  ")
+ion_combined_aw <- data.frame(subject=ion_1_aw$subject,ion_1_intensity=ion_1_aw$intensity,ion_2_intensity=ion_2_aw$intensity)
+ggplot(ion_combined_aw,aes(x=ion_1_intensity,y=ion_2_intensity))+geom_point()
 
 
