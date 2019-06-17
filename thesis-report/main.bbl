@@ -1,0 +1,3228 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Piepoli2016}{article}{}
+      \name{author}{27}{}{%
+        {{hash=5025c2ef6bf55bac230e291a5e307b93}{%
+           family={Piepoli},
+           familyi={P\bibinitperiod},
+           given={Massimo\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=33f686f94f44aa0f92ede4d932aae505}{%
+           family={Hoes},
+           familyi={H\bibinitperiod},
+           given={Arno\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=93edf077db4fa5e2b0b415af978d2693}{%
+           family={Agewall},
+           familyi={A\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=89204ef3acb8394c943f332b67bb91f9}{%
+           family={Albus},
+           familyi={A\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3fef8d7b5105282bd6ba9c33e9363993}{%
+           family={Brotons},
+           familyi={B\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63894112a44c025823b10e1a2fb33c22}{%
+           family={Catapano},
+           familyi={C\bibinitperiod},
+           given={Alberico\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=67572c8298c33c30b456ce41488059cf}{%
+           family={Cooney},
+           familyi={C\bibinitperiod},
+           given={Marie-Therese},
+           giveni={M\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=a89051a2c1e8c4250909f9ec49c69df2}{%
+           family={Corr{à}},
+           familyi={C\bibinitperiod},
+           given={Ugo},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d585558bbdc7e62dbe0fa47877200be8}{%
+           family={Cosyns},
+           familyi={C\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=dfddcf62e29db1d12fe7b2e345be1fc8}{%
+           family={Deaton},
+           familyi={D\bibinitperiod},
+           given={Christi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91185df8bee2d8533c50a2add027178a}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=69e65c235127b2c8911995252251a955}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima Stephen},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c9f2f038dd5c7e8d31faeddc320c0701}{%
+           family={Hobbs},
+           familyi={H\bibinitperiod},
+           given={F.D.\bibnamedelimi Richard},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=737117809b437fb94c88cd55eeaab5ac}{%
+           family={L{ø}chen},
+           familyi={L\bibinitperiod},
+           given={Maja-Lisa},
+           giveni={M\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=8dc6602f899c697e3d28d8f994948a61}{%
+           family={L{ö}llgen},
+           familyi={L\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fbd79f9113b452be597a90e2c37e7e2e}{%
+           family={Marques-Vidal},
+           familyi={M\bibinithyphendelim V\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d5844805b8771a39ce9896f2468b32e2}{%
+           family={Perk},
+           familyi={P\bibinitperiod},
+           given={Joep},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6593a06dabe3428151cf5edf7800cc42}{%
+           family={Prescott},
+           familyi={P\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a2a8092aed18e508a990124bb0217d5f}{%
+           family={Redon},
+           familyi={R\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod}}}%
+        {{hash=657d163157adfe1ff087917f8a6d676d}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Dimitrios\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0e232a5061b8648ed9e7422bacefc3f6}{%
+           family={Sattar},
+           familyi={S\bibinitperiod},
+           given={Naveed},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1ae46786b278eefbd2a28b06077a0271}{%
+           family={Smulders},
+           familyi={S\bibinitperiod},
+           given={Yvo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9b5c2ee3bc6f1ba6b04a715abc185676}{%
+           family={Tiberi},
+           familyi={T\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5e5fd83c825a88da3465e506e3fcfbf0}{%
+           family={{Bart van der Worp}},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b8de957a4527c2871b1ec07b87809ce1}{%
+           family={Dis},
+           familyi={D\bibinitperiod},
+           given={Ineke},
+           giveni={I\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=182c06b8b02c2c80fbfa6e0a0942d148}{%
+           family={Verschuren},
+           familyi={V\bibinitperiod},
+           given={W.M.\bibnamedelimi Monique},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=182c06b8b02c2c80fbfa6e0a0942d148}{%
+           family={Verschuren},
+           familyi={V\bibinitperiod},
+           given={W\bibnamedelima M\bibnamedelima Monique},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{88813f25ee7c3a3fe9f19d6174664196}
+      \strng{fullhash}{bc97e585d07505ed0800ce2f16240572}
+      \strng{bibnamehash}{88813f25ee7c3a3fe9f19d6174664196}
+      \strng{authorbibnamehash}{88813f25ee7c3a3fe9f19d6174664196}
+      \strng{authornamehash}{88813f25ee7c3a3fe9f19d6174664196}
+      \strng{authorfullhash}{bc97e585d07505ed0800ce2f16240572}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00219150}
+      \field{journaltitle}{Atherosclerosis}
+      \field{month}{9}
+      \field{title}{{2016 European Guidelines on cardiovascular disease prevention in clinical practice}}
+      \field{volume}{252}
+      \field{year}{2016}
+      \field{pages}{207\bibrangedash 274}
+      \range{pages}{68}
+      \verb{doi}
+      \verb 10.1016/j.atherosclerosis.2016.05.037
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Desktop/ehw106.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27664503 https://linkinghub.elsevier.com/retrieve/pii/S0021915016302143
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27664503%20https://linkinghub.elsevier.com/retrieve/pii/S0021915016302143
+      \endverb
+      \keyw{Blood pressure,Clinical settings,Diabetes,Guidelines,Healthy lifestyle,Lipid,Nutrition,Physical activity,Population,Prevention,Primary care,Psychosocial factors,Rehabilitation,Risk assessment,Risk management,Smoking,Stakeholder}
+    \endentry
+    \entry{Aune2016}{article}{}
+      \name{author}{10}{}{%
+        {{hash=63c52b48998bafb845c5889b9daf9c18}{%
+           family={Aune},
+           familyi={A\bibinitperiod},
+           given={Dagfinn},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1087def95c3426fa2448d68940b37d8c}{%
+           family={Keum},
+           familyi={K\bibinitperiod},
+           given={NaNa},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f34cbde8d08179c9625ce7f03dd584d3}{%
+           family={Giovannucci},
+           familyi={G\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c4b01c5c7ee798475a79ecad89586f2d}{%
+           family={Fadnes},
+           familyi={F\bibinitperiod},
+           given={Lars\bibnamedelima T},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=d340666360152d07d337b33071685ba3}{%
+           family={Boffetta},
+           familyi={B\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d98ce194f4e1a9aa3492aecba4bbd0f1}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Darren\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3d8fb34d921965a7df1ae3d63c1595a0}{%
+           family={Tonstad},
+           familyi={T\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8404ad325088ac07723dc07c9b2b5c7f}{%
+           family={Vatten},
+           familyi={V\bibinitperiod},
+           given={Lars\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dba4272d5c6260989bc61306e1deaafb}{%
+           family={Riboli},
+           familyi={R\bibinitperiod},
+           given={Elio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=599d86c7e687f88dc70601fe66767d73}{%
+           family={Norat},
+           familyi={N\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{a34471517d5729632f7e7ec815bed5db}
+      \strng{fullhash}{86c64749eb3f6184cd182b771c6f47bd}
+      \strng{bibnamehash}{a34471517d5729632f7e7ec815bed5db}
+      \strng{authorbibnamehash}{a34471517d5729632f7e7ec815bed5db}
+      \strng{authornamehash}{a34471517d5729632f7e7ec815bed5db}
+      \strng{authorfullhash}{86c64749eb3f6184cd182b771c6f47bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE  To quantify the dose-response relation between consumption of whole grain and specific types of grains and the risk of cardiovascular disease, total cancer, and all cause and cause specific mortality. DATA SOURCES  PubMed and Embase searched up to 3 April 2016. STUDY SELECTION  Prospective studies reporting adjusted relative risk estimates for the association between intake of whole grains or specific types of grains and cardiovascular disease, total cancer, all cause or cause specific mortality. DATA SYNTHESIS  Summary relative risks and 95{\%} confidence intervals calculated with a random effects model. RESULTS  45 studies (64 publications) were included. The summary relative risks per 90 g/day increase in whole grain intake (90 g is equivalent to three servings-for example, two slices of bread and one bowl of cereal or one and a half pieces of pita bread made from whole grains) was 0.81 (95{\%} confidence interval 0.75 to 0.87; I(2)=9{\%}, n=7 studies) for coronary heart disease, 0.88 (0.75 to 1.03; I(2)=56{\%}, n=6) for stroke, and 0.78 (0.73 to 0.85; I(2)=40{\%}, n=10) for cardiovascular disease, with similar results when studies were stratified by whether the outcome was incidence or mortality. The relative risks for morality were 0.85 (0.80 to 0.91; I(2)=37{\%}, n=6) for total cancer, 0.83 (0.77 to 0.90; I(2)=83{\%}, n=11) for all causes, 0.78 (0.70 to 0.87; I(2)=0{\%}, n=4) for respiratory disease, 0.49 (0.23 to 1.05; I(2)=85{\%}, n=4) for diabetes, 0.74 (0.56 to 0.96; I(2)=0{\%}, n=3) for infectious diseases, 1.15 (0.66 to 2.02; I(2)=79{\%}, n=2) for diseases of the nervous system disease, and 0.78 (0.75 to 0.82; I(2)=0{\%}, n=5) for all non-cardiovascular, non-cancer causes. Reductions in risk were observed up to an intake of 210-225 g/day (seven to seven and a half servings per day) for most of the outcomes. Intakes of specific types of whole grains including whole grain bread, whole grain breakfast cereals, and added bran, as well as total bread and total breakfast cereals were also associated with reduced risks of cardiovascular disease and/or all cause mortality, but there was little evidence of an association with refined grains, white rice, total rice, or total grains. CONCLUSIONS  This meta-analysis provides further evidence that whole grain intake is associated with a reduced risk of coronary heart disease, cardiovascular disease, and total cancer, and mortality from all causes, respiratory diseases, infectious diseases, diabetes, and all non-cardiovascular, non-cancer causes. These findings support dietary guidelines that recommend increased intake of whole grain to reduce the risk of chronic diseases and premature mortality.}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{BMJ (Clinical research ed.)}
+      \field{month}{6}
+      \field{title}{{Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies.}}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{i2716}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1136/bmj.i2716
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Aune et al. - 2016 - Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality syst.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27301975 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4908315
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27301975%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4908315
+      \endverb
+    \endentry
+    \entry{Pratico2018}{article}{}
+      \name{author}{16}{}{%
+        {{hash=afa1662d3b97c254dbc594fbea8566f3}{%
+           family={Pratic{ò}},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=63677015b0fbd760e55a21f08a606f98}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ed9dc1a5dd3a967bf2da19b258f5e376}{%
+           family={Verg{è}res},
+           familyi={V\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c01dad542ad5f3fae1950eb9ec859f8}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={Marjukka},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63ac5746e80f367ebf112368a25ffadd}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Lorraine},
+           giveni={L\bibinitperiod}}}%
+        {{hash=45c740c0845c224e1bf93ecc0143a89a}{%
+           family={Pedapati},
+           familyi={P\bibinitperiod},
+           given={Sri\bibnamedelima Harsha},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4ec09eb070c946ae914a5c4c66d287a2}{%
+           family={Afman},
+           familyi={A\bibinitperiod},
+           given={Lydia\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f55b27522a0accc27357cf4583413e3c}{%
+           family={V{á}zquez-Fresno},
+           familyi={V\bibinithyphendelim F\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7a61ceb8ee9482b5d3ebea5d7a08c9b3}{%
+           family={Lacueva},
+           familyi={L\bibinitperiod},
+           given={Cristina\bibnamedelima Andres},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aed3bf3502c3537743cd208659384c90}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0783e62db9056ef92cc7163b0c6f8618}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={Edith\bibnamedelima J.M.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4907915e1dc8b73c3c61f6123a36a000}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Genes {\&} Nutrition}%
+      }
+      \strng{namehash}{f272689d08da1bfdb85d38d1b5b14136}
+      \strng{fullhash}{ae91612c2b67e4f726962938ac0f7870}
+      \strng{bibnamehash}{f272689d08da1bfdb85d38d1b5b14136}
+      \strng{authorbibnamehash}{f272689d08da1bfdb85d38d1b5b14136}
+      \strng{authornamehash}{f272689d08da1bfdb85d38d1b5b14136}
+      \strng{authorfullhash}{ae91612c2b67e4f726962938ac0f7870}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18653499}
+      \field{journaltitle}{Genes and Nutrition}
+      \field{number}{1}
+      \field{title}{{Guidelines for Biomarker of Food Intake Reviews (BFIRev): How to conduct an extensive literature search for biomarker of food intake discovery}}
+      \field{volume}{13}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1186/s12263-018-0592-8
+      \endverb
+      \keyw{Biomarkers,Food exposure markers,Literature search methodology,Metabolomics,Systematic review}
+    \endentry
+    \entry{hmdb}{article}{}
+      \name{author}{28}{}{%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9864d0fa87422f04a0c6075df38e2690}{%
+           family={Feunang},
+           familyi={F\bibinitperiod},
+           given={Yannick\bibnamedelima Djoumbou},
+           giveni={Y\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a714518199421fd8f64530c1c7a6ebf8}{%
+           family={Marcu},
+           familyi={M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a8ab800b67861de4fcb94a2cbf4b4f91}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={An\bibnamedelima Chi},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6d470ccf9db356bd71a5d02be48bd506}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2cb344d4c7ffa659a896f0272f3c65db}{%
+           family={Vazquez-Fresno},
+           familyi={V\bibinithyphendelim F\bibinitperiod},
+           given={Rosa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e89a18d9ac5002ba50ff829a51ee6fd3}{%
+           family={Sajed},
+           familyi={S\bibinitperiod},
+           given={Tanvir},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2fc43e3d0810d31ef1843085ed53cdaa}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=59f5641d64cf72c86a8bb2fa7cf9ddc6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Carin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b28396a62200bfaf65a733e69b0c34d9}{%
+           family={Karu},
+           familyi={K\bibinitperiod},
+           given={Naama},
+           giveni={N\bibinitperiod}}}%
+        {{hash=94361256c936c4b02eb1884ef488f556}{%
+           family={Sayeeda},
+           familyi={S\bibinitperiod},
+           given={Zinat},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=87361c43aa90986e476632bad92ee54b}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Elvis},
+           giveni={E\bibinitperiod}}}%
+        {{hash=04bcf79fabeb9e28f0d99f017a6b7915}{%
+           family={Assempour},
+           familyi={A\bibinitperiod},
+           given={Nazanin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=538b810f7ee1f50830568b9ce0afd755}{%
+           family={Berjanskii},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3200e188df85167f2c1644f6cd60d408}{%
+           family={Singhal},
+           familyi={S\bibinitperiod},
+           given={Sandeep},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4937f43b9e0590f91a40a51c38d25c2e}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0db3c71699da10d35466e726e988e3d1}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yonjie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e44e6ef49c1f8d5c0c1f5ef6958d7546}{%
+           family={Badran},
+           familyi={B\bibinitperiod},
+           given={Hasan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=47c24622a6e2bde2e7e8983978d35641}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5222a93158998370d256a4ace5fd6ce4}{%
+           family={Serra-Cayuela},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Arnau},
+           giveni={A\bibinitperiod}}}%
+        {{hash=82de5e85b2a55227794435a0927faaaa}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yifeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2e5fb344b5352431cbe84a74e5d8a201}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Rupa},
+           giveni={R\bibinitperiod}}}%
+        {{hash=af06889a849a88c757c737754ed69684}{%
+           family={Neveu},
+           familyi={N\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=29de203e5d0450a763ee7db1ad1bdeb9}{%
+           family={Pon},
+           familyi={P\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c5fbad0c2e70b14c3b7f23d9e85f2217}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=787fc08539979052119961b89b38f29f}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{91a1047eb7a4424e3b192d36d6bb2fda}
+      \strng{fullhash}{714ad19a8a7ca83a0ab61620d317cfe2}
+      \strng{bibnamehash}{91a1047eb7a4424e3b192d36d6bb2fda}
+      \strng{authorbibnamehash}{91a1047eb7a4424e3b192d36d6bb2fda}
+      \strng{authornamehash}{91a1047eb7a4424e3b192d36d6bb2fda}
+      \strng{authorfullhash}{714ad19a8a7ca83a0ab61620d317cfe2}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1362-4962 (Electronic)}
+      \field{journaltitle}{Nucleic acids research}
+      \field{month}{1}
+      \field{number}{D1}
+      \field{title}{{HMDB 4.0: the human metabolome database for 2018.}}
+      \field{volume}{46}
+      \field{year}{2018}
+      \field{pages}{D608\bibrangedash D617}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/nar/gkx1089
+      \endverb
+    \endentry
+    \entry{foodb}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{title}{{FooDB}}
+      \verb{urlraw}
+      \verb http://foodb.ca/
+      \endverb
+      \verb{url}
+      \verb http://foodb.ca/
+      \endverb
+    \endentry
+    \entry{phenolexplorer}{article}{}
+      \name{author}{11}{}{%
+        {{hash=7be92af85b89be4dfde1ee7ef92a2714}{%
+           family={Medina-Rem{ó}n},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c5fbad0c2e70b14c3b7f23d9e85f2217}{%
+           family={Knox},
+           familyi={K\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7673dce607e151428277db017fc98ca7}{%
+           family={Perez-Jimenez},
+           familyi={P\bibinithyphendelim J\bibinitperiod},
+           given={Jara},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c6e4932ef0fcc5f8491611bde17e40f5}{%
+           family={Rothwell},
+           familyi={R\bibinitperiod},
+           given={Joseph\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=80cb14ff8104941feb6108569421cf18}{%
+           family={M'Hiri},
+           familyi={M\bibinitperiod},
+           given={Nouha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0949b6616c0fc77f0a0fb6d895b5d419}{%
+           family={Garc{í}a-Lobato},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=15ce3215cb9bcca736b3a736ce6288cd}{%
+           family={Eisner},
+           familyi={E\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod}}}%
+        {{hash=af06889a849a88c757c737754ed69684}{%
+           family={Neveu},
+           familyi={N\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{48c36df9200e582e7a79d8330747cff9}
+      \strng{fullhash}{cdcc5dea7acce9ec3cb3ce9ba285a37e}
+      \strng{bibnamehash}{48c36df9200e582e7a79d8330747cff9}
+      \strng{authorbibnamehash}{48c36df9200e582e7a79d8330747cff9}
+      \strng{authornamehash}{48c36df9200e582e7a79d8330747cff9}
+      \strng{authorfullhash}{cdcc5dea7acce9ec3cb3ce9ba285a37e}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polyphenols are a major class of bioactive phytochemicals whose consumption may play a role in the prevention of a number of chronic diseases such as cardiovascular diseases, type II diabetes and cancers. Phenol-Explorer, launched in 2009, is the only freely available web-based database on the content of polyphenols in food and their in vivo metabolism and pharmacokinetics. Here we report the third release of the database (Phenol-Explorer 3.0), which adds data on the effects of food processing on polyphenol contents in foods. Data on $\backslash$$\backslash${>}100 foods, covering 161 polyphenols or groups of polyphenols before and after processing, were collected from 129 peer-reviewed publications and entered into new tables linked to the existing relational design. The effect of processing on polyphenol content is expressed in the form of retention factor coefficients, or the proportion of a given polyphenol retained after processing, adjusted for change in water content. The result is the first database on the effects of food processing on polyphenol content and, following the model initially defined for Phenol-Explorer, all data may be traced back to original sources. The new update will allow polyphenol scientists to more accurately estimate polyphenol exposure from dietary surveys.Database URL: http://www.phenol-explorer.eu}
+      \field{issn}{1758-0463}
+      \field{journaltitle}{Database}
+      \field{title}{{Phenol-Explorer 3.0: a major update of the Phenol-Explorer database to incorporate data on the effects of food processing on polyphenol content}}
+      \field{volume}{2013}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1093/database/bat070
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1093/database/bat070
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1093/database/bat070
+      \endverb
+    \endentry
+    \entry{dictionary}{article}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The increasing world population, competition for arable land and rich fishing grounds, and environmental concerns mandate that we exploit in a sustainable way the earth's available plant and animal resources for human consumption. To that end, food chemists, technologists, and nutritionists engage in a vast number of tasks related to food availability, quality, safety, nutritional value, and sensory properties—as well as those involved in processing, storage, and distribution. To assist in these functions, it is essential they have easy access to a collection of information on the myriad compounds found in foods. This is particularly true because even compounds present in minute concentrations may exert significant desirable or negative effects on foods. Includes a foreword by Zdzislaw E. Sikorski, Gda{ń}sk University of Technology, Poland; Editor of the CRC Press Chemical {\&} Functional Properties of Food Components Series. Dictionary of Food Compounds, Second Edition is presented in a user-friendly format in both hard copy and fully searchable CD-ROM. It contains entries describing natural components of food raw materials and products as well as compounds added to foods or formed in the course of storage or processing. Each entry contains the name of the component, the chemical and physical characteristics, a description of functional properties related to food use, and nutritional and toxicological data. Ample references facilitate inquiry into more detailed information about any particular compound. Food Compounds Covered:Natural Food ConstituentsLipidsProteinsCarbohydratesFatty acidsFlavonoidsAlkaloidsFood ContaminantsMycotoxinsFood AdditivesColorantsPreservativesAntioxidantsFlavorsNutraceuticalsProbioticsDietary SupplementsVitamins This new edition boasts an additional 12,000 entries for a total of 41,000 compounds, including 900 enzymes found in food. No other reference work on food compounds is as complete or as comprehensive.}
+      \field{isbn}{9781420083521}
+      \field{issn}{0009-4978}
+      \field{journaltitle}{Choice Reviews Online}
+      \field{title}{{Dictionary of food compounds with CD-ROM}}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.5860/choice.51-1824
+      \endverb
+    \endentry
+    \entry{Baik2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2e01905b6a8af9fac8c4f167d8b36be1}{%
+           family={Baik},
+           familyi={B\bibinitperiod},
+           given={Byung-kee},
+           giveni={B\bibinithyphendelim k\bibinitperiod}}}%
+        {{hash=339742fe505f13acb5d77bb3cb4b450f}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={Steven\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \strng{fullhash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \strng{bibnamehash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \strng{authorbibnamehash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \strng{authornamehash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \strng{authorfullhash}{161f6305ca244466f1e9b8ca4549e9fc}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cereal Science}
+      \field{title}{{Barley for food : Characteristics , improvement , and renewed interest}}
+      \field{volume}{48}
+      \field{year}{2008}
+      \field{pages}{233\bibrangedash 242}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.jcs.2008.02.002
+      \endverb
+    \endentry
+    \entry{ISI:000272990200002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b2fa23c78330c98e4109d9c1e176bdb}{%
+           family={Abidi},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f34f0dd93338a48bec77ae8cdb0161cc}{%
+           family={{Ben Salem}},
+           familyi={B\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eee23e2f9c3b4ab487b37d63f9409f70}{%
+           family={Vasta},
+           familyi={V\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2b90892c5b9add7f76338f83c4ad4512}{%
+           family={Priolo},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c414956455598900c42a352899e2be7e}
+      \strng{fullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{bibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{authorbibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{authornamehash}{c414956455598900c42a352899e2be7e}
+      \strng{authorfullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An 84-day experiment, comprising growth and digestibility trials, was conducted to evaluate the effect of replacing barley with spineless Cactus (Opuntia ficus indica f. inermis) cladodes (cactus) on feed intake, digestion, blood metabolites, growth and meat quality of male lambs and kids consuming oaten hay. The replacement of barley by cactus decreased drinking water intake (P = 0.002) but had no effect on feed intake, diet digestibility and N balance (P {>} 0.05). Irrespective of animal species, the barley diet exhibited higher concentrations of allantoin in urine (P = 0.005) and therefore a higher microbial N Supply (P = 0.063) than the Cactus diet. Average daily gain was greater for the barley than for the cactus diet (P {<} 0.05), with a tendency for a greater difference for goats (46 g/day vs. 24 g/day) than for sheep (46 g/day vs. 39 g/day). The replacement of barley with cactus did not produce major differences in treat intramuscular fatty acid composition. Vaccenic acid concentration was significantly affected by treatment, being higher in meat of animals offered the cactus diet compared with the barley diet, while the accumulation of conjugated linoleic acid was not affected by the inclusion of cactus in the diet. Total saturated fatty acids, monounsaturated fatty acids (FA) and polyunsaturated FA were not influenced by supplementation with cactus. Despite the higher level of total n-6 FA in kids' meat, the n-6/n-3 ratio had a very low value. which is favourable for human health. It is concluded that. in terms of equivalent energy, cactus cladodes could replace barley in the diet of lambs and kids without substantial detrimental effects on digestion, growth and meat quality. Therefore, cactus could be used as a cost-effective feed supplement for sheep and goats on low quality roughages raised in dry areas. (C) 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{0921-4488}
+      \field{journaltitle}{SMALL RUMINANT RESEARCH}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{{Supplementation with barley or spineless cactus (Opuntia ficus indica f. inermis) cladodes on digestion, growth and intramuscular fatty acid composition in sheep and goats receiving oaten hay}}
+      \field{volume}{87}
+      \field{year}{2009}
+      \field{pages}{9\bibrangedash 16}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.smallrumres.2009.09.004
+      \endverb
+    \endentry
+    \entry{Foster2003}{article}{}
+      \name{author}{6}{}{%
+        {{hash=31bf037651f798b3fd278b1c468d72c9}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=57e00decd66175571e24f337f153e035}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={T\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=90f63ce21bfea699068cc91c42ec5694}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={A\bibnamedelima Hotston},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2cc4f696c0262e78492ddc8c6e896ac7}{%
+           family={Cousins},
+           familyi={C\bibinitperiod},
+           given={P\bibnamedelima D\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=652d85d431461d98d2dd7307a48c304b}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=eb26fe4e1f819a74aeec453b6dbc6533}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={E\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{adab852b87614731856d1c7d7f317681}
+      \strng{fullhash}{0f671883a1548ceb8e20b8595cebb746}
+      \strng{bibnamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authorbibnamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authornamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authorfullhash}{0f671883a1548ceb8e20b8595cebb746}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In human food allergy, with or without concurrent atopy, there may be significant increases in serum allergen-specific IgE. Serological methods have been tried but are not currently recommended for diagnosis of suspected food allergy in dogs. The aim of this study was to investigate humoral immune responses to food antigens in dogs. Serum IgG and IgE antibodies specific for food antigens were measured by enzyme linked immunosorbent assay (ELISA) using polyclonal anti-dog IgG and IgE reagents. Antigens tested were beef, chicken, pork, lamb, chicken, turkey, white fish, whole egg, wheat, soybean, barley, rice, maize corn, potato, yeast and cow's milk. Three groups were examined: normal dogs, dogs with atopic dermatitis (AD); and dogs with one of four types of gastrointestinal (GI) disease: small intestinal bacterial overgrowth (SIBO), inflammatory bowel disease (IBD), food-responsive disease, and infectious diarrhoea. Statistically significant differences in food-specific antibodies were not detected between the GI subgroups. There were statistically significant differences in the IgE concentration between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested. There were statistically significant differences in the average IgG concentrations between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested, except egg and yeast. The relationship of antigen responses for pooled data was analysed using principle component analysis and cluster plots. Some clustering of variables was apparent for both IgE and IgG. For example, all dogs (normal and diseased) made a similar IgG antibody response to chicken and turkey. Compared with other groups, atopic dogs had more food allergen-specific IgE and this would be consistent with a Th(2) humoral response to food antigens. Dogs with GI disease had more food allergen-specific IgG compared with the other groups. This may reflect increased antigen exposure due to increased mucosal permeability which is a recognised feature of canine intestinal disease.}
+      \field{issn}{0165-2427 (Print)}
+      \field{journaltitle}{Veterinary immunology and immunopathology}
+      \field{month}{5}
+      \field{number}{3-4}
+      \field{title}{{Serum IgE and IgG responses to food antigens in normal and atopic dogs, and dogs with gastrointestinal disease.}}
+      \field{volume}{92}
+      \field{year}{2003}
+      \field{pages}{113\bibrangedash 124}
+      \range{pages}{12}
+      \keyw{Animals,Antigens,Cluster Analysis,Dermatitis,Atopic,Dog Diseases,Dogs,Enzyme-Linked Immunosorbent Assay,Food Hypersensitivity,Gastrointestinal Diseases,Immunoglobulin E,Immunoglobulin G,Principal Component Analysis,blood,immunology,veterinary}
+    \endentry
+    \entry{DeAngelis2015}{article}{}
+      \name{author}{10}{}{%
+        {{hash=e61cd9d01318aa2a8917adb15f4c4bc3}{%
+           family={{De Angelis}},
+           familyi={D\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=40f552d891a0f413398efb30587b8ee9}{%
+           family={Montemurno},
+           familyi={M\bibinitperiod},
+           given={Eustacchio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e2abf59bc191ae1c68e85a5e5be3f9c4}{%
+           family={Vannini},
+           familyi={V\bibinitperiod},
+           given={Lucia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=17ac3537dbb8805df66cf5428093354d}{%
+           family={Cosola},
+           familyi={C\bibinitperiod},
+           given={Carmela},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c2928c2f58a0b060500d9478ce9a7ff9}{%
+           family={Cavallo},
+           familyi={C\bibinitperiod},
+           given={Noemi},
+           giveni={N\bibinitperiod}}}%
+        {{hash=78f4661b67d2a37874dbe0cf2a67c880}{%
+           family={Gozzi},
+           familyi={G\bibinitperiod},
+           given={Giorgia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4e6453f3ddf0ebe24a8c14768ed1c622}{%
+           family={Maranzano},
+           familyi={M\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=cb041c9a22deb855b496bd2ea470d904}{%
+           family={{Di Cagno}},
+           familyi={D\bibinitperiod},
+           given={Raffaella},
+           giveni={R\bibinitperiod}}}%
+        {{hash=56fd791232bf506c74b926ca205c5682}{%
+           family={Gobbetti},
+           familyi={G\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=02d3bbb1f09554496a50ec762a4627f8}{%
+           family={Gesualdo},
+           familyi={G\bibinitperiod},
+           given={Loreto},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{602ef78666dee272d29379c3b08000d5}
+      \strng{fullhash}{ccf876d6fcdff6f9d207354746adbf3d}
+      \strng{bibnamehash}{602ef78666dee272d29379c3b08000d5}
+      \strng{authorbibnamehash}{602ef78666dee272d29379c3b08000d5}
+      \strng{authornamehash}{602ef78666dee272d29379c3b08000d5}
+      \strng{authorfullhash}{ccf876d6fcdff6f9d207354746adbf3d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, we compared the fecal microbiota and metabolomes of 26 healthy subjects before (HS) and after (HSB) 2 months of diet intervention based on the administration of durum wheat flour and whole-grain barley pasta containing the minimum recommended daily intake (3 g) of barley beta-glucans. Metabolically active bacteria were analyzed through pyrosequencing of the 16S rRNA gene and community-level catabolic profiles. Pyrosequencing data showed that levels of Clostridiaceae (Clostridium orbiscindens and Clostridium sp.), Roseburia hominis, and Ruminococcus sp. increased, while levels of other Firmicutes and Fusobacteria decreased, from the HSB samples to the HS fecal samples. Community-level catabolic profiles were lower in HSB samples. Compared to the results for HS samples, cultivable lactobacilli increased in HSB fecal samples, while the numbers of Enterobacteriaceae, total coliforms, and Bacteroides, Porphyromonas, Prevotella, Pseudomonas, Alcaligenes, and Aeromonas bacteria decreased. Metabolome analyses were performed using an amino acid analyzer and gas chromatography-mass spectrometry solid-phase microextraction. A marked increase in short-chain fatty acids (SCFA), such as 2-methyl-propanoic, acetic, butyric, and propionic acids, was found in HSB samples with respect to the HS fecal samples. Durum wheat flour and whole-grain barley pasta containing 3{\%} barley beta-glucans appeared to be effective in modulating the composition and metabolic pathways of the intestinal microbiota, leading to an increased level of SCFA in the HSB samples.}
+      \field{annotation}{THE QUALITY IS NOT VERY HIGH. BECAUSE THE INTERVENTION CONSISTS 75{\%} WHEAT AND 25{\%} BARLEY}
+      \field{issn}{1098-5336 (Electronic)}
+      \field{journaltitle}{Applied and environmental microbiology}
+      \field{month}{11}
+      \field{number}{22}
+      \field{title}{{Effect of Whole-Grain Barley on the Human Fecal Microbiota and Metabolome.}}
+      \field{volume}{81}
+      \field{year}{2015}
+      \field{pages}{7945\bibrangedash 7956}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1128/AEM.02507-15
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/7945.full.pdf:pdf
+      \endverb
+      \keyw{16S,Adult,Bacteria,DNA,Diet,Feces,Female,Gas Chromatography-Mass Spectrometry,Hordeum,Humans,Italy,Male,Metabolome,Microbiota,Middle Aged,Phylogeny,RNA,Ribosomal,Sequence Analysis,Solid Phase Microextraction,Triticum,chemistry,classification,genetics,growth {\&} development,isolation {\&} purification,metabolism,microbiology}
+    \endentry
+    \entry{ISI:000309032000011}{article}{}
+      \name{author}{9}{}{%
+        {{hash=bc2faf2094f531c9048057f820ca3b44}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Jiantao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3e6c23f1bf7c219b233c40d26e96b52e}{%
+           family={Shea},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima Kyla},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6e378d5ad0bbc9db7b975e0b083411ff}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1ab30ee6ee9208f6980c5ed7e1247301}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Paul\bibnamedelima F},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=693e29e8640b1c0ae2138d605c90538f}{%
+           family={Saltzman},
+           familyi={S\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=32221282452ea8d7046784b228d170f4}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Alice\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0119fde9c848dfdecc89c6e1b55e50e7}{%
+           family={Booth},
+           familyi={B\bibinitperiod},
+           given={Sarah\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=42f690ea3d84c573b4fc72fcef47408d}{%
+           family={McKeown},
+           familyi={M\bibinitperiod},
+           given={Nicola\bibnamedelima M},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a70a437f304554cc53e37891b1a010af}
+      \strng{fullhash}{aadc3ef12ad143c2086fd35c29fdb8c0}
+      \strng{bibnamehash}{a70a437f304554cc53e37891b1a010af}
+      \strng{authorbibnamehash}{a70a437f304554cc53e37891b1a010af}
+      \strng{authornamehash}{a70a437f304554cc53e37891b1a010af}
+      \strng{authorfullhash}{aadc3ef12ad143c2086fd35c29fdb8c0}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alkylresorcinols (AR) are phenolic lipids found in the bran fraction of whole-grain wheat, rye, and barley. In intervention studies, plasma AR concentration increased in response to greater intakes of whole grain, wheat, and rye. This study examined the cross-sectional associations between plasma AR and habitual whole-grain intake, BMI, and metabolic risk factors in 407 free-living older adults (166 men and 241 women; aged 60-81y; median BMI: 27 kg/m(2)). Plasma AR were measured by liquid chromatography tandem MS, and whole-grain intakes were estimated by using an FFQ. After adjustment for fasting TG concentrations, median plasma AR concentrations across quartile categories of AR were 5, 14, 27, and 62 nmol/L, respectively. Spearman correlation coefficients between plasma AR and whole-grain wheat rich foods and total bran intake were 0.31 and 0.27, respectively (both P {<} 0.00011. After adjustment for multiple covariates, the geometric means of BMI in the lowest and highest quartile category of plasma AR were 27.6 and 26.7 kg/m(2), respectively (P-trend = 0.04). No associations were observed between plasma AR and glucose and insulin. Our study shows a dose-dependent relationship between whole-grain intake and plasma AR and confirms the previously observed inverse relationship between whole-grain intake and BMI using an independent biomarker of whole-grain wheat intake. J. Nutr. 142: 1859-1864, 2012.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{JOURNAL OF NUTRITION}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Plasma Alkylresorcinols, Biomarkers of Whole-Grain Intake, Are Related to Lower BMI in Older Adults}}
+      \field{volume}{142}
+      \field{year}{2012}
+      \field{pages}{1859\bibrangedash 1864}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.3945/jn.112.163253
+      \endverb
+    \endentry
+    \entry{ISI:000259554500019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b8f41b8eab14e2b4a88a4691d3c74685}{%
+           family={Guyman},
+           familyi={G\bibinitperiod},
+           given={Laura\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f691cb720b93ea31544a2f68dee4ec71}{%
+           family={Adlercreutz},
+           familyi={A\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=45123195798da96f5d55d0b7d47e7ed5}{%
+           family={Koskela},
+           familyi={K\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1df2b6f67a5a1fe41f9bc9df027cdb34}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6e7aea723bd7b589063c0de0fd83f96b}{%
+           family={Beresford},
+           familyi={B\bibinitperiod},
+           given={Shirley\bibnamedelimb A\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5ce8202845475acc5afba938ba100aa3}{%
+           family={Lampe},
+           familyi={L\bibinitperiod},
+           given={Johanna\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{83d180e724b73634a3c89e401fcad61e}
+      \strng{fullhash}{e0365967d83fa056c74e1619b804273f}
+      \strng{bibnamehash}{83d180e724b73634a3c89e401fcad61e}
+      \strng{authorbibnamehash}{83d180e724b73634a3c89e401fcad61e}
+      \strng{authornamehash}{83d180e724b73634a3c89e401fcad61e}
+      \strng{authorfullhash}{e0365967d83fa056c74e1619b804273f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{5-n-Alkylresorcinols (AR) are a major group of phenolic compounds in whole-grain wheat, rye, and barley, As such, they may serve as potential biomarkers of whole-grain intake, because they are quantifiable intact in plasma and as metabolites in urine. We examined relationships between 12-h urinary excretion of AR metabolite 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA) and self-reported habitual intake of whole-grain foods measured by 3-d food record (3DFR) and FFQ. Urine samples from 100 men and women were analyzed for DHPPA using HPLC with coularray detection. DHPPA excretion ranged from 1.3 to 99.4 (mean +/- SE, 14.0 +/- 1.5) mu mol/12 h. Whole-grain food intake, as determined by 3DFR and FFQ and adjusted for BMI and energy and fiber intake, was significantly associated with 12-h urinary DHPPA excretion. Based on 3DFR, whole-grain wheat + rye consumers had a 44{\%} higher DHPPA excretion than nonconsumers {\{}[{\}}ratio of excretion (95{\%} CI) = 1.44 (1.04, 1,97); P = 0.029]. Using whole-grain intake estimated by FFQ, a serving increase in whole-grain wheat + rye intake increased DHPPA excretion by 94{\%} {\{}[{\}}ratio of excretion (95{\%} Cl) = 1.94 (1.35, 2.78); P = 0.001] and a serving increase in whole grains as defined more broadly in epidemiologic studies of whole-grain intake and disease risk (whole-grain wheat, rye, oats, and corn) increased DHPPA by 67{\%} {\{}[{\}}ratio of excretion (95{\%} CI) = 1.67 (1,28, 2.17); P {<} 0.0001]. This study supports the potential utility of urinary DHPPA as a biomarker of whole-grain intake in a U.S. population.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{JOURNAL OF NUTRITION}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Urinary 3-(3,5-dihydroxyphenyl)-1-propanoic acid, an alkylresorcinol metabolite, is a potential biomarker of whole-grain intake in a US population}}
+      \field{volume}{138}
+      \field{year}{2008}
+      \field{pages}{1957\bibrangedash 1962}
+      \range{pages}{6}
+    \endentry
+    \entry{doi:10.1021/jf0340456}{article}{}
+      \name{author}{7}{}{%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d578b5f1c313a66190cbfa58dc2518e9}{%
+           family={Shepherd},
+           familyi={S\bibinitperiod},
+           given={Martin\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e97205f00692f86bde3c7575158b67cb}{%
+           family={Sch{ü}pphaus},
+           familyi={S\bibinitperiod},
+           given={Meike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b951bbb19999e0ad094508773e4fb4bc}{%
+           family={Sinclair},
+           familyi={S\bibinitperiod},
+           given={Vicky},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8a03f3765a2b4e71e8e5ae1b13bb0a2d}{%
+           family={Alfaro},
+           familyi={A\bibinitperiod},
+           given={Bego{ñ}a},
+           giveni={B\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{fullhash}{a4326ecbc4ecb242be2b9947a7951732}
+      \strng{bibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authorbibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authornamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authorfullhash}{a4326ecbc4ecb242be2b9947a7951732}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{PMID: 12822955}
+      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
+      \field{number}{14}
+      \field{title}{{Alkylresorcinols in Cereals and Cereal Products}}
+      \field{volume}{51}
+      \field{year}{2003}
+      \field{pages}{4111\bibrangedash 4118}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/jf0340456
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jf0340456
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jf0340456
+      \endverb
+    \endentry
+    \entry{ANDERSSON2010794}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0003ca70f6a50e5464310554b114c284}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Annica\bibnamedelimb A\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a02f6a1c79fae59db8c2be51f3168aea}{%
+           family={Wandel},
+           familyi={W\bibinitperiod},
+           given={Margareta},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9610beec3c4fe5548db10364d9634cc3}{%
+           family={Fr{ø}lich},
+           familyi={F\bibinitperiod},
+           given={Wenche},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b46716982e45b11f7d030269a14ef1bb}
+      \strng{fullhash}{3768dd4530419a611ced15bd9b7c3750}
+      \strng{bibnamehash}{3768dd4530419a611ced15bd9b7c3750}
+      \strng{authorbibnamehash}{3768dd4530419a611ced15bd9b7c3750}
+      \strng{authornamehash}{b46716982e45b11f7d030269a14ef1bb}
+      \strng{authorfullhash}{3768dd4530419a611ced15bd9b7c3750}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The alkylresorcinol (AR) content and relative homologue composition were determined in Norwegian flours and bread. The following average values for total AR content ($\mu$g/gdm) were found: wholegrain wheat flour available only to bakers (490) and to both consumers and bakers (710), refined wheat flour (36), wheat bran (3625), wholegrain spelt wheat flour (650), refined spelt wheat flour (80), wholegrain rye flour (972), refined rye flour (90) and rye bran (2753). The C17:0/C21:0 ratio was 0.1 for wheat and 0.8–0.9 for rye, confirming that it can be used to distinguish between wheat and rye. The AR content of Norwegian refined wheat flour was higher than that of Swedish, due to a consistently higher milling extraction rate in Norway. The content of AR varied from 27 to 2766$\mu$g/gdm in hard bread and 21 to 548$\mu$g/gdm in soft bread. The highest contents were found in bread with a high proportion of wholegrain flour and/or bran, in agreement with earlier studies. There was a good correlation (r=0.91) and a high compliance between calculated and analysed AR levels in soft bread, confirming that AR can be used as a biomarker for wholegrain wheat and/or rye content in a cereal product.}
+      \field{issn}{0889-1575}
+      \field{journaltitle}{Journal of Food Composition and Analysis}
+      \field{number}{8}
+      \field{title}{{Alkylresorcinols in wheat and rye flour and bread}}
+      \field{volume}{23}
+      \field{year}{2010}
+      \field{pages}{794\bibrangedash 801}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jfca.2010.03.012
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/1-s2.0-S0889157510001341-main (1).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0889157510001341
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0889157510001341
+      \endverb
+      \keyw{Alkylresorcinols,Bread,Flour,Food analysis,Food composition,Rye,Spelt wheat,Wheat,Wholegrain}
+    \endentry
+    \entry{BORDIGA201638}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ec9518662d8edbe85f54db5856561fd7}{%
+           family={Bordiga},
+           familyi={B\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=077f0d702ee624d15cd4f3ee12d14326}{%
+           family={Locatelli},
+           familyi={L\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=db3ce75a32ccfde828e4018f57c5dc94}{%
+           family={Travaglia},
+           familyi={T\bibinitperiod},
+           given={Fabiano},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ed3c55c1abde95bdacd6c87724e85c76}{%
+           family={Arlorio},
+           familyi={A\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4d8cef05d1270944bd6a2b5ebfaf9ec1}{%
+           family={Reyneri},
+           familyi={R\bibinitperiod},
+           given={Amedeo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b13bc28a96c34743e2cf1f188c09387c}{%
+           family={Blandino},
+           familyi={B\bibinitperiod},
+           given={Massimo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a378487dafe29340996b52f0ad2db421}{%
+           family={Coisson},
+           familyi={C\bibinitperiod},
+           given={Jean\bibnamedelima Daniel},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{08e31b2c7577fc9a46d219732e28c273}
+      \strng{fullhash}{f9d2bee21df14de691d2a65a13e651dc}
+      \strng{bibnamehash}{08e31b2c7577fc9a46d219732e28c273}
+      \strng{authorbibnamehash}{08e31b2c7577fc9a46d219732e28c273}
+      \strng{authornamehash}{08e31b2c7577fc9a46d219732e28c273}
+      \strng{authorfullhash}{f9d2bee21df14de691d2a65a13e651dc}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this work was to investigate the content and the composition of alkylresorcinols (ARs) in different wheat and barley cultivars, and in fractions obtained by progressive pearling. Three commercial winter wheats, characterized by different hardness and technological quality, and three barleys, including hulled and hull-less types, were selected. Two different protocols of sequential pearling were applied. Pearling of wheat and hull-less barley cultivars gave five fractions (each corresponding to 5{\%} of grain weight) and 75{\%} of the residue. In the case of hulled barley eight pearled fractions and 60{\%} of inner kernel were obtained. In wheat ARs were prevalently located in the 5–10{\%} intermediate fraction, while for barley results varied depending on the cultivar. In the hull-less cultivar, the AR content progressively decreased from the outermost fraction (0–5{\%}) towards the inner layers, while for hulled barley the highest AR content was observed in the 10–15{\%} fraction, evidencing lower amounts in the coarse hull (included in the 0–5{\%} and 5–10{\%} fractions). Based on the different localization of ARs in the cereal kernel, progressive pearling can be employed to obtain enriched fractions that could be used to enhance ingredients and products rich in these bioactive compounds.}
+      \field{issn}{0733-5210}
+      \field{journaltitle}{Journal of Cereal Science}
+      \field{title}{{Alkylresorcinol content in whole grains and pearled fractions of wheat and barley}}
+      \field{volume}{70}
+      \field{year}{2016}
+      \field{pages}{38\bibrangedash 46}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jcs.2016.05.017
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/1-s2.0-S0733521016300790-main (1).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0733521016300790
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0733521016300790
+      \endverb
+      \keyw{Alkylresorcinols,Barley,Pearling,Wheat}
+    \endentry
+    \entry{Dragsted2017}{article}{}
+      \name{author}{7}{}{%
+        {{hash=4907915e1dc8b73c3c61f6123a36a000}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=63677015b0fbd760e55a21f08a606f98}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=afa1662d3b97c254dbc594fbea8566f3}{%
+           family={Pratic{ò}},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0783e62db9056ef92cc7163b0c6f8618}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={Edith\bibnamedelima J.M.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Genes {\&} Nutrition}%
+      }
+      \strng{namehash}{0c1ac2d284847703581c325928cb4779}
+      \strng{fullhash}{8ae65c557d2591c348bd615afc9d194f}
+      \strng{bibnamehash}{0c1ac2d284847703581c325928cb4779}
+      \strng{authorbibnamehash}{0c1ac2d284847703581c325928cb4779}
+      \strng{authornamehash}{0c1ac2d284847703581c325928cb4779}
+      \strng{authorfullhash}{8ae65c557d2591c348bd615afc9d194f}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18653499}
+      \field{journaltitle}{Genes and Nutrition}
+      \field{number}{1}
+      \field{title}{{Dietary and health biomarkers—time for an update}}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1186/s12263-017-0578-y
+      \endverb
+      \keyw{Biomarker,Classification,Databases,Food intake,Metabolomics,Nutrition,Ontology,Review,Validation}
+    \endentry
+    \entry{Gao2017}{article}{}
+      \name{author}{14}{}{%
+        {{hash=63677015b0fbd760e55a21f08a606f98}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=afa1662d3b97c254dbc594fbea8566f3}{%
+           family={Pratic{ò}},
+           familyi={P\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7a70b9f3e61e3bc7ff315a87a075ee42}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={Augustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ed9dc1a5dd3a967bf2da19b258f5e376}{%
+           family={Verg{è}res},
+           familyi={V\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0c01dad542ad5f3fae1950eb9ec859f8}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={Marjukka},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aaaf9553365573fefa618a85486915b8}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={Claudine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63ac5746e80f367ebf112368a25ffadd}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Lorraine},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4ec09eb070c946ae914a5c4c66d287a2}{%
+           family={Afman},
+           familyi={A\bibinitperiod},
+           given={Lydia\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4388a0c99df3cdd68076b5a30278e4c0}{%
+           family={Andres-Lacueva},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aed3bf3502c3537743cd208659384c90}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0783e62db9056ef92cc7163b0c6f8618}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={Edith\bibnamedelimb J\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4907915e1dc8b73c3c61f6123a36a000}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima O},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{90c9631511f60b66e56441c5c6339f11}
+      \strng{fullhash}{c36e37e2da778a8e93a034b2a5cb58c9}
+      \strng{bibnamehash}{90c9631511f60b66e56441c5c6339f11}
+      \strng{authorbibnamehash}{90c9631511f60b66e56441c5c6339f11}
+      \strng{authornamehash}{90c9631511f60b66e56441c5c6339f11}
+      \strng{authorfullhash}{c36e37e2da778a8e93a034b2a5cb58c9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Biomarkers are an efficient means to examine intakes or exposures and their biological effects and to assess system susceptibility. Aided by novel profiling technologies, the biomarker research field is undergoing rapid development and new putative biomarkers are continuously emerging in the scientific literature. However, the existing concepts for classification of biomarkers in the dietary and health area may be ambiguous, leading to uncertainty about their application. In order to better understand the potential of biomarkers and to communicate their use and application, it is imperative to have a solid scheme for biomarker classification that will provide a well-defined ontology for the field. In this manuscript, we provide an improved scheme for biomarker classification based on their intended use rather than the technology or outcomes (six subclasses are suggested: food compound intake biomarkers (FCIBs), food or food component intake biomarkers (FIBs), dietary pattern biomarkers (DPBs), food compound status biomarkers (FCSBs), effect biomarkers, physiological or health state biomarkers). The application of this scheme is described in detail for the dietary and health area and is compared with previous biomarker classification for this field of research.}
+      \field{issn}{1865-3499}
+      \field{journaltitle}{Genes {\&} Nutrition}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{A scheme for a flexible classification of dietary and health biomarkers}}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{pages}{34}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12263-017-0587-x
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/s12263-017-0587-x.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12263-017-0587-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12263-017-0587-x
+      \endverb
+    \endentry
+    \entry{Bird2008}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ea8c9393a5b549bcaf2dc507fd5e2776}{%
+           family={Bird},
+           familyi={B\bibinitperiod},
+           given={Anthony\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=742e82e053d4b05fd862bf52e4785e94}{%
+           family={Vuaran},
+           familyi={V\bibinitperiod},
+           given={Michelle\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1597117e7aca26e8ef2db8bcabb6bfba}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Roger\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=50e341af20222f52721889b83e924431}{%
+           family={Noakes},
+           familyi={N\bibinitperiod},
+           given={Manny},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c50c4a26284e89e2a8a63e6994a0f8bf}{%
+           family={Keogh},
+           familyi={K\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbdc514449a110d0b569c9bb53d692d1}{%
+           family={Morell},
+           familyi={M\bibinitperiod},
+           given={Matthew\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b08cf1ffed8165b56305e6a4d6aff079}{%
+           family={Topping},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{488a3d571659c62607d5e73a07bfbb23}
+      \strng{fullhash}{23dee654f01d4eebb5fbbdbfbcf8c89e}
+      \strng{bibnamehash}{488a3d571659c62607d5e73a07bfbb23}
+      \strng{authorbibnamehash}{488a3d571659c62607d5e73a07bfbb23}
+      \strng{authornamehash}{488a3d571659c62607d5e73a07bfbb23}
+      \strng{authorfullhash}{23dee654f01d4eebb5fbbdbfbcf8c89e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Himalaya 292 (Hordeum vulgare var. Himalaya 292) is a novel hull-less barley variety lacking activity of a key enzyme of starch synthesis giving a grain containing less total starch, more amylose and higher total dietary fibre. Animal trials have shown that Himalaya 292 contains more resistant starch and has greater positive impact on biomarkers of large-bowel health than comparable wholegrain cereal products. The present study compared the effects of foods made from wholegrain Himalaya 292 with those made from wholegrain wheat on faecal biomarkers of bowel health in human subjects. Seventeen male and female volunteers aged 31-66 years consumed similar quantities of Himalaya 292, whole-wheat or refined cereal foods daily for 4 weeks in a randomised cross-over design. Total dietary fibre intakes from weighed food records were 45, 32 and 21 g/d for the Himalaya 292, whole-wheat and refined cereal periods, respectively. Compared with the refined cereal foods, consumption of Himalaya 292 foods resulted in 33 {\%} higher faecal weight, a lowering of faecal pH from 7.24 to 6.98, a 42 {\%} higher faecal concentration and a 91 {\%} higher excretion of butyrate, a 57 {\%} higher faecal total SCFA excretion and a 33 {\%} lower faecal p-cresol concentration. pH and butyrate concentration and excretion were also significantly different compared with wholemeal wheat. It is concluded that consumption of a diet that included foods made from Himalaya 292 supplied more fibre and improved indices of bowel health compared with refined cereal foods and, for some indices, similar wholemeal wheat foods at equivalent levels of intake.}
+      \field{issn}{0007-1145 (Print)}
+      \field{journaltitle}{The British journal of nutrition}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Wholegrain foods made from a novel high-amylose barley variety (Himalaya 292) improve indices of bowel health in human subjects.}}
+      \field{volume}{99}
+      \field{year}{2008}
+      \field{pages}{1032\bibrangedash 1040}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1017/S000711450783902X
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/wholegrain{\_}foods{\_}made{\_}from{\_}a{\_}novel{\_}highamylose{\_}barley{\_}variety{\_}himalaya{\_}292{\_}improve{\_}indices{\_}of{\_}bowel{\_}health{\_}in{\_}human{\_}subjects.pdf:pdf
+      \endverb
+      \keyw{Adult,Aged,Amylose,Cross-Over Studies,Defecation,Diet,Dietary Fiber,Energy Intake,Fatty Acids,Feces,Female,Hordeum,Humans,Hydrogen-Ion Concentration,Male,Middle Aged,Prospective Studies,Triticum,Volatile,Water,administration {\&} dosage,analysis,chemistry,metabolism}
+    \endentry
+    \entry{Ames2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=36a377d32971b8d8510bb33efd9c3e93}{%
+           family={Ames},
+           familyi={A\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c4c189b6d1ef2c4c1c908665240f99fa}{%
+           family={Blewett},
+           familyi={B\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2b4f21d19d82c934be5eb2200b33f747}{%
+           family={Storsley},
+           familyi={S\bibinitperiod},
+           given={Joanne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=25cf46441f2cbb161b806dde6d7b970c}{%
+           family={Thandapilly},
+           familyi={T\bibinitperiod},
+           given={Sijo\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fb4c4f86b780f1a41f8135b05b0f56c6}{%
+           family={Zahradka},
+           familyi={Z\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=905010dbbe4ac05546484e6d2784f2ea}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{50535cd543485411fee0d11a42f00433}
+      \strng{fullhash}{eae149bc0d6c2c9d60cd5ab1ef142dad}
+      \strng{bibnamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authorbibnamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authornamehash}{50535cd543485411fee0d11a42f00433}
+      \strng{authorfullhash}{eae149bc0d6c2c9d60cd5ab1ef142dad}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of the present study was to determine if the consumption of barley tortillas varying in fibre and/or starch composition affected postprandial glucose, insulin, glucagon-like peptide-1 (GLP-1) or peptide YY concentrations. A double-blind, randomised, controlled trial was performed with twelve healthy adults. They each consumed one of five barley tortillas or a glucose drink on six individual visits separated by at least 1 week. Tortillas were made from 100{\%} barley flour blends using five different milling fractions to achieve the desired compositions. All treatments provided 50 g of available carbohydrate and were designed to make the following comparisons: (1) low-starch amylose (0{\%}) v. high-starch amylose (42{\%}) with similar beta-glucan and insoluble fibre content; (2) low beta-glucan (4.5 g) v. medium beta-glucan (7.8 g) v. high beta-glucan (11.6 g) with similar starch amylose and insoluble fibre content; and (3) low insoluble fibre (7.4 g) v. high insoluble fibre (19.6 g) with similar starch amylose and beta-glucan content. Blood was collected at fasting and at multiple intervals until 180 min after the first bite/sip of the test product. Amylose and insoluble fibre content did not alter postprandial glucose and insulin, but high-beta-glucan tortillas elicited a lower glucose and insulin response as compared to the low-beta-glucan tortillas. The tortillas with high insoluble fibre had a higher AUC for GLP-1 as compared to the tortillas with low insoluble fibre, whereas amylose and beta-glucan content had no effect. Results show that processing methods can be used to optimise barley foods to reduce postprandial blood glucose responses and factors that may influence satiety.}
+      \field{issn}{1475-2662 (Electronic)}
+      \field{journaltitle}{The British journal of nutrition}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{{A double-blind randomised controlled trial testing the effect of a barley product containing varying amounts and types of fibre on the postprandial glucose response of healthy volunteers.}}
+      \field{volume}{113}
+      \field{year}{2015}
+      \field{pages}{1373\bibrangedash 1383}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1017/S0007114515000367
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/doubleblind{\_}randomised{\_}controlled{\_}trial{\_}testing{\_}the{\_}effect{\_}of{\_}a{\_}barley{\_}product{\_}containing{\_}varying{\_}amounts{\_}and{\_}types{\_}of{\_}fibre{\_}on{\_}the{\_}postprandial{\_}glucose{\_}response{\_}of{\_}healthy{\_}volunteers.pdf:pdf
+      \endverb
+      \keyw{Adult,Amylose,Animals,Blood Glucose,Bread,Cross-Over Studies,Diet,Dietary Fiber,Double-Blind Method,Female,Flour,Genotype,Glucagon-Like Peptide 1,Glycemic Index,Healthy Volunteers,Hordeum,Humans,Insulin,Male,Peptide YY,Postprandial Period,Satiation,Seeds,Solubility,Starch,administration {\&} dosage,analysis,beta-Glucans,blood,chemistry,genetics}
+    \endentry
+    \entry{Marungruang2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a73f1c0d86e6701161c6e58b10d798c5}{%
+           family={Marungruang},
+           familyi={M\bibinitperiod},
+           given={Nittaya},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f47f336fabca7338b4c22ab7f54563b0}{%
+           family={Tovar},
+           familyi={T\bibinitperiod},
+           given={Juscelino},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48d00e0812758619cbc079a6e020acd4}{%
+           family={Bjorck},
+           familyi={B\bibinitperiod},
+           given={Inger},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8f399e16f84d0382669bc22198c4bece}{%
+           family={Hallenius},
+           familyi={H\bibinitperiod},
+           given={Frida\bibnamedelima Fak},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{058a12e2f15f07e1aa8d7df38b33f48f}
+      \strng{fullhash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
+      \strng{bibnamehash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
+      \strng{authorbibnamehash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
+      \strng{authornamehash}{058a12e2f15f07e1aa8d7df38b33f48f}
+      \strng{authorfullhash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: A multifunctional diet (MFD) targeting subclinical inflammation was developed as a tool to decrease risk factors for cardiometabolic disease in healthy "at-risk" individuals (BMI 25-33 kg/m(2)). MFD contains several components that are degraded in the colon by the microbiota, such as dietary fibers from rye, barley, oats and berries. It also contains soy beans, oily fish and plant stanols. In previous studies, we have observed improved cardiometabolic markers in healthy at-risk individuals after 4-8 week intake of MFD. However, whether these improvements can be associated with changes in the gut microbiota composition has not been investigated. In the present study, we analyzed the gut microbiota before and after an 8-week dietary intervention with MFD. METHODS: Cardiometabolic at-risk individuals (n = 47), between 51 and 72 years old and with a BMI of 25-33 kg/m(2), were given either the MFD or a control diet lacking the functional ("active") components for 8 weeks in a parallel, randomized design. Next-generation sequencing of bacterial 16S rRNA genes was used to analyze the gut microbiota composition. RESULTS: The 8-week intervention with MFD did not significantly alter the gut microbiota composition at phylum or genus taxonomic levels, while LEfSE analysis identified increased abundance of Prevotella copri in the MFD group as compared to the control group. Treponema correlated positively with blood pressure. In contrast, Faecalibacterium showed a negative association with blood pressure, while Bilophila appeared to associate with a negative blood lipid profile. CONCLUSIONS: Taken together, results from the present study may be used in the further development of effective dietary concepts capable of reducing cardiometabolic risk markers in humans through a targeted modulation of the gut microbial community. TRIAL REGISTRATION NUMBER: Clinical Trials.gov NCT02148653.}
+      \field{issn}{1436-6215 (Electronic)}
+      \field{journaltitle}{European journal of nutrition}
+      \field{month}{12}
+      \field{number}{8}
+      \field{title}{{Improvement in cardiometabolic risk markers following a multifunctional diet is associated with gut microbial taxa in healthy overweight and obese subjects.}}
+      \field{volume}{57}
+      \field{year}{2018}
+      \field{pages}{2927\bibrangedash 2936}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00394-017-1563-3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Marungruang2018{\_}Article{\_}ImprovementInCardiometabolicRi.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Chen2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{227f173d507aa36e62084839cf71c151}
+      \strng{fullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{bibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{authorbibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{authornamehash}{227f173d507aa36e62084839cf71c151}
+      \strng{authorfullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{doi: 10.1021/jf049726v}
+      \field{issn}{0021-8561}
+      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
+      \field{month}{12}
+      \field{number}{26}
+      \field{title}{{Alkylresorcinols as Markers of Whole Grain Wheat and Rye in Cereal Products}}
+      \field{volume}{52}
+      \field{year}{2004}
+      \field{pages}{8242\bibrangedash 8246}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/jf049726v
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/jf049726v.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+    \endentry
+    \entry{ISI:000334172400017}{article}{}
+      \name{author}{50}{}{%
+        {{hash=4b6268035937b7a8a8d18b2f33298f58}{%
+           family={Kyro},
+           familyi={K\bibinitperiod},
+           given={Cecilie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f96c4cc75e3ee233801b19644a50fb19}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aedaae93578b0333db6fd08c4afd9bd3}{%
+           family={Bueno-de-Mesquita},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={H\bibnamedelima B(as).},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=cdecb767c18dd232690c2cdc3a01a215}{%
+           family={Skeie},
+           familyi={S\bibinitperiod},
+           given={Guri},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9e12136df486b2b8b1a0e91a913db153}{%
+           family={Loft},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=627b9820ab301eaa1f6ab1606bc25b59}{%
+           family={Aman},
+           familyi={A\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bb684d52a6d0a40513f8199d38a15fd3}{%
+           family={Leenders},
+           familyi={L\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a706d2de3a4044cd16c0346a803813a6}{%
+           family={Dik},
+           familyi={D\bibinitperiod},
+           given={Vincent\bibnamedelima K},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=88922e5738955052d4f84557430f8f4c}{%
+           family={Siersema},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=afd0ac6c85b07efc98fcd01dc96b66bb}{%
+           family={Pischon},
+           familyi={P\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1338bb6274f57525047835ecfa722b5e}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3d8b85646ee5ae30c9ad4ddb2e36b4ca}{%
+           family={Overvad},
+           familyi={O\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2b38591b91e4a55f10a7397723729826}{%
+           family={Boutron-Ruault},
+           familyi={B\bibinithyphendelim R\bibinitperiod},
+           given={Marie-Christine},
+           giveni={M\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=e726ced571acf2389a302b9563dea1c5}{%
+           family={Fagherazzi},
+           familyi={F\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=16ddb1959ab624c74dbe8faf4ab9686e}{%
+           family={Cottet},
+           familyi={C\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8470691eba4f09b075d1269859441f38}{%
+           family={Kuehn},
+           familyi={K\bibinitperiod},
+           given={Tilman},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3ce973fdd9330786834e1e1971b3c976}{%
+           family={Chang-Claude},
+           familyi={C\bibinithyphendelim C\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c62b8f524ebca677a4b3590f47c745a3}{%
+           family={Boeing},
+           familyi={B\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d9b8eb4673ca0f6c1fa8e3feda716847}{%
+           family={Trichopoulou},
+           familyi={T\bibinitperiod},
+           given={Antonia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dab481ad3fda7f7ef3e2b499c24ef53f}{%
+           family={Naska},
+           familyi={N\bibinitperiod},
+           given={Androniki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b84c251d2c6b063b8f4ce48400548b9}{%
+           family={Oikonomidou},
+           familyi={O\bibinitperiod},
+           given={Despoina},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9937fb1b1be1b51c4691d785b6bb9a80}{%
+           family={Masala},
+           familyi={M\bibinitperiod},
+           given={Giovanna},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7cfe0298e8f56f9f98fe9ff9fd56cb78}{%
+           family={Pala},
+           familyi={P\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8738dda69005d37fd5a399562bf5c2f4}{%
+           family={Tumino},
+           familyi={T\bibinitperiod},
+           given={Rosario},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7b6fec425491136180895fd4924e53cb}{%
+           family={Vineis},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=97f5811306a03cab5d8401453d1ae7bb}{%
+           family={Mattiello},
+           familyi={M\bibinitperiod},
+           given={Amalia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9bba54f38aa07a309d23b885956e58d9}{%
+           family={Peeters},
+           familyi={P\bibinitperiod},
+           given={Petra\bibnamedelima H},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=be3a5cd9431206b372dbfb28e5f83edf}{%
+           family={Bakken},
+           familyi={B\bibinitperiod},
+           given={Toril},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b1bd02971d81c4b2f5873976ea8251e1}{%
+           family={Weiderpass},
+           familyi={W\bibinitperiod},
+           given={Elisabete},
+           giveni={E\bibinitperiod}}}%
+        {{hash=813de7df962fc180fc17198c2efedcd0}{%
+           family={Asli},
+           familyi={A\bibinitperiod},
+           given={Lene\bibnamedelima Angell},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=50fe9d0196e3bc09d9a305c7cea82f88}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Soledad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=39af073b7dd568ce65e7ac92d48ace4f}{%
+           family={Jakszyn},
+           familyi={J\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+        {{hash=458a2c286b3264b2b6de53f4066501d1}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Maria-Jose},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=eb970c5b7b98ab3ac842aad58a15cc1c}{%
+           family={Amiano},
+           familyi={A\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7b079a945b350a7965e245283a27c75e}{%
+           family={{Maria Huerta}},
+           familyi={M\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+        {{hash=49076b27da3868c94f8a8b8c78791587}{%
+           family={Barricarte},
+           familyi={B\bibinitperiod},
+           given={Aurelio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3c90ddfc1d1a37016a18a7602318d0d7}{%
+           family={Ljuslinder},
+           familyi={L\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=879a0c8c6d8432a9a305ee930e835bbd}{%
+           family={Palmqvist},
+           familyi={P\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f0e134cb10d7484a5c49d6571a5af190}{%
+           family={Khaw},
+           familyi={K\bibinitperiod},
+           given={Kay-Tee},
+           giveni={K\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=6a7da229dc55fa906f0cf66d5b2a7355}{%
+           family={Wareham},
+           familyi={W\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c957a16377fe4294bb9831c83fbf685f}{%
+           family={Key},
+           familyi={K\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7af5930223879767664989d8a38885ad}{%
+           family={Travis},
+           familyi={T\bibinitperiod},
+           given={Ruth\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0263a696320dcadad70131a3426183c1}{%
+           family={Slimani},
+           familyi={S\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5656ffe86c2cfe8414ef9002d4b5cc70}{%
+           family={Freisling},
+           familyi={F\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod}}}%
+        {{hash=be36d04c41f63faae8cf3fd6e939be8c}{%
+           family={Ferrari},
+           familyi={F\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0980cbdc590d24fcccf594672cecb4bb}{%
+           family={Gunter},
+           familyi={G\bibinitperiod},
+           given={Marc\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1b290e4c48fdc3af19bdba040a6cacba}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=dba4272d5c6260989bc61306e1deaafb}{%
+           family={Riboli},
+           familyi={R\bibinitperiod},
+           given={Elio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=505cd3055bd7a115f2fe001d07c72d1a}{%
+           family={Tjonneland},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{fullhash}{d56e9dad93a3a7f0fe5bfe0bc1c43543}
+      \strng{bibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authorbibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authornamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
+      \strng{authorfullhash}{d56e9dad93a3a7f0fe5bfe0bc1c43543}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Whole-grain intake has been reported to be associated with a lower risk of several lifestyle-related diseases such as type 2 diabetes, CVD and some types of cancers. As measurement errors in self-reported whole-grain intake assessments can be substantial, dietary biomarkers are relevant to be used as complementary tools for dietary intake assessment. Alkylresorcinols (AR) are phenolic lipids found almost exclusively in whole-grain wheat and rye products among the commonly consumed foods and are considered as valid biomarkers of the intake of these products. In the present study, we analysed the plasma concentrations of five AR homologues in 2845 participants from ten European countries from a nested case-control study in the European Prospective Investigation into Cancer and Nutrition. High concentrations of plasma total AR were found in participants from Scandinavia and Central Europe and lower concentrations in those from the Mediterranean countries. The geometric mean plasma total AR concentrations were between 35 and 41nmol/l in samples drawn from fasting participants in the Central European and Scandinavian countries and below 23nmol/l in those of participants from the Mediterranean countries. The whole-grain source (wheat or rye) could be determined using the ratio of two of the homologues. The main source was wheat in Greece, Italy, the Netherlands and the UK, whereas rye was also consumed in considerable amounts in Germany, Denmark and Sweden. The present study demonstrates a considerable variation in the plasma concentrations of total AR and concentrations of AR homologues across ten European countries, reflecting both quantitative and qualitative differences in the intake of whole-grain wheat and rye.}
+      \field{issn}{0007-1145}
+      \field{journaltitle}{BRITISH JOURNAL OF NUTRITION}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{{Plasma alkylresorcinol concentrations, biomarkers of whole-grain wheat and rye intake, in the European Prospective Investigation into Cancer and Nutrition (EPIC) cohort}}
+      \field{volume}{111}
+      \field{year}{2014}
+      \field{pages}{1881\bibrangedash 1890}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1017/S0007114513004388
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/plasma{\_}alkylresorcinol{\_}concentrations{\_}biomarkers{\_}of{\_}wholegrain{\_}wheat{\_}and{\_}rye{\_}intake{\_}in{\_}the{\_}european{\_}prospective{\_}investigation{\_}into{\_}cancer{\_}and{\_}nutrition{\_}epic{\_}cohort.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000315978400006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e341616be1a69c50bc387430a48f0faa}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=38367f930d8f2a0a999c0fa7a8fbc828}{%
+           family={Aman},
+           familyi={A\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e3b20b7cbda9fc26ede6a0511bda1889}{%
+           family={Hallmans},
+           familyi={H\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=079c5971568c69b484984e1bdeecb76c}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {NATURE PUBLISHING GROUP}%
+      }
+      \strng{namehash}{acb89dfe238703fe2b7dec105fbce8eb}
+      \strng{fullhash}{c2592cc5c9047182c16a8c2083fedd8e}
+      \strng{bibnamehash}{c2592cc5c9047182c16a8c2083fedd8e}
+      \strng{authorbibnamehash}{c2592cc5c9047182c16a8c2083fedd8e}
+      \strng{authornamehash}{acb89dfe238703fe2b7dec105fbce8eb}
+      \strng{authorfullhash}{c2592cc5c9047182c16a8c2083fedd8e}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND/OJBECTIVES: Alkylresorcinols (AR) have been suggested as specific biomarkers of whole-grain (WG) and bran intake from wheat and rye. Before using plasma AR as biomarkers in prospective cohort studies, the long-term reproducibility needs to be determined in order to judge how well a single plasma sample reflects the long-term concentration. The objective was therefore to estimate the reproducibility of plasma AR concentrations over 0.1-3.9 years. SUBJECTS/METHODS:The concentrations of AR homologues were analysed in plasma samples, drawn {>}8 h since last meal, 0.1-3.9 years apart (mean similar to 2 years) in 74 participants in the Swedish prospective Vasterbotten Intervention Project cohort. Reproducibility was estimated by calculating the intra class correlation coefficient (ICC). RESULTS: Fasting plasma AR concentrations were similar between the first and second measurements. The ICC for total AR was 0.54 (95{\%} confidence interval (CI) = 0.38-0.69] overall, 0.34 (95{\%} CI = 0.13-0.64) for men and 0.73 (95{\%} CI = 0.56-0.85) for women, respectively. Somewhat higher ICCs were obtained for shorter AR homologues. CONCLUSION: In summary, the reproducibility of plasma AR over 0.1-3.9 years was high for women and moderate for men within this population. Together with previous data showing high validity of plasma AR as biomarkers of wheat and rye in different populations, the current finding suggest that this biomarker is stable over a long-time period and is therefore probably useful for assessment of long-term WG intake in populations with a wide intake range and a frequent intake. European Journal of Clinical Nutrition (2013) 67, 259-263; doi:10.1038/ejcn.2013.10; published online 6 February 2013}
+      \field{issn}{0954-3007}
+      \field{journaltitle}{EUROPEAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Long-term reproducibility of plasma alkylresorcinols as biomarkers of whole-grain wheat and rye intake within Northern Sweden Health and Disease Study Cohort}}
+      \field{type}{Article}
+      \field{volume}{67}
+      \field{year}{2013}
+      \field{pages}{259\bibrangedash 263}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/ejcn.2013.10
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Downloads/ejcn201310.pdf:pdf
+      \endverb
+      \keyw{alkylresorcinols,biomarker,cohort,reproducibility,whole grain}
+    \endentry
+    \entry{ISI:000376712600013}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9335f967365f809c3671ac501c03fdf9}{%
+           family={Raninen},
+           familyi={R\bibinitperiod},
+           given={Kaisa\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=50abea0dd1a1cff755836d1606f5c037}{%
+           family={Lappi},
+           familyi={L\bibinitperiod},
+           given={Jenni\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4fd57afb9f30e07c6de4a7876f9935a6}{%
+           family={Mukkala},
+           familyi={M\bibinitperiod},
+           given={Maria\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=93b1613d55779ab5e05a684541c66186}{%
+           family={Tuomainen},
+           familyi={T\bibinitperiod},
+           given={Tomi-Pekka},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=e515ab64e0da477397e1ff0928826475}{%
+           family={Mykkanen},
+           familyi={M\bibinitperiod},
+           given={Hannu\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c856607b60ba77a73cbfcd04e5b90b78}{%
+           family={Poutanen},
+           familyi={P\bibinitperiod},
+           given={Kaisa\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2a396c3d6931ed76e25c9cc324b3c68a}{%
+           family={Raatikainen},
+           familyi={R\bibinitperiod},
+           given={Olavi\bibnamedelima J},
+           giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{966169527ce91f90150354675b1bad7b}
+      \strng{fullhash}{d177b4c382f7847121040d64c3a7bddd}
+      \strng{bibnamehash}{966169527ce91f90150354675b1bad7b}
+      \strng{authorbibnamehash}{966169527ce91f90150354675b1bad7b}
+      \strng{authornamehash}{966169527ce91f90150354675b1bad7b}
+      \strng{authorfullhash}{d177b4c382f7847121040d64c3a7bddd}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Our pilot study examined the potential of exhaled breath analysis in studying the metabolic effects of dietary fiber (DF). We hypothesized that a high-fiber diet (HFD) containing whole grain rye changes volatile organic compound (VOC) levels in exhaled breath and that consuming a single meal affects these levels. Seven healthy men followed a week-long low fiber diet (17 g/d) and HFD (44 g/d) in a randomized crossover design. A test meal containing 50 g of the available carbohydrates from wheat bread was served as breakfast after each week. Alveolar exhaled breath samples were analyzed at fasting state and 30, 60, and 120 minutes after this meal parallel to plasma glucose, insulin, and serum lipids. We used solid phase microextraction and gas chromatography-mass spectrometry for detecting changes in 15 VOCs. These VOCs were acetone, ethanol, 1-propanol, 2-propanol, 1-butanol, acetic acid, propionic acid, butyric acid, valeric acid, isovaleric acid, 2-methylbutyric acid, hexanoic acid, acetoin, diacetyl, and phenol. Exhaled breath 2-methylbutyric acid in the fasting state and 1-propanol at 120 minutes decreased (P =.091 for both) after an HFD. Ingestion of the test meal increased ethanol, 1-propanol, acetoin, propionic acid, and butyric acid levels while reducing acetone, 1-butanol, diacetyl, and phenol levels. Both DF diet content and having a single meal affected breathVOCs. Exploring exhaled breath further could help to develop tools for monitoring the metabolic effects of DF. (C) 2016 Elsevier Inc. All rights reserved.}
+      \field{issn}{0271-5317}
+      \field{journaltitle}{NUTRITION RESEARCH}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Fiber content of diet affects exhaled breath volatiles in fasting and postprandial state in a pilot crossover study}}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{pages}{612\bibrangedash 619}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.nutres.2016.02.008
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/z4w00305000580.pdf:pdf
+      \endverb
+    \endentry
+    \entry{10.1093/jn/137.5.1137}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f691cb720b93ea31544a2f68dee4ec71}{%
+           family={Adlercreutz},
+           familyi={A\bibinitperiod},
+           given={Herman},
+           giveni={H\bibinitperiod}}}%
+        {{hash=665dc65db7671a204b4e675ef67e68f6}{%
+           family={Peñalvo},
+           familyi={P\bibinitperiod},
+           given={José\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f879bf5b7b8126dc72010cb08742737c}{%
+           family={Linko-Parvinen},
+           familyi={L\bibinithyphendelim P\bibinitperiod},
+           given={Anna-Maria},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=aedf057d7a2be49f7a2f229634b46aac}{%
+           family={Tikkanen},
+           familyi={T\bibinitperiod},
+           given={Matti\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
+      \strng{fullhash}{c1a8e948da3fd329e2b78731f677c3cc}
+      \strng{bibnamehash}{c1a8e948da3fd329e2b78731f677c3cc}
+      \strng{authorbibnamehash}{c1a8e948da3fd329e2b78731f677c3cc}
+      \strng{authornamehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
+      \strng{authorfullhash}{c1a8e948da3fd329e2b78731f677c3cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alkylresorcinols with alkyl chains C17:0-C25:0 are abundant in whole-grain wheat and rye. Concentrations in human plasma have been suggested to be biomarkers of dietary whole-grain intake. We measured human plasma, erythrocyte, and lipoprotein alkylresorcinol concentrations and alkylresorcinol homolog distribution, and evaluated the use of plasma alkylresorcinol concentration as a dietary biomarker of whole-grain intake compared with serum enterolactone. A total of 15 subjects (8 women) consumed whole-grain wheat or whole-grain rye crisp bread (∼100 g/d) in a crossover design for 1 wk. The test bread periods were preceded by 1-wk periods of consuming refined wheat bread. Plasma, erythrocyte, lipoprotein alkylresorcinol, and serum enterolactone concentrations were measured before and after each period, and plasma alkylresorcinols and serum enterolactone were measured after habitual diet intake before and 1 wk after the trial. Plasma alkylresorcinols are transported in lipoproteins with VLDL and HDL being the main carriers. AR concentrations in plasma, erythrocytes, and lipoproteins were increased (P $\backslash$$\backslash${<} 0.05) by whole-grain wheat bread and even more so with rye crisp bread, although interindividual variation was high. The alkylresorcinol homolog C17:0 to C21:0 ratio in plasma was higher after the whole-grain rye diet period compared with the whole-grain wheat diet period (P $\backslash$$\backslash${<} 0.05). Serum enterolactone concentrations were increased significantly by whole-grain rye intake only in men. This is the first report to show that alkylresorcinols in human plasma are mainly transported in lipoproteins. The plasma alkylresorcinol C17:0 to C21:0 ratio reflects intake of whole-grain wheat and rye, and the plasma total alkylresorcinol concentration appears to be a useful biomarker of whole-grain cereal intake.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{The Journal of Nutrition}
+      \field{number}{5}
+      \field{title}{{Alkylresorcinols from Whole-Grain Wheat and Rye Are Transported in Human Plasma Lipoproteins}}
+      \field{volume}{137}
+      \field{year}{2007}
+      \field{pages}{1137\bibrangedash 1142}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1093/jn/137.5.1137
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1093/jn/137.5.1137
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1093/jn/137.5.1137
+      \endverb
+    \endentry
+    \entry{ISI:000255012000007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=905d295f430821ea107b8ef29e1bd0bc}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Agneta},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc8977c39dd3e20723ae7defa8746556}{%
+           family={Vessby},
+           familyi={V\bibinitperiod},
+           given={Bengt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=627b9820ab301eaa1f6ab1606bc25b59}{%
+           family={Aman},
+           familyi={A\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{fullhash}{73e4c9c6622facb97f100789c6000429}
+      \strng{bibnamehash}{73e4c9c6622facb97f100789c6000429}
+      \strng{authorbibnamehash}{73e4c9c6622facb97f100789c6000429}
+      \strng{authornamehash}{25cccf9a1c52915e03e63aec5c833ecd}
+      \strng{authorfullhash}{73e4c9c6622facb97f100789c6000429}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Alkylresorcinols (ARs), phenolic lipids exclusively present in the outer parts of wheat and rye grains, have been proposed as specific dietary biomarkers of whole-grain wheat and rye intake. Objective: The objective was to validate plasma ARs as a biomarker of whole-grain wheat and rye intakes by studying the correlation between their plasma concentration and intake calculated from food records. Design: In a randomized crossover study, 22 women and 8 men were given a defined amount of either whole-grain or refined-cereal-grain products to be included in their habitual diets for two 6-wk periods. Blood samples were collected and food intakes were recorded before and after each intervention period. Results: Plasma AR concentrations were significantly higher after the whole-grain diet period than after the refined-grain period (P {<} 0.0001) and were well correlated with average daily AR intake estimated by self-reported weighed food records (Spearman's r = 0.58, P {<} 0.001). Conclusion: Plasma AR concentrations are correlated with intake assessed by food records, which suggests that ARs are selective nutritional biomarkers for the intake of whole-grain wheat and rye.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{AMERICAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Alkylresorcinols as biomarkers of whole-grain wheat and rye intake: plasma concentration and intake estimated from dietary records}}
+      \field{volume}{87}
+      \field{year}{2008}
+      \field{pages}{832\bibrangedash 838}
+      \range{pages}{7}
+    \endentry
+    \entry{ISI:000430455900021}{article}{}
+      \name{author}{14}{}{%
+        {{hash=91fcfefe4213e964312f53d137791d86}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Taoping},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8a50257f9b737f41e6cdd904598f9f03}{%
+           family={Rong},
+           familyi={R\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2cad6290e559575c104a1d558b0bf110}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xiaoli},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bb3749a2bc8ae3770c18d31e9f1d56f3}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yalun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3d4f0450a4621742b6376d9d0ee171af}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ff27b59a1cf9fbfde9949a07b591a25e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Liangkai},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f52dd5ae2efd04b3a717b728e71209e9}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peiyun},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b79b5ad1a3e96375ccd825c84a8500de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shuzhen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b32f61b294f8e4aa5306c6ea6859da26}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=973657f7bef5ed9e559916248c375d07}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Jinquan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7e91a80ff2cb1a6a8328462d4b444bcc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xuefeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=930721fb410c25993144579f7ebf2a0d}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=7cb48eaace44ea906e29231952d9e7b5}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Frank\bibnamedelima B},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9e257f65e76140df5f80d6e01101bfc7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Liegang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{fullhash}{af9f05342d3b645f0a5bba42af0b6b1b}
+      \strng{bibnamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authorbibnamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authornamehash}{669ec86b69dbefc535be5432ce2c5408}
+      \strng{authorfullhash}{af9f05342d3b645f0a5bba42af0b6b1b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE To examine the association of plasma alkylresorcinol metabolite 3-(3,5-dihydroxyphenyl)-1- propanoic acid (DHPPA), a biomarker of whole-grain wheat and rye intake, with type 2 diabetes (T2D) and impaired glucose regulation (IGR) in a Chinese population. RESEARCH DESIGN AND METHODS A total of 1,060 newly diagnosed T2D patients, 736 newly diagnosed IGR patients, and 1,443 control subjects with normal glucose tolerance were recruited in the case control study. Plasma DHPPA concentrations were determined by high-performance liquid chromatography-tandem mass spectroscopy. Multivariate logistic regression analysis was used to evaluate the independent association of plasma DHPPA concentrations with the likelihood of T2D and IGR. RESULTS After adjustment for age, sex, BMI, and family history of diabetes, the odds ratios (95{\%} CI) of T2D and IGR were 0.57 (0.45, 0.73) and 0.66 (0.50, 0.85), respectively, comparing the lowest with the highest quartile of plasma DHPPA concentrations. Further adjustment for current smoking status, current alcohol consumption, physical activity, history of hypertension, and educational level did not change the observed association materially. Similar results were also obtained in T2D and IGR groups combined. The inverse association of plasma DHPPA with T2D persisted in stratified analyses according to age, sex, BMI, current smoking status, current alcohol consumption, physical activity, family history of diabetes, and history of hypertension. CONCLUSIONS These findings suggested that higher plasma DHPPA concentrations were associated with lower odds of T2D and IGR. Further studies are warranted to confirm these findings in prospective cohorts.}
+      \field{issn}{0149-5992}
+      \field{journaltitle}{DIABETES CARE}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Plasma Alkylresorcinol Metabolite, a Biomarker of Whole-Grain Wheat and Rye Intake, and Risk of Type 2 Diabetes and Impaired Glucose Regulation in a Chinese Population}}
+      \field{volume}{41}
+      \field{year}{2018}
+      \field{pages}{440\bibrangedash 445}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.2337/dc17-1570
+      \endverb
+    \endentry
+    \entry{ISI:000333777700008}{article}{}
+      \name{author}{18}{}{%
+        {{hash=5f9cdb2dde106d9320c8d634ac470a5f}{%
+           family={Magnusdottir},
+           familyi={M\bibinitperiod},
+           given={O\bibnamedelima K},
+           giveni={O\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e341616be1a69c50bc387430a48f0faa}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6246b97c29d0dab12c03de136b983726}{%
+           family={Gunnarsdottir},
+           familyi={G\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=17e5502849bc56a7c30a906e4dee805f}{%
+           family={Cloetens},
+           familyi={C\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2dd8961cb683f0e7163355f1790ee82f}{%
+           family={Akesson},
+           familyi={A\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b42f41bb59941b0516e49205975ff3d0}{%
+           family={Landin-Olsson},
+           familyi={L\bibinithyphendelim O\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=15723aea4b9d257a1da181a0fe3c3cda}{%
+           family={Rosqvist},
+           familyi={R\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7f38c21ef52379301abff50e4d0a11e0}{%
+           family={Iggman},
+           familyi={I\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bc2fd9e149cb92f2f0b364fef2e4ffb6}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d7fc17e002843e0c00fbd78a5c2a0b61}{%
+           family={Herzig},
+           familyi={H\bibinitperiod},
+           given={K-H},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=cd7baa3717a43d2f6fa29af630bb6164}{%
+           family={Savolainen},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ce89fba27f8d0da8724e83ae666dcdfc}{%
+           family={Brader},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8969d7982b4893022f801269aab1a790}{%
+           family={Hermansen},
+           familyi={H\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6c540092276d290bd82de3f049bb433}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=276c7e44550ebb5096e1735fa100ae2c}{%
+           family={Poutanen},
+           familyi={P\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a623f3bc7c0221482f0cb9a42fcd9b69}{%
+           family={Uusitupa},
+           familyi={U\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b1c7b0b73889637632982ce461fa79b}{%
+           family={Thorsdottir},
+           familyi={T\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8a05dc3830cc82190e9d4d4b86721736}{%
+           family={Riserus},
+           familyi={R\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9bef149c92940cd2f7991c5b883c03b}
+      \strng{fullhash}{210e3d576c36517aaef528bfa65bd938}
+      \strng{bibnamehash}{b9bef149c92940cd2f7991c5b883c03b}
+      \strng{authorbibnamehash}{b9bef149c92940cd2f7991c5b883c03b}
+      \strng{authornamehash}{b9bef149c92940cd2f7991c5b883c03b}
+      \strng{authorfullhash}{210e3d576c36517aaef528bfa65bd938}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND/OBJECTIVES: Few studies have used biomarkers of whole-grain intake to study its relation to glucose metabolism. We aimed to investigate the association between plasma alkylresorcinols (AR), a biomarker of whole-grain rye and wheat intake, and glucose metabolism in individuals with metabolic syndrome (MetS). SUBJECTS/METHODS: Participants were 30-65 years of age, with body mass index 27-40 kg/m(2) and had MetS without diabetes. Individuals were recruited through six centers in the Nordic countries and randomized to a healthy Nordic diet (ND, n=96), rich in whole-grain rye and wheat, or a control diet (n=70), for 18-24 weeks. In addition, associations between total plasma AR concentration and C17:0/C21:0 homolog ratio as an indication of the relative whole-grain rye intake, and glucose metabolism measures from oral glucose tolerance tests were investigated in pooled (ND + control) regression analyses at 18/24 weeks. RESULTS: ND did not improve glucose metabolism compared with control diet, but the AR C17:0/C21:0 ratio was inversely associated with fasting insulin concentrations (P=0.002) and positively associated with the insulin sensitivity indices Matsuda ISI (P=0.026) and disposition index (P=0.022) in pooled analyses at 18/24 weeks, even after adjustment for confounders. The AR C17:0/C21:0 ratio was not significantly associated with insulin secretion indices. Total plasma AR concentration was not related to fasting plasma glucose or fasting insulin at 18/24 weeks. CONCLUSIONS: The AR C17:0/C21:0 ratio, an indicator of relative whole-grain rye intake, is associated with increased insulin sensitivity in a population with MetS.}
+      \field{issn}{0954-3007}
+      \field{journaltitle}{EUROPEAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Plasma alkylresorcinols C17:0/C21:0 ratio, a biomarker of relative whole-grain rye intake, is associated to insulin sensitivity: a randomized study}}
+      \field{volume}{68}
+      \field{year}{2014}
+      \field{pages}{453\bibrangedash 458}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/ejcn.2014.12
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/ejcn201412.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000378977200013}{article}{}
+      \name{author}{10}{}{%
+        {{hash=e98c79dcffa043028bcb583f3ee968a3}{%
+           family={Biskup},
+           familyi={B\bibinitperiod},
+           given={Izabela},
+           giveni={I\bibinitperiod}}}%
+        {{hash=4b6268035937b7a8a8d18b2f33298f58}{%
+           family={Kyro},
+           familyi={K\bibinitperiod},
+           given={Cecilie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cc3cd9f4c15414469e9e23ebb3ebc671}{%
+           family={Marklund},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f96c4cc75e3ee233801b19644a50fb19}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Anja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3f8263d7849126da4e4a537c3b1495b4}{%
+           family={Dam},
+           familyi={D\bibinitperiod},
+           given={Rob\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=505cd3055bd7a115f2fe001d07c72d1a}{%
+           family={Tjonneland},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3d8b85646ee5ae30c9ad4ddb2e36b4ca}{%
+           family={Overvad},
+           familyi={O\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=531292be1c0a5afd81c593a2aacbc7f0}{%
+           family={Lindahl},
+           familyi={L\bibinitperiod},
+           given={Bernt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=59f58b8a5146eac3d47c724a059dc48e}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Ingegerd},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
+           family={Landberg},
+           familyi={L\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{8abef200024c6365d987fcad8d893149}
+      \strng{fullhash}{39e87d27ad98e15453bd9df6bcadeba4}
+      \strng{bibnamehash}{8abef200024c6365d987fcad8d893149}
+      \strng{authorbibnamehash}{8abef200024c6365d987fcad8d893149}
+      \strng{authornamehash}{8abef200024c6365d987fcad8d893149}
+      \strng{authorfullhash}{39e87d27ad98e15453bd9df6bcadeba4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Studies that use dietary biomarkers to investigate the association between whole-grain intake and the risk of developing type 2 diabetes (T2D) are lacking. Objective: We examined the association between plasma total alkylresorcinols and the alkylresorcinol C17:0-to-C21:0 ratio, biomarkers of whole-grain wheat and rye intake and relative whole grain rye over whole-grain wheat intake, respectively, and the risk of T2D among Scandinavian men and women. Design: A nested case-control study was established within the Northern Sweden Health and Disease Study and the Danish Diet, Cancer and Health cohort. Alkylresorcinol concentrations and the ratios of C17:0 to C21:0 were determined in plasma samples from 931 case-control pairs. ORs for T2D were calculated for plasma total alkylresorcinol concentration or C17:0-to-C21:0 ratio in quartiles with the use of conditional logistic regression that was adjusted for potential confounders. Additional analyses with whole-grain wheat and rye intake estimated from food-frequency questionnaires (FFQs) as exposures were also performed. Results: The plasma total alkylresorcinol concentration was not associated with T2D risk (OR: 1.34; 95{\%} CI: 0.95, 1.88) for the highest compared with the lowest quartiles in multivariable adjusted models. However, the C17:0-to-C21:0 ratio was associated with a lower diabetes risk (OR: 0.54; 95{\%} CI: 0.37, 0.78). Analyses with whole-grain intake estimated from FFQs yielded similar results. Conclusions: Total whole-grain wheat and rye intake, reflected by alkylresorcinols in plasma, was not associated with a lower risk of T2D in a population with high whole-grain intake. In contrast, the proportion of whole-grain rye to whole-grain wheat intake, indicated by the plasma C17:0-to-C21:0 ratio, was inversely associated with T2D. This suggests that whole-grain intake dominated by rye may be favorable for T2D prevention.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{AMERICAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{{Plasma alkylresorcinols, biomarkers of whole-grain wheat and rye intake, and risk of type 2 diabetes in Scandinavian men and women}}
+      \field{volume}{104}
+      \field{year}{2016}
+      \field{pages}{88\bibrangedash 96}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3945/ajcn.116.133496
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/ajcn133496.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000389134200003}{article}{}
+      \name{author}{10}{}{%
+        {{hash=6dab7d50fa2d943d433121c1d9f7565a}{%
+           family={Bresciani},
+           familyi={B\bibinitperiod},
+           given={Letizia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3d6ddb1eb2092cdffbe40bdc5de4c091}{%
+           family={Scazzina},
+           familyi={S\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cb0ae33dbfa4637cd9d4f3312a5e951d}{%
+           family={Leonardi},
+           familyi={L\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7b15e1b7a0371fb1110441b31e9aec3b}{%
+           family={Dall'Aglio},
+           familyi={D\bibinitperiod},
+           given={Elisabetta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f8b70358bdd83283d8fc116d7ba9fc9}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a89fcddb4c9d10ad7cd9bc91abd7afac}{%
+           family={Dall'Asta},
+           familyi={D\bibinitperiod},
+           given={Margherita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b57504c7a349439a8c7207510ff87937}{%
+           family={Melegari},
+           familyi={M\bibinitperiod},
+           given={Camilla},
+           giveni={C\bibinitperiod}}}%
+        {{hash=100700041ceca16b747d72d6f2cfc90d}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Sumantra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=56995a03716ef2bd98426dda42f712ce}{%
+           family={Brighenti},
+           familyi={B\bibinitperiod},
+           given={Furio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ba58d76c3c61816b8ee9156013a67345}{%
+           family={{Del Rio}},
+           familyi={D\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{11a0412f4437bded8613e2de3b5962be}
+      \strng{fullhash}{22c24bdfb621050ef41b17a82b117eba}
+      \strng{bibnamehash}{11a0412f4437bded8613e2de3b5962be}
+      \strng{authorbibnamehash}{11a0412f4437bded8613e2de3b5962be}
+      \strng{authornamehash}{11a0412f4437bded8613e2de3b5962be}
+      \strng{authorfullhash}{22c24bdfb621050ef41b17a82b117eba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Scope: This work aimed at investigating absorption, metabolism, and bioavailability of phenolic compounds after consumption of whole grain bread or bread enriched with an aleurone fraction. Methods and results: Two commercially available breads were consumed by 15 participants on three occasions and matched for either the amount of ferulic acid in the bread or the amount of bread consumed. Urine was collected for 48 h from all the volunteers for phenolic metabolite quantification. Blood samples were collected for 24 h following bread consumption in five participants. A total of 12 and 4 phenolic metabolites were quantified in urine and plasma samples, respectively. Metabolites were sulfate and glucuronic acid conjugates of phenolic acids, and high concentrations of ferulic acid-4'-O-sulfate, dihydroferulic acid-4'-O-sulfate, and dihydroferulic acid-O-glucuronide were observed. The bioavailability of ferulic acid was significantly higher from the aleurone-enriched bread when all ferulic acid metabolites were accounted for. Conclusions: The study shows that low amounts of aleurone-enriched bread resulted in equivalent plasma levels of ferulic acid as whole grain bread. This could suggest that, if the absorbed phenolic metabolites after whole grain product intake exert health benefits, equal levels could be reached through the consumption of lower doses of refined products enriched in aleurone fraction.}
+      \field{annotation}{compare wholegrain and aleurone-rich wheat by LC/MS. but focused on polyphenol compounds this could be useful!!}
+      \field{issn}{1613-4125}
+      \field{journaltitle}{MOLECULAR NUTRITION {\&} FOOD RESEARCH}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Bioavailability and metabolism of phenolic compounds from wholegrain wheat and aleurone-rich wheat bread}}
+      \field{volume}{60}
+      \field{year}{2016}
+      \field{pages}{2343\bibrangedash 2354}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/mnfr.201600238
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Bresciani{\_}et{\_}al-2016-Molecular{\_}Nutrition{\_}{\&}{\_}Food{\_}Research.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000394168100034}{article}{}
+      \name{author}{6}{}{%
+        {{hash=100009f410924ad20385fac1e97aeae6}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Bettina\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=95c3405921d69e9aca0eb32fd664bccb}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Khem\bibnamedelima B},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=22e9a92d67b7f45ede590913705f98ac}{%
+           family={Schnoor},
+           familyi={S\bibinitperiod},
+           given={Heidi\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=70ec8a3e66cd859bc68bfb5d08e3e5fe}{%
+           family={Juel-Berg},
+           familyi={J\bibinithyphendelim B\bibinitperiod},
+           given={Nanna},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b5f0041015540e4b32f00b8c07f22f23}{%
+           family={Fomsgaard},
+           familyi={F\bibinitperiod},
+           given={Inge\bibnamedelima S},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=99abb731b97604a5ae1d55380104e1ba}{%
+           family={Poulsen},
+           familyi={P\bibinitperiod},
+           given={Lars\bibnamedelima K},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9171b82fd5545904393e31dd8b3fa12d}
+      \strng{fullhash}{ff6631712db11f7f3f5b18e9175ec077}
+      \strng{bibnamehash}{9171b82fd5545904393e31dd8b3fa12d}
+      \strng{authorbibnamehash}{9171b82fd5545904393e31dd8b3fa12d}
+      \strng{authornamehash}{9171b82fd5545904393e31dd8b3fa12d}
+      \strng{authorfullhash}{ff6631712db11f7f3f5b18e9175ec077}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Benzoxazinoids (BXs) are a group of wholegrain phytochemicals with potential pharmacological properties; however, limited information exists on their absorption, metabolism, and excretion in humans. The aim of this study was to investigate the dose-dependent uptake and excretion of dietary BXs in a healthy population. Blood and urine were collected from 19 healthy participants from a crossover study after a washout, a LOW BX diet or HIGH BX diet, and analysed for 12 BXs and 4 phenoxazinone derivatives. We found that the plasma BX level peaked approximately 3 h after food intake, whereas BXs in urine were present even at 36 h after consuming a meal. No phenoxazinone derivatives could be detected in either plasma or urine. The dominant BX metabolite in both plasma and urine was 2-beta-d-glucopyranosyloxy-1,4-benzoxazin-3-one (HBOA-Glc), even though 2-beta-d-glucopyranosyloxy-4-hydroxy-1,4-benzoxazin-3-one (DIBOA-Glc) was the major component in the diet. The dietary BX treatment correlated well with the plasma and urine levels, illustrating strong dose-dependent BX absorption, which also had a rapid washout, especially from the plasma compartment.}
+      \field{issn}{1436-6207}
+      \field{journaltitle}{EUROPEAN JOURNAL OF NUTRITION}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{{Quantitative analysis of absorption, metabolism, and excretion of benzoxazinoids in humans after the consumption of high- and low-benzoxazinoid diets with similar contents of cereal dietary fibres: a crossover study}}
+      \field{volume}{56}
+      \field{year}{2017}
+      \field{pages}{387\bibrangedash 397}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s00394-015-1088-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Jensen2017{\_}Article{\_}QuantitativeAnalysisOfAbsorpti.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000348343300015}{article}{}
+      \name{author}{11}{}{%
+        {{hash=44bb3fcae693f6c0acabd83692c3096c}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=366df0d305daa21d5d6001177b8c5586}{%
+           family={Llorach},
+           familyi={L\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=71d32749921f2e8d259afb3105315be2}{%
+           family={Urpi-Sarda},
+           familyi={U\bibinithyphendelim S\bibinitperiod},
+           given={Mireia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bee6f918e014da2ed31fa220b5b145f0}{%
+           family={Tulipani},
+           familyi={T\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=341cc190ac0544ebb103765f674216ed}{%
+           family={Salas-Salvado},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=09122930639e31b489265ec8cdc7ca01}{%
+           family={{Angel Martinez-Gonzalez}},
+           familyi={A\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a68be040f32cc739124feb4af4f56ae4}{%
+           family={Corella},
+           familyi={C\bibinitperiod},
+           given={Dolores},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2e6c690fd79fbc9fd7f71ce894d3640c}{%
+           family={Fito},
+           familyi={F\bibinitperiod},
+           given={Montserrat},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e151227352bfd27d5e9f1d2a01aed1dd}{%
+           family={Estruch},
+           familyi={E\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9a87c427359bc60347a225670b135c07}{%
+           family={Serra-Majem},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Lluis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4388a0c99df3cdd68076b5a30278e4c0}{%
+           family={Andres-Lacueva},
+           familyi={A\bibinithyphendelim L\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{fullhash}{4ff826b33ae0fe5d6c12bbc6a96de6b6}
+      \strng{bibnamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authorbibnamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authornamehash}{2e7b30557c0065eda62b87ac141f236f}
+      \strng{authorfullhash}{4ff826b33ae0fe5d6c12bbc6a96de6b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bread is one of the most widely consumed foods. Its impact on human health is currently of special interest for researchers. We aimed to identify biomarkers of bread consumption by applying a nutrimetabolomic approach to a free-living population. An untargeted HPLC-q-TOF-MS and multivariate analysis was applied to human urine from 155 subjects stratified by habitual bread consumption in three groups: non-consumers of bread (n = 56), white-bread consumers (n = 48) and whole-grain bread consumers (n = 51). The most differential metabolites (variable importance for projection a parts per thousand yen1.5) included compounds originating from cereal plant phytochemicals such as benzoxazinoids and alkylresorcinol metabolites, and compounds produced by gut microbiota (such as enterolactones, hydroxybenzoic and dihydroferulic acid metabolites). Pyrraline, riboflavin, 3-indolecarboxylic acid glucuronide, 2,8-dihydroxyquinoline glucuronide and N-alpha-acetylcitrulline were also tentatively identified. In order to combine multiple metabolites in a model to predict bread consumption, a stepwise logistic regression analysis was used. Receiver operating curves were constructed to evaluate the global performance of individual metabolites and their combination. The area under the curve values {\{}[{\}}AUC (95 {\%} CI)] of combined models ranged from 77.8 {\%} (69.1-86.4 {\%}) to 93.7 {\%} (89.4-98.1 {\%}), whereas the AUC for the metabolites included in the models had weak values when they were evaluated individually: from 58.1 {\%} (46.6-69.7 {\%}) to 78.4 {\%} (69.8-87.1 {\%}). Our study showed that a daily bread intake significantly impacted on the urinary metabolome, despite being examined under uncontrolled free-living conditions. We further concluded that a combination of several biomarkers of exposure is better than a single biomarker for the predictive ability of discriminative analysis.}
+      \field{issn}{1573-3882}
+      \field{journaltitle}{METABOLOMICS}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{{Nutrimetabolomics fingerprinting to identify biomarkers of bread exposure in a free-living population from the PREDIMED study cohort}}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{155\bibrangedash 165}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s11306-014-0682-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/Garcia-Aloy2015{\_}Article{\_}NutrimetabolomicsFingerprintin.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000384082300001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2ccf059ff634aa3c5a7985c42d96c25c}{%
+           family={Nybacka},
+           familyi={N\bibinitperiod},
+           given={Sanna},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3db4bba46ea9fce9e77a047a69ddfb14}{%
+           family={Forslund},
+           familyi={F\bibinitperiod},
+           given={Helene\bibnamedelima Berteus},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3585a957d5c9c5b3f1c336f3291936b0}{%
+           family={Hedelin},
+           familyi={H\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{125c4b11f7663ea4aa7a9c748642d0ab}
+      \strng{fullhash}{7c11f63e66c416e3420cbc536a152b00}
+      \strng{bibnamehash}{7c11f63e66c416e3420cbc536a152b00}
+      \strng{authorbibnamehash}{7c11f63e66c416e3420cbc536a152b00}
+      \strng{authornamehash}{125c4b11f7663ea4aa7a9c748642d0ab}
+      \strng{authorfullhash}{7c11f63e66c416e3420cbc536a152b00}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A diet questionnaire (DQ) designed to assess habitual diet and phyto-oestrogen intake was developed. This study aimed to examine the validity of the DQ in men, with and without having prostate cancer. The DQ was validated against alkylresorcinol metabolites measured in urine as objective biomarkers of whole grain wheat and rye (WG) intake, and a 4-d estimated food record (FR) was used for relative comparison. Participants (n 61) completed both methods and provided spot urine samples. We found a statistically significant correlation between the DQ and FR for reported whole grain intake and isoflavonoids, as well as for intake of macronutrients, except protein. The correlation coefficient between the two methods was on average r 0.30, lowest for lignans (r -0.11) and highest for alcohol (r 0.65). Reported energy intake was lower in the DQ compared with FR (8523 v. 9249 kJ (2037 v. 2211 kcal), respectively; P = 0.014). Bland-Altman plots showed an acceptable agreement; most cases were within the limits (95 {\%} CI) of agreement on reported energy intake, as well as intake of macronutrients, except protein (which was underestimated in the DQ compared with the FR). The correlation of alkylresorcinol with WG intake was statistically significant in the DQ (r 0.31, P = 0.015), but not in the FR (r 0.18, P = 0.12) and the weighted. was 0-29 and 0.11, respectively. In conclusion, the results showed that the DQ have a reasonable validity for measuring WG intake and most nutrients, and, after some adjustments regarding protein intake assessment have been made, the DQ will be a promising tool.}
+      \field{issn}{2048-6790}
+      \field{journaltitle}{JOURNAL OF NUTRITIONAL SCIENCE}
+      \field{month}{9}
+      \field{title}{{Validity of a web-based dietary questionnaire designed especially to measure the intake of phyto-oestrogens}}
+      \field{volume}{5}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1017/jns.2016.28
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/S2048679016000288a{\_}pdf.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000387249200001}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b727f607fe60fd53eaee16e73b790ad}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yingdong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f57aebc86497dbabb1c6d95647639a1a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Pei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=97c5d5161470eff19e6587b93ed3aee9}{%
+           family={Sha},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1e15361233f89bd445bd13822dd99ded}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={Shengmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{fullhash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{bibnamehash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{authorbibnamehash}{aaa7d46be855d3578cad79f70ac02988}
+      \strng{authornamehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{authorfullhash}{aaa7d46be855d3578cad79f70ac02988}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mounting evidence suggests that whole grain (WG) intake plays an important role in chronic disease prevention. However, numerous human studies have failed to produce clear-cut conclusions on this topic. Here, a combination of non-targeted and targeted metabolomics approaches, together with kinetic studies, was used to investigate biomarkers of WG wheat intake and further explore the diet-disease associations. Via these integrated approaches, forty-one compounds were identified as the most discriminating endogenous metabolites after WG versus refined grain (RG) wheat bread consumption. The corresponding biological assessment of these endogenous changes suggests that, in contrast to RG consumption, WG wheat consumption may facilitate antioxidant defense systems and moderate the risk factors of cancer, cardiovascular diseases, and other chronic diseases. A panel of urinary markers consisting of seven alkylresorcinol metabolites and five benzoxazinoid derivatives as specific biomarkers, as well as five phenolic acid derivatives, was also established to cover multiple time points and longer time periods for correctly and objectively monitoring WG wheat intake. Through these findings, we have established a comprehensive biomarker pool to better assess WG wheat consumption, and to monitor the endogenous changes that are linked to health effects of WG wheat consumption.}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{SCIENTIFIC REPORTS}
+      \field{month}{11}
+      \field{title}{{Urinary Biomarkers of Whole Grain Wheat Intake Identified by Non-targeted and Targeted Metabolomics Approaches}}
+      \field{volume}{6}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/srep36278
+      \endverb
+    \endentry
+    \entry{ISI:000330080500002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b727f607fe60fd53eaee16e73b790ad}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yingdong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b309d19d13f33481180b901f4e29324b}{%
+           family={Shurlknight},
+           familyi={S\bibinitperiod},
+           given={Kelly\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=eb35756751af542140e0cc1c33663ba5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaoxin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1e15361233f89bd445bd13822dd99ded}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={Shengmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{fullhash}{5983672130ac5922ee350c84e65510d1}
+      \strng{bibnamehash}{5983672130ac5922ee350c84e65510d1}
+      \strng{authorbibnamehash}{5983672130ac5922ee350c84e65510d1}
+      \strng{authornamehash}{474d7a0d0d6a1e7870c50435b79be52c}
+      \strng{authorfullhash}{5983672130ac5922ee350c84e65510d1}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Biomarkers of dietary intake are prominent tools in nutritional research. The alkylresorcinol metabolites 3,5-dihydroxybenzoic acid (3,5-DHBA) and 3-(3,5-dihydroxyphenyl)propanoic acid (3,5-DHPPA) have been proposed as exposure biomarkers of whole-grain (WG) wheat and rye intake. However, the profile of alkylresorcinol metabolites is not fully understood. The aim of this study was to investigate the metabolism of alkylresorcinols in mice and in humans, while further determining urinary pharmacokinetics of the novel alkylresorcinol metabolites to explore their potential as biomarkers of WG wheat intake. Utilization of the liquid chromatography-mass spectrometry approach resulted in 10 alkylresorcinol metabolites identified in mice and in humans, including 3 phenolic acids and 7 of their phase II conjugates. Among them, 2 novel metabolites were discovered: 5-(3,5-dihydroxyphenyl)pentanoic acid (3,5-DHPPTA) and 2-(3,5-dihydroxybenzamido) acetic acid (3,5-DHBA glycine). The structures of these 2 metabolites were confirmed by comparing with authentic standards synthesized in-house. In the pharmacokinetic study, a group of 12 volunteers consumed a polyphenolic-restricted diet for 4 d before ingesting WG wheat bread containing 61 mg of alkylresorcinols. Urine samples were collected for 32 h, and alkylresorcinol metabolites were quantified with HPLC-coulometric electrode array detection. The mean urinary excretion rates and mean apparent half-life of 3,5-DHPPTA, 3,5-DHBA glycine, 3,5-DHBA, and 3,5-DHPPA at each time point were determined. Our results suggest that 3,5-DHPPTA and 3,5-DHBA glycine may be used in combination with 3,5-DHBA and 3,5-DHPPA as potential biomarkers to increase the accuracy of recording WG wheat and rye intake in epidemiologic studies. Further validation of 3,5-DHPPTA and 3,5-DHBA glycine as potential biomarkers is warranted.}
+      \field{issn}{0022-3166}
+      \field{journaltitle}{JOURNAL OF NUTRITION}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Identification and Pharmacokinetics of Novel Alkylresorcinol Metabolites in Human Urine, New Candidate Biomarkers for Whole-Grain Wheat and Rye Intake}}
+      \field{volume}{144}
+      \field{year}{2014}
+      \field{pages}{114\bibrangedash 122}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3945/jn.113.184663
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Downloads/114.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ISI:000374112900032}{article}{}
+      \name{author}{10}{}{%
+        {{hash=42f690ea3d84c573b4fc72fcef47408d}{%
+           family={McKeown},
+           familyi={M\bibinitperiod},
+           given={Nicola\bibnamedelima M},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cc3cd9f4c15414469e9e23ebb3ebc671}{%
+           family={Marklund},
+           familyi={M\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bc2faf2094f531c9048057f820ca3b44}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Jiantao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=32221282452ea8d7046784b228d170f4}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Alice\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9fa41b9a7d962c835fcfefd658a2637a}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Kara\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1ab30ee6ee9208f6980c5ed7e1247301}{%
+           family={Jacques},
+           familyi={J\bibinitperiod},
+           given={Paul\bibnamedelima F},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f948e5dfee212c7b4a833cc2c7817f9c}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Helen\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=54ab35a73b0a2416e8f53c0fdbb323dc}{%
+           family={Blumberg},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c5bccc6ee1a3a7f2f28cb08dc0c946f9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={C-Y.\bibnamedelimi Oliver},
+           giveni={C\bibinithyphendelim Y\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cc72f0460ba546f516779e157f1df1f}
+      \strng{fullhash}{e9b534ed0af2f1c68d3edf3af80d7160}
+      \strng{bibnamehash}{6cc72f0460ba546f516779e157f1df1f}
+      \strng{authorbibnamehash}{6cc72f0460ba546f516779e157f1df1f}
+      \strng{authornamehash}{6cc72f0460ba546f516779e157f1df1f}
+      \strng{authorfullhash}{e9b534ed0af2f1c68d3edf3af80d7160}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alkylresorcinols (AR) are phenolic lipids present in the bran of wheat and rye. Plasma AR and their urinary metabolites may be suitable biomarkers of whole-grain (WG) wheat and rye consumption. The objective of this study was to examine plasma AR and urinary AR metabolites in response to WG wheat consumption. In a randomized crossover study, 19 subjects (10 males, 9 females; BMI 22.0 kg/m(2); age 26 years) incorporated either 3 servings (48 g) or 6 servings (96 g) of WG wheat daily into their regular diet for 1 week. Subjects completed a 2-week washout period, abstaining from all WG consumption, before each intervention. Fasting blood and 24-h urine were collected before and after each intervention. Plasma AR homologues (C19:0, C21:0, C23:0) were quantified by GC-MS after diethyl ether and solid phase extraction and derivatization. Urinary AR metabolites {\{}[{\}}3,5-dihydroxybenzoic acid and 3-(3,5-dihydroxyphenyl)-propanoic acid] were determined using HPLC with electrochemical detection after enzymatic deconjugation and ethyl acetate extraction. Urinary total AR metabolites were significantly higher after 6 compared with 3 servings of WG wheat (56 vs. 32 mu mol/day, P {<} 0.001). This dose-response relationship was independent of age, sex, energy intake, and baseline urinary AR metabolite concentration. Plasma total AR tended to be higher after 6 compared with 3 servings of WG wheat (103.0 vs. 86.9 nmol/L), but this difference was not significant (P = 0.42). The results suggest that urinary AR metabolites from 24-h urine collections may be useful as biomarkers of compliance in intervention studies of WG wheat.}
+      \field{issn}{1436-6207}
+      \field{journaltitle}{EUROPEAN JOURNAL OF NUTRITION}
+      \field{month}{4}
+      \field{number}{3}
+      \field{title}{{Comparison of plasma alkylresorcinols (AR) and urinary AR metabolites as biomarkers of compliance in a short-term, whole-grain intervention study}}
+      \field{volume}{55}
+      \field{year}{2016}
+      \field{pages}{1235\bibrangedash 1244}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s00394-015-0936-8
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Downloads/McKeown2016{\_}Article{\_}ComparisonOfPlasmaAlkylresorci.pdf:pdf
+      \endverb
+    \endentry
+    \entry{LarsValidation}{article}{}
+      \name{author}{14}{}{%
+        {{hash=c1141281adc3531b03a731151fb37d22}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={L\bibnamedelima O},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=9b124d245dd0bca583addd54e092631e}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Q},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=52d2d79633ad2bc2d529328bb68e0a51}{%
+           family={Scalbert},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=43bd84b4afa3bbf880c22f2a2dc78eb2}{%
+           family={Verg{è}res},
+           familyi={V\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d6c540092276d290bd82de3f049bb433}{%
+           family={Kolehmainen},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=12d959d5cf1089520ac883feda62b7a5}{%
+           family={Manach},
+           familyi={M\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=43739ff9ed8155bc3ae69fb48a8f5a49}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d4c69d3b4796d03fb0c5db39db967e87}{%
+           family={Afman},
+           familyi={A\bibinitperiod},
+           given={L\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e254ab4dbed481a41bb269ad1b7ce9e7}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={D\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=53f9331d1bbe7178889127db246d7993}{%
+           family={{Andres Lacueva}},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f8d1d3e72098f9ad1489c0120f814ad5}{%
+           family={Garcia-Aloy},
+           familyi={G\bibinithyphendelim A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ba79f79ad85ef0d1c9bca783fd92cc0e}{%
+           family={Verhagen},
+           familyi={V\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5b2f026f55d0c7061aac16b8cfa973ec}{%
+           family={Feskens},
+           familyi={F\bibinitperiod},
+           given={E\bibnamedelima J\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=891ea7744a7c5f00f3ac3294824d6838}{%
+           family={Pratic{ò}},
+           familyi={P\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe6c983f78e3be7dbccb460e83fe650c}
+      \strng{fullhash}{ca2cf7d5e1cb804a16be622e7f915f8a}
+      \strng{bibnamehash}{fe6c983f78e3be7dbccb460e83fe650c}
+      \strng{authorbibnamehash}{fe6c983f78e3be7dbccb460e83fe650c}
+      \strng{authornamehash}{fe6c983f78e3be7dbccb460e83fe650c}
+      \strng{authorfullhash}{ca2cf7d5e1cb804a16be622e7f915f8a}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Biomarkers of food intake (BFIs) are a promising tool for limiting misclassification in nutrition research where more subjective dietary assessment instruments are used. They may also be used to assess compliance to dietary guidelines or to a dietary intervention. Biomarkers therefore hold promise for direct and objective measurement of food intake. However, the number of comprehensively validated biomarkers of food intake is limited to just a few. Many new candidate biomarkers emerge from metabolic profiling studies and from advances in food chemistry. Furthermore, candidate food intake biomarkers may also be identified based on extensive literature reviews such as described in the guidelines for Biomarker of Food Intake Reviews (BFIRev). To systematically and critically assess the validity of candidate biomarkers of food intake, it is necessary to outline and streamline an optimal and reproducible validation process. A consensus-based procedure was used to provide and evaluate a set of the most important criteria for systematic validation of BFIs. As a result, a validation procedure was developed including eight criteria, plausibility, dose-response, time-response, robustness, reliability, stability, analytical performance, and inter-laboratory reproducibility. The validation has a dual purpose: (1) to estimate the current level of validation of candidate biomarkers of food intake based on an objective and systematic approach and (2) to pinpoint which additional studies are needed to provide full validation of each candidate biomarker of food intake. This position paper on biomarker of food intake validation outlines the second step of the BFIRev procedure but may also be used as such for validation of new candidate biomarkers identified, e.g., in food metabolomic studies.}
+      \field{issn}{1865-3499}
+      \field{journaltitle}{Genes {\&} Nutrition}
+      \field{number}{1}
+      \field{title}{{Validation of biomarkers of food intake---critical assessment of candidate biomarkers}}
+      \field{volume}{13}
+      \field{year}{2018}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12263-018-0603-9
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dragsted et al. - 2018 - Validation of biomarkers of food intake---critical assessment of candidate biomarkers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s12263-018-0603-9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s12263-018-0603-9
+      \endverb
+    \endentry
+    \entry{ISI:000447355100002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e15361233f89bd445bd13822dd99ded}{%
+           family={Sang},
+           familyi={S\bibinitperiod},
+           given={Shengmin},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{fullhash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{bibnamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authorbibnamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authornamehash}{1e15361233f89bd445bd13822dd99ded}
+      \strng{authorfullhash}{1e15361233f89bd445bd13822dd99ded}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is growing evidence that whole grain (WG) intake may prevent many chronic diseases. However, there are mixed results on this topic in human studies as a result of a lack of accurate tools to assess the intake of WGs and individual metabolic variation. To better understand the effects of WGs on health maintenance and the risk of chronic disease, there is an urgent need to identify the biomarkers for WG intake. The molecular signatures of WG intake remain undefined. This perspective gives an overview of the current knowledge, challenges, and future directions on the biomarkers of WG intake.}
+      \field{issn}{0021-8561}
+      \field{journaltitle}{JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY}
+      \field{month}{10}
+      \field{number}{40}
+      \field{title}{{Biomarkers of Whole Grain Intake}}
+      \field{volume}{66}
+      \field{year}{2018}
+      \field{pages}{10347\bibrangedash 10352}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acs.jafc.8b04110
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/acs.jafc.8b04110.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Gurdeniz2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d0658c029fb6370c529fac320d0a87c9}{%
+           family={Gurdeniz},
+           familyi={G\bibinitperiod},
+           given={Gozde},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ebfe63a428c041e4908b83782749da60}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Morten\bibnamedelima Georg},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=99181a321be29ce3f394d3f13d936e60}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=33b565004cf268af4efedd7de94a13fe}{%
+           family={Bech},
+           familyi={B\bibinitperiod},
+           given={Lene},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6916b89289aed683046be157b2981bbf}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c2da737acd479321b8a491bff6511f73}{%
+           family={Dragsted},
+           familyi={D\bibinitperiod},
+           given={Lars\bibnamedelima Ove},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{fullhash}{269e690666b6b7773c931e184d1e1bbb}
+      \strng{bibnamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authorbibnamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authornamehash}{ba08dfa719b7a785da55670b8454958d}
+      \strng{authorfullhash}{269e690666b6b7773c931e184d1e1bbb}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Evaluation of the health related effects of beer intake is hampered by the lack of accurate tools for assessing intakes (biomarkers). Therefore, we identified plasma and urine metabolites associated with recent beer intake by untargeted metabolomics and established a characteristic metabolite pattern representing raw materials and beer production as a qualitative biomarker of beer intake. In a randomized, crossover, single-blinded meal study (MSt1), 18 participants were given, one at a time, four different test beverages: strong, regular, and nonalcoholic beers and a soft drink. Four participants were assigned to have two additional beers (MSt2). In addition to plasma and urine samples, test beverages, wort, and hops extract were analyzed by UPLC-QTOF. A unique metabolite pattern reflecting beer metabolome, including metabolites derived from beer raw material (i.e., N-methyl tyramine sulfate and the sum of iso-alpha-acids and tricyclohumols) and the production process (i.e., pyro-glutamyl proline and 2-ethyl malate), was selected to establish a compliance biomarker model for detection of beer intake based on MSt1. The model predicted the MSt2 samples collected before and up to 12 h after beer intake correctly (AUC = 1). A biomarker model including four metabolites representing both beer raw materials and production steps provided a specific and accurate tool for measurement of beer consumption.}
+      \field{issn}{1535-3907 (Electronic)}
+      \field{journaltitle}{Journal of proteome research}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Detecting Beer Intake by Unique Metabolite Patterns.}}
+      \field{volume}{15}
+      \field{year}{2016}
+      \field{pages}{4544\bibrangedash 4556}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1021/acs.jproteome.6b00635
+      \endverb
+      \keyw{Alcohol Drinking,Beer,Biomarkers,Chromatography,Liquid,Cross-Over Studies,Humans,Mass Spectrometry,Metabolome,Metabolomics,Single-Blind Method,analysis,blood,urine}
+    \endentry
+    \entry{ISI:000350230300006}{article}{}
+      \name{author}{14}{}{%
+        {{hash=d9e08c5b3f2428e3f93bbf7b4262eaf5}{%
+           family={Keaveney},
+           familyi={K\bibinitperiod},
+           given={Edel\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=2dcaa67418046f1672170ff40f3fe65f}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={Ruth\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d789d4341f22f9399fcee946224494bd}{%
+           family={Hamill},
+           familyi={H\bibinitperiod},
+           given={Lesley\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a49811cfecf9e22427c7559175e571a7}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={Julie\bibnamedelimb M\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b6df4806a532bada72755355c54f7157}{%
+           family={McNulty},
+           familyi={M\bibinitperiod},
+           given={Helene},
+           giveni={H\bibinitperiod}}}%
+        {{hash=59377e26cc0754c0e188188359d7b3f4}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3d235fca4961b1f8cc1efc5dc79fd8e6}{%
+           family={Strain},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=963d0514be1e48eacc47bb9326ecf1b1}{%
+           family={Ueland},
+           familyi={U\bibinitperiod},
+           given={Per\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=56b85757081ee51dd5c3473e28e3e35c}{%
+           family={Molloy},
+           familyi={M\bibinitperiod},
+           given={Anne\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa6d8c5459a919658a0c5ae8a4326e90}{%
+           family={Piironen},
+           familyi={P\bibinitperiod},
+           given={Vieno},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f10d5c1c21cb3c0a0820139aae58a42a}{%
+           family={Reding},
+           familyi={R\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=f1c9e5c4229d97463b78880fa3a8ebd2}{%
+           family={Shewry},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima R},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=941218af4e35d4cbce0cc94e05de0ad1}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Jane\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d7ff23c98339f6b8b9aecb9a7da91863}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{72623b2439f870723709847c4b2bb5d4}
+      \strng{fullhash}{713b52d95b66e65061aed25c65c2c30f}
+      \strng{bibnamehash}{72623b2439f870723709847c4b2bb5d4}
+      \strng{authorbibnamehash}{72623b2439f870723709847c4b2bb5d4}
+      \strng{authornamehash}{72623b2439f870723709847c4b2bb5d4}
+      \strng{authorfullhash}{713b52d95b66e65061aed25c65c2c30f}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The bran and particularly the aleurone fraction of wheat are high in betaine and other physiological methyl donors, which may exert beneficial physiological effects. We conducted two randomised, controlled, cross-over postprandial studies to assess and compare plasma betaine and other methyl donor-related responses following the consumption of minimally processed bran and aleurone fractions (study A) and aleurone bread (study B). For both studies, standard pharmacokinetic parameters were derived for betaine, choline, folate, dimethylglycine (DMG), total homocysteine and methionine from plasma samples taken at 0, 0.5, 1, 2 and 3 h. In study A (n 14), plasma betaine concentrations were significantly and substantially elevated from 0.5 to 3 h following the consumption of both bran and aleurone compared with the control; however, aleurone gave significantly higher responses than bran. Small, but significant, increases were also observed in DMG measures; however, no significant responses were observed in other analytes. In study B (n 13), plasma betaine concentrations were significantly and substantially higher following consumption of the aleurone bread compared with the control bread; small, but significant, increases were also observed in DMG and folate measures in response to consumption of the aleurone bread; however, no significant responses were observed in other analytes. Peak plasma betaine concentrations, which were 1.7-1.8 times the baseline levels, were attained earlier following the consumption of minimally processed aleurone compared with the aleurone bread (time taken to reach peak concentration 1.2 v. 2.1h). These results showed that the consumption of minimally processed wheat bran, and particularly the aleurone fraction, yielded substantial postprandial increases in plasma betaine concentrations. Furthermore, these effects appear to be maintained when aleurone was incorporated into bread.}
+      \field{issn}{0007-1145}
+      \field{journaltitle}{BRITISH JOURNAL OF NUTRITION}
+      \field{month}{2}
+      \field{number}{3}
+      \field{title}{{Postprandial plasma betaine and other methyl donor-related responses after consumption of minimally processed wheat bran or wheat aleurone, or wheat aleurone incorporated into bread}}
+      \field{volume}{113}
+      \field{year}{2015}
+      \field{pages}{445\bibrangedash 453}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1017/S0007114514003778
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/postprandial{\_}plasma{\_}betaine{\_}and{\_}other{\_}methyl{\_}donorrelated{\_}responses{\_}after{\_}consumption{\_}of{\_}minimally{\_}processed{\_}wheat{\_}bran{\_}or{\_}wheat{\_}aleurone{\_}or{\_}wheat{\_}aleurone{\_}incorporated{\_}into{\_}bread.pdf:pdf
+      \endverb
+    \endentry
+    \entry{sterolmsms}{article}{}
+      \name{author}{3}{}{%
+        {{hash=227e714655e6efa389bd0339316f8eb8}{%
+           family={Muenger},
+           familyi={M\bibinitperiod},
+           given={Linda\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=a29d1b292d5cef9b18ec8c426f4e13c2}{%
+           family={Boulos},
+           familyi={B\bibinitperiod},
+           given={Samy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1eb85e8f09b44153b3666dafa43bfee8}{%
+           family={Nystroem},
+           familyi={N\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{63c4cc72fb416ff6d8579d16fa053b2f}
+      \strng{fullhash}{cb72f7413143c1bf283f9f2662a9d6f4}
+      \strng{bibnamehash}{cb72f7413143c1bf283f9f2662a9d6f4}
+      \strng{authorbibnamehash}{cb72f7413143c1bf283f9f2662a9d6f4}
+      \strng{authornamehash}{63c4cc72fb416ff6d8579d16fa053b2f}
+      \strng{authorfullhash}{cb72f7413143c1bf283f9f2662a9d6f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dietary plant foods are characterized by a vast molecular diversity of glycosylated sterols (SG) that differ in the structure of the steryl backbone. The identification of these polar steryl conjugates represents a major challenge as they are structurally highly similar, and commercial standards are limited to a few naturally abundant species. Spectral databases do not yet contain MS/MS spectra of these sterol conjugates obtained by electrospray ionization (ESI), which would facilitate their reliable identification. Thus, this study aimed at providing novel information on ESI-MS/MS spectra of both abundant and minor SG found in foods. As a first step, however, free sterols (FS) were investigated for their fragmentation behavior as they share the same intermediate ion as SG. Pure SG were obtained from commercially available standard mixtures and minor SG were extracted from different food sources (oat bran, wheat bran, pumpkin seeds, melon, rapeseeds, and potato peel). ESI-MS/MS spectra of 15 FS were assessed and fragment ions reflective of structural features were identified and rationalized. Subsequently, 14 SG were identified at four different levels, while relative retention times from chromatographic separation and spectral features of FS served to identify five SG. Spectral data from FS were directly transferable to SG when analyzed as aglycone ions as shown by similarity scores while SG were characterized by shorter retention times in reverse phase chromatography and the additional analysis as sodiated adduct confirmed their glycosidic nature. Moreover, we report for the first time the occurrence of 24-methylenecholesterol and a 4-monomethyl sterol as glycosidic conjugates in higher plants. The presented data will serve as a valuable tool for SG profiling of foods by facilitating their identification.}
+      \field{issn}{2296-2646}
+      \field{journaltitle}{FRONTIERS IN CHEMISTRY}
+      \field{month}{8}
+      \field{title}{{UPLC-MS/MS Based Identification of Dietary Steryl Glucosides by Investigation of Corresponding Free Sterols}}
+      \field{volume}{6}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.3389/fchem.2018.00342
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/fchem-06-00342.pdf:pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -2,16 +2,14 @@
 %\documentclass[]{report}
 
 \documentclass[]{report}
-
-
-
 %\usepackage[english, ku, titlepage]{ku-frontpage}
+%\usepackage[utf8]{inputenc}
 \usepackage[acronym]{glossaries}
-
+\usepackage{multirow}
 \makeglossaries
 %opening
 %\assignment{Master Thesis}
-\title{LC-MS based Metabolomics: \\ Biomarker Discover, \\Data Quality Control, \\Bioinformatics Tools\\ Computing Performance and Hardware, \\Tutorial}
+\title{LC-MS based Metabolomics: Biomarker Discover and Bioinformatics Tools}
 \author{Tu Hu\thanks{Supervised by Lars Ove Dragsted and Gözde Gürdeniz}}
 %\subtitle{Examplified by Whole Grain Barley, Wheat Intake and FATMAD}
 %\advisor{Supervisor: Lars Ove Dragsted \& Gözde Gürdenz}
@@ -27,7 +25,7 @@
 \usepackage{gensymb}
 \usepackage[backend=biber,style=nature,%sorting=ynt
 ]{biblatex}
-%\addbibresource{barley.bib}
+
 
 \usepackage{makecell}
 \usepackage{footnote}
@@ -96,10 +94,19 @@
 %\newpage
 %\section{Appendix}
 %\input{appendix.tex}
+\chapter{Introduction}
+\input{thesis_intro.tex}
 
-\chapter{A Mini-review on Biomarkers of Whole Grain Barley and Whole Grain Wheat Intake}
+\chapter{A Mini-review on Biomarkers of Whole Grain Wheat and Barley Intake}
 	%\includepdf[pages=-]{review-main.pdf}
 	\section{Abstract}
+	Due to lacking objective food exposure measurement, epidemiologic studies showed mixed results on whole grains' health beneficial effects.
+	Meanwhile, increasing evidence showed each whole grain type could benefit health differently. 
+	In order to accurately quantify whole grain exposure, there is a demand to discover intake biomarkers for each whole grain type.
+	This mini review referred the systematic literature review guidelines and examined biomarkers for whole grain barley and whole grain wheat intake.
+	For whole grain barley, none intake biomarker has been reported.
+	For whole grain wheat, combining total alkylresorcinol and homologous ratio of C17:0/C21:0 was proposed as biomarkers to measure whole grain wheat intake.
+	Other promising intake biomarkers were summarized as well.
 	\section{Introduction}
 	\input{review-intro}
 	
@@ -127,19 +134,54 @@
 \chapter{Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}
 \input{thesis_wheat_marker.tex}
 
-\chapter{Towards a Streamlined Metabolomics Data Analysis Flow: Unify Metabolomics Data Format Tidy}
-\input{data-format.tex}
+%\chapter{Towards a Streamlined Metabolomics Data Analysis Flow: Unify Metabolomics Data Format Tidy}
+%\input{data-format.tex}
 
-\chapter{Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}
-\input{qc.tex}
+%\chapter{Data Quality Control (QC) and Quality Assurance (QA) in LC-MS Based Untargeted Metabolomics}
+%\input{qc.tex}
 
-\chapter{Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}
-\input{thesis_r_function.tex}
+%\chapter{Several R Functions Facilitating LC-MS Based Metabolomics Data Analysis Workflow}
+%\input{thesis_r_function.tex}
 
-\chapter{Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}
+%\chapter{Implementing A Streamlined Metabolomics Data Analysis Workflow (EZMS) Based on R Programming Language}
 
-\chapter{Using a Budgeted Device to Compute High-throughout Metabolomics Data}
-\input{thesis_hardware.tex}
+%\chapter{Using a Budgeted Device to Compute High-throughout Metabolomics Data}
+%\input{thesis_hardware.tex}
+\chapter{Identification Strategies for BFIs Discovery}
+\section{Introduction}
+In this master thesis work, most of my time was spent on identifying metabolites from biospecies such as urine and plasma. This is same in all biomarker discovery studies. however, this step is very time-consuming. I summaried the identification strategies i used. This might be inspiring for other researchers.
 
+In metabolimics pipeline, identification comes after statistics. Selected features (with retention time and mass-to-charge ratio) should be identified. 
+
+\textbf{step one: database search}
+Normally, 1st step starts from searching database. the database could be a public one or in-house one. Normally in-house database contains RT, fragments, adducts, etc. This might easily match get a level-one identification.
+however, searching in a public database normally can get extensive hints, e.g. C6H10O might have a lot of hints.
+
+\textbf{step two: use reference compound}
+1st, reference compound is available. then purchase them, e.g. in my case, sitostanol did not fly in our Quad method. then, I checked another method, Linda's method to make it fly.
+
+In another case, interesting compound could be an metabolite of the reference compound. Then, we need to some in-vitro metabolism experiments, e.g. oxidation, glucuronadation and sulfazation. If they match 
+
+second method is, use glucuronadase or sulfatease to treat the sample and analyze them again, to check whether RT, m/z and MSMS spectra match.
+
+Another challenge is reference compound is not always available. For example in Muyao's PhD thesis, she synthesized her own compound and made a level-1 identification for spinach intake.
+
+\section{Materials and methods}
+In order to identify researches dealing with the identification of BFIs, we carried out an extensive literature search following the BFIRev methodology proposed previously [4].
+ Briefly, searches were carried out in three databases (PubMed, Scopus, and ISI Web of Knowledge) in Jun 2019. In PubMed, the search terms were (nutri- tion*[Title/Abstract]) AND (biomarker*[Title] OR marker*[Title]) AND (validation*[Title/Abstract] OR validity*[Title/Abstract] OR validate*[Title/Abstract] OR assessment*[Title/Abstract]) NOT (animal OR rat OR mouse OR mice OR pig) NOT (disease*[Title] OR risk*[- Title] OR inflammat*[Title/Abstract] OR patient*[Title]). To avoid all the studies concerned with a single bio- marker while keeping studies on validation in general, we avoided using nutrient* or food* in the search strat- egy. The fields used for the other two databases were [Article Title/Abstract/Keywords] for Scopus and [Topic] for ISI Web of Science to replace [Title/Ab- stract] for PubMed. The search was limited to papers in English language and with no restriction applied for the publication dates. The review papers discussing the de- velopment and application of biomarkers in the nutri- tion field were selected in the process outlined in Fig. 1. The first draft scheme of validation criteria was based on criteria proposed in the review papers found by this literature search. This list was revised by three rounds of commenting by co-authors as well as feedback from pre- sentations at international conferences.
+
+
+\section{Discussion}
+\subsection{Searching in a cohort study}
+not all metabolites are identifiable. in order to prioritize the identification work, there's one step suggested before identification. That is, check whether this metabolite can also distinguish this intake in another large cohort study. Normally this is the later step of BFIs discovery study, i.e. validation of metabolites. 
+However, these cohort studies normally do not share their data. Also because different analytical platform, data format was used making it difficult to compare.
+
+\subsection{Challenges and Limitations}
+Not enough.
+normally they do not have bio-informatics ideas.
+
+
+\chapter{Discussions}
+I do not know which markers are better. If another dataset can give me. I think it's gonna be better.
 %\addchap{Closing Remarks}
 \end{document}
