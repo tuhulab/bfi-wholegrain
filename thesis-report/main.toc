@@ -1,65 +1,76 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{3}% 
-\contentsline {section}{\numberline {1.1}Biomarkers of Food Intake (BFIs)}{3}% 
-\contentsline {subsubsection}{Definition of Biomarker}{3}% 
-\contentsline {subsubsection}{Biomarker Classification}{3}% 
-\contentsline {subsubsection}{Biomarker Systematic review}{3}% 
-\contentsline {subsubsection}{Biomarker Validation}{3}% 
-\contentsline {section}{\numberline {1.2}Discovery of BFIs}{3}% 
-\contentsline {chapter}{\numberline {2}A Mini-review on Biomarkers of Whole Grain Wheat and Barley Intake}{4}% 
-\contentsline {section}{\numberline {2.1}Abstract}{4}% 
-\contentsline {section}{\numberline {2.2}Introduction}{4}% 
-\contentsline {section}{\numberline {2.3}Materials and Methods}{5}% 
-\contentsline {section}{\numberline {2.4}Results}{5}% 
-\contentsline {subsection}{\numberline {2.4.1}WG barley}{5}% 
-\contentsline {subsection}{\numberline {2.4.2}WG wheat}{6}% 
-\contentsline {subsubsection}{Overview}{6}% 
-\contentsline {subsubsection}{Alkylresorcinols (ARs) and Homologous Ratio C17:0/C21:0}{7}% 
-\contentsline {subsubsection}{Applications in Type II Diabetes Research}{8}% 
-\contentsline {subsubsection}{Other potential markers}{8}% 
-\contentsline {section}{\numberline {2.5}Conclusions}{9}% 
-\contentsline {section}{\numberline {2.6}Discussions}{9}% 
-\contentsline {subsection}{\numberline {2.6.1}Potential BFIs for WG barley}{9}% 
-\contentsline {subsection}{\numberline {2.6.2}Exclusion Criteria of WG Wheat intake biomarker}{9}% 
-\contentsline {subsection}{\numberline {2.6.3}AR metabolites for WG wheat intake and Geographical Applicabilities}{10}% 
-\contentsline {subsection}{\numberline {2.6.4}Analytical platform of ARs}{10}% 
-\contentsline {subsection}{\numberline {2.6.5}Necessities and Challenges of Discovering Biomarkers for WG Wheat Intake}{12}% 
-\contentsline {section}{\numberline {2.7}Appendix}{13}% 
-\contentsline {chapter}{\numberline {3}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{15}% 
-\contentsline {chapter}{\numberline {4}Barley Intake Biomarker: Compound Identification and Structure Elucidation}{16}% 
-\contentsline {section}{\numberline {4.1}Abstract}{16}% 
-\contentsline {section}{\numberline {4.2}Introduction}{16}% 
-\contentsline {subsection}{\numberline {4.2.1}Phytosterol: Structure, Post-harvest Degradation and Fragmentation Behaviour}{16}% 
-\contentsline {subsection}{\numberline {4.2.2}$\beta $-glucuronidase for metabolites analysis}{16}% 
-\contentsline {subsubsection}{Glucuronidation in METABOLISM}{16}% 
-\contentsline {section}{\numberline {4.3}Materials and methods}{17}% 
-\contentsline {subsection}{\numberline {4.3.1}Chemicals}{17}% 
-\contentsline {subsection}{\numberline {4.3.2}Apparatus}{17}% 
-\contentsline {subsection}{\numberline {4.3.3}UPLC-MS/MS analysis of Sitostanol}{17}% 
-\contentsline {subsection}{\numberline {4.3.4}Deconjugation experiments}{17}% 
-\contentsline {section}{\numberline {4.4}Results}{18}% 
-\contentsline {subsection}{\numberline {4.4.1}Retention Time (RT) and m/z in Different Matrix}{18}% 
-\contentsline {subsection}{\numberline {4.4.2}Enzymatic Deglucuronidation}{18}% 
-\contentsline {subsection}{\numberline {4.4.3}}{18}% 
-\contentsline {chapter}{\numberline {5}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{19}% 
-\contentsline {section}{\numberline {5.1}Introduction}{19}% 
-\contentsline {section}{\numberline {5.2}Materials and Methods}{19}% 
-\contentsline {subsection}{\numberline {5.2.1}In vitro glucurnadition mimic experiments}{19}% 
-\contentsline {subsection}{\numberline {5.2.2}Glucurnadase experiments}{19}% 
-\contentsline {subsection}{\numberline {5.2.3}logP value prediction}{19}% 
-\contentsline {subsection}{\numberline {5.2.4}MS/MS}{19}% 
-\contentsline {section}{\numberline {5.3}Results}{19}% 
-\contentsline {subsection}{\numberline {5.3.1}Summary of Identification}{19}% 
-\contentsline {subsection}{\numberline {5.3.2}Predicted logP value of AR metabolites}{19}% 
-\contentsline {subsection}{\numberline {5.3.3}\textit {in-vitro} glucuronadation of 3,5-DHBA}{20}% 
-\contentsline {subsubsection}{3,5-DHBA monoglucuronate}{20}% 
-\contentsline {subsubsection}{3,5-DHBA diglucuronate and triglucuronate}{20}% 
-\contentsline {subsection}{\numberline {5.3.4}3,5-DHBA sulfate}{21}% 
-\contentsline {subsection}{\numberline {5.3.5}Identifications of alkylresorcinol (AR) metabolites}{21}% 
-\contentsline {section}{\numberline {5.4}Conclusion}{21}% 
-\contentsline {section}{\numberline {5.5}Discussion}{21}% 
-\contentsline {chapter}{\numberline {6}Identification Strategies for BFIs Discovery}{23}% 
-\contentsline {section}{\numberline {6.1}Discussion}{24}% 
-\contentsline {subsection}{\numberline {6.1.1}Searching in a cohort study}{24}% 
-\contentsline {subsection}{\numberline {6.1.2}Challenges and Limitations}{24}% 
-\contentsline {chapter}{\numberline {7}Discussions}{25}% 
+\contentsline {chapter}{\numberline {1}Introduction}{4}% 
+\contentsline {section}{\numberline {1.1}Biomarkers of Food Intake (BFIs)}{4}% 
+\contentsline {subsubsection}{Definition of Biomarker}{4}% 
+\contentsline {subsubsection}{Biomarker Classification}{4}% 
+\contentsline {subsubsection}{Biomarker Systematic review}{4}% 
+\contentsline {subsubsection}{Biomarker Validation}{4}% 
+\contentsline {section}{\numberline {1.2}Discovery of BFIs by Metabolomics}{4}% 
+\contentsline {chapter}{\numberline {2}Materials and Methods}{5}% 
+\contentsline {section}{\numberline {2.1}Digital Literature Search and Systematic Review}{5}% 
+\contentsline {section}{\numberline {2.2}Multi-variable Data Analysis}{5}% 
+\contentsline {section}{\numberline {2.3}LC-MS Based Metabolome Profiling Systems}{5}% 
+\contentsline {subsection}{\numberline {2.3.1}MSMS}{5}% 
+\contentsline {section}{\numberline {2.4}title}{5}% 
+\contentsline {chapter}{\numberline {3}A Mini-review on Biomarkers of Whole Grain Wheat and Barley Intake}{6}% 
+\contentsline {section}{\numberline {3.1}Abstract}{6}% 
+\contentsline {section}{\numberline {3.2}Introduction}{6}% 
+\contentsline {section}{\numberline {3.3}Materials and Methods}{7}% 
+\contentsline {section}{\numberline {3.4}Results}{7}% 
+\contentsline {subsection}{\numberline {3.4.1}WG barley}{7}% 
+\contentsline {subsection}{\numberline {3.4.2}WG wheat}{8}% 
+\contentsline {subsubsection}{Overview}{8}% 
+\contentsline {subsubsection}{Alkylresorcinols (ARs) and Homologous Ratio C17:0/C21:0}{8}% 
+\contentsline {subsubsection}{Applications in Type II Diabetes Research}{9}% 
+\contentsline {subsubsection}{Other potential markers}{10}% 
+\contentsline {section}{\numberline {3.5}Conclusions}{10}% 
+\contentsline {section}{\numberline {3.6}Discussions}{10}% 
+\contentsline {subsection}{\numberline {3.6.1}Potential BFIs for WG barley}{10}% 
+\contentsline {subsection}{\numberline {3.6.2}Exclusion Criteria of WG Wheat intake biomarker}{11}% 
+\contentsline {subsection}{\numberline {3.6.3}AR metabolites for WG wheat intake and Geographical Applicabilities}{11}% 
+\contentsline {subsection}{\numberline {3.6.4}Analytical platform of ARs}{12}% 
+\contentsline {subsection}{\numberline {3.6.5}Necessities and Challenges of Discovering Biomarkers for WG Wheat Intake}{12}% 
+\contentsline {section}{\numberline {3.7}Appendix}{13}% 
+\contentsline {chapter}{\numberline {4}Discovering Barley Intake Biomarkers in Urine by UPLC-MS Based Untargeted Metabolomics}{16}% 
+\contentsline {chapter}{\numberline {5}Urinary Intake Biomarker of Barley: Metabolite Identification}{17}% 
+\contentsline {section}{\numberline {5.1}Abstract}{17}% 
+\contentsline {section}{\numberline {5.2}Introduction}{17}% 
+\contentsline {subsection}{\numberline {5.2.1}Phytosterol: Structure, Post-harvest Degradation and Fragmentation Behaviour}{17}% 
+\contentsline {subsection}{\numberline {5.2.2}$\beta $-glucuronidase for metabolites identification}{17}% 
+\contentsline {section}{\numberline {5.3}Materials and methods}{18}% 
+\contentsline {subsection}{\numberline {5.3.1}Chemicals}{18}% 
+\contentsline {subsection}{\numberline {5.3.2}Apparatus}{18}% 
+\contentsline {subsection}{\numberline {5.3.3}UPLC-MS/MS analysis of Sitostanol}{18}% 
+\contentsline {subsection}{\numberline {5.3.4}Deconjugation experiments}{18}% 
+\contentsline {section}{\numberline {5.4}Results}{19}% 
+\contentsline {subsection}{\numberline {5.4.1}Retention Time (RT) and m/z in Different Matrix}{19}% 
+\contentsline {subsection}{\numberline {5.4.2}Enzymatic Deglucuronidation}{19}% 
+\contentsline {subsection}{\numberline {5.4.3}}{19}% 
+\contentsline {chapter}{\numberline {6}Discovering Novel Intake Biomarkers of Whole Grain Wheat Intake by LC-MS Based Untargeted Metabolomics}{20}% 
+\contentsline {section}{\numberline {6.1}Introduction}{20}% 
+\contentsline {section}{\numberline {6.2}Materials and Methods}{20}% 
+\contentsline {subsection}{\numberline {6.2.1}\textit {In vitro} glucuronidation}{20}% 
+\contentsline {subsection}{\numberline {6.2.2}Bioinformatics Tools and Software}{20}% 
+\contentsline {subsection}{\numberline {6.2.3}MS/MS}{20}% 
+\contentsline {section}{\numberline {6.3}Results}{20}% 
+\contentsline {subsection}{\numberline {6.3.1}Summary of Identification}{20}% 
+\contentsline {subsection}{\numberline {6.3.2}Predicted logP value of AR metabolites}{21}% 
+\contentsline {subsection}{\numberline {6.3.3}\textit {in-vitro} glucuronadation of 3,5-DHBA}{21}% 
+\contentsline {subsubsection}{3,5-DHBA monoglucuronate}{21}% 
+\contentsline {subsubsection}{3,5-DHBA diglucuronate and triglucuronate}{22}% 
+\contentsline {subsection}{\numberline {6.3.4}3,5-DHBA sulfate}{23}% 
+\contentsline {subsection}{\numberline {6.3.5}Identifications of alkylresorcinol (AR) metabolites}{23}% 
+\contentsline {section}{\numberline {6.4}Conclusion}{23}% 
+\contentsline {section}{\numberline {6.5}Discussion}{23}% 
+\contentsline {chapter}{\numberline {7}Identification Strategies for BFIs Discovery}{24}% 
+\contentsline {section}{\numberline {7.1}Introduction}{24}% 
+\contentsline {section}{\numberline {7.2}Materials and methods}{25}% 
+\contentsline {section}{\numberline {7.3}Discussion}{25}% 
+\contentsline {subsection}{\numberline {7.3.1}Validation prior to Identification}{25}% 
+\contentsline {subsection}{\numberline {7.3.2}Challenges and Limitations}{25}% 
+\contentsline {subsubsection}{Open data}{25}% 
+\contentsline {subsubsection}{Bioinformatics tools}{25}% 
+\contentsline {chapter}{\numberline {8}Discussions}{27}% 
+\contentsline {chapter}{\numberline {9}Closing Remarks}{28}% 
+\contentsline {section}{\numberline {9.1}}{28}% 
+\contentsline {chapter}{\numberline {10}Appendix}{29}% 

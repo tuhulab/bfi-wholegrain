@@ -665,547 +665,6 @@
       \verb 10.5860/choice.51-1824
       \endverb
     \endentry
-    \entry{Baik2008}{article}{}
-      \name{author}{2}{}{%
-        {{hash=2e01905b6a8af9fac8c4f167d8b36be1}{%
-           family={Baik},
-           familyi={B\bibinitperiod},
-           given={Byung-kee},
-           giveni={B\bibinithyphendelim k\bibinitperiod}}}%
-        {{hash=339742fe505f13acb5d77bb3cb4b450f}{%
-           family={Ullrich},
-           familyi={U\bibinitperiod},
-           given={Steven\bibnamedelima E},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \strng{namehash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \strng{fullhash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \strng{bibnamehash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \strng{authorbibnamehash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \strng{authornamehash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \strng{authorfullhash}{161f6305ca244466f1e9b8ca4549e9fc}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Cereal Science}
-      \field{title}{{Barley for food : Characteristics , improvement , and renewed interest}}
-      \field{volume}{48}
-      \field{year}{2008}
-      \field{pages}{233\bibrangedash 242}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.jcs.2008.02.002
-      \endverb
-    \endentry
-    \entry{ISI:000272990200002}{article}{}
-      \name{author}{4}{}{%
-        {{hash=8b2fa23c78330c98e4109d9c1e176bdb}{%
-           family={Abidi},
-           familyi={A\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f34f0dd93338a48bec77ae8cdb0161cc}{%
-           family={{Ben Salem}},
-           familyi={B\bibinitperiod},
-           given={H},
-           giveni={H\bibinitperiod}}}%
-        {{hash=eee23e2f9c3b4ab487b37d63f9409f70}{%
-           family={Vasta},
-           familyi={V\bibinitperiod},
-           given={V},
-           giveni={V\bibinitperiod}}}%
-        {{hash=2b90892c5b9add7f76338f83c4ad4512}{%
-           family={Priolo},
-           familyi={P\bibinitperiod},
-           given={A},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{c414956455598900c42a352899e2be7e}
-      \strng{fullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
-      \strng{bibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
-      \strng{authorbibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
-      \strng{authornamehash}{c414956455598900c42a352899e2be7e}
-      \strng{authorfullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{An 84-day experiment, comprising growth and digestibility trials, was conducted to evaluate the effect of replacing barley with spineless Cactus (Opuntia ficus indica f. inermis) cladodes (cactus) on feed intake, digestion, blood metabolites, growth and meat quality of male lambs and kids consuming oaten hay. The replacement of barley by cactus decreased drinking water intake (P = 0.002) but had no effect on feed intake, diet digestibility and N balance (P {>} 0.05). Irrespective of animal species, the barley diet exhibited higher concentrations of allantoin in urine (P = 0.005) and therefore a higher microbial N Supply (P = 0.063) than the Cactus diet. Average daily gain was greater for the barley than for the cactus diet (P {<} 0.05), with a tendency for a greater difference for goats (46 g/day vs. 24 g/day) than for sheep (46 g/day vs. 39 g/day). The replacement of barley with cactus did not produce major differences in treat intramuscular fatty acid composition. Vaccenic acid concentration was significantly affected by treatment, being higher in meat of animals offered the cactus diet compared with the barley diet, while the accumulation of conjugated linoleic acid was not affected by the inclusion of cactus in the diet. Total saturated fatty acids, monounsaturated fatty acids (FA) and polyunsaturated FA were not influenced by supplementation with cactus. Despite the higher level of total n-6 FA in kids' meat, the n-6/n-3 ratio had a very low value. which is favourable for human health. It is concluded that. in terms of equivalent energy, cactus cladodes could replace barley in the diet of lambs and kids without substantial detrimental effects on digestion, growth and meat quality. Therefore, cactus could be used as a cost-effective feed supplement for sheep and goats on low quality roughages raised in dry areas. (C) 2009 Elsevier B.V. All rights reserved.}
-      \field{issn}{0921-4488}
-      \field{journaltitle}{SMALL RUMINANT RESEARCH}
-      \field{month}{11}
-      \field{number}{1-3}
-      \field{title}{{Supplementation with barley or spineless cactus (Opuntia ficus indica f. inermis) cladodes on digestion, growth and intramuscular fatty acid composition in sheep and goats receiving oaten hay}}
-      \field{volume}{87}
-      \field{year}{2009}
-      \field{pages}{9\bibrangedash 16}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1016/j.smallrumres.2009.09.004
-      \endverb
-    \endentry
-    \entry{Foster2003}{article}{}
-      \name{author}{6}{}{%
-        {{hash=31bf037651f798b3fd278b1c468d72c9}{%
-           family={Foster},
-           familyi={F\bibinitperiod},
-           given={A\bibnamedelima P},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=57e00decd66175571e24f337f153e035}{%
-           family={Knowles},
-           familyi={K\bibinitperiod},
-           given={T\bibnamedelima G},
-           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=90f63ce21bfea699068cc91c42ec5694}{%
-           family={Moore},
-           familyi={M\bibinitperiod},
-           given={A\bibnamedelima Hotston},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=2cc4f696c0262e78492ddc8c6e896ac7}{%
-           family={Cousins},
-           familyi={C\bibinitperiod},
-           given={P\bibnamedelima D\bibnamedelima G},
-           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=652d85d431461d98d2dd7307a48c304b}{%
-           family={Day},
-           familyi={D\bibinitperiod},
-           given={M\bibnamedelima J},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=eb26fe4e1f819a74aeec453b6dbc6533}{%
-           family={Hall},
-           familyi={H\bibinitperiod},
-           given={E\bibnamedelima J},
-           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {eng}%
-      }
-      \strng{namehash}{adab852b87614731856d1c7d7f317681}
-      \strng{fullhash}{0f671883a1548ceb8e20b8595cebb746}
-      \strng{bibnamehash}{adab852b87614731856d1c7d7f317681}
-      \strng{authorbibnamehash}{adab852b87614731856d1c7d7f317681}
-      \strng{authornamehash}{adab852b87614731856d1c7d7f317681}
-      \strng{authorfullhash}{0f671883a1548ceb8e20b8595cebb746}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In human food allergy, with or without concurrent atopy, there may be significant increases in serum allergen-specific IgE. Serological methods have been tried but are not currently recommended for diagnosis of suspected food allergy in dogs. The aim of this study was to investigate humoral immune responses to food antigens in dogs. Serum IgG and IgE antibodies specific for food antigens were measured by enzyme linked immunosorbent assay (ELISA) using polyclonal anti-dog IgG and IgE reagents. Antigens tested were beef, chicken, pork, lamb, chicken, turkey, white fish, whole egg, wheat, soybean, barley, rice, maize corn, potato, yeast and cow's milk. Three groups were examined: normal dogs, dogs with atopic dermatitis (AD); and dogs with one of four types of gastrointestinal (GI) disease: small intestinal bacterial overgrowth (SIBO), inflammatory bowel disease (IBD), food-responsive disease, and infectious diarrhoea. Statistically significant differences in food-specific antibodies were not detected between the GI subgroups. There were statistically significant differences in the IgE concentration between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested. There were statistically significant differences in the average IgG concentrations between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested, except egg and yeast. The relationship of antigen responses for pooled data was analysed using principle component analysis and cluster plots. Some clustering of variables was apparent for both IgE and IgG. For example, all dogs (normal and diseased) made a similar IgG antibody response to chicken and turkey. Compared with other groups, atopic dogs had more food allergen-specific IgE and this would be consistent with a Th(2) humoral response to food antigens. Dogs with GI disease had more food allergen-specific IgG compared with the other groups. This may reflect increased antigen exposure due to increased mucosal permeability which is a recognised feature of canine intestinal disease.}
-      \field{issn}{0165-2427 (Print)}
-      \field{journaltitle}{Veterinary immunology and immunopathology}
-      \field{month}{5}
-      \field{number}{3-4}
-      \field{title}{{Serum IgE and IgG responses to food antigens in normal and atopic dogs, and dogs with gastrointestinal disease.}}
-      \field{volume}{92}
-      \field{year}{2003}
-      \field{pages}{113\bibrangedash 124}
-      \range{pages}{12}
-      \keyw{Animals,Antigens,Cluster Analysis,Dermatitis,Atopic,Dog Diseases,Dogs,Enzyme-Linked Immunosorbent Assay,Food Hypersensitivity,Gastrointestinal Diseases,Immunoglobulin E,Immunoglobulin G,Principal Component Analysis,blood,immunology,veterinary}
-    \endentry
-    \entry{DeAngelis2015}{article}{}
-      \name{author}{10}{}{%
-        {{hash=e61cd9d01318aa2a8917adb15f4c4bc3}{%
-           family={{De Angelis}},
-           familyi={D\bibinitperiod},
-           given={Maria},
-           giveni={M\bibinitperiod}}}%
-        {{hash=40f552d891a0f413398efb30587b8ee9}{%
-           family={Montemurno},
-           familyi={M\bibinitperiod},
-           given={Eustacchio},
-           giveni={E\bibinitperiod}}}%
-        {{hash=e2abf59bc191ae1c68e85a5e5be3f9c4}{%
-           family={Vannini},
-           familyi={V\bibinitperiod},
-           given={Lucia},
-           giveni={L\bibinitperiod}}}%
-        {{hash=17ac3537dbb8805df66cf5428093354d}{%
-           family={Cosola},
-           familyi={C\bibinitperiod},
-           given={Carmela},
-           giveni={C\bibinitperiod}}}%
-        {{hash=c2928c2f58a0b060500d9478ce9a7ff9}{%
-           family={Cavallo},
-           familyi={C\bibinitperiod},
-           given={Noemi},
-           giveni={N\bibinitperiod}}}%
-        {{hash=78f4661b67d2a37874dbe0cf2a67c880}{%
-           family={Gozzi},
-           familyi={G\bibinitperiod},
-           given={Giorgia},
-           giveni={G\bibinitperiod}}}%
-        {{hash=4e6453f3ddf0ebe24a8c14768ed1c622}{%
-           family={Maranzano},
-           familyi={M\bibinitperiod},
-           given={Valentina},
-           giveni={V\bibinitperiod}}}%
-        {{hash=cb041c9a22deb855b496bd2ea470d904}{%
-           family={{Di Cagno}},
-           familyi={D\bibinitperiod},
-           given={Raffaella},
-           giveni={R\bibinitperiod}}}%
-        {{hash=56fd791232bf506c74b926ca205c5682}{%
-           family={Gobbetti},
-           familyi={G\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=02d3bbb1f09554496a50ec762a4627f8}{%
-           family={Gesualdo},
-           familyi={G\bibinitperiod},
-           given={Loreto},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {eng}%
-      }
-      \strng{namehash}{602ef78666dee272d29379c3b08000d5}
-      \strng{fullhash}{ccf876d6fcdff6f9d207354746adbf3d}
-      \strng{bibnamehash}{602ef78666dee272d29379c3b08000d5}
-      \strng{authorbibnamehash}{602ef78666dee272d29379c3b08000d5}
-      \strng{authornamehash}{602ef78666dee272d29379c3b08000d5}
-      \strng{authorfullhash}{ccf876d6fcdff6f9d207354746adbf3d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In this study, we compared the fecal microbiota and metabolomes of 26 healthy subjects before (HS) and after (HSB) 2 months of diet intervention based on the administration of durum wheat flour and whole-grain barley pasta containing the minimum recommended daily intake (3 g) of barley beta-glucans. Metabolically active bacteria were analyzed through pyrosequencing of the 16S rRNA gene and community-level catabolic profiles. Pyrosequencing data showed that levels of Clostridiaceae (Clostridium orbiscindens and Clostridium sp.), Roseburia hominis, and Ruminococcus sp. increased, while levels of other Firmicutes and Fusobacteria decreased, from the HSB samples to the HS fecal samples. Community-level catabolic profiles were lower in HSB samples. Compared to the results for HS samples, cultivable lactobacilli increased in HSB fecal samples, while the numbers of Enterobacteriaceae, total coliforms, and Bacteroides, Porphyromonas, Prevotella, Pseudomonas, Alcaligenes, and Aeromonas bacteria decreased. Metabolome analyses were performed using an amino acid analyzer and gas chromatography-mass spectrometry solid-phase microextraction. A marked increase in short-chain fatty acids (SCFA), such as 2-methyl-propanoic, acetic, butyric, and propionic acids, was found in HSB samples with respect to the HS fecal samples. Durum wheat flour and whole-grain barley pasta containing 3{\%} barley beta-glucans appeared to be effective in modulating the composition and metabolic pathways of the intestinal microbiota, leading to an increased level of SCFA in the HSB samples.}
-      \field{annotation}{THE QUALITY IS NOT VERY HIGH. BECAUSE THE INTERVENTION CONSISTS 75{\%} WHEAT AND 25{\%} BARLEY}
-      \field{issn}{1098-5336 (Electronic)}
-      \field{journaltitle}{Applied and environmental microbiology}
-      \field{month}{11}
-      \field{number}{22}
-      \field{title}{{Effect of Whole-Grain Barley on the Human Fecal Microbiota and Metabolome.}}
-      \field{volume}{81}
-      \field{year}{2015}
-      \field{pages}{7945\bibrangedash 7956}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1128/AEM.02507-15
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/7945.full.pdf:pdf
-      \endverb
-      \keyw{16S,Adult,Bacteria,DNA,Diet,Feces,Female,Gas Chromatography-Mass Spectrometry,Hordeum,Humans,Italy,Male,Metabolome,Microbiota,Middle Aged,Phylogeny,RNA,Ribosomal,Sequence Analysis,Solid Phase Microextraction,Triticum,chemistry,classification,genetics,growth {\&} development,isolation {\&} purification,metabolism,microbiology}
-    \endentry
-    \entry{ISI:000309032000011}{article}{}
-      \name{author}{9}{}{%
-        {{hash=bc2faf2094f531c9048057f820ca3b44}{%
-           family={Ma},
-           familyi={M\bibinitperiod},
-           given={Jiantao},
-           giveni={J\bibinitperiod}}}%
-        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
-           family={Ross},
-           familyi={R\bibinitperiod},
-           given={Alastair\bibnamedelima B},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=3e6c23f1bf7c219b233c40d26e96b52e}{%
-           family={Shea},
-           familyi={S\bibinitperiod},
-           given={M\bibnamedelima Kyla},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=6e378d5ad0bbc9db7b975e0b083411ff}{%
-           family={Bruce},
-           familyi={B\bibinitperiod},
-           given={Stephen\bibnamedelima J},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=1ab30ee6ee9208f6980c5ed7e1247301}{%
-           family={Jacques},
-           familyi={J\bibinitperiod},
-           given={Paul\bibnamedelima F},
-           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=693e29e8640b1c0ae2138d605c90538f}{%
-           family={Saltzman},
-           familyi={S\bibinitperiod},
-           given={Edward},
-           giveni={E\bibinitperiod}}}%
-        {{hash=32221282452ea8d7046784b228d170f4}{%
-           family={Lichtenstein},
-           familyi={L\bibinitperiod},
-           given={Alice\bibnamedelima H},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=0119fde9c848dfdecc89c6e1b55e50e7}{%
-           family={Booth},
-           familyi={B\bibinitperiod},
-           given={Sarah\bibnamedelima L},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=42f690ea3d84c573b4fc72fcef47408d}{%
-           family={McKeown},
-           familyi={M\bibinitperiod},
-           given={Nicola\bibnamedelima M},
-           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \strng{namehash}{a70a437f304554cc53e37891b1a010af}
-      \strng{fullhash}{aadc3ef12ad143c2086fd35c29fdb8c0}
-      \strng{bibnamehash}{a70a437f304554cc53e37891b1a010af}
-      \strng{authorbibnamehash}{a70a437f304554cc53e37891b1a010af}
-      \strng{authornamehash}{a70a437f304554cc53e37891b1a010af}
-      \strng{authorfullhash}{aadc3ef12ad143c2086fd35c29fdb8c0}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Alkylresorcinols (AR) are phenolic lipids found in the bran fraction of whole-grain wheat, rye, and barley. In intervention studies, plasma AR concentration increased in response to greater intakes of whole grain, wheat, and rye. This study examined the cross-sectional associations between plasma AR and habitual whole-grain intake, BMI, and metabolic risk factors in 407 free-living older adults (166 men and 241 women; aged 60-81y; median BMI: 27 kg/m(2)). Plasma AR were measured by liquid chromatography tandem MS, and whole-grain intakes were estimated by using an FFQ. After adjustment for fasting TG concentrations, median plasma AR concentrations across quartile categories of AR were 5, 14, 27, and 62 nmol/L, respectively. Spearman correlation coefficients between plasma AR and whole-grain wheat rich foods and total bran intake were 0.31 and 0.27, respectively (both P {<} 0.00011. After adjustment for multiple covariates, the geometric means of BMI in the lowest and highest quartile category of plasma AR were 27.6 and 26.7 kg/m(2), respectively (P-trend = 0.04). No associations were observed between plasma AR and glucose and insulin. Our study shows a dose-dependent relationship between whole-grain intake and plasma AR and confirms the previously observed inverse relationship between whole-grain intake and BMI using an independent biomarker of whole-grain wheat intake. J. Nutr. 142: 1859-1864, 2012.}
-      \field{issn}{0022-3166}
-      \field{journaltitle}{JOURNAL OF NUTRITION}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{{Plasma Alkylresorcinols, Biomarkers of Whole-Grain Intake, Are Related to Lower BMI in Older Adults}}
-      \field{volume}{142}
-      \field{year}{2012}
-      \field{pages}{1859\bibrangedash 1864}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.3945/jn.112.163253
-      \endverb
-    \endentry
-    \entry{ISI:000259554500019}{article}{}
-      \name{author}{6}{}{%
-        {{hash=b8f41b8eab14e2b4a88a4691d3c74685}{%
-           family={Guyman},
-           familyi={G\bibinitperiod},
-           given={Laura\bibnamedelima A},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=f691cb720b93ea31544a2f68dee4ec71}{%
-           family={Adlercreutz},
-           familyi={A\bibinitperiod},
-           given={Herman},
-           giveni={H\bibinitperiod}}}%
-        {{hash=45123195798da96f5d55d0b7d47e7ed5}{%
-           family={Koskela},
-           familyi={K\bibinitperiod},
-           given={Anja},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1df2b6f67a5a1fe41f9bc9df027cdb34}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Lin},
-           giveni={L\bibinitperiod}}}%
-        {{hash=6e7aea723bd7b589063c0de0fd83f96b}{%
-           family={Beresford},
-           familyi={B\bibinitperiod},
-           given={Shirley\bibnamedelimb A\bibnamedelima A},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=5ce8202845475acc5afba938ba100aa3}{%
-           family={Lampe},
-           familyi={L\bibinitperiod},
-           given={Johanna\bibnamedelima W},
-           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \strng{namehash}{83d180e724b73634a3c89e401fcad61e}
-      \strng{fullhash}{e0365967d83fa056c74e1619b804273f}
-      \strng{bibnamehash}{83d180e724b73634a3c89e401fcad61e}
-      \strng{authorbibnamehash}{83d180e724b73634a3c89e401fcad61e}
-      \strng{authornamehash}{83d180e724b73634a3c89e401fcad61e}
-      \strng{authorfullhash}{e0365967d83fa056c74e1619b804273f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{5-n-Alkylresorcinols (AR) are a major group of phenolic compounds in whole-grain wheat, rye, and barley, As such, they may serve as potential biomarkers of whole-grain intake, because they are quantifiable intact in plasma and as metabolites in urine. We examined relationships between 12-h urinary excretion of AR metabolite 3-(3,5-dihydroxyphenyl)-1-propanoic acid (DHPPA) and self-reported habitual intake of whole-grain foods measured by 3-d food record (3DFR) and FFQ. Urine samples from 100 men and women were analyzed for DHPPA using HPLC with coularray detection. DHPPA excretion ranged from 1.3 to 99.4 (mean +/- SE, 14.0 +/- 1.5) mu mol/12 h. Whole-grain food intake, as determined by 3DFR and FFQ and adjusted for BMI and energy and fiber intake, was significantly associated with 12-h urinary DHPPA excretion. Based on 3DFR, whole-grain wheat + rye consumers had a 44{\%} higher DHPPA excretion than nonconsumers {\{}[{\}}ratio of excretion (95{\%} CI) = 1.44 (1.04, 1,97); P = 0.029]. Using whole-grain intake estimated by FFQ, a serving increase in whole-grain wheat + rye intake increased DHPPA excretion by 94{\%} {\{}[{\}}ratio of excretion (95{\%} Cl) = 1.94 (1.35, 2.78); P = 0.001] and a serving increase in whole grains as defined more broadly in epidemiologic studies of whole-grain intake and disease risk (whole-grain wheat, rye, oats, and corn) increased DHPPA by 67{\%} {\{}[{\}}ratio of excretion (95{\%} CI) = 1.67 (1,28, 2.17); P {<} 0.0001]. This study supports the potential utility of urinary DHPPA as a biomarker of whole-grain intake in a U.S. population.}
-      \field{issn}{0022-3166}
-      \field{journaltitle}{JOURNAL OF NUTRITION}
-      \field{month}{10}
-      \field{number}{10}
-      \field{title}{{Urinary 3-(3,5-dihydroxyphenyl)-1-propanoic acid, an alkylresorcinol metabolite, is a potential biomarker of whole-grain intake in a US population}}
-      \field{volume}{138}
-      \field{year}{2008}
-      \field{pages}{1957\bibrangedash 1962}
-      \range{pages}{6}
-    \endentry
-    \entry{doi:10.1021/jf0340456}{article}{}
-      \name{author}{7}{}{%
-        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
-           family={Ross},
-           familyi={R\bibinitperiod},
-           given={Alastair\bibnamedelima B},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=d578b5f1c313a66190cbfa58dc2518e9}{%
-           family={Shepherd},
-           familyi={S\bibinitperiod},
-           given={Martin\bibnamedelima J},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=e97205f00692f86bde3c7575158b67cb}{%
-           family={Sch{ü}pphaus},
-           familyi={S\bibinitperiod},
-           given={Meike},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b951bbb19999e0ad094508773e4fb4bc}{%
-           family={Sinclair},
-           familyi={S\bibinitperiod},
-           given={Vicky},
-           giveni={V\bibinitperiod}}}%
-        {{hash=8a03f3765a2b4e71e8e5ae1b13bb0a2d}{%
-           family={Alfaro},
-           familyi={A\bibinitperiod},
-           given={Bego{ñ}a},
-           giveni={B\bibinitperiod}}}%
-        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
-           family={Kamal-Eldin},
-           familyi={K\bibinithyphendelim E\bibinitperiod},
-           given={Afaf},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
-           family={{Å}man},
-           familyi={Å\bibinitperiod},
-           given={Per},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
-      \strng{fullhash}{a4326ecbc4ecb242be2b9947a7951732}
-      \strng{bibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
-      \strng{authorbibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
-      \strng{authornamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
-      \strng{authorfullhash}{a4326ecbc4ecb242be2b9947a7951732}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{PMID: 12822955}
-      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
-      \field{number}{14}
-      \field{title}{{Alkylresorcinols in Cereals and Cereal Products}}
-      \field{volume}{51}
-      \field{year}{2003}
-      \field{pages}{4111\bibrangedash 4118}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1021/jf0340456
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1021/jf0340456
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1021/jf0340456
-      \endverb
-    \endentry
-    \entry{ANDERSSON2010794}{article}{}
-      \name{author}{4}{}{%
-        {{hash=0003ca70f6a50e5464310554b114c284}{%
-           family={Andersson},
-           familyi={A\bibinitperiod},
-           given={Annica\bibnamedelimb A\bibnamedelima M},
-           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
-           family={{Å}man},
-           familyi={Å\bibinitperiod},
-           given={Per},
-           giveni={P\bibinitperiod}}}%
-        {{hash=a02f6a1c79fae59db8c2be51f3168aea}{%
-           family={Wandel},
-           familyi={W\bibinitperiod},
-           given={Margareta},
-           giveni={M\bibinitperiod}}}%
-        {{hash=9610beec3c4fe5548db10364d9634cc3}{%
-           family={Fr{ø}lich},
-           familyi={F\bibinitperiod},
-           given={Wenche},
-           giveni={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{b46716982e45b11f7d030269a14ef1bb}
-      \strng{fullhash}{3768dd4530419a611ced15bd9b7c3750}
-      \strng{bibnamehash}{3768dd4530419a611ced15bd9b7c3750}
-      \strng{authorbibnamehash}{3768dd4530419a611ced15bd9b7c3750}
-      \strng{authornamehash}{b46716982e45b11f7d030269a14ef1bb}
-      \strng{authorfullhash}{3768dd4530419a611ced15bd9b7c3750}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The alkylresorcinol (AR) content and relative homologue composition were determined in Norwegian flours and bread. The following average values for total AR content ($\mu$g/gdm) were found: wholegrain wheat flour available only to bakers (490) and to both consumers and bakers (710), refined wheat flour (36), wheat bran (3625), wholegrain spelt wheat flour (650), refined spelt wheat flour (80), wholegrain rye flour (972), refined rye flour (90) and rye bran (2753). The C17:0/C21:0 ratio was 0.1 for wheat and 0.8–0.9 for rye, confirming that it can be used to distinguish between wheat and rye. The AR content of Norwegian refined wheat flour was higher than that of Swedish, due to a consistently higher milling extraction rate in Norway. The content of AR varied from 27 to 2766$\mu$g/gdm in hard bread and 21 to 548$\mu$g/gdm in soft bread. The highest contents were found in bread with a high proportion of wholegrain flour and/or bran, in agreement with earlier studies. There was a good correlation (r=0.91) and a high compliance between calculated and analysed AR levels in soft bread, confirming that AR can be used as a biomarker for wholegrain wheat and/or rye content in a cereal product.}
-      \field{issn}{0889-1575}
-      \field{journaltitle}{Journal of Food Composition and Analysis}
-      \field{number}{8}
-      \field{title}{{Alkylresorcinols in wheat and rye flour and bread}}
-      \field{volume}{23}
-      \field{year}{2010}
-      \field{pages}{794\bibrangedash 801}
-      \range{pages}{8}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.jfca.2010.03.012
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/1-s2.0-S0889157510001341-main (1).pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S0889157510001341
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S0889157510001341
-      \endverb
-      \keyw{Alkylresorcinols,Bread,Flour,Food analysis,Food composition,Rye,Spelt wheat,Wheat,Wholegrain}
-    \endentry
-    \entry{BORDIGA201638}{article}{}
-      \name{author}{7}{}{%
-        {{hash=ec9518662d8edbe85f54db5856561fd7}{%
-           family={Bordiga},
-           familyi={B\bibinitperiod},
-           given={Matteo},
-           giveni={M\bibinitperiod}}}%
-        {{hash=077f0d702ee624d15cd4f3ee12d14326}{%
-           family={Locatelli},
-           familyi={L\bibinitperiod},
-           given={Monica},
-           giveni={M\bibinitperiod}}}%
-        {{hash=db3ce75a32ccfde828e4018f57c5dc94}{%
-           family={Travaglia},
-           familyi={T\bibinitperiod},
-           given={Fabiano},
-           giveni={F\bibinitperiod}}}%
-        {{hash=ed3c55c1abde95bdacd6c87724e85c76}{%
-           family={Arlorio},
-           familyi={A\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4d8cef05d1270944bd6a2b5ebfaf9ec1}{%
-           family={Reyneri},
-           familyi={R\bibinitperiod},
-           given={Amedeo},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b13bc28a96c34743e2cf1f188c09387c}{%
-           family={Blandino},
-           familyi={B\bibinitperiod},
-           given={Massimo},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a378487dafe29340996b52f0ad2db421}{%
-           family={Coisson},
-           familyi={C\bibinitperiod},
-           given={Jean\bibnamedelima Daniel},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-      }
-      \strng{namehash}{08e31b2c7577fc9a46d219732e28c273}
-      \strng{fullhash}{f9d2bee21df14de691d2a65a13e651dc}
-      \strng{bibnamehash}{08e31b2c7577fc9a46d219732e28c273}
-      \strng{authorbibnamehash}{08e31b2c7577fc9a46d219732e28c273}
-      \strng{authornamehash}{08e31b2c7577fc9a46d219732e28c273}
-      \strng{authorfullhash}{f9d2bee21df14de691d2a65a13e651dc}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The aim of this work was to investigate the content and the composition of alkylresorcinols (ARs) in different wheat and barley cultivars, and in fractions obtained by progressive pearling. Three commercial winter wheats, characterized by different hardness and technological quality, and three barleys, including hulled and hull-less types, were selected. Two different protocols of sequential pearling were applied. Pearling of wheat and hull-less barley cultivars gave five fractions (each corresponding to 5{\%} of grain weight) and 75{\%} of the residue. In the case of hulled barley eight pearled fractions and 60{\%} of inner kernel were obtained. In wheat ARs were prevalently located in the 5–10{\%} intermediate fraction, while for barley results varied depending on the cultivar. In the hull-less cultivar, the AR content progressively decreased from the outermost fraction (0–5{\%}) towards the inner layers, while for hulled barley the highest AR content was observed in the 10–15{\%} fraction, evidencing lower amounts in the coarse hull (included in the 0–5{\%} and 5–10{\%} fractions). Based on the different localization of ARs in the cereal kernel, progressive pearling can be employed to obtain enriched fractions that could be used to enhance ingredients and products rich in these bioactive compounds.}
-      \field{issn}{0733-5210}
-      \field{journaltitle}{Journal of Cereal Science}
-      \field{title}{{Alkylresorcinol content in whole grains and pearled fractions of wheat and barley}}
-      \field{volume}{70}
-      \field{year}{2016}
-      \field{pages}{38\bibrangedash 46}
-      \range{pages}{9}
-      \verb{doi}
-      \verb https://doi.org/10.1016/j.jcs.2016.05.017
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/1-s2.0-S0733521016300790-main (1).pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S0733521016300790
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S0733521016300790
-      \endverb
-      \keyw{Alkylresorcinols,Barley,Pearling,Wheat}
-    \endentry
     \entry{Dragsted2017}{article}{}
       \name{author}{7}{}{%
         {{hash=4907915e1dc8b73c3c61f6123a36a000}{%
@@ -1254,8 +713,8 @@
       \strng{authornamehash}{0c1ac2d284847703581c325928cb4779}
       \strng{authorfullhash}{8ae65c557d2591c348bd615afc9d194f}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18653499}
@@ -1488,8 +947,8 @@
       \strng{authorbibnamehash}{50535cd543485411fee0d11a42f00433}
       \strng{authornamehash}{50535cd543485411fee0d11a42f00433}
       \strng{authorfullhash}{eae149bc0d6c2c9d60cd5ab1ef142dad}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The aim of the present study was to determine if the consumption of barley tortillas varying in fibre and/or starch composition affected postprandial glucose, insulin, glucagon-like peptide-1 (GLP-1) or peptide YY concentrations. A double-blind, randomised, controlled trial was performed with twelve healthy adults. They each consumed one of five barley tortillas or a glucose drink on six individual visits separated by at least 1 week. Tortillas were made from 100{\%} barley flour blends using five different milling fractions to achieve the desired compositions. All treatments provided 50 g of available carbohydrate and were designed to make the following comparisons: (1) low-starch amylose (0{\%}) v. high-starch amylose (42{\%}) with similar beta-glucan and insoluble fibre content; (2) low beta-glucan (4.5 g) v. medium beta-glucan (7.8 g) v. high beta-glucan (11.6 g) with similar starch amylose and insoluble fibre content; and (3) low insoluble fibre (7.4 g) v. high insoluble fibre (19.6 g) with similar starch amylose and beta-glucan content. Blood was collected at fasting and at multiple intervals until 180 min after the first bite/sip of the test product. Amylose and insoluble fibre content did not alter postprandial glucose and insulin, but high-beta-glucan tortillas elicited a lower glucose and insulin response as compared to the low-beta-glucan tortillas. The tortillas with high insoluble fibre had a higher AUC for GLP-1 as compared to the tortillas with low insoluble fibre, whereas amylose and beta-glucan content had no effect. Results show that processing methods can be used to optimise barley foods to reduce postprandial blood glucose responses and factors that may influence satiety.}
@@ -1542,8 +1001,8 @@
       \strng{authorbibnamehash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
       \strng{authornamehash}{058a12e2f15f07e1aa8d7df38b33f48f}
       \strng{authorfullhash}{fe26f117e0ef5f96c0d70bb4bc8d71e4}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{PURPOSE: A multifunctional diet (MFD) targeting subclinical inflammation was developed as a tool to decrease risk factors for cardiometabolic disease in healthy "at-risk" individuals (BMI 25-33 kg/m(2)). MFD contains several components that are degraded in the colon by the microbiota, such as dietary fibers from rye, barley, oats and berries. It also contains soy beans, oily fish and plant stanols. In previous studies, we have observed improved cardiometabolic markers in healthy at-risk individuals after 4-8 week intake of MFD. However, whether these improvements can be associated with changes in the gut microbiota composition has not been investigated. In the present study, we analyzed the gut microbiota before and after an 8-week dietary intervention with MFD. METHODS: Cardiometabolic at-risk individuals (n = 47), between 51 and 72 years old and with a BMI of 25-33 kg/m(2), were given either the MFD or a control diet lacking the functional ("active") components for 8 weeks in a parallel, randomized design. Next-generation sequencing of bacterial 16S rRNA genes was used to analyze the gut microbiota composition. RESULTS: The 8-week intervention with MFD did not significantly alter the gut microbiota composition at phylum or genus taxonomic levels, while LEfSE analysis identified increased abundance of Prevotella copri in the MFD group as compared to the control group. Treponema correlated positively with blood pressure. In contrast, Faecalibacterium showed a negative association with blood pressure, while Bilophila appeared to associate with a negative blood lipid profile. CONCLUSIONS: Taken together, results from the present study may be used in the further development of effective dietary concepts capable of reducing cardiometabolic risk markers in humans through a targeted modulation of the gut microbial community. TRIAL REGISTRATION NUMBER: Clinical Trials.gov NCT02148653.}
@@ -1562,6 +1021,111 @@
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/Marungruang2018{\_}Article{\_}ImprovementInCardiometabolicRi.pdf:pdf
       \endverb
+    \endentry
+    \entry{ISI:000272990200002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b2fa23c78330c98e4109d9c1e176bdb}{%
+           family={Abidi},
+           familyi={A\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f34f0dd93338a48bec77ae8cdb0161cc}{%
+           family={{Ben Salem}},
+           familyi={B\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eee23e2f9c3b4ab487b37d63f9409f70}{%
+           family={Vasta},
+           familyi={V\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=2b90892c5b9add7f76338f83c4ad4512}{%
+           family={Priolo},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c414956455598900c42a352899e2be7e}
+      \strng{fullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{bibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{authorbibnamehash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \strng{authornamehash}{c414956455598900c42a352899e2be7e}
+      \strng{authorfullhash}{2e6066feb5d49a6327601cbcd2e18a7f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An 84-day experiment, comprising growth and digestibility trials, was conducted to evaluate the effect of replacing barley with spineless Cactus (Opuntia ficus indica f. inermis) cladodes (cactus) on feed intake, digestion, blood metabolites, growth and meat quality of male lambs and kids consuming oaten hay. The replacement of barley by cactus decreased drinking water intake (P = 0.002) but had no effect on feed intake, diet digestibility and N balance (P {>} 0.05). Irrespective of animal species, the barley diet exhibited higher concentrations of allantoin in urine (P = 0.005) and therefore a higher microbial N Supply (P = 0.063) than the Cactus diet. Average daily gain was greater for the barley than for the cactus diet (P {<} 0.05), with a tendency for a greater difference for goats (46 g/day vs. 24 g/day) than for sheep (46 g/day vs. 39 g/day). The replacement of barley with cactus did not produce major differences in treat intramuscular fatty acid composition. Vaccenic acid concentration was significantly affected by treatment, being higher in meat of animals offered the cactus diet compared with the barley diet, while the accumulation of conjugated linoleic acid was not affected by the inclusion of cactus in the diet. Total saturated fatty acids, monounsaturated fatty acids (FA) and polyunsaturated FA were not influenced by supplementation with cactus. Despite the higher level of total n-6 FA in kids' meat, the n-6/n-3 ratio had a very low value. which is favourable for human health. It is concluded that. in terms of equivalent energy, cactus cladodes could replace barley in the diet of lambs and kids without substantial detrimental effects on digestion, growth and meat quality. Therefore, cactus could be used as a cost-effective feed supplement for sheep and goats on low quality roughages raised in dry areas. (C) 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{0921-4488}
+      \field{journaltitle}{SMALL RUMINANT RESEARCH}
+      \field{month}{11}
+      \field{number}{1-3}
+      \field{title}{{Supplementation with barley or spineless cactus (Opuntia ficus indica f. inermis) cladodes on digestion, growth and intramuscular fatty acid composition in sheep and goats receiving oaten hay}}
+      \field{volume}{87}
+      \field{year}{2009}
+      \field{pages}{9\bibrangedash 16}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.smallrumres.2009.09.004
+      \endverb
+    \endentry
+    \entry{Foster2003}{article}{}
+      \name{author}{6}{}{%
+        {{hash=31bf037651f798b3fd278b1c468d72c9}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={A\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=57e00decd66175571e24f337f153e035}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={T\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=90f63ce21bfea699068cc91c42ec5694}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={A\bibnamedelima Hotston},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2cc4f696c0262e78492ddc8c6e896ac7}{%
+           family={Cousins},
+           familyi={C\bibinitperiod},
+           given={P\bibnamedelima D\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=652d85d431461d98d2dd7307a48c304b}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={M\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=eb26fe4e1f819a74aeec453b6dbc6533}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={E\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{adab852b87614731856d1c7d7f317681}
+      \strng{fullhash}{0f671883a1548ceb8e20b8595cebb746}
+      \strng{bibnamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authorbibnamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authornamehash}{adab852b87614731856d1c7d7f317681}
+      \strng{authorfullhash}{0f671883a1548ceb8e20b8595cebb746}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In human food allergy, with or without concurrent atopy, there may be significant increases in serum allergen-specific IgE. Serological methods have been tried but are not currently recommended for diagnosis of suspected food allergy in dogs. The aim of this study was to investigate humoral immune responses to food antigens in dogs. Serum IgG and IgE antibodies specific for food antigens were measured by enzyme linked immunosorbent assay (ELISA) using polyclonal anti-dog IgG and IgE reagents. Antigens tested were beef, chicken, pork, lamb, chicken, turkey, white fish, whole egg, wheat, soybean, barley, rice, maize corn, potato, yeast and cow's milk. Three groups were examined: normal dogs, dogs with atopic dermatitis (AD); and dogs with one of four types of gastrointestinal (GI) disease: small intestinal bacterial overgrowth (SIBO), inflammatory bowel disease (IBD), food-responsive disease, and infectious diarrhoea. Statistically significant differences in food-specific antibodies were not detected between the GI subgroups. There were statistically significant differences in the IgE concentration between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested. There were statistically significant differences in the average IgG concentrations between the normal dogs, and dogs with atopic or GI disease, for all of the antigens tested, except egg and yeast. The relationship of antigen responses for pooled data was analysed using principle component analysis and cluster plots. Some clustering of variables was apparent for both IgE and IgG. For example, all dogs (normal and diseased) made a similar IgG antibody response to chicken and turkey. Compared with other groups, atopic dogs had more food allergen-specific IgE and this would be consistent with a Th(2) humoral response to food antigens. Dogs with GI disease had more food allergen-specific IgG compared with the other groups. This may reflect increased antigen exposure due to increased mucosal permeability which is a recognised feature of canine intestinal disease.}
+      \field{issn}{0165-2427 (Print)}
+      \field{journaltitle}{Veterinary immunology and immunopathology}
+      \field{month}{5}
+      \field{number}{3-4}
+      \field{title}{{Serum IgE and IgG responses to food antigens in normal and atopic dogs, and dogs with gastrointestinal disease.}}
+      \field{volume}{92}
+      \field{year}{2003}
+      \field{pages}{113\bibrangedash 124}
+      \range{pages}{12}
+      \keyw{Animals,Antigens,Cluster Analysis,Dermatitis,Atopic,Dog Diseases,Dogs,Enzyme-Linked Immunosorbent Assay,Food Hypersensitivity,Gastrointestinal Diseases,Immunoglobulin E,Immunoglobulin G,Principal Component Analysis,blood,immunology,veterinary}
     \endentry
     \entry{Chen2004}{article}{}
       \name{author}{4}{}{%
@@ -1595,8 +1159,8 @@
       \strng{authorbibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
       \strng{authornamehash}{227f173d507aa36e62084839cf71c151}
       \strng{authorfullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{doi: 10.1021/jf049726v}
@@ -1881,8 +1445,8 @@
       \strng{authorbibnamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
       \strng{authornamehash}{76828ceb9e4f5fe46e806433d5d6aee5}
       \strng{authorfullhash}{d56e9dad93a3a7f0fe5bfe0bc1c43543}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Whole-grain intake has been reported to be associated with a lower risk of several lifestyle-related diseases such as type 2 diabetes, CVD and some types of cancers. As measurement errors in self-reported whole-grain intake assessments can be substantial, dietary biomarkers are relevant to be used as complementary tools for dietary intake assessment. Alkylresorcinols (AR) are phenolic lipids found almost exclusively in whole-grain wheat and rye products among the commonly consumed foods and are considered as valid biomarkers of the intake of these products. In the present study, we analysed the plasma concentrations of five AR homologues in 2845 participants from ten European countries from a nested case-control study in the European Prospective Investigation into Cancer and Nutrition. High concentrations of plasma total AR were found in participants from Scandinavia and Central Europe and lower concentrations in those from the Mediterranean countries. The geometric mean plasma total AR concentrations were between 35 and 41nmol/l in samples drawn from fasting participants in the Central European and Scandinavian countries and below 23nmol/l in those of participants from the Mediterranean countries. The whole-grain source (wheat or rye) could be determined using the ratio of two of the homologues. The main source was wheat in Greece, Italy, the Netherlands and the UK, whereas rye was also consumed in considerable amounts in Germany, Denmark and Sweden. The present study demonstrates a considerable variation in the plasma concentrations of total AR and concentrations of AR homologues across ten European countries, reflecting both quantitative and qualitative differences in the intake of whole-grain wheat and rye.}
@@ -1938,8 +1502,8 @@
       \strng{authornamehash}{acb89dfe238703fe2b7dec105fbce8eb}
       \strng{authorfullhash}{c2592cc5c9047182c16a8c2083fedd8e}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND/OJBECTIVES: Alkylresorcinols (AR) have been suggested as specific biomarkers of whole-grain (WG) and bran intake from wheat and rye. Before using plasma AR as biomarkers in prospective cohort studies, the long-term reproducibility needs to be determined in order to judge how well a single plasma sample reflects the long-term concentration. The objective was therefore to estimate the reproducibility of plasma AR concentrations over 0.1-3.9 years. SUBJECTS/METHODS:The concentrations of AR homologues were analysed in plasma samples, drawn {>}8 h since last meal, 0.1-3.9 years apart (mean similar to 2 years) in 74 participants in the Swedish prospective Vasterbotten Intervention Project cohort. Reproducibility was estimated by calculating the intra class correlation coefficient (ICC). RESULTS: Fasting plasma AR concentrations were similar between the first and second measurements. The ICC for total AR was 0.54 (95{\%} confidence interval (CI) = 0.38-0.69] overall, 0.34 (95{\%} CI = 0.13-0.64) for men and 0.73 (95{\%} CI = 0.56-0.85) for women, respectively. Somewhat higher ICCs were obtained for shorter AR homologues. CONCLUSION: In summary, the reproducibility of plasma AR over 0.1-3.9 years was high for women and moderate for men within this population. Together with previous data showing high validity of plasma AR as biomarkers of wheat and rye in different populations, the current finding suggest that this biomarker is stable over a long-time period and is therefore probably useful for assessment of long-term WG intake in populations with a wide intake range and a frequent intake. European Journal of Clinical Nutrition (2013) 67, 259-263; doi:10.1038/ejcn.2013.10; published online 6 February 2013}
@@ -2005,8 +1569,8 @@
       \strng{authorbibnamehash}{966169527ce91f90150354675b1bad7b}
       \strng{authornamehash}{966169527ce91f90150354675b1bad7b}
       \strng{authorfullhash}{d177b4c382f7847121040d64c3a7bddd}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Our pilot study examined the potential of exhaled breath analysis in studying the metabolic effects of dietary fiber (DF). We hypothesized that a high-fiber diet (HFD) containing whole grain rye changes volatile organic compound (VOC) levels in exhaled breath and that consuming a single meal affects these levels. Seven healthy men followed a week-long low fiber diet (17 g/d) and HFD (44 g/d) in a randomized crossover design. A test meal containing 50 g of the available carbohydrates from wheat bread was served as breakfast after each week. Alveolar exhaled breath samples were analyzed at fasting state and 30, 60, and 120 minutes after this meal parallel to plasma glucose, insulin, and serum lipids. We used solid phase microextraction and gas chromatography-mass spectrometry for detecting changes in 15 VOCs. These VOCs were acetone, ethanol, 1-propanol, 2-propanol, 1-butanol, acetic acid, propionic acid, butyric acid, valeric acid, isovaleric acid, 2-methylbutyric acid, hexanoic acid, acetoin, diacetyl, and phenol. Exhaled breath 2-methylbutyric acid in the fasting state and 1-propanol at 120 minutes decreased (P =.091 for both) after an HFD. Ingestion of the test meal increased ethanol, 1-propanol, acetoin, propionic acid, and butyric acid levels while reducing acetone, 1-butanol, diacetyl, and phenol levels. Both DF diet content and having a single meal affected breathVOCs. Exploring exhaled breath further could help to develop tools for monitoring the metabolic effects of DF. (C) 2016 Elsevier Inc. All rights reserved.}
@@ -2060,8 +1624,8 @@
       \strng{authorbibnamehash}{c1a8e948da3fd329e2b78731f677c3cc}
       \strng{authornamehash}{45b0c3f687d34d66b8f3ad7f220d0be3}
       \strng{authorfullhash}{c1a8e948da3fd329e2b78731f677c3cc}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Alkylresorcinols with alkyl chains C17:0-C25:0 are abundant in whole-grain wheat and rye. Concentrations in human plasma have been suggested to be biomarkers of dietary whole-grain intake. We measured human plasma, erythrocyte, and lipoprotein alkylresorcinol concentrations and alkylresorcinol homolog distribution, and evaluated the use of plasma alkylresorcinol concentration as a dietary biomarker of whole-grain intake compared with serum enterolactone. A total of 15 subjects (8 women) consumed whole-grain wheat or whole-grain rye crisp bread (∼100 g/d) in a crossover design for 1 wk. The test bread periods were preceded by 1-wk periods of consuming refined wheat bread. Plasma, erythrocyte, lipoprotein alkylresorcinol, and serum enterolactone concentrations were measured before and after each period, and plasma alkylresorcinols and serum enterolactone were measured after habitual diet intake before and 1 wk after the trial. Plasma alkylresorcinols are transported in lipoproteins with VLDL and HDL being the main carriers. AR concentrations in plasma, erythrocytes, and lipoproteins were increased (P $\backslash$$\backslash${<} 0.05) by whole-grain wheat bread and even more so with rye crisp bread, although interindividual variation was high. The alkylresorcinol homolog C17:0 to C21:0 ratio in plasma was higher after the whole-grain rye diet period compared with the whole-grain wheat diet period (P $\backslash$$\backslash${<} 0.05). Serum enterolactone concentrations were increased significantly by whole-grain rye intake only in men. This is the first report to show that alkylresorcinols in human plasma are mainly transported in lipoproteins. The plasma alkylresorcinol C17:0 to C21:0 ratio reflects intake of whole-grain wheat and rye, and the plasma total alkylresorcinol concentration appears to be a useful biomarker of whole-grain cereal intake.}
@@ -2212,8 +1776,8 @@
       \strng{authorbibnamehash}{669ec86b69dbefc535be5432ce2c5408}
       \strng{authornamehash}{669ec86b69dbefc535be5432ce2c5408}
       \strng{authorfullhash}{af9f05342d3b645f0a5bba42af0b6b1b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{OBJECTIVE To examine the association of plasma alkylresorcinol metabolite 3-(3,5-dihydroxyphenyl)-1- propanoic acid (DHPPA), a biomarker of whole-grain wheat and rye intake, with type 2 diabetes (T2D) and impaired glucose regulation (IGR) in a Chinese population. RESEARCH DESIGN AND METHODS A total of 1,060 newly diagnosed T2D patients, 736 newly diagnosed IGR patients, and 1,443 control subjects with normal glucose tolerance were recruited in the case control study. Plasma DHPPA concentrations were determined by high-performance liquid chromatography-tandem mass spectroscopy. Multivariate logistic regression analysis was used to evaluate the independent association of plasma DHPPA concentrations with the likelihood of T2D and IGR. RESULTS After adjustment for age, sex, BMI, and family history of diabetes, the odds ratios (95{\%} CI) of T2D and IGR were 0.57 (0.45, 0.73) and 0.66 (0.50, 0.85), respectively, comparing the lowest with the highest quartile of plasma DHPPA concentrations. Further adjustment for current smoking status, current alcohol consumption, physical activity, history of hypertension, and educational level did not change the observed association materially. Similar results were also obtained in T2D and IGR groups combined. The inverse association of plasma DHPPA with T2D persisted in stratified analyses according to age, sex, BMI, current smoking status, current alcohol consumption, physical activity, family history of diabetes, and history of hypertension. CONCLUSIONS These findings suggested that higher plasma DHPPA concentrations were associated with lower odds of T2D and IGR. Further studies are warranted to confirm these findings in prospective cohorts.}
@@ -2329,8 +1893,8 @@
       \strng{authorbibnamehash}{b9bef149c92940cd2f7991c5b883c03b}
       \strng{authornamehash}{b9bef149c92940cd2f7991c5b883c03b}
       \strng{authorfullhash}{210e3d576c36517aaef528bfa65bd938}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{BACKGROUND/OBJECTIVES: Few studies have used biomarkers of whole-grain intake to study its relation to glucose metabolism. We aimed to investigate the association between plasma alkylresorcinols (AR), a biomarker of whole-grain rye and wheat intake, and glucose metabolism in individuals with metabolic syndrome (MetS). SUBJECTS/METHODS: Participants were 30-65 years of age, with body mass index 27-40 kg/m(2) and had MetS without diabetes. Individuals were recruited through six centers in the Nordic countries and randomized to a healthy Nordic diet (ND, n=96), rich in whole-grain rye and wheat, or a control diet (n=70), for 18-24 weeks. In addition, associations between total plasma AR concentration and C17:0/C21:0 homolog ratio as an indication of the relative whole-grain rye intake, and glucose metabolism measures from oral glucose tolerance tests were investigated in pooled (ND + control) regression analyses at 18/24 weeks. RESULTS: ND did not improve glucose metabolism compared with control diet, but the AR C17:0/C21:0 ratio was inversely associated with fasting insulin concentrations (P=0.002) and positively associated with the insulin sensitivity indices Matsuda ISI (P=0.026) and disposition index (P=0.022) in pooled analyses at 18/24 weeks, even after adjustment for confounders. The AR C17:0/C21:0 ratio was not significantly associated with insulin secretion indices. Total plasma AR concentration was not related to fasting plasma glucose or fasting insulin at 18/24 weeks. CONCLUSIONS: The AR C17:0/C21:0 ratio, an indicator of relative whole-grain rye intake, is associated with increased insulin sensitivity in a population with MetS.}
@@ -2411,8 +1975,8 @@
       \strng{authorbibnamehash}{8abef200024c6365d987fcad8d893149}
       \strng{authornamehash}{8abef200024c6365d987fcad8d893149}
       \strng{authorfullhash}{39e87d27ad98e15453bd9df6bcadeba4}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Background: Studies that use dietary biomarkers to investigate the association between whole-grain intake and the risk of developing type 2 diabetes (T2D) are lacking. Objective: We examined the association between plasma total alkylresorcinols and the alkylresorcinol C17:0-to-C21:0 ratio, biomarkers of whole-grain wheat and rye intake and relative whole grain rye over whole-grain wheat intake, respectively, and the risk of T2D among Scandinavian men and women. Design: A nested case-control study was established within the Northern Sweden Health and Disease Study and the Danish Diet, Cancer and Health cohort. Alkylresorcinol concentrations and the ratios of C17:0 to C21:0 were determined in plasma samples from 931 case-control pairs. ORs for T2D were calculated for plasma total alkylresorcinol concentration or C17:0-to-C21:0 ratio in quartiles with the use of conditional logistic regression that was adjusted for potential confounders. Additional analyses with whole-grain wheat and rye intake estimated from food-frequency questionnaires (FFQs) as exposures were also performed. Results: The plasma total alkylresorcinol concentration was not associated with T2D risk (OR: 1.34; 95{\%} CI: 0.95, 1.88) for the highest compared with the lowest quartiles in multivariable adjusted models. However, the C17:0-to-C21:0 ratio was associated with a lower diabetes risk (OR: 0.54; 95{\%} CI: 0.37, 0.78). Analyses with whole-grain intake estimated from FFQs yielded similar results. Conclusions: Total whole-grain wheat and rye intake, reflected by alkylresorcinols in plasma, was not associated with a lower risk of T2D in a population with high whole-grain intake. In contrast, the proportion of whole-grain rye to whole-grain wheat intake, indicated by the plasma C17:0-to-C21:0 ratio, was inversely associated with T2D. This suggests that whole-grain intake dominated by rye may be favorable for T2D prevention.}
@@ -2491,8 +2055,8 @@
       \strng{authorbibnamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authornamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authorfullhash}{22c24bdfb621050ef41b17a82b117eba}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Scope: This work aimed at investigating absorption, metabolism, and bioavailability of phenolic compounds after consumption of whole grain bread or bread enriched with an aleurone fraction. Methods and results: Two commercially available breads were consumed by 15 participants on three occasions and matched for either the amount of ferulic acid in the bread or the amount of bread consumed. Urine was collected for 48 h from all the volunteers for phenolic metabolite quantification. Blood samples were collected for 24 h following bread consumption in five participants. A total of 12 and 4 phenolic metabolites were quantified in urine and plasma samples, respectively. Metabolites were sulfate and glucuronic acid conjugates of phenolic acids, and high concentrations of ferulic acid-4'-O-sulfate, dihydroferulic acid-4'-O-sulfate, and dihydroferulic acid-O-glucuronide were observed. The bioavailability of ferulic acid was significantly higher from the aleurone-enriched bread when all ferulic acid metabolites were accounted for. Conclusions: The study shows that low amounts of aleurone-enriched bread resulted in equivalent plasma levels of ferulic acid as whole grain bread. This could suggest that, if the absorbed phenolic metabolites after whole grain product intake exert health benefits, equal levels could be reached through the consumption of lower doses of refined products enriched in aleurone fraction.}
@@ -2775,8 +2339,8 @@
       \strng{authornamehash}{474d7a0d0d6a1e7870c50435b79be52c}
       \strng{authorfullhash}{5983672130ac5922ee350c84e65510d1}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Biomarkers of dietary intake are prominent tools in nutritional research. The alkylresorcinol metabolites 3,5-dihydroxybenzoic acid (3,5-DHBA) and 3-(3,5-dihydroxyphenyl)propanoic acid (3,5-DHPPA) have been proposed as exposure biomarkers of whole-grain (WG) wheat and rye intake. However, the profile of alkylresorcinol metabolites is not fully understood. The aim of this study was to investigate the metabolism of alkylresorcinols in mice and in humans, while further determining urinary pharmacokinetics of the novel alkylresorcinol metabolites to explore their potential as biomarkers of WG wheat intake. Utilization of the liquid chromatography-mass spectrometry approach resulted in 10 alkylresorcinol metabolites identified in mice and in humans, including 3 phenolic acids and 7 of their phase II conjugates. Among them, 2 novel metabolites were discovered: 5-(3,5-dihydroxyphenyl)pentanoic acid (3,5-DHPPTA) and 2-(3,5-dihydroxybenzamido) acetic acid (3,5-DHBA glycine). The structures of these 2 metabolites were confirmed by comparing with authentic standards synthesized in-house. In the pharmacokinetic study, a group of 12 volunteers consumed a polyphenolic-restricted diet for 4 d before ingesting WG wheat bread containing 61 mg of alkylresorcinols. Urine samples were collected for 32 h, and alkylresorcinol metabolites were quantified with HPLC-coulometric electrode array detection. The mean urinary excretion rates and mean apparent half-life of 3,5-DHPPTA, 3,5-DHBA glycine, 3,5-DHBA, and 3,5-DHPPA at each time point were determined. Our results suggest that 3,5-DHPPTA and 3,5-DHBA glycine may be used in combination with 3,5-DHBA and 3,5-DHPPA as potential biomarkers to increase the accuracy of recording WG wheat and rye intake in epidemiologic studies. Further validation of 3,5-DHPPTA and 3,5-DHBA glycine as potential biomarkers is warranted.}
@@ -2855,8 +2419,8 @@
       \strng{authorbibnamehash}{6cc72f0460ba546f516779e157f1df1f}
       \strng{authornamehash}{6cc72f0460ba546f516779e157f1df1f}
       \strng{authorfullhash}{e9b534ed0af2f1c68d3edf3af80d7160}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Alkylresorcinols (AR) are phenolic lipids present in the bran of wheat and rye. Plasma AR and their urinary metabolites may be suitable biomarkers of whole-grain (WG) wheat and rye consumption. The objective of this study was to examine plasma AR and urinary AR metabolites in response to WG wheat consumption. In a randomized crossover study, 19 subjects (10 males, 9 females; BMI 22.0 kg/m(2); age 26 years) incorporated either 3 servings (48 g) or 6 servings (96 g) of WG wheat daily into their regular diet for 1 week. Subjects completed a 2-week washout period, abstaining from all WG consumption, before each intervention. Fasting blood and 24-h urine were collected before and after each intervention. Plasma AR homologues (C19:0, C21:0, C23:0) were quantified by GC-MS after diethyl ether and solid phase extraction and derivatization. Urinary AR metabolites {\{}[{\}}3,5-dihydroxybenzoic acid and 3-(3,5-dihydroxyphenyl)-propanoic acid] were determined using HPLC with electrochemical detection after enzymatic deconjugation and ethyl acetate extraction. Urinary total AR metabolites were significantly higher after 6 compared with 3 servings of WG wheat (56 vs. 32 mu mol/day, P {<} 0.001). This dose-response relationship was independent of age, sex, energy intake, and baseline urinary AR metabolite concentration. Plasma total AR tended to be higher after 6 compared with 3 servings of WG wheat (103.0 vs. 86.9 nmol/L), but this difference was not significant (P = 0.42). The results suggest that urinary AR metabolites from 24-h urine collections may be useful as biomarkers of compliance in intervention studies of WG wheat.}
@@ -3059,8 +2623,8 @@
       \strng{authorbibnamehash}{ba08dfa719b7a785da55670b8454958d}
       \strng{authornamehash}{ba08dfa719b7a785da55670b8454958d}
       \strng{authorfullhash}{269e690666b6b7773c931e184d1e1bbb}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Evaluation of the health related effects of beer intake is hampered by the lack of accurate tools for assessing intakes (biomarkers). Therefore, we identified plasma and urine metabolites associated with recent beer intake by untargeted metabolomics and established a characteristic metabolite pattern representing raw materials and beer production as a qualitative biomarker of beer intake. In a randomized, crossover, single-blinded meal study (MSt1), 18 participants were given, one at a time, four different test beverages: strong, regular, and nonalcoholic beers and a soft drink. Four participants were assigned to have two additional beers (MSt2). In addition to plasma and urine samples, test beverages, wort, and hops extract were analyzed by UPLC-QTOF. A unique metabolite pattern reflecting beer metabolome, including metabolites derived from beer raw material (i.e., N-methyl tyramine sulfate and the sum of iso-alpha-acids and tricyclohumols) and the production process (i.e., pyro-glutamyl proline and 2-ethyl malate), was selected to establish a compliance biomarker model for detection of beer intake based on MSt1. The model predicted the MSt2 samples collected before and up to 12 h after beer intake correctly (AUC = 1). A biomarker model including four metabolites representing both beer raw materials and production steps provided a specific and accurate tool for measurement of beer consumption.}
@@ -3159,8 +2723,8 @@
       \strng{authorbibnamehash}{72623b2439f870723709847c4b2bb5d4}
       \strng{authornamehash}{72623b2439f870723709847c4b2bb5d4}
       \strng{authorfullhash}{713b52d95b66e65061aed25c65c2c30f}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The bran and particularly the aleurone fraction of wheat are high in betaine and other physiological methyl donors, which may exert beneficial physiological effects. We conducted two randomised, controlled, cross-over postprandial studies to assess and compare plasma betaine and other methyl donor-related responses following the consumption of minimally processed bran and aleurone fractions (study A) and aleurone bread (study B). For both studies, standard pharmacokinetic parameters were derived for betaine, choline, folate, dimethylglycine (DMG), total homocysteine and methionine from plasma samples taken at 0, 0.5, 1, 2 and 3 h. In study A (n 14), plasma betaine concentrations were significantly and substantially elevated from 0.5 to 3 h following the consumption of both bran and aleurone compared with the control; however, aleurone gave significantly higher responses than bran. Small, but significant, increases were also observed in DMG measures; however, no significant responses were observed in other analytes. In study B (n 13), plasma betaine concentrations were significantly and substantially higher following consumption of the aleurone bread compared with the control bread; small, but significant, increases were also observed in DMG and folate measures in response to consumption of the aleurone bread; however, no significant responses were observed in other analytes. Peak plasma betaine concentrations, which were 1.7-1.8 times the baseline levels, were attained earlier following the consumption of minimally processed aleurone compared with the aleurone bread (time taken to reach peak concentration 1.2 v. 2.1h). These results showed that the consumption of minimally processed wheat bran, and particularly the aleurone fraction, yielded substantial postprandial increases in plasma betaine concentrations. Furthermore, these effects appear to be maintained when aleurone was incorporated into bread.}
@@ -3204,8 +2768,8 @@
       \strng{authorbibnamehash}{cb72f7413143c1bf283f9f2662a9d6f4}
       \strng{authornamehash}{63c4cc72fb416ff6d8579d16fa053b2f}
       \strng{authorfullhash}{cb72f7413143c1bf283f9f2662a9d6f4}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Dietary plant foods are characterized by a vast molecular diversity of glycosylated sterols (SG) that differ in the structure of the steryl backbone. The identification of these polar steryl conjugates represents a major challenge as they are structurally highly similar, and commercial standards are limited to a few naturally abundant species. Spectral databases do not yet contain MS/MS spectra of these sterol conjugates obtained by electrospray ionization (ESI), which would facilitate their reliable identification. Thus, this study aimed at providing novel information on ESI-MS/MS spectra of both abundant and minor SG found in foods. As a first step, however, free sterols (FS) were investigated for their fragmentation behavior as they share the same intermediate ion as SG. Pure SG were obtained from commercially available standard mixtures and minor SG were extracted from different food sources (oat bran, wheat bran, pumpkin seeds, melon, rapeseeds, and potato peel). ESI-MS/MS spectra of 15 FS were assessed and fragment ions reflective of structural features were identified and rationalized. Subsequently, 14 SG were identified at four different levels, while relative retention times from chromatographic separation and spectral features of FS served to identify five SG. Spectral data from FS were directly transferable to SG when analyzed as aglycone ions as shown by similarity scores while SG were characterized by shorter retention times in reverse phase chromatography and the additional analysis as sodiated adduct confirmed their glycosidic nature. Moreover, we report for the first time the occurrence of 24-methylenecholesterol and a 4-monomethyl sterol as glycosidic conjugates in higher plants. The presented data will serve as a valuable tool for SG profiling of foods by facilitating their identification.}
@@ -3220,6 +2784,133 @@
       \endverb
       \verb{file}
       \verb :C$\backslash$:/Users/tuhu/Downloads/fchem-06-00342.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Liu1984}{article}{}
+      \name{author}{2}{}{%
+        {{hash=abe9fefc7586274d11d441f787828e0f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhiqiang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=61c2f0f281370a757e487511dd35083b}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \strng{fullhash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \strng{bibnamehash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \strng{authorbibnamehash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \strng{authornamehash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \strng{authorfullhash}{2cdf3f7f24ed706a171581e4c3fe5a08}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A single-solvent, reverse-phase HPLC system that separates glucuronides has been developed, and its applicability to the separation of glucuronides of four substrates (1-naphthol, morphine, testosterone, and estrone), representative of different UDP-glucuronosyltransferase enzymes, has been demonstrated. The combined supernatants from four separate microsomal incubations from which the protein has been precipitated can be used directly for the quantitation of the glucuronides formed. Variations in the four enzyme activities, upon treatment of rats with microsomal enzyme-inducing agents, after liver trauma and in the Gunn strain of rats have been investigated.}
+      \field{issn}{0003-2697}
+      \field{journaltitle}{Analytical Biochemistry}
+      \field{month}{11}
+      \field{number}{2}
+      \field{title}{{Separation of four glucuronides in a single sample by high-pressure liquid chromatography and its use in the determination of UDP glucuronosyltransferase activity toward four aglycones}}
+      \field{volume}{142}
+      \field{year}{1984}
+      \field{pages}{340\bibrangedash 346}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/0003-2697(84)90474-3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Liu, Franklin - 1984 - Separation of four glucuronides in a single sample by high-pressure liquid chromatography and its use in the dete.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0003269784904743
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0003269784904743
+      \endverb
+    \endentry
+    \entry{metabo9040072}{article}{}
+      \name{author}{9}{}{%
+        {{hash=62a9a0bf452cb27df248f3256c8bf13a}{%
+           family={Djoumbou-Feunang},
+           familyi={D\bibinithyphendelim F\bibinitperiod},
+           given={Yannick},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=29de203e5d0450a763ee7db1ad1bdeb9}{%
+           family={Pon},
+           familyi={P\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b28396a62200bfaf65a733e69b0c34d9}{%
+           family={Karu},
+           familyi={K\bibinitperiod},
+           given={Naama},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f86f614a6195c892e84bb2d36da703d6}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiamin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=59f5641d64cf72c86a8bb2fa7cf9ddc6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Carin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4937f43b9e0590f91a40a51c38d25c2e}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3a12554ef88ade2e1ed6b63f6fb969ba}{%
+           family={Gautam},
+           familyi={G\bibinitperiod},
+           given={Maheswor},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cecca911a820c51d6da3632c5b8c2fec}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Felicity},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0655d6a2a63fa3f139bdd39d69b0c50a}{%
+           family={Wishart},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{099e5de1a441c57af111f4d35581eabc}
+      \strng{fullhash}{feb32e1ef5fad1de77a1062226566d89}
+      \strng{bibnamehash}{099e5de1a441c57af111f4d35581eabc}
+      \strng{authorbibnamehash}{099e5de1a441c57af111f4d35581eabc}
+      \strng{authornamehash}{099e5de1a441c57af111f4d35581eabc}
+      \strng{authorfullhash}{feb32e1ef5fad1de77a1062226566d89}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Metabolite identification for untargeted metabolomics is often hampered by the lack of experimentally collected reference spectra from tandem mass spectrometry (MS/MS). To circumvent this problem, Competitive Fragmentation Modeling-ID (CFM-ID) was developed to accurately predict electrospray ionization-MS/MS (ESI-MS/MS) spectra from chemical structures and to aid in compound identification via MS/MS spectral matching. While earlier versions of CFM-ID performed very well, CFM-ID{\&}rsquo;s performance for predicting the MS/MS spectra of certain classes of compounds, including many lipids, was quite poor. Furthermore, CFM-ID{\&}rsquo;s compound identification capabilities were limited because it did not use experimentally available MS/MS spectra nor did it exploit metadata in its spectral matching algorithm. Here, we describe significant improvements to CFM-ID{\&}rsquo;s performance and speed. These include (1) the implementation of a rule-based fragmentation approach for lipid MS/MS spectral prediction, which greatly improves the speed and accuracy of CFM-ID; (2) the inclusion of experimental MS/MS spectra and other metadata to enhance CFM-ID{\&}rsquo;s compound identification abilities; (3) the development of new scoring functions that improves CFM-ID{\&}rsquo;s accuracy by 21.1{\%}; and (4) the implementation of a chemical classification algorithm that correctly classifies unknown chemicals (based on their MS/MS spectra) in {>}80{\%} of the cases. This improved version called CFM-ID 3.0 is freely available as a web server. Its source code is also accessible online.}
+      \field{issn}{2218-1989}
+      \field{journaltitle}{Metabolites}
+      \field{number}{4}
+      \field{title}{{CFM-ID 3.0: Significantly Improved ESI-MS/MS Prediction and Compound Identification}}
+      \field{volume}{9}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.3390/metabo9040072
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/czw814/Downloads/metabolites-09-00072.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2218-1989/9/4/72
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2218-1989/9/4/72
       \endverb
     \endentry
   \enddatalist
