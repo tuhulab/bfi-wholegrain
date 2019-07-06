@@ -3989,3 +3989,7 @@ data/BARLEY_serum_raw/Data/10102016-001.raw.zip
 r/fatmed.R
 .Rproj.user
 *.mzML
+*.IDX
+*.DAT
+*.INF
+*.STS
