@@ -19,21 +19,19 @@ This ion could be stanol (a sub-type of phytosterol with a saturated B-ring) der
 %Although there are a lot of studies trying to elucidate sturucture of phase II metabolites (i.e. glucuronate), the exact conjugation site can only be determined by additional NMR analysis. 
 
 %A lot of metabolites are glucuronates? 
+%Which reaction is it catalysing?
+$\beta$-glucuronidase catalyses $\beta$-glucuronates hydrolysis. This enzyme is routinely used for enzymatic hydrolysis of urine, plasma and other fluids prior to analysis by enzyme immunoassay or mass spectrometry etc.
 
-Which reaction is it catalysing?
-$\beta$-glucuronidase are routinely used for enzymatic hydrolysis from urine, plasma and other fluids prior to analysis by enzyme immunoassay, mass spectrometry.
-β-Glucuronidase (EC 3.2.1.31) catalyzes the reaction:
-β-D-glucuronoside + H2O <--> D-glucuronate + an alcohol
-
+$\beta$-glucuronates are common phase II metabolites presenting in urine and plasma.
 \section{Materials and methods}
 \subsection{Chemicals}
-Sitostanol standard (CAS Number 83-45-4, Avanti Polar Lipids Inc., USA) was transported and stored in -20 \degree C. Ethanol
-
-Beta-glucuronidase (CAS Number 9001-45-0, E.C. number 3.2.1.31, Sigma-Aldrich, from E. Coil, optimal pH 6-7)
+Sitostanol reference compound (CAS: 83-45-4, Avanti Polar Lipids Inc., USA), $\beta$-glucuronidase (CAS: 9001-45-0, E.C. number 3.2.1.31, Sigma-Aldrich, from \textit{Escherichia Coil})
 
 \subsection{Apparatus}
-UPLC-MS system (column C18, QTOF (VION, Waters, Milford, USA), Water Bath
+%UPLC-MS system (column C18, QTOF (VION, Waters, Milford, USA), Water Bath
 
+\subsection{$\beta$-glucuronidase experiment}
+Urine samples were treated with $\beta$-glucuronidase for 1.5 h to hydrolyse glucuronate group. A positive control was used. Details were described in \textbf{Appendix}.
 
 \subsection{UPLC-MS/MS analysis of Sitostanol}
 %\cite{doi:10.1021/jf501509m}
@@ -42,34 +40,8 @@ UPLC-MS system (column C18, QTOF (VION, Waters, Milford, USA), Water Bath
 %Binary methods developed and optimized 
 %Analysis methods referred\cite{sterolmsms}. Sitostanol stock solution (1 mg/mL) was prepared in 100\% ethanol. Further, stock solution was diluted by methanol, with the concentration of 0.02 mg/mL. 
 %ESI positive mode was used to ionize.
-
-\subsection{Deconjugation experiments}
-\begin{enumerate}
-\item Prepare phosphate buffer\footnote{Calculated by AAT Bioquest} (0.1 M, pH=6.8, 50 mL): 
-	\begin{itemize}
-		\item Prepare 40 mL of distilled water in a volumetric bottle.
-		\item Add 0.656 g of monosodium phosphate to the solution.
-		\item Add 0.352 g of disodium phosphate to the solution.
-		\item Adjust pH using HCl or NaOH.
-		\item Add distilled water until volume is 0.05 L.
-	\end{itemize}
-
-\item Prepare enzyme solution (4 mg/mL): dissolve 0.0060 g $\beta$-Glucuronidase in 1.5 mL phosphate buffer. Store in -20\degree C freezer\footnote{Sigma Product Information: A solution in 75 mM phosphate buffer, pH 6.8, \textgreater 5 mg/ml may be stored at -20 \degree C for up to 2 months with little or no loss of activity.}
-\item Prepare urine samples: thaw samples in the fridge and centrifuge (3000 rpm, 2 min). Prepare 2 Eppendor tubes, one labeled as 'blank', one as 'treatment'. Transfer 100 \si{\micro\litre} to each Eppendorf tube.
-\item Enzymatic hydrolysis reaction: add 50 \si{\micro\liter} phosphate solution to 'blank', 50 \si{\micro\liter} enzyme solution to eppendorf tube, incubate in 37 \degree C for 1.5 h.
-\item Denature enzymes to terminate the reaction
-	\begin{itemize}
-	\item Add 50 \si{\micro\liter} MeOH to the solution and vortex mix for 1 min
-	\item Centrifuge at 3000 rmp for 3 min
-	\item Add solvent A 300 \si{\micro\liter}
-	\item Transfer supernatant to vials fur further LC-MS/MS analysis.
-\end{itemize}
-
-
-\end{enumerate}
-
 \section{Results}
-\subsection{Retention Time (RT) and m/z in Different Matrix}
+\subsection{Retention Time (RT) and m/z in Different Matrix of Sitostanol}
 \begin{tabular}{|c|c|c|c|}
 	\hline 
 	Matrix & RT & m/z (ESI+) & Annotation \\ 
@@ -82,11 +54,15 @@ UPLC-MS system (column C18, QTOF (VION, Waters, Milford, USA), Water Bath
 	\hline 
 \end{tabular} 
 
-\subsection{Enzymatic Deglucuronidation}
-Both ions were hydrolyzed by enzymes. 
-In control group, ions have much higher intensities than treatment group.
-However, their deglucuronited ions were not all detected.
-ion 341.2675 was detected in RT 0.88 indicating it is a highly polar compound.
+\subsection{$\beta$-glucuronidase Experiment}
+$\beta$-glucuronidase hydrolysed both ions. The glucuronates decreased intensities. 
 
-\subsection{}
+The expected unglucuronated ion (m/z 325.2739) was not detected. the reason could be: (1) not ionized.
+
+Another expected unglucuronated ion (m/z 341.2675) was detected on the same day of experiment in full scan mode. 
+However, this ion was not detected after one week storage in -20 freezer. This could be the reason of degradation. Ion 341.2675 was detected in RT 0.88 indicating it is a highly polar compound. Its structure needs to be further confirmed by MS/MS analysis.
+
+
+\section{Discussion}
+
 

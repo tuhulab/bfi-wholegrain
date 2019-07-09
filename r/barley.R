@@ -1,4 +1,3 @@
-library(tidyr)
 library(R.matlab)
 library(tidyverse)
 
@@ -180,3 +179,19 @@ ion_combined_aw <- data.frame(subject=ion_1_aw$subject,ion_1_intensity=ion_1_aw$
 ggplot(ion_combined_aw,aes(x=ion_1_intensity,y=ion_2_intensity))+geom_point()
 
 
+###############barley marker##############
+marker1 <- barleypos %>% filter(rt < 4.3, rt> 4.1, mz<291.27, mz>291.25) %>% as_tibble()
+
+
+  marker1 %>% ggplot(aes(intervention,intensity,title=.$filename[1])) + geom_point() +geom_boxplot() + ggtitle(paste0("rt=",marker1$rt[1],"    ",
+                                                                                                                        "mz=",marker1$mz[1],"    ",
+                                                                                                                        "polarity=",marker1$polarity[1]))
+
+  
+
+marker2 <- barleypos %>% filter(rt < 4.3, rt> 4.1, mz<291.24, mz>291.22)
+marker2 %>% ggplot(aes(intervention,intensity,title=.$filename[1])) + geom_point() +geom_boxplot() + ggtitle(paste0("rt=",marker2$rt[1],"    ",
+                                                                                                                    "mz=",marker2$mz[1],"    ",
+                                                                                                                    "polarity=",marker2$polarity[1]))
+
+marker2 %>% ggplot(aes(intervention,intensity)) + geom_point() +geom_boxplot()

@@ -1,7 +1,7 @@
 library(R.matlab)
 library(tidyverse)
 
-path <- 'C:\\Users\\tuhu\\projects\\barley\\datamatchPOS.mat'
+path <- file.path("data/datamatchPOS.mat")
 
 
 

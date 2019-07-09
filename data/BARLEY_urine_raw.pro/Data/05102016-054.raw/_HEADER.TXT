@@ -1,0 +1,52 @@
+$$ Version: 01.00
+$$ Acquired Name: 05102016-054
+$$ Acquired Date: 05-Oct-2016
+$$ Acquired Time: 20:09:32
+$$ Job Code: M226 Barley urine plate 1
+$$ Task Code: 
+$$ User Name: 
+$$ Instrument: 
+$$ Conditions: 
+$$ Laboratory Name: 
+$$ Sample Description: 6033-4
+$$ Solvent Delay: 0.0000
+$$ Submitter: 
+$$ SampleID: 
+$$ Bottle Number: 2:D,8
+$$ Plate Desc: 01TL,YX,LN,1: 8,2:12,3: 90.0,4: 90.0,5:  0.0,6:  0.0,7:O,8:O,9:1280.0,10:860.0,11:270.0,12: 70.0,13:144.0,14:112.0
+$$ Cal MS1 Static: ,T0
+$$ Cal MS2 Static: ,T0
+$$ Associated Datafile: 
+$$ Cal MS1 Static Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal MS1 Dynamic Params: 91,975,0.00,0.00,0.0,0.0,0.0,ESI_NaFormate_Pos,NAF_CALIBRATION_VPOS
+$$ Cal MS1 Fast Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal MS2 Static Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal MS2 Dynamic Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal MS2 Fast Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal Time: 09:49
+$$ Cal Date: 09/30/16
+$$ Analog Channel 1 Offset: 0.000
+$$ Analog Channel 2 Offset: 0.000
+$$ Analog Channel 3 Offset: 0.000
+$$ Analog Channel 4 Offset: 0.000
+$$ Mux Stream: 0
+$$ Cal Temperature: 29.1277885
+$$ Inlet Method: C:\MassLynx\ldra.PRO\ACQUDB\Metabolomics_version2_7min05flow_5uL
+$$ Inlet Prerun Method: 
+$$ Inlet Postrun Method: 
+$$ Inlet Switch Method: 
+$$ HPLC Method: 
+$$ MS Method: C:\MassLynx\ldra.PRO\ACQUDB\ldra-pos6min_08_6.EXP
+$$ Tune Method: C:\MassLynx\ldra.PRO\ACQUDB\Start up metabolomics.ipr
+$$ FractionLynx Method: 
+$$ Spare1: 
+$$ Spare2: 
+$$ Spare3: 
+$$ Spare4: 
+$$ Spare5: 
+$$ Cal Function 1: -1.934746126165878e-4,9.999830805486594e-1,8.677449356015639e-6,-3.936646499824080e-7,6.023814887801135e-9,T1
+$$ Cal Function 2: -1.934746126165878e-4,9.999830805486594e-1,8.677449356015639e-6,-3.936646499824080e-7,6.023814887801135e-9,T1
+$$ Cal StdDev Function 1: 0.000000000000000e0
+$$ Cal StdDev Function 2: 0.000000000000000e0
+$$ Cal CoVar 1: 0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0
+$$ Cal CoVar 2: 0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0

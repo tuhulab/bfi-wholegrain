@@ -1999,39 +1999,39 @@
   <bcf:section number="0">
     <bcf:citekey order="1">Piepoli2016</bcf:citekey>
     <bcf:citekey order="2">Aune2016</bcf:citekey>
-    <bcf:citekey order="3">Pratico2018</bcf:citekey>
+    <bcf:citekey order="3">Aune2016</bcf:citekey>
     <bcf:citekey order="4">Pratico2018</bcf:citekey>
-    <bcf:citekey order="5">hmdb</bcf:citekey>
-    <bcf:citekey order="6">foodb</bcf:citekey>
-    <bcf:citekey order="7">phenolexplorer</bcf:citekey>
-    <bcf:citekey order="8">dictionary</bcf:citekey>
-    <bcf:citekey order="9">Dragsted2017</bcf:citekey>
-    <bcf:citekey order="10">Gao2017</bcf:citekey>
-    <bcf:citekey order="11">Bird2008</bcf:citekey>
-    <bcf:citekey order="12">Ames2015</bcf:citekey>
-    <bcf:citekey order="13">Marungruang2018</bcf:citekey>
-    <bcf:citekey order="14">ISI:000272990200002</bcf:citekey>
-    <bcf:citekey order="14">Foster2003</bcf:citekey>
-    <bcf:citekey order="15">Chen2004</bcf:citekey>
+    <bcf:citekey order="5">Pratico2018</bcf:citekey>
+    <bcf:citekey order="6">hmdb</bcf:citekey>
+    <bcf:citekey order="7">foodb</bcf:citekey>
+    <bcf:citekey order="8">phenolexplorer</bcf:citekey>
+    <bcf:citekey order="9">dictionary</bcf:citekey>
+    <bcf:citekey order="10">Dragsted2017</bcf:citekey>
+    <bcf:citekey order="11">Gao2017</bcf:citekey>
+    <bcf:citekey order="12">Bird2008</bcf:citekey>
+    <bcf:citekey order="13">Ames2015</bcf:citekey>
+    <bcf:citekey order="14">Marungruang2018</bcf:citekey>
+    <bcf:citekey order="15">ISI:000272990200002</bcf:citekey>
+    <bcf:citekey order="15">Foster2003</bcf:citekey>
     <bcf:citekey order="16">ISI:000334172400017</bcf:citekey>
     <bcf:citekey order="17">ISI:000315978400006</bcf:citekey>
     <bcf:citekey order="18">ISI:000376712600013</bcf:citekey>
     <bcf:citekey order="19">10.1093/jn/137.5.1137</bcf:citekey>
-    <bcf:citekey order="20">ISI:000376712600013</bcf:citekey>
-    <bcf:citekey order="21">10.1093/jn/137.5.1137</bcf:citekey>
-    <bcf:citekey order="22">ISI:000255012000007</bcf:citekey>
-    <bcf:citekey order="23">ISI:000334172400017</bcf:citekey>
-    <bcf:citekey order="24">ISI:000430455900021</bcf:citekey>
-    <bcf:citekey order="25">ISI:000333777700008</bcf:citekey>
-    <bcf:citekey order="26">ISI:000378977200013</bcf:citekey>
-    <bcf:citekey order="27">ISI:000334172400017</bcf:citekey>
-    <bcf:citekey order="28">Gao2017</bcf:citekey>
-    <bcf:citekey order="29">ISI:000389134200003</bcf:citekey>
-    <bcf:citekey order="30">ISI:000394168100034</bcf:citekey>
-    <bcf:citekey order="30">ISI:000348343300015</bcf:citekey>
-    <bcf:citekey order="31">ISI:000384082300001</bcf:citekey>
-    <bcf:citekey order="32">ISI:000387249200001</bcf:citekey>
-    <bcf:citekey order="33">Dragsted2017</bcf:citekey>
+    <bcf:citekey order="20">Chen2004</bcf:citekey>
+    <bcf:citekey order="21">ISI:000376712600013</bcf:citekey>
+    <bcf:citekey order="22">10.1093/jn/137.5.1137</bcf:citekey>
+    <bcf:citekey order="23">ISI:000255012000007</bcf:citekey>
+    <bcf:citekey order="24">ISI:000334172400017</bcf:citekey>
+    <bcf:citekey order="25">ISI:000430455900021</bcf:citekey>
+    <bcf:citekey order="26">ISI:000333777700008</bcf:citekey>
+    <bcf:citekey order="27">ISI:000378977200013</bcf:citekey>
+    <bcf:citekey order="28">ISI:000334172400017</bcf:citekey>
+    <bcf:citekey order="29">Gao2017</bcf:citekey>
+    <bcf:citekey order="30">ISI:000389134200003</bcf:citekey>
+    <bcf:citekey order="31">ISI:000394168100034</bcf:citekey>
+    <bcf:citekey order="31">ISI:000348343300015</bcf:citekey>
+    <bcf:citekey order="32">ISI:000384082300001</bcf:citekey>
+    <bcf:citekey order="33">ISI:000387249200001</bcf:citekey>
     <bcf:citekey order="34">ISI:000348343300015</bcf:citekey>
     <bcf:citekey order="35">ISI:000387249200001</bcf:citekey>
     <bcf:citekey order="36">ISI:000348343300015</bcf:citekey>
@@ -2044,13 +2044,16 @@
     <bcf:citekey order="43">ISI:000447355100002</bcf:citekey>
     <bcf:citekey order="44">ISI:000330080500002</bcf:citekey>
     <bcf:citekey order="45">ISI:000374112900032</bcf:citekey>
-    <bcf:citekey order="46">Gurdeniz2016</bcf:citekey>
-    <bcf:citekey order="47">ISI:000350230300006</bcf:citekey>
-    <bcf:citekey order="48">ISI:000348343300015</bcf:citekey>
-    <bcf:citekey order="49">sterolmsms</bcf:citekey>
-    <bcf:citekey order="50">Liu1984</bcf:citekey>
-    <bcf:citekey order="51">metabo9040072</bcf:citekey>
-    <bcf:citekey order="52">Pratico2018</bcf:citekey>
+    <bcf:citekey order="46">Gao2017</bcf:citekey>
+    <bcf:citekey order="47">Dragsted2017</bcf:citekey>
+    <bcf:citekey order="48">Gurdeniz2016</bcf:citekey>
+    <bcf:citekey order="49">ISI:000350230300006</bcf:citekey>
+    <bcf:citekey order="50">ISI:000348343300015</bcf:citekey>
+    <bcf:citekey order="51">ISI:000298402100026</bcf:citekey>
+    <bcf:citekey order="52">sterolmsms</bcf:citekey>
+    <bcf:citekey order="53">Liu1984</bcf:citekey>
+    <bcf:citekey order="54">metabo9040072</bcf:citekey>
+    <bcf:citekey order="55">Pratico2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
@@ -2059,4 +2062,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="none/global//global/global"
+                type="entry"
+                sortingtemplatename="none"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

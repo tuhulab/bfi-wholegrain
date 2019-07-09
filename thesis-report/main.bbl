@@ -371,8 +371,8 @@
       \strng{authorbibnamehash}{f272689d08da1bfdb85d38d1b5b14136}
       \strng{authornamehash}{f272689d08da1bfdb85d38d1b5b14136}
       \strng{authorfullhash}{ae91612c2b67e4f726962938ac0f7870}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18653499}
@@ -538,8 +538,8 @@
       \strng{authorbibnamehash}{91a1047eb7a4424e3b192d36d6bb2fda}
       \strng{authornamehash}{91a1047eb7a4424e3b192d36d6bb2fda}
       \strng{authorfullhash}{714ad19a8a7ca83a0ab61620d317cfe2}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1362-4962 (Electronic)}
@@ -556,8 +556,8 @@
       \endverb
     \endentry
     \entry{foodb}{misc}{}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labeltitlesource}{title}
       \field{title}{{FooDB}}
       \verb{urlraw}
@@ -631,8 +631,8 @@
       \strng{authorbibnamehash}{48c36df9200e582e7a79d8330747cff9}
       \strng{authornamehash}{48c36df9200e582e7a79d8330747cff9}
       \strng{authorfullhash}{cdcc5dea7acce9ec3cb3ce9ba285a37e}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Polyphenols are a major class of bioactive phytochemicals whose consumption may play a role in the prevention of a number of chronic diseases such as cardiovascular diseases, type II diabetes and cancers. Phenol-Explorer, launched in 2009, is the only freely available web-based database on the content of polyphenols in food and their in vivo metabolism and pharmacokinetics. Here we report the third release of the database (Phenol-Explorer 3.0), which adds data on the effects of food processing on polyphenol contents in foods. Data on $\backslash$$\backslash${>}100 foods, covering 161 polyphenols or groups of polyphenols before and after processing, were collected from 129 peer-reviewed publications and entered into new tables linked to the existing relational design. The effect of processing on polyphenol content is expressed in the form of retention factor coefficients, or the proportion of a given polyphenol retained after processing, adjusted for change in water content. The result is the first database on the effects of food processing on polyphenol content and, following the model initially defined for Phenol-Explorer, all data may be traced back to original sources. The new update will allow polyphenol scientists to more accurately estimate polyphenol exposure from dietary surveys.Database URL: http://www.phenol-explorer.eu}
@@ -652,8 +652,8 @@
       \endverb
     \endentry
     \entry{dictionary}{article}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labeltitlesource}{title}
       \field{abstract}{The increasing world population, competition for arable land and rich fishing grounds, and environmental concerns mandate that we exploit in a sustainable way the earth's available plant and animal resources for human consumption. To that end, food chemists, technologists, and nutritionists engage in a vast number of tasks related to food availability, quality, safety, nutritional value, and sensory properties—as well as those involved in processing, storage, and distribution. To assist in these functions, it is essential they have easy access to a collection of information on the myriad compounds found in foods. This is particularly true because even compounds present in minute concentrations may exert significant desirable or negative effects on foods. Includes a foreword by Zdzislaw E. Sikorski, Gda{ń}sk University of Technology, Poland; Editor of the CRC Press Chemical {\&} Functional Properties of Food Components Series. Dictionary of Food Compounds, Second Edition is presented in a user-friendly format in both hard copy and fully searchable CD-ROM. It contains entries describing natural components of food raw materials and products as well as compounds added to foods or formed in the course of storage or processing. Each entry contains the name of the component, the chemical and physical characteristics, a description of functional properties related to food use, and nutritional and toxicological data. Ample references facilitate inquiry into more detailed information about any particular compound. Food Compounds Covered:Natural Food ConstituentsLipidsProteinsCarbohydratesFatty acidsFlavonoidsAlkaloidsFood ContaminantsMycotoxinsFood AdditivesColorantsPreservativesAntioxidantsFlavorsNutraceuticalsProbioticsDietary SupplementsVitamins This new edition boasts an additional 12,000 entries for a total of 41,000 compounds, including 900 enzymes found in food. No other reference work on food compounds is as complete or as comprehensive.}
       \field{isbn}{9781420083521}
@@ -713,8 +713,8 @@
       \strng{authornamehash}{0c1ac2d284847703581c325928cb4779}
       \strng{authorfullhash}{8ae65c557d2591c348bd615afc9d194f}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18653499}
@@ -1126,65 +1126,6 @@
       \field{pages}{113\bibrangedash 124}
       \range{pages}{12}
       \keyw{Animals,Antigens,Cluster Analysis,Dermatitis,Atopic,Dog Diseases,Dogs,Enzyme-Linked Immunosorbent Assay,Food Hypersensitivity,Gastrointestinal Diseases,Immunoglobulin E,Immunoglobulin G,Principal Component Analysis,blood,immunology,veterinary}
-    \endentry
-    \entry{Chen2004}{article}{}
-      \name{author}{4}{}{%
-        {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Yan},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
-           family={Ross},
-           familyi={R\bibinitperiod},
-           given={Alastair\bibnamedelima B},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
-           family={{Å}man},
-           familyi={Å\bibinitperiod},
-           given={Per},
-           giveni={P\bibinitperiod}}}%
-        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
-           family={Kamal-Eldin},
-           familyi={K\bibinithyphendelim E\bibinitperiod},
-           given={Afaf},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Chemical Society}%
-      }
-      \strng{namehash}{227f173d507aa36e62084839cf71c151}
-      \strng{fullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
-      \strng{bibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
-      \strng{authorbibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
-      \strng{authornamehash}{227f173d507aa36e62084839cf71c151}
-      \strng{authorfullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{doi: 10.1021/jf049726v}
-      \field{issn}{0021-8561}
-      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
-      \field{month}{12}
-      \field{number}{26}
-      \field{title}{{Alkylresorcinols as Markers of Whole Grain Wheat and Rye in Cereal Products}}
-      \field{volume}{52}
-      \field{year}{2004}
-      \field{pages}{8242\bibrangedash 8246}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1021/jf049726v
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/tuhu/Downloads/jf049726v.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1021/jf049726v
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1021/jf049726v
-      \endverb
     \endentry
     \entry{ISI:000334172400017}{article}{}
       \name{author}{50}{}{%
@@ -1647,6 +1588,65 @@
       \verb https://dx.doi.org/10.1093/jn/137.5.1137
       \endverb
     \endentry
+    \entry{Chen2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b6f25c2ea695f4385f6acab832194dfc}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4ec8d4bfb8a9959c5310a24c8e83c07e}{%
+           family={{Å}man},
+           familyi={Å\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=470b3f69a91c96c5b024adc5d589959d}{%
+           family={Kamal-Eldin},
+           familyi={K\bibinithyphendelim E\bibinitperiod},
+           given={Afaf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{227f173d507aa36e62084839cf71c151}
+      \strng{fullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{bibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{authorbibnamehash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \strng{authornamehash}{227f173d507aa36e62084839cf71c151}
+      \strng{authorfullhash}{b6be16c49c883e9efe6165ccc1b5d82b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{doi: 10.1021/jf049726v}
+      \field{issn}{0021-8561}
+      \field{journaltitle}{Journal of Agricultural and Food Chemistry}
+      \field{month}{12}
+      \field{number}{26}
+      \field{title}{{Alkylresorcinols as Markers of Whole Grain Wheat and Rye in Cereal Products}}
+      \field{volume}{52}
+      \field{year}{2004}
+      \field{pages}{8242\bibrangedash 8246}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/jf049726v
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/jf049726v.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/jf049726v
+      \endverb
+    \endentry
     \entry{ISI:000255012000007}{article}{}
       \name{author}{5}{}{%
         {{hash=9bcc18d6029d0ab2b90138de7b2cea5d}{%
@@ -2055,8 +2055,8 @@
       \strng{authorbibnamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authornamehash}{11a0412f4437bded8613e2de3b5962be}
       \strng{authorfullhash}{22c24bdfb621050ef41b17a82b117eba}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Scope: This work aimed at investigating absorption, metabolism, and bioavailability of phenolic compounds after consumption of whole grain bread or bread enriched with an aleurone fraction. Methods and results: Two commercially available breads were consumed by 15 participants on three occasions and matched for either the amount of ferulic acid in the bread or the amount of bread consumed. Urine was collected for 48 h from all the volunteers for phenolic metabolite quantification. Blood samples were collected for 24 h following bread consumption in five participants. A total of 12 and 4 phenolic metabolites were quantified in urine and plasma samples, respectively. Metabolites were sulfate and glucuronic acid conjugates of phenolic acids, and high concentrations of ferulic acid-4'-O-sulfate, dihydroferulic acid-4'-O-sulfate, and dihydroferulic acid-O-glucuronide were observed. The bioavailability of ferulic acid was significantly higher from the aleurone-enriched bread when all ferulic acid metabolites were accounted for. Conclusions: The study shows that low amounts of aleurone-enriched bread resulted in equivalent plasma levels of ferulic acid as whole grain bread. This could suggest that, if the absorbed phenolic metabolites after whole grain product intake exert health benefits, equal levels could be reached through the consumption of lower doses of refined products enriched in aleurone fraction.}
@@ -2744,6 +2744,71 @@
       \verb :C$\backslash$:/Users/tuhu/Downloads/postprandial{\_}plasma{\_}betaine{\_}and{\_}other{\_}methyl{\_}donorrelated{\_}responses{\_}after{\_}consumption{\_}of{\_}minimally{\_}processed{\_}wheat{\_}bran{\_}or{\_}wheat{\_}aleurone{\_}or{\_}wheat{\_}aleurone{\_}incorporated{\_}into{\_}bread.pdf:pdf
       \endverb
     \endentry
+    \entry{ISI:000298402100026}{article}{}
+      \name{author}{7}{}{%
+        {{hash=44bdd6c301cf71fe805c675c4d6e7148}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alastair\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4655f3aa0290904ead86c6531a5fedc6}{%
+           family={Bourgeois},
+           familyi={B\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e66fa269ae71438fc4f118226a6a8d15}{%
+           family={Macharia},
+           familyi={M\bibinitperiod},
+           given={Harrison\bibnamedelima Ndung'u},
+           giveni={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d3e1f1d2645ec71594ef89b14579c136}{%
+           family={Kochhar},
+           familyi={K\bibinitperiod},
+           given={Sunil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d391260f9632131f6a8778d16f61273b}{%
+           family={Jebb},
+           familyi={J\bibinitperiod},
+           given={Susan\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ffe1e9ca2bfe22878fe8536388168123}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Iain\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=788601952a398d0c3cbd88bbf00fe8c0}{%
+           family={Seal},
+           familyi={S\bibinitperiod},
+           given={Chris\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{fullhash}{0420e59a76b4cbc61af21514e0513ed0}
+      \strng{bibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authorbibnamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authornamehash}{21b3b80dcb394a47ad702ac4e1a6bee4}
+      \strng{authorfullhash}{0420e59a76b4cbc61af21514e0513ed0}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Small-scale, short-term intervention studies have suggested that plasma alkylresorcinol (AR) concentrations may be biomarkers of whole grain (WG) wheat and rye intakes. Objective: The objective was to determine whether plasma AR concentrations reflect self-reported WG food intake in a 16-wk WG intervention study and to establish which phenotypic characteristics influence plasma AR concentrations. Design: In a randomized parallel-group dietary intervention study, 316 overweight and obese participants with a WG intake of {<}30 g/d were recruited and randomly assigned to 1 of 3 groups: control (no dietary change), intervention 1 (60 g WG/d for 16 wk), or intervention 2 (60 g WG/d for 8 wk followed by 120 g WG/d for 8 wk). Fasting blood samples were collected at baseline, 8 wk, and 16 wk for the measurement of plasma lipids and ARs. Results: Plasma samples from 266 study completers were analyzed. Total plasma AR concentrations increased with the WG intervention and could be used to distinguish between control subjects and those who consumed 60 or 120 g WG, but not between those who consumed 60 and 120 g WG. Plasma AR concentrations were higher in men, were positively associated with plasma triglyceride concentrations, and were negatively associated with nonesterified fatty acids. Conclusions: Plasma AR concentrations were correlated with WG intake and could be used to distinguish between low- and high-WG consumers. Sex and plasma lipid concentrations independently influenced plasma AR concentrations, although plasma triglycerides may explain higher concentrations in men. This trial is registered as ISRCT no. 83078872. Am J Clin Nutr 2012;95:204 11.}
+      \field{issn}{0002-9165}
+      \field{journaltitle}{AMERICAN JOURNAL OF CLINICAL NUTRITION}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Plasma alkylresorcinols as a biomarker of whole-grain food consumption in a large population: results from the WHOLEheart Intervention Study}}
+      \field{volume}{95}
+      \field{year}{2012}
+      \field{pages}{204\bibrangedash 211}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3945/ajcn.110.008508
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/tuhu/Downloads/204.pdf:pdf
+      \endverb
+    \endentry
     \entry{sterolmsms}{article}{}
       \name{author}{3}{}{%
         {{hash=227e714655e6efa389bd0339316f8eb8}{%
@@ -2768,8 +2833,8 @@
       \strng{authorbibnamehash}{cb72f7413143c1bf283f9f2662a9d6f4}
       \strng{authornamehash}{63c4cc72fb416ff6d8579d16fa053b2f}
       \strng{authorfullhash}{cb72f7413143c1bf283f9f2662a9d6f4}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Dietary plant foods are characterized by a vast molecular diversity of glycosylated sterols (SG) that differ in the structure of the steryl backbone. The identification of these polar steryl conjugates represents a major challenge as they are structurally highly similar, and commercial standards are limited to a few naturally abundant species. Spectral databases do not yet contain MS/MS spectra of these sterol conjugates obtained by electrospray ionization (ESI), which would facilitate their reliable identification. Thus, this study aimed at providing novel information on ESI-MS/MS spectra of both abundant and minor SG found in foods. As a first step, however, free sterols (FS) were investigated for their fragmentation behavior as they share the same intermediate ion as SG. Pure SG were obtained from commercially available standard mixtures and minor SG were extracted from different food sources (oat bran, wheat bran, pumpkin seeds, melon, rapeseeds, and potato peel). ESI-MS/MS spectra of 15 FS were assessed and fragment ions reflective of structural features were identified and rationalized. Subsequently, 14 SG were identified at four different levels, while relative retention times from chromatographic separation and spectral features of FS served to identify five SG. Spectral data from FS were directly transferable to SG when analyzed as aglycone ions as shown by similarity scores while SG were characterized by shorter retention times in reverse phase chromatography and the additional analysis as sodiated adduct confirmed their glycosidic nature. Moreover, we report for the first time the occurrence of 24-methylenecholesterol and a 4-monomethyl sterol as glycosidic conjugates in higher plants. The presented data will serve as a valuable tool for SG profiling of foods by facilitating their identification.}
