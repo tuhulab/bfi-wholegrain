@@ -3,7 +3,7 @@ library(tidyverse)
 library(mixOmics)
 
 project <- "M226_barley"
-sample <-"urine_plate_1"
+sample <-"serum_plate_1"
 mode <- "neg"
 id <- paste(project,sample,mode,sep = "_")
 
@@ -28,4 +28,4 @@ plot(pca)
 plotIndiv(pca, 
           comp=c(1,2), 
           ind.names = TRUE,
-          group = intervention$intervention, legend = TRUE, title="serum pos, PCA comp 1-2")
+          group = intervention$intervention, legend = TRUE, title="Serum Negative Mode, PCA comp 1-2")
