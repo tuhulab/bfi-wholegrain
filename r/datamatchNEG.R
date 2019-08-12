@@ -1,8 +1,8 @@
 library(R.matlab)
 library(tidyverse)
 
-path <- 'C:\\Users\\tuhu\\projects\\barley\\datamatchNEG.mat'
-
+path <- "data/datamatchNEG.mat"
+# m2r(path)
 
 
 matdata <- readMat(path)

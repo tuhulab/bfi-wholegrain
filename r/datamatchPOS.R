@@ -90,3 +90,13 @@ path <- file.path("data/datamatchPOS.mat")
     ggplot(aes(x=timepoint,y=intmean,group=person,color=person)) + 
     geom_line() + geom_errorbar(aes(ymin=intmean-intsd,ymax=intmean+intsd)) +
     ggtitle('X1')
+
+  
+  datan3 %>% filter(feature=="X15",meal=="Barley") %>% ggplot(aes(timepoint,intensity)) + geom_point()
+  
+  datan3 %>% group_by(feature,timepoint,meal) %>% 
+    summarize(intmean=mean(intensity),intsd=sd(intensity)) %>% 
+    mutate(intmean,intsd) %>% filter(feature==featurex & timepoint!=24) %>% 
+    ggplot(aes(x=timepoint,y=intmean,group=protein_source,color=protein_source)) + 
+    geom_line() + geom_errorbar(aes(ymin=intmean-intsd,ymax=intmean+intsd)) +
+    ggtitle(featurex)  

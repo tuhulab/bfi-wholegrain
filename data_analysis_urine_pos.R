@@ -11,7 +11,7 @@ urine_pos <- read_delim("XCMS_result/M226_barley_urine_plate_1_pos_peaklist.csv"
      gather(key = "code",value = "intensity",paste0("X",1:61)) %>% 
      left_join(sample_list)
 
-urine_pos_mvna <- urine_pos %>% mutate(intensity=ifelse(is.na(intensity),0,intensity))
+urine_pos_mvna <- urine_pos %>% mutate(intensity=ifelse(is.na(intensity),0,intensity)) 
 
 t_test<- function(x){
   t_result <- t.test(x=urine_pos %>% filter(feature==paste0("y",x), intervention=="AW") %>% pull(intensity),
@@ -29,15 +29,32 @@ serum_pos_dirty %>% mutate(p_value)
 #   gather(key = "sample",value = "intensity",paste0("X",1:61)) %>% 
 #   left_join(tibble(sample=paste0("X",1:61),intervention=spl_mode$sample_group))
 # 
-urine_pos %>% filter(feature=="y290") %>% ggplot(aes(intervention,intensity)) + geom_point() + geom_boxplot()
+urine_pos %>% filter(mz<554, mz>553) %>% ggplot(aes(intervention,intensity)) + geom_point() + geom_boxplot()
  
 # urine %>% filter(mz<485,
 #                 mz>484,
 #                 rt>4,
 #                 rt<5) %>% gather(code,intensity,paste0("X",1:61)) %>% left_join(sample_list)%>% ggplot(aes(intervention,intensity)) + geom_point() + geom_boxplot()
 
- barleypos %>% filter(mz<485,
-                 mz>484,
-                 rt>4,
-                 rt<5) %>% gather(code,intensity,paste0("X",1:61)) %>% left_join(sample_list)%>% ggplot(aes(intervention,intensity)) + geom_point() + geom_boxplot()
 
+
+
+ 
+ #####sex_hormon###
+ urine_pos %>% filter(feature=="y433") %>% 
+   left_join(read_excel("gender_info.xlsx") %>% 
+               mutate(subject=as.character(subject))) %>% 
+   mutate(Gender=ifelse(is.na(gender),"pool",gender),
+          Intensity=intensity) %>%
+   ggplot(aes(Gender,Intensity)) + geom_point() + geom_boxplot() + ggtitle("Intensities of Androsterone in Different Genders")
+ 
+ urine_pos %>% filter(feature=="y433") %>% 
+   left_join(read_excel("gender_info.xlsx") %>% 
+               mutate(subject=as.character(subject))) %>% 
+   mutate(Gender=ifelse(is.na(gender),"pool",gender),
+          Intensity=intensity) %>%
+   filter(intervention=="AB") %>%
+   ggplot(aes(intervention,Intensity)) + geom_point() + geom_boxplot() + ggtitle("Intensities of Androsterone in Different Genders")
+
+ 
+ 

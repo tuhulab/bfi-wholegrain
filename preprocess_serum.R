@@ -1,8 +1,8 @@
 ##LOAD DEPENDENCIES
-library(RODBC) #install.packages("RODBC")
-library(kableExtra) #install.packages("kableExtra")
-library(DT) #install.packages("DT")
-library(dplyr) 
+library(RODBC)
+library(kableExtra)
+library(DT)
+library(dplyr)
 library(CAMERA)
 library(commonMZ)
 library(DT)
@@ -15,11 +15,11 @@ library(readxl)
 ##Read spl##
 
 project_name <- "M226_barley" #upper-case
-analysis_name <- "urine_plate_1" #lower-case
+analysis_name <- "serum_plate_1" #lower-case
 mode <- "neg" #"pos"or"neg"
 id <- paste(project_name,analysis_name,mode,sep = "_")
 id_1 <- paste(project_name,analysis_name,sep = "_")
-ml_dir <- "data/BARLEY_urine_raw.pro/Data"
+mzML_dir <- "data/BARLEY_serum_raw/Data/"
 
 waters_extract_spl <- function(file){
   require(RODBC)
@@ -32,55 +32,33 @@ waters_extract_spl <- function(file){
   return(out)}
 
 spl <- waters_extract_spl(file.path("spl",paste0(id_1,".SPL"))) %>%
-  select(samplename=FILE_TEXT, filename=FILE_NAME, polarity=MS_FILE) %>% as_tibble()
+  select(samplename=FILE_TEXT, filename=FILE_NAME, polarity=MS_FILE) %>% 
+  as_tibble()
 
-######tweek barley urine spl#####
-pattern_subject <- "\\d{4,4}-"
-pattern_timepoint <- "-\\d{1,1}"
-spl_samplename <- spl$samplename
-subject <- str_extract_all(spl_samplename,pattern_subject,simplify = TRUE) %>% str_remove("-")
-timepoint <- str_extract_all(spl_samplename,pattern_timepoint,simplify = TRUE) %>% str_remove_all(pattern = "-")
-spl_1 <- spl %>% mutate(subject,timepoint)
-subject_1 <- ifelse(subject =="",yes = spl_samplename,no=subject)
-timepoint_1 <- ifelse(timepoint =="",yes = "pool",no=timepoint)
-timepoint_2 <- ifelse(timepoint =="wk2", yes = "wk-2", no= timepoint_1)
-
-# polarity <- spl$polarity
-# extract_pos <- function(rownumber=...){
-#   polarity1 <- polarity
-#   pos_or_not <- grepl("pos",polarity1[rownumber])
-#   return(pos_or_not)
-# }
-# polarity_T_or_F <- sapply(1:nrow(spl_1), extract_pos)
-# polarity_1 <- ifelse(polarity_T_or_F,'pos','neg')
-
-polarity_1 <- ifelse(str_detect(spl$polarity,"pos"),"pos","neg")
+###tweek polarity###
+polarity <- spl$polarity
+polarity[str_which(polarity,"pos")] <- "pos"
+polarity_1 <- ifelse(polarity=="pos","pos","neg")
 
 
-
-spl_1 <- data.frame(filename=spl$filename,
-                    subject=subject_1,
-                    timepoint=timepoint_2, sample= spl_samplename,
-                    polarity=polarity_1,stringsAsFactors = FALSE) %>% 
-  filter(subject != "")
+spl_1 <- spl %>% mutate(polarity=polarity_1) %>% filter(samplename != "")
 
 spl_mode <- spl_1 %>% 
   filter(polarity == mode,
-         subject != "Blank",
-         subject != "Blank+IntStd",
-         subject != "MetStd",
-         subject != "MetStd+IntStd")  %>% 
-  left_join(read_excel("data/FullDietCodes.xlsx") %>% select(sample,intervention)) %>% mutate(sample_group=(ifelse(is.na(intervention),"pool",intervention))) %>% select(-intervention)
+         samplename != "Blank",
+         samplename != "Blank+IntStd",
+         samplename != "MetStd",
+         samplename != "MetStd+IntStd") %>% mutate(sample_group = "one")
 
-mls <- file.path(ml_dir,paste0(spl_mode$filename,".mzML"))
-file.exists(mls)
+cdfs <- file.path(mzML_dir,paste0(spl_mode$filename,".mzML"))
+file.exists(cdfs)
 #########define parameters##########
 params <- list()
 params$CentWave <- CentWaveParam( ppm = 30,
                                   peakwidth =  c(0.025*60,0.30*60), # changed it to half minute  #shorteni previous one as well
                                   snthresh = 10,
                                   noise = 0,
-                                  prefilter = c(3,50), #I changed this parameter. 1E3 seems too strict for untargeted metabolomics
+                                  prefilter = c(3,20), #I changed this parameter. 1E3 seems too strict for untargeted metabolomics
                                   integrate = 2,
                                   mzdiff = -0.001,
                                   verboseColumns = TRUE,
@@ -89,7 +67,7 @@ params$group1 <- PeakDensityParam( sampleGroups = spl_mode$sample_group,
                                    binSize = 0.01, #in Da 
                                    bw = 0.2*60,
                                    minSamples = 1,#critical param
-                                   minFraction = 0.30,#critical param
+                                   minFraction = 0.15,#critical param
                                    maxFeatures = 10) # Jan set it to 20
 params$PeakAlign <- PeakGroupsParam(  smooth = "loess",
                                       span = 0.6,
@@ -105,7 +83,7 @@ params$PeakAlign2 <- PeakGroupsParam( smooth = "loess",
 mz_window <- 0.015
 rt_window <- 10
 ###########read raw data############
-raw <- readMSData(mls, pdata = new("NAnnotatedDataFrame",spl_mode), mode = "onDisk", msLevel. = 1)
+raw <- readMSData(cdfs, pdata = new("NAnnotatedDataFrame",spl_mode), mode = "onDisk", msLevel. = 1)
 ##########peak picking##############
 xset <- findChromPeaks(raw, param = params$CentWave)
 ###########first time group###############
@@ -160,6 +138,7 @@ datatable(as_tibble(feature_def)) %>%
 #            path = "c://Users//czw814//Desktop//urine_pos_csv_1.csv")
 # 
 ################write################
+
 xsa <- xsAnnotate(as(xset_g_r_g_fill, "xcmsSet"), sample=NA, nSlaves = detectCores()-1, polarity = 'positive')
 xsaF <- groupFWHM(xsa, perfwhm =0.1, intval = "into", sigma = 6)
 xsaC <-  groupCorr(xsaF,
@@ -198,17 +177,19 @@ peaklist %>% select("mz", "rt", "isotopes", "adduct", "pcgroup") %>%
   kable_styling(font_size = 10)
 
 pos_peaklist <- peaklist %>% 
-  as_tibble
+  as_tibble %>% select(-one)
 
 mz <- round(pos_peaklist$mz,4)
 mzmin <-round(pos_peaklist$mzmin,4)
 mzmax <-round(pos_peaklist$mzmax,4)
-rt <- round(pos_peaklist$rt,2)
-rtmin <- round(pos_peaklist$rtmin,2)
-rtmax <- round(pos_peaklist$rtmax,2)
-data_output <- data.frame(mz,mzmin,mzmax,rt,rtmin,rtmax) %>% bind_cols(pos_peaklist[,7:ncol(pos_peaklist)]) %>% select(-npeaks,) %>% as_tibble()
+rt <- round(pos_peaklist$rt/60,2)
+rtmin <- round(pos_peaklist$rtmin/60,2)
+rtmax <- round(pos_peaklist$rtmax/60,2)
+data_output <- data.frame(mz,mzmin,mzmax,rt,rtmin,rtmax) %>% bind_cols(pos_peaklist[,7:ncol(pos_peaklist)]) %>% select(-npeaks) %>% as_tibble()
 
-data_output_annotation <- annotate_kudb(mz_window,rt_window,polarity = mode,data = data_output)
+data_output_deisotope <- data_output %>% deisotope()
+
+data_output_annotation <- annotate_kudb(mz_window,rt_window/60,polarity = mode,data = data_output_deisotope)
 
 write_csv(data_output_annotation,
           path = file.path("xcms_result",paste(id,"peaklist.csv",sep = "_")))
