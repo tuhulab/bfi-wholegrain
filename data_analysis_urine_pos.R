@@ -4,12 +4,13 @@ library(readr)
 library(readxl)
 library(mixOmics)
 
-diet_code <- read_excel("matlab/DietCodes.xlsx")
+diet_code <- read_excel("matlab/DietCodes.xlsx") %>% rename(samplename=sample)
 sample_list <- read_csv("XCMS_result/M226_barley_urine_plate_1_pos_samplelist.csv") %>% left_join(diet_code)
 
-urine_pos <- read_delim("XCMS_result/M226_barley_urine_plate_1_pos_peaklist.csv",delim = ";") %>% mutate(feature=paste0("y",1:nrow(.))) %>% 
+urine_pos <- read_csv("XCMS_result/M226_barley_urine_plate_1_pos_peaklist.csv") %>% 
+   mutate(feature=paste0("y",1:nrow(.))) %>% 
      gather(key = "code",value = "intensity",paste0("X",1:61)) %>% 
-     left_join(sample_list)
+     left_join(sample_list) %>% mutate(subject=samplename %>% str_extract("\\d{4}|Pool"))
 
 urine_pos_mvna <- urine_pos %>% mutate(intensity=ifelse(is.na(intensity),0,intensity)) 
 
@@ -41,20 +42,28 @@ urine_pos %>% filter(mz<554, mz>553) %>% ggplot(aes(intervention,intensity)) + g
 
  
  #####sex_hormon###
- urine_pos %>% filter(feature=="y433") %>% 
+ urine_pos %>% filter(feature=="y842") %>% 
    left_join(read_excel("gender_info.xlsx") %>% 
                mutate(subject=as.character(subject))) %>% 
    mutate(Gender=ifelse(is.na(gender),"pool",gender),
           Intensity=intensity) %>%
    ggplot(aes(Gender,Intensity)) + geom_point() + geom_boxplot() + ggtitle("Intensities of Androsterone in Different Genders")
  
- urine_pos %>% filter(feature=="y433") %>% 
+ urine_pos %>% filter(feature=="y842") %>% 
    left_join(read_excel("gender_info.xlsx") %>% 
                mutate(subject=as.character(subject))) %>% 
    mutate(Gender=ifelse(is.na(gender),"pool",gender),
-          Intensity=intensity) %>%
-   filter(intervention=="AB") %>%
+          Intensity=intensity)  %>%
    ggplot(aes(intervention,Intensity)) + geom_point() + geom_boxplot() + ggtitle("Intensities of Androsterone in Different Genders")
 
  
- 
+ andro_gender <-  urine_pos %>% filter(feature=="y842") %>% 
+    left_join(read_excel("gender_info.xlsx") %>% 
+                 mutate(subject=as.character(subject))) %>% 
+    mutate(Gender=ifelse(is.na(gender),"pool",gender),
+           Intensity=intensity)
+andro_male <- andro_gender %>% filter(Gender=="M")
+andro_female <- andro_gender %>% filter(Gender=="F")
+
+andro_male$intensity %>% mean/andro_female$intensity %>% mean
+andro_female$intensity %>% mean

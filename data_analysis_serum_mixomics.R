@@ -148,7 +148,13 @@ Y <- data$Y[index,]
 
 pca <- pca(X,ncomp = 10, center=TRUE,
            scale=TRUE)
+
 plotIndiv(pca, 
           comp=c(1,2), 
           ind.names = FALSE,
           group = Y$intervention, legend = TRUE, title="Serum Negative Mode, PCA comp 1-2")
+
+plotIndiv(pca, 
+          comp=c(2,3), 
+          ind.names = FALSE,
+          group = Y$intervention, legend = TRUE, title="Serum Negative Mode, PCA comp 2-3")
