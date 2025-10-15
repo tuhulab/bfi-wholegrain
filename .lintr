@@ -1,0 +1,10 @@
+linters: linters_with_defaults(
+    line_length_linter = line_length_linter(120),
+    object_name_linter = NULL,  # Allow flexibility in naming
+    cyclocomp_linter = cyclocomp_linter(25),
+    object_usage_linter = NULL  # May have false positives in research code
+  )
+exclusions: list(
+    "renv",
+    "packrat"
+  )
