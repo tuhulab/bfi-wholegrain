@@ -126,6 +126,18 @@ This project emphasizes:
 - ✅ Consistent coding style following tidyverse guidelines
 - ✅ Version control with Git
 - ✅ MIT license for open science
+- ✅ Automated quality checks with GitHub Actions
+
+### Quality Assessment
+
+**Overall Code Quality Score: 4.1/5 (82%) - Grade: A**
+
+For detailed quality metrics and assessment, see [CODE_QUALITY.md](docs/CODE_QUALITY.md).
+
+To run a quality check locally:
+```bash
+Rscript check_quality.R
+```
 
 ## Publications and Outputs
 
@@ -175,3 +187,7 @@ Finally, thank you to my family, friends, and girlfriend for their constant enco
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Changelog
+
+For a detailed history of changes and improvements, see [CHANGELOG.md](CHANGELOG.md).
